@@ -1,0 +1,524 @@
+[
+  {
+    "t": "m",
+    "v": [],
+    "id": 0
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 1,
+        "v": "Hear this, house of Jacob,",
+        "id": 2
+      }
+    ],
+    "id": 1
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "who are called by the name Israel, and have come from the sperm of Judah;",
+        "id": 4
+      }
+    ],
+    "id": 3
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "you who swear by the name of Yahweh and invoke the God of Israel,",
+        "id": 6
+      }
+    ],
+    "id": 5
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "but not sincerely nor in a righteous manner.",
+        "id": 8
+      }
+    ],
+    "id": 7
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 2,
+        "v": "For they call themselves people of the holy city",
+        "id": 10
+      }
+    ],
+    "id": 9
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and trust in the God of Israel. Yahweh of hosts is his name.",
+        "id": 12
+      }
+    ],
+    "id": 11
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 3,
+        "v": "“I have declared the things from long ago; they came out from my mouth, and I made them known;",
+        "id": 14
+      }
+    ],
+    "id": 13
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "then suddenly I did them, and they came to pass.",
+        "id": 16
+      }
+    ],
+    "id": 15
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 4,
+        "v": "Because I knew that you were obstinate,",
+        "id": 18
+      }
+    ],
+    "id": 17
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "your neck muscles tight as iron, and your forehead like bronze,",
+        "id": 20
+      }
+    ],
+    "id": 19
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 5,
+        "v": "therefore I declared these things to you beforehand; before they happened I informed you,",
+        "id": 22
+      }
+    ],
+    "id": 21
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "so you could not say, ‘My idol has done them,’ or ‘My carved figure and my cast metal figure has ordained these things.’",
+        "id": 24
+      }
+    ],
+    "id": 23
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 6,
+        "v": "You heard about these things; look at all this evidence; and you, will you not admit what I said is true? From now on, I am showing you new things, hidden things that you have not known.",
+        "id": 26
+      }
+    ],
+    "id": 25
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 7,
+        "v": "Now, and not from previously, they come into being, and before today you have not heard about them,",
+        "id": 28
+      }
+    ],
+    "id": 27
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "so you will not be able to say, ‘Yes, I knew about them.’",
+        "id": 30
+      }
+    ],
+    "id": 29
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 8,
+        "v": "You never heard; you did not know; these things were not unfolded to your ears beforehand.",
+        "id": 32
+      }
+    ],
+    "id": 31
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "For I knew that you have been very deceitful, and that you have been a rebel from birth.",
+        "id": 34
+      }
+    ],
+    "id": 33
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 9,
+        "v": "For the sake of my name I will defer my anger, and for my honor I will hold back from destroying you.",
+        "id": 36
+      }
+    ],
+    "id": 35
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 10,
+        "v": "Look, I refined you, but not as silver; I have purified you in the furnace of affliction.",
+        "id": 38
+      }
+    ],
+    "id": 37
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 11,
+        "v": "For my own sake, for my own sake I will act; for how can I allow my name to be profaned?",
+        "id": 40
+      }
+    ],
+    "id": 39
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "I will not give my glory to anyone else.",
+        "id": 42
+      }
+    ],
+    "id": 41
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 12,
+        "v": "Listen to me, Jacob, and Israel, whom I called:",
+        "id": 44
+      }
+    ],
+    "id": 43
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "I am he; I am the first, I also am the last.",
+        "id": 46
+      }
+    ],
+    "id": 45
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 13,
+        "v": "Yes, my hand laid the foundation of the earth, and my right hand spread out the heavens;",
+        "id": 48
+      }
+    ],
+    "id": 47
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "when I call to them, they stand up together.",
+        "id": 50
+      }
+    ],
+    "id": 49
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 14,
+        "v": "Assemble yourselves, all of you, and listen! Who among you has announced these things?",
+        "id": 52
+      }
+    ],
+    "id": 51
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Yahweh’s ally will accomplish his purpose against Babylon. He will carry out Yahweh’s will against the Chaldeans.",
+        "id": 54
+      }
+    ],
+    "id": 53
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 15,
+        "v": "I, I have spoken, yes, I have summoned him, I have brought him, and he will succeed.",
+        "id": 56
+      }
+    ],
+    "id": 55
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 16,
+        "v": "Come near to me, listen to this:",
+        "id": 58
+      }
+    ],
+    "id": 57
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "From the beginning I have not spoken in secret; when it happens, I am there.”",
+        "id": 60
+      }
+    ],
+    "id": 59
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Now the Lord Yahweh has sent me, and his Spirit.",
+        "id": 62
+      }
+    ],
+    "id": 61
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 17,
+        "v": "This is what Yahweh, your Redeemer, the Holy One of Israel says,",
+        "id": 64
+      }
+    ],
+    "id": 63
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "“I am Yahweh your God, who teaches you how to succeed,",
+        "id": 66
+      }
+    ],
+    "id": 65
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "who leads you by the way that you should go.",
+        "id": 68
+      }
+    ],
+    "id": 67
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 18,
+        "v": "If only you had obeyed my commandments!",
+        "id": 70
+      }
+    ],
+    "id": 69
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Then your peace and prosperity would have flowed like a river, and your salvation like the waves of the sea.",
+        "id": 72
+      }
+    ],
+    "id": 71
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 19,
+        "v": "Your descendants would have been as numerous as the sand, and the children from your womb as numerous as the grains of sand;",
+        "id": 74
+      }
+    ],
+    "id": 73
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "their name would not have been cut off nor blotted out from before me.",
+        "id": 76
+      }
+    ],
+    "id": 75
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 20,
+        "v": "Come out from Babylon! Flee from the Chaldeans!",
+        "id": 78
+      }
+    ],
+    "id": 77
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "With the sound of a ringing cry announce it! Make this known, make it go out to the ends of the earth!",
+        "id": 80
+      }
+    ],
+    "id": 79
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Say, ‘Yahweh has redeemed his servant Jacob.’",
+        "id": 82
+      }
+    ],
+    "id": 81
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 21,
+        "v": "They did not thirst when he led them through the deserts;",
+        "id": 84
+      }
+    ],
+    "id": 83
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "he made the water to flow out of the rock for them;",
+        "id": 86
+      }
+    ],
+    "id": 85
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "he split open the rock, and the waters gushed out.",
+        "id": 88
+      }
+    ],
+    "id": 87
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 22,
+        "v": "There is no peace for the wicked—says Yahweh.”",
+        "id": 90
+      }
+    ],
+    "id": 89
+  }
+]

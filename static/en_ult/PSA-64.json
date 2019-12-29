@@ -1,0 +1,276 @@
+[
+  {
+    "t": "m",
+    "v": [
+      {
+        "t": "d",
+        "v": "For the chief musician. A psalm of David.",
+        "id": 1
+      }
+    ],
+    "id": 0
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 1,
+        "v": "Hear my voice, God, listen to my complaint;",
+        "id": 3
+      }
+    ],
+    "id": 2
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "preserve my life from fear of my enemies.",
+        "id": 5
+      }
+    ],
+    "id": 4
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 2,
+        "v": "Hide me from the secret plotting of evildoers,",
+        "id": 7
+      }
+    ],
+    "id": 6
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "from the commotion of the doers of iniquity.",
+        "id": 9
+      }
+    ],
+    "id": 8
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 3,
+        "v": "They have sharpened their tongues like swords;",
+        "id": 11
+      }
+    ],
+    "id": 10
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "they have aimed their arrows, bitter words,",
+        "id": 13
+      }
+    ],
+    "id": 12
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 4,
+        "v": "so that they may shoot from secret places at someone who is innocent;",
+        "id": 15
+      }
+    ],
+    "id": 14
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "suddenly they shoot at him and fear nothing.",
+        "id": 17
+      }
+    ],
+    "id": 16
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 5,
+        "v": "They encourage themselves in an evil plan;",
+        "id": 19
+      }
+    ],
+    "id": 18
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "they consult privately together in order to set traps;",
+        "id": 21
+      }
+    ],
+    "id": 20
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "they say, “Who will see us?”",
+        "id": 23
+      }
+    ],
+    "id": 22
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 6,
+        "v": "They invent sinful plans;",
+        "id": 25
+      }
+    ],
+    "id": 24
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "“We have finished,” they say, “a careful plan.”",
+        "id": 27
+      }
+    ],
+    "id": 26
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "The inner thoughts and hearts of man are deep.",
+        "id": 29
+      }
+    ],
+    "id": 28
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 7,
+        "v": "But God will shoot them;",
+        "id": 31
+      }
+    ],
+    "id": 30
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "suddenly they will be wounded with his arrows.",
+        "id": 33
+      }
+    ],
+    "id": 32
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 8,
+        "v": "They will be made to stumble, since their own tongues are against them;",
+        "id": 35
+      }
+    ],
+    "id": 34
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "all who see them will wag their heads.",
+        "id": 37
+      }
+    ],
+    "id": 36
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 9,
+        "v": "All people will fear",
+        "id": 39
+      }
+    ],
+    "id": 38
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and will declare God’s deeds.",
+        "id": 41
+      }
+    ],
+    "id": 40
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "They will wisely think about what he has done.",
+        "id": 43
+      }
+    ],
+    "id": 42
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 10,
+        "v": "The righteous will be glad about Yahweh and will take refuge in him;",
+        "id": 45
+      }
+    ],
+    "id": 44
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "all the upright in heart will take pride in him.",
+        "id": 47
+      }
+    ],
+    "id": 46
+  }
+]

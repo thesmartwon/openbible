@@ -1,0 +1,161 @@
+[
+  {
+    "t": "m",
+    "v": [
+      {
+        "t": "d",
+        "v": "A psalm of David.",
+        "id": 1
+      }
+    ],
+    "id": 0
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 1,
+        "v": "Yahweh, who may stay in your tabernacle?",
+        "id": 3
+      }
+    ],
+    "id": 2
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Who may live on your holy hill?",
+        "id": 5
+      }
+    ],
+    "id": 4
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 2,
+        "v": "Whoever walks blamelessly, does what is right",
+        "id": 7
+      }
+    ],
+    "id": 6
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and speaks truth from his heart.",
+        "id": 9
+      }
+    ],
+    "id": 8
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 3,
+        "v": "He does not slander with his tongue,",
+        "id": 11
+      }
+    ],
+    "id": 10
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "he does not harm others,",
+        "id": 13
+      }
+    ],
+    "id": 12
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and he does not insult his neighbor.",
+        "id": 15
+      }
+    ],
+    "id": 14
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 4,
+        "v": "The worthless person is despised in his eyes,",
+        "id": 17
+      }
+    ],
+    "id": 16
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "but he honors those who fear Yahweh.",
+        "id": 19
+      }
+    ],
+    "id": 18
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "He swears to his own disadvantage and does not take back his promises.",
+        "id": 21
+      }
+    ],
+    "id": 20
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 5,
+        "v": "He does not charge interest when he lends money.",
+        "id": 23
+      }
+    ],
+    "id": 22
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "He does not take bribes to testify against the innocent.",
+        "id": 25
+      }
+    ],
+    "id": 24
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "He who does these things will never be shaken.",
+        "id": 27
+      }
+    ],
+    "id": 26
+  }
+]

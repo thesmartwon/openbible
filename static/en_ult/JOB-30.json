@@ -1,0 +1,801 @@
+[
+  {
+    "t": "m",
+    "v": [],
+    "id": 0
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 1,
+        "v": "Now those who are younger than I have nothing but mockery for me—",
+        "id": 2
+      }
+    ],
+    "id": 1
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "these young men whose fathers I would have refused to allow to work beside the dogs of my flock.",
+        "id": 4
+      }
+    ],
+    "id": 3
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 2,
+        "v": "Indeed, the strength of their fathers’ hands, how could it have helped me—",
+        "id": 6
+      }
+    ],
+    "id": 5
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "men in whom the strength of their mature age had perished?",
+        "id": 8
+      }
+    ],
+    "id": 7
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 3,
+        "v": "They were thin from poverty and hunger;",
+        "id": 10
+      }
+    ],
+    "id": 9
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "they gnawed at the dry ground in the darkness of wilderness and desolation.",
+        "id": 12
+      }
+    ],
+    "id": 11
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 4,
+        "v": "They plucked saltwort and bushes’ leaves;",
+        "id": 14
+      }
+    ],
+    "id": 13
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "the roots of the broom tree were their food.",
+        "id": 16
+      }
+    ],
+    "id": 15
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 5,
+        "v": "They were driven out from among people",
+        "id": 18
+      }
+    ],
+    "id": 17
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "who shouted after them as one would shout after a thief.",
+        "id": 20
+      }
+    ],
+    "id": 19
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 6,
+        "v": "So they had to live in river valleys,",
+        "id": 22
+      }
+    ],
+    "id": 21
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "in holes of the earth and of the rocks.",
+        "id": 24
+      }
+    ],
+    "id": 23
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 7,
+        "v": "Among the bushes they brayed like donkeys",
+        "id": 26
+      }
+    ],
+    "id": 25
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and they gathered together under the nettles.",
+        "id": 28
+      }
+    ],
+    "id": 27
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 8,
+        "v": "They were the sons of fools, indeed, sons of nameless people!",
+        "id": 30
+      }
+    ],
+    "id": 29
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "They were driven out of the land with whips.",
+        "id": 32
+      }
+    ],
+    "id": 31
+  },
+  {
+    "t": "m",
+    "v": [],
+    "id": 33
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 9,
+        "v": "But now I have become the subject of their taunting song;",
+        "id": 35
+      }
+    ],
+    "id": 34
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "I have become a byword for them.",
+        "id": 37
+      }
+    ],
+    "id": 36
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 10,
+        "v": "They abhor me and stand far off from me;",
+        "id": 39
+      }
+    ],
+    "id": 38
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "they do not refrain from spitting in my face.",
+        "id": 41
+      }
+    ],
+    "id": 40
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 11,
+        "v": "For God has unstrung the string to my bow and afflicted me,",
+        "id": 43
+      }
+    ],
+    "id": 42
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and those who taunt me cast off restraint before my face.",
+        "id": 45
+      }
+    ],
+    "id": 44
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 12,
+        "v": "Upon my right hand rise the rabble;",
+        "id": 47
+      }
+    ],
+    "id": 46
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "they drive me away and",
+        "id": 49
+      }
+    ],
+    "id": 48
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "pile up against me their siege mounds.",
+        "id": 51
+      }
+    ],
+    "id": 50
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 13,
+        "v": "They destroy my path;",
+        "id": 53
+      }
+    ],
+    "id": 52
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "they push forward disaster for me,",
+        "id": 55
+      }
+    ],
+    "id": 54
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "men who have no one to hold them back.",
+        "id": 57
+      }
+    ],
+    "id": 56
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 14,
+        "v": "They come against me like an army through a wide hole in a city wall;",
+        "id": 59
+      }
+    ],
+    "id": 58
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "in the midst of the destruction they roll themselves in on me.",
+        "id": 61
+      }
+    ],
+    "id": 60
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 15,
+        "v": "Terrors are turned upon me;",
+        "id": 63
+      }
+    ],
+    "id": 62
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "my honor is driven away as if by the wind;",
+        "id": 65
+      }
+    ],
+    "id": 64
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "my prosperity passes away as a cloud.",
+        "id": 67
+      }
+    ],
+    "id": 66
+  },
+  {
+    "t": "m",
+    "v": [],
+    "id": 68
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 16,
+        "v": "Now my life is pouring out from within me;",
+        "id": 70
+      }
+    ],
+    "id": 69
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "many days of suffering have laid hold on me.",
+        "id": 72
+      }
+    ],
+    "id": 71
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 17,
+        "v": "In the night my bones in me are pierced;",
+        "id": 74
+      }
+    ],
+    "id": 73
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "the pains that gnaw at me take no rest.",
+        "id": 76
+      }
+    ],
+    "id": 75
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 18,
+        "v": "God’s great force has seized my clothing;",
+        "id": 78
+      }
+    ],
+    "id": 77
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "it wraps around me like the collar of my tunic.",
+        "id": 80
+      }
+    ],
+    "id": 79
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 19,
+        "v": "He has thrown me into the mud;",
+        "id": 82
+      }
+    ],
+    "id": 81
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "I have become like dust and ashes.",
+        "id": 84
+      }
+    ],
+    "id": 83
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 20,
+        "v": "I cry to you, God, but you do not answer me;",
+        "id": 86
+      }
+    ],
+    "id": 85
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "I stand up, and you merely look at me.",
+        "id": 88
+      }
+    ],
+    "id": 87
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 21,
+        "v": "You have changed and become cruel to me;",
+        "id": 90
+      }
+    ],
+    "id": 89
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "with the strength of your hand you persecute me.",
+        "id": 92
+      }
+    ],
+    "id": 91
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 22,
+        "v": "You lift me up to the wind and cause it to drive me along;",
+        "id": 94
+      }
+    ],
+    "id": 93
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "you throw me back and forth in a storm.",
+        "id": 96
+      }
+    ],
+    "id": 95
+  },
+  {
+    "t": "f",
+    "c": "+",
+    "v": [
+      {
+        "t": "ft",
+        "v": "Some modern versions have",
+        "id": 98
+      },
+      {
+        "t": "fqa",
+        "v": "you dissolve me in a storm",
+        "id": 99
+      },
+      {
+        "t": "t",
+        "v": ".",
+        "id": 100
+      }
+    ],
+    "id": 97
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 23,
+        "v": "For I know that you will bring me to death,",
+        "id": 102
+      }
+    ],
+    "id": 101
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "to the house appointed for all the living.",
+        "id": 104
+      }
+    ],
+    "id": 103
+  },
+  {
+    "t": "m",
+    "v": [],
+    "id": 105
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 24,
+        "v": "However, does no one reach out with his hand to beg for help when he falls?",
+        "id": 107
+      }
+    ],
+    "id": 106
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Does no one in trouble call out for help?",
+        "id": 109
+      }
+    ],
+    "id": 108
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 25,
+        "v": "Did not I weep for him who was in trouble?",
+        "id": 111
+      }
+    ],
+    "id": 110
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Did I not grieve for the needy man?",
+        "id": 113
+      }
+    ],
+    "id": 112
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 26,
+        "v": "When I hoped for good, then evil came;",
+        "id": 115
+      }
+    ],
+    "id": 114
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "when I waited for light, darkness came instead.",
+        "id": 117
+      }
+    ],
+    "id": 116
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 27,
+        "v": "My heart is troubled and does not rest;",
+        "id": 119
+      }
+    ],
+    "id": 118
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "days of affliction have come on me.",
+        "id": 121
+      }
+    ],
+    "id": 120
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 28,
+        "v": "I have gone about like one who was living in the dark,",
+        "id": 123
+      }
+    ],
+    "id": 122
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "but not because of the sun;",
+        "id": 125
+      }
+    ],
+    "id": 124
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "I stand up in the assembly and cry for help.",
+        "id": 127
+      }
+    ],
+    "id": 126
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 29,
+        "v": "I am a brother to jackals,",
+        "id": 129
+      }
+    ],
+    "id": 128
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "a companion of ostriches.",
+        "id": 131
+      }
+    ],
+    "id": 130
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 30,
+        "v": "My skin is black and falls away from me;",
+        "id": 133
+      }
+    ],
+    "id": 132
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "my bones are burned with heat.",
+        "id": 135
+      }
+    ],
+    "id": 134
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 31,
+        "v": "Therefore my harp is tuned for songs of mourning,",
+        "id": 137
+      }
+    ],
+    "id": 136
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "my flute for the singing of those who wail.",
+        "id": 139
+      }
+    ],
+    "id": 138
+  }
+]

@@ -1,0 +1,474 @@
+[
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 1,
+        "v": "Then Bildad the Shuhite answered and said,",
+        "id": 1
+      }
+    ],
+    "id": 0
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 2,
+        "v": "“When will you stop your talk?",
+        "id": 3
+      }
+    ],
+    "id": 2
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Consider, and afterwards we will speak.",
+        "id": 5
+      }
+    ],
+    "id": 4
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 3,
+        "v": "Why are we regarded as beasts, stupid in your sight?",
+        "id": 7
+      }
+    ],
+    "id": 6
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 4,
+        "v": "You who tear at yourself in your anger,",
+        "id": 9
+      }
+    ],
+    "id": 8
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "should the earth be forsaken for you",
+        "id": 11
+      }
+    ],
+    "id": 10
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "or should the rocks be removed out of their places?",
+        "id": 13
+      }
+    ],
+    "id": 12
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 5,
+        "v": "Indeed, the light of the wicked person will be put out;",
+        "id": 15
+      }
+    ],
+    "id": 14
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "the spark of his fire will not shine.",
+        "id": 17
+      }
+    ],
+    "id": 16
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 6,
+        "v": "The light will be dark in his tent;",
+        "id": 19
+      }
+    ],
+    "id": 18
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "his lamp above him will be put out.",
+        "id": 21
+      }
+    ],
+    "id": 20
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 7,
+        "v": "The steps of his strength will be made short;",
+        "id": 23
+      }
+    ],
+    "id": 22
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "his own plans will cast him down.",
+        "id": 25
+      }
+    ],
+    "id": 24
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 8,
+        "v": "For he will be thrown into a net by his own feet;",
+        "id": 27
+      }
+    ],
+    "id": 26
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "he will walk into a pitfall.",
+        "id": 29
+      }
+    ],
+    "id": 28
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 9,
+        "v": "A trap will take him by the heel;",
+        "id": 31
+      }
+    ],
+    "id": 30
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "a snare will lay hold on him.",
+        "id": 33
+      }
+    ],
+    "id": 32
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 10,
+        "v": "A noose is hidden for him on the ground;",
+        "id": 35
+      }
+    ],
+    "id": 34
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and a trap for him in the way.",
+        "id": 37
+      }
+    ],
+    "id": 36
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 11,
+        "v": "Terrors will make him afraid on every side;",
+        "id": 39
+      }
+    ],
+    "id": 38
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "they will chase him at his heels.",
+        "id": 41
+      }
+    ],
+    "id": 40
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 12,
+        "v": "His wealth will turn into hunger,",
+        "id": 43
+      }
+    ],
+    "id": 42
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and calamity will be ready at his side.",
+        "id": 45
+      }
+    ],
+    "id": 44
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 13,
+        "v": "The parts of his body will be devoured;",
+        "id": 47
+      }
+    ],
+    "id": 46
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "indeed, the firstborn of death will devour his parts.",
+        "id": 49
+      }
+    ],
+    "id": 48
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 14,
+        "v": "He is torn from the safety of his tent",
+        "id": 51
+      }
+    ],
+    "id": 50
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and marched off to the king of terrors.",
+        "id": 53
+      }
+    ],
+    "id": 52
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 15,
+        "v": "People not his own will live in his tent",
+        "id": 55
+      }
+    ],
+    "id": 54
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "after they see that sulfur is scattered within his home.",
+        "id": 57
+      }
+    ],
+    "id": 56
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 16,
+        "v": "His roots will be dried up beneath;",
+        "id": 59
+      }
+    ],
+    "id": 58
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "above will his branch be cut off.",
+        "id": 61
+      }
+    ],
+    "id": 60
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 17,
+        "v": "His memory will perish from the earth;",
+        "id": 63
+      }
+    ],
+    "id": 62
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "he will have no name in the street.",
+        "id": 65
+      }
+    ],
+    "id": 64
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 18,
+        "v": "He will be driven from light into darkness",
+        "id": 67
+      }
+    ],
+    "id": 66
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and be chased out of this world.",
+        "id": 69
+      }
+    ],
+    "id": 68
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 19,
+        "v": "He will have no son or son’s son among his people,",
+        "id": 71
+      }
+    ],
+    "id": 70
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "nor any remaining kinfolk where he had stayed.",
+        "id": 73
+      }
+    ],
+    "id": 72
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 20,
+        "v": "Those who live in the west will be horrified at what happens to him one day;",
+        "id": 75
+      }
+    ],
+    "id": 74
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "those who live in the east will be frightened by it.",
+        "id": 77
+      }
+    ],
+    "id": 76
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 21,
+        "v": "Surely such are the homes of unrighteous people,",
+        "id": 79
+      }
+    ],
+    "id": 78
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "the places of those who do not know God.”",
+        "id": 81
+      }
+    ],
+    "id": 80
+  }
+]

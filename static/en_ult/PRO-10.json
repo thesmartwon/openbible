@@ -1,0 +1,771 @@
+[
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 1,
+        "v": "The proverbs of Solomon.",
+        "id": 1
+      }
+    ],
+    "id": 0
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "A wise son makes his father rejoice",
+        "id": 3
+      }
+    ],
+    "id": 2
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "but a foolish son brings grief to his mother.",
+        "id": 5
+      }
+    ],
+    "id": 4
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 2,
+        "v": "Treasures accumulated by wickedness have no value,",
+        "id": 7
+      }
+    ],
+    "id": 6
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "but doing what is right keeps you from death.",
+        "id": 9
+      }
+    ],
+    "id": 8
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 3,
+        "v": "Yahweh does not let the soul of the righteous person go hungry,",
+        "id": 11
+      }
+    ],
+    "id": 10
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "but he frustrates the cravings of the wicked.",
+        "id": 13
+      }
+    ],
+    "id": 12
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 4,
+        "v": "A lazy hand causes a person to be poor,",
+        "id": 15
+      }
+    ],
+    "id": 14
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "but the hand of the diligent person gains riches.",
+        "id": 17
+      }
+    ],
+    "id": 16
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 5,
+        "v": "A wise son gathers a crop in the summer,",
+        "id": 19
+      }
+    ],
+    "id": 18
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "but it is disgraceful for him to sleep during harvest.",
+        "id": 21
+      }
+    ],
+    "id": 20
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 6,
+        "v": "Gifts from God are upon the head of the righteous person,",
+        "id": 23
+      }
+    ],
+    "id": 22
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "but the mouth of the wicked covers up violence.",
+        "id": 25
+      }
+    ],
+    "id": 24
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 7,
+        "v": "The righteous person makes those who remember him happy,",
+        "id": 27
+      }
+    ],
+    "id": 26
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "but the name of the wicked will rot away.",
+        "id": 29
+      }
+    ],
+    "id": 28
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 8,
+        "v": "Those who are sensible accept commands,",
+        "id": 31
+      }
+    ],
+    "id": 30
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "but a talkative fool will come to ruin.",
+        "id": 33
+      }
+    ],
+    "id": 32
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 9,
+        "v": "He who walks in integrity walks in safety,",
+        "id": 35
+      }
+    ],
+    "id": 34
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "but the one who makes his ways crooked, he will be found out.",
+        "id": 37
+      }
+    ],
+    "id": 36
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 10,
+        "v": "He who winks the eye causes grief,",
+        "id": 39
+      }
+    ],
+    "id": 38
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "but a talkative fool will be thrown down.",
+        "id": 41
+      }
+    ],
+    "id": 40
+  },
+  {
+    "t": "f",
+    "c": "+",
+    "v": [
+      {
+        "t": "ft",
+        "v": "Some modern versions have",
+        "id": 43
+      },
+      {
+        "t": "fqa",
+        "v": "but one who bravely corrects makes peace",
+        "id": 44
+      },
+      {
+        "t": "t",
+        "v": ".",
+        "id": 45
+      }
+    ],
+    "id": 42
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 11,
+        "v": "The mouth of the righteous person is a water spring of life,",
+        "id": 47
+      }
+    ],
+    "id": 46
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "but the mouth of the wicked covers up violence.",
+        "id": 49
+      }
+    ],
+    "id": 48
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 12,
+        "v": "Hatred stirs up conflicts,",
+        "id": 51
+      }
+    ],
+    "id": 50
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "but love covers over all offenses.",
+        "id": 53
+      }
+    ],
+    "id": 52
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 13,
+        "v": "Wisdom is found on the lips of a discerning person,",
+        "id": 55
+      }
+    ],
+    "id": 54
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "but a rod is for the back of the one who has no sense.",
+        "id": 57
+      }
+    ],
+    "id": 56
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 14,
+        "v": "Wise men store up knowledge,",
+        "id": 59
+      }
+    ],
+    "id": 58
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "but the mouth of a fool brings destruction near.",
+        "id": 61
+      }
+    ],
+    "id": 60
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 15,
+        "v": "The wealth of a rich man is his fortified city;",
+        "id": 63
+      }
+    ],
+    "id": 62
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "the poverty of the poor is their destruction.",
+        "id": 65
+      }
+    ],
+    "id": 64
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 16,
+        "v": "The wage of the righteous person leads to life;",
+        "id": 67
+      }
+    ],
+    "id": 66
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "the profit of the wicked leads them to sin.",
+        "id": 69
+      }
+    ],
+    "id": 68
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 17,
+        "v": "There is a path to life for the one who follows discipline,",
+        "id": 71
+      }
+    ],
+    "id": 70
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "but the one who rejects correction is led astray.",
+        "id": 73
+      }
+    ],
+    "id": 72
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 18,
+        "v": "Whoever conceals hatred has lying lips,",
+        "id": 75
+      }
+    ],
+    "id": 74
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and whoever spreads slander is a fool.",
+        "id": 77
+      }
+    ],
+    "id": 76
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 19,
+        "v": "When there are many words, transgression is not lacking,",
+        "id": 79
+      }
+    ],
+    "id": 78
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "but he who is careful in what he says is wise.",
+        "id": 81
+      }
+    ],
+    "id": 80
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 20,
+        "v": "The tongue of the righteous person is pure silver;",
+        "id": 83
+      }
+    ],
+    "id": 82
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "there is little value in the heart of the wicked.",
+        "id": 85
+      }
+    ],
+    "id": 84
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 21,
+        "v": "The lips of the righteous person nourish many,",
+        "id": 87
+      }
+    ],
+    "id": 86
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "but fools die because of their lack of sense.",
+        "id": 89
+      }
+    ],
+    "id": 88
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 22,
+        "v": "The good gifts of Yahweh bring wealth",
+        "id": 91
+      }
+    ],
+    "id": 90
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and he adds no pain to it.",
+        "id": 93
+      }
+    ],
+    "id": 92
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 23,
+        "v": "Wickedness is a game a fool plays,",
+        "id": 95
+      }
+    ],
+    "id": 94
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "but wisdom is a pleasure to a man of understanding.",
+        "id": 97
+      }
+    ],
+    "id": 96
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 24,
+        "v": "The fear of the wicked person will overtake him,",
+        "id": 99
+      }
+    ],
+    "id": 98
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "but the desire of righteous people will be granted.",
+        "id": 101
+      }
+    ],
+    "id": 100
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 25,
+        "v": "The wicked are like the storm that passes by, and they are no more,",
+        "id": 103
+      }
+    ],
+    "id": 102
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "but the righteous person is a foundation that lasts forever.",
+        "id": 105
+      }
+    ],
+    "id": 104
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 26,
+        "v": "Like vinegar on the teeth and smoke in the eyes,",
+        "id": 107
+      }
+    ],
+    "id": 106
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "so is the sluggard to those who send him.",
+        "id": 109
+      }
+    ],
+    "id": 108
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 27,
+        "v": "The fear of Yahweh prolongs life,",
+        "id": 111
+      }
+    ],
+    "id": 110
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "but the years of the wicked will be short.",
+        "id": 113
+      }
+    ],
+    "id": 112
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 28,
+        "v": "The hope of righteous people is their joy,",
+        "id": 115
+      }
+    ],
+    "id": 114
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "but the years of wicked people will be short.",
+        "id": 117
+      }
+    ],
+    "id": 116
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 29,
+        "v": "The way of Yahweh protects those who have integrity,",
+        "id": 119
+      }
+    ],
+    "id": 118
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "but it is destruction for the wicked.",
+        "id": 121
+      }
+    ],
+    "id": 120
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 30,
+        "v": "The righteous person will never be overthrown,",
+        "id": 123
+      }
+    ],
+    "id": 122
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "but the wicked will not remain in the land.",
+        "id": 125
+      }
+    ],
+    "id": 124
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 31,
+        "v": "Out of the mouth of the righteous person comes the fruit of wisdom,",
+        "id": 127
+      }
+    ],
+    "id": 126
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "but the perverse tongue will be cut out.",
+        "id": 129
+      }
+    ],
+    "id": 128
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 32,
+        "v": "The lips of the righteous person know what is acceptable,",
+        "id": 131
+      }
+    ],
+    "id": 130
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "but the mouth of the wicked, they know what is perverse.",
+        "id": 133
+      }
+    ],
+    "id": 132
+  }
+]

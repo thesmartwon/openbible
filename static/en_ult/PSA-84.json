@@ -1,0 +1,355 @@
+[
+  {
+    "t": "m",
+    "v": [
+      {
+        "t": "d",
+        "v": "For the chief musician; set to the Gittith style. A psalm of the sons of Korah.",
+        "id": 1
+      }
+    ],
+    "id": 0
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 1,
+        "v": "How lovely is the place where you live,",
+        "id": 3
+      }
+    ],
+    "id": 2
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Yahweh of hosts!",
+        "id": 5
+      }
+    ],
+    "id": 4
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 2,
+        "v": "I long for the courts of Yahweh, my desire for it has made me exhausted.",
+        "id": 7
+      }
+    ],
+    "id": 6
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "My heart and all of my being call out to the living God.",
+        "id": 9
+      }
+    ],
+    "id": 8
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 3,
+        "v": "Even the sparrow has found her a house",
+        "id": 11
+      }
+    ],
+    "id": 10
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and the swallow a nest for herself where she may lay her young",
+        "id": 13
+      }
+    ],
+    "id": 12
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "near your altars, Yahweh of hosts,",
+        "id": 15
+      }
+    ],
+    "id": 14
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "my King, and my God.",
+        "id": 17
+      }
+    ],
+    "id": 16
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 4,
+        "v": "Blessed are they who live in your house;",
+        "id": 19
+      }
+    ],
+    "id": 18
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "they praise you continually.",
+        "id": 21
+      }
+    ],
+    "id": 20
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 5,
+        "v": "Blessed is the man whose strength is in you,",
+        "id": 23
+      }
+    ],
+    "id": 22
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "in whose heart are the highways up to Zion.",
+        "id": 25
+      }
+    ],
+    "id": 24
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 6,
+        "v": "Passing through the Valley of Tears, they find springs of water to drink.",
+        "id": 27
+      }
+    ],
+    "id": 26
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "The early rains cover it with blessings.",
+        "id": 29
+      }
+    ],
+    "id": 28
+  },
+  {
+    "t": "f",
+    "c": "+",
+    "v": [
+      {
+        "t": "ft",
+        "v": "Some versions have",
+        "id": 31
+      },
+      {
+        "t": "fqa",
+        "v": "with pools of water",
+        "id": 32
+      },
+      {
+        "t": "t",
+        "v": ".",
+        "id": 33
+      }
+    ],
+    "id": 30
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 7,
+        "v": "They go from strength to strength;",
+        "id": 35
+      }
+    ],
+    "id": 34
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "every one of them appears before God in Zion.",
+        "id": 37
+      }
+    ],
+    "id": 36
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 8,
+        "v": "Yahweh God of hosts, hear my prayer;",
+        "id": 39
+      }
+    ],
+    "id": 38
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "God of Jacob, listen to what I am saying!",
+        "id": 41
+      }
+    ],
+    "id": 40
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 9,
+        "v": "God, watch over our shield;",
+        "id": 43
+      }
+    ],
+    "id": 42
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "show concern for your anointed.",
+        "id": 45
+      }
+    ],
+    "id": 44
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 10,
+        "v": "For one day in your courts is better than a thousand elsewhere.",
+        "id": 47
+      }
+    ],
+    "id": 46
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "I would rather be a doorkeeper in the house of my God,",
+        "id": 49
+      }
+    ],
+    "id": 48
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "than to live within the tents of the wicked.",
+        "id": 51
+      }
+    ],
+    "id": 50
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 11,
+        "v": "For Yahweh God is our sun and shield;",
+        "id": 53
+      }
+    ],
+    "id": 52
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Yahweh will give grace and glory;",
+        "id": 55
+      }
+    ],
+    "id": 54
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "he does not withhold any good thing from those who walk in integrity.",
+        "id": 57
+      }
+    ],
+    "id": 56
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 12,
+        "v": "Yahweh of hosts,",
+        "id": 59
+      }
+    ],
+    "id": 58
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "blessed is the man who trusts in you.",
+        "id": 61
+      }
+    ],
+    "id": 60
+  }
+]

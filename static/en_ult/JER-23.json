@@ -1,0 +1,612 @@
+[
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 1,
+        "v": "“Woe to the shepherds who destroy and scatter the sheep of my pasture—this is Yahweh’s declaration.”",
+        "id": 1
+      },
+      {
+        "t": "v",
+        "n": 2,
+        "v": "Therefore Yahweh, the God of Israel, says this concerning the shepherds who are shepherding his people, “You have scattered my flock and have driven them away. You have not cared for them. So I am about to punish you for the evil you have done—this is Yahweh’s declaration.",
+        "id": 2
+      },
+      {
+        "t": "v",
+        "n": 3,
+        "v": "I myself will gather the remnant of my flock from all of the lands where I have driven them, and I will return them to a grazing place, where they will be fruitful and increase.",
+        "id": 3
+      },
+      {
+        "t": "v",
+        "n": 4,
+        "v": "Then I will raise up shepherds over them who will shepherd them so they will no longer fear or be shattered. None of them will go missing—this is Yahweh’s declaration.",
+        "id": 4
+      }
+    ],
+    "id": 0
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 5,
+        "v": "See, the days are coming—this is Yahweh’s declaration—when I will raise up for David a righteous branch.",
+        "id": 6
+      }
+    ],
+    "id": 5
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "He will reign as king; he will act wisely and cause justice and righteousness in the land.",
+        "id": 8
+      }
+    ],
+    "id": 7
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 6,
+        "v": "In his days Judah will be rescued, and Israel will live in security.",
+        "id": 10
+      }
+    ],
+    "id": 9
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Then this is the name by which he will be called: Yahweh is our righteousness.",
+        "id": 12
+      }
+    ],
+    "id": 11
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 7,
+        "v": "Therefore see, days are coming—this is Yahweh’s declaration—when they will no longer say, ‘As Yahweh lives, who brought the people of Israel up from the land of Egypt.’",
+        "id": 14
+      },
+      {
+        "t": "v",
+        "n": 8,
+        "v": "Instead they will say, ‘As Yahweh lives, who brought up and who led back the descendants of the house of Israel from the northern land and all the lands where they had been driven.’ Then they will live in their own land.”",
+        "id": 15
+      }
+    ],
+    "id": 13
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 9,
+        "v": "Regarding the prophets, my heart is broken in me, and all of my bones tremble. I have become like a drunk man,",
+        "id": 17
+      }
+    ],
+    "id": 16
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "like a man whom wine has overpowered, because of Yahweh and his holy words.",
+        "id": 19
+      }
+    ],
+    "id": 18
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 10,
+        "v": "For the land is full of adulterers. Because of these the land is dried up.",
+        "id": 21
+      }
+    ],
+    "id": 20
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "The meadows in the wilderness dry up. These prophets’ paths are wicked; their power is not used in a right manner.",
+        "id": 23
+      }
+    ],
+    "id": 22
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 11,
+        "v": "“For both the prophets and the priests are polluted. I even found their wickedness in my house!—this is Yahweh’s declaration—",
+        "id": 25
+      }
+    ],
+    "id": 24
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 12,
+        "v": "therefore their way will be like a slippery place in the darkness. They will be pushed down. They will fall in it.",
+        "id": 27
+      }
+    ],
+    "id": 26
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "For I will send disaster against them in the year of their punishment—this is Yahweh’s declaration.",
+        "id": 29
+      }
+    ],
+    "id": 28
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 13,
+        "v": "For I have seen the prophets in Samaria doing what is repulsive:",
+        "id": 31
+      }
+    ],
+    "id": 30
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "They prophesied by Baal and led my people Israel astray.",
+        "id": 33
+      }
+    ],
+    "id": 32
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 14,
+        "v": "Among the prophets in Jerusalem I have seen horrible things:",
+        "id": 35
+      }
+    ],
+    "id": 34
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "They commit adultery and walk in deceit.",
+        "id": 37
+      }
+    ],
+    "id": 36
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "They strengthen the hands of evildoers; no one turns back from his evildoing.",
+        "id": 39
+      }
+    ],
+    "id": 38
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "All of them have become like Sodom to me and its inhabitants like Gomorrah!”",
+        "id": 41
+      }
+    ],
+    "id": 40
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 15,
+        "v": "Therefore Yahweh of hosts says this concerning the prophets,",
+        "id": 43
+      }
+    ],
+    "id": 42
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "“Look, I am about to make them eat wormwood and drink poisonous water,",
+        "id": 45
+      }
+    ],
+    "id": 44
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "for pollution has gone out from the prophets of Jerusalem to all the land.”",
+        "id": 47
+      }
+    ],
+    "id": 46
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 16,
+        "v": "Yahweh of hosts says this, “Do not listen to the words of the prophets who prophesy to you.",
+        "id": 49
+      }
+    ],
+    "id": 48
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "They have deluded you! They are announcing visions from their own minds, not from Yahweh’s mouth.",
+        "id": 51
+      }
+    ],
+    "id": 50
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 17,
+        "v": "They are constantly saying to those who dishonor me, ‘Yahweh declares there will be peace for you.’",
+        "id": 53
+      }
+    ],
+    "id": 52
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "For everyone walking in the stubbornness of his own heart says, ‘Disaster will not come upon you.’",
+        "id": 55
+      }
+    ],
+    "id": 54
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 18,
+        "v": "Yet who has stood in Yahweh’s council meeting? Who sees and hears his word?",
+        "id": 57
+      }
+    ],
+    "id": 56
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Who pays attention to his word and listens?",
+        "id": 59
+      }
+    ],
+    "id": 58
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 19,
+        "v": "See, there is a storm coming from Yahweh! His fury is going out, and a tempest is whirling about.",
+        "id": 61
+      }
+    ],
+    "id": 60
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "It is whirling around the heads of the wicked.",
+        "id": 63
+      }
+    ],
+    "id": 62
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 20,
+        "v": "Yahweh’s wrath will not return until it has carried out and brought into being his heart’s intentions.",
+        "id": 65
+      }
+    ],
+    "id": 64
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "In the final days, you will understand it.",
+        "id": 67
+      }
+    ],
+    "id": 66
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 21,
+        "v": "I did not send out these prophets. They just appeared.",
+        "id": 69
+      }
+    ],
+    "id": 68
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "I did not proclaim anything to them, but they have still prophesied.",
+        "id": 71
+      }
+    ],
+    "id": 70
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 22,
+        "v": "For if they had stood in my council meeting, they would have caused my people to hear my word;",
+        "id": 73
+      }
+    ],
+    "id": 72
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "they would have caused them to turn from their wicked words and corrupt practices.",
+        "id": 75
+      }
+    ],
+    "id": 74
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 23,
+        "v": "Am I only a God nearby—this is Yahweh’s declaration—and not also a God far away?",
+        "id": 77
+      }
+    ],
+    "id": 76
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 24,
+        "v": "Can anyone hide in a secret place so I cannot see him?—this is Yahweh’s declaration—",
+        "id": 79
+      }
+    ],
+    "id": 78
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and do I not fill the heavens and the earth?—this is Yahweh’s declaration.",
+        "id": 81
+      }
+    ],
+    "id": 80
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 25,
+        "v": "I have heard what the prophets have said, those who were prophesying deceit in my name. They said, ‘I had a dream! I had a dream!’",
+        "id": 83
+      },
+      {
+        "t": "v",
+        "n": 26,
+        "v": "How long will this go on, prophets who prophesy lies from their minds, and who prophesy from the deceit in their hearts?",
+        "id": 84
+      },
+      {
+        "t": "v",
+        "n": 27,
+        "v": "They are planning on making my people forget my name with the dreams that they report, each one to his neighbor, just as their ancestors forgot my name in favor of Baal’s name.",
+        "id": 85
+      }
+    ],
+    "id": 82
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 28,
+        "v": "The prophet who has a dream, let him report the dream. But the one to whom I have declared something, let him declare my word truthfully. What does straw have to do with grain?—this is Yahweh’s declaration—",
+        "id": 87
+      },
+      {
+        "t": "v",
+        "n": 29,
+        "v": "Is not my word like fire?—this is Yahweh’s declaration—and like a hammer that shatters a rock into pieces?",
+        "id": 88
+      },
+      {
+        "t": "v",
+        "n": 30,
+        "v": "So see, I am against the prophets—this is Yahweh’s declaration—anyone who steals words from another person and says they come from me.",
+        "id": 89
+      },
+      {
+        "t": "v",
+        "n": 31,
+        "v": "See, I am against the prophets—this is Yahweh’s declaration—who use their tongues to prophesy proclamations.",
+        "id": 90
+      },
+      {
+        "t": "v",
+        "n": 32,
+        "v": "See, I am against the prophets who dream deceitfully—this is Yahweh’s declaration—and then proclaim them and in this way mislead my people with their deceit and boasting. I am against them, for I have not sent them out nor given them commands. So they will certainly not help this people—this is Yahweh’s declaration.",
+        "id": 91
+      }
+    ],
+    "id": 86
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 33,
+        "v": "When these people, or a prophet, or a priest asks you, ‘What is the burden of Yahweh?’ you will say to them, ‘You are the burden, and I will cast you off’—this is Yahweh’s declaration.",
+        "id": 93
+      },
+      {
+        "t": "v",
+        "n": 34,
+        "v": "As for the prophets, priests, and people who are saying, ‘This is the burden of Yahweh’ I will punish that man and his house.",
+        "id": 94
+      },
+      {
+        "t": "v",
+        "n": 35,
+        "v": "You continue to say, each person to his neighbor and each man to his brother, ‘What did Yahweh answer?’ and ‘What did Yahweh declare?’",
+        "id": 95
+      },
+      {
+        "t": "v",
+        "n": 36,
+        "v": "But you must no longer talk about the ‘burden of Yahweh,’ for the burden is every man’s own word, and you have perverted the words of the living God, Yahweh of hosts, our God.",
+        "id": 96
+      },
+      {
+        "t": "v",
+        "n": 37,
+        "v": "This is what you will say to the prophet, ‘What answer did Yahweh give you?’ or ‘What did Yahweh say?’",
+        "id": 97
+      },
+      {
+        "t": "v",
+        "n": 38,
+        "v": "But if you say, ‘The burden of Yahweh’, this is what Yahweh says:",
+        "id": 98
+      }
+    ],
+    "id": 92
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "‘Because you have said these words, ‘The burden of Yahweh,’ when I sent to you, saying, ‘You will not say, “The burden of Yahweh,”’",
+        "id": 100
+      }
+    ],
+    "id": 99
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 39,
+        "v": "therefore, behold, I am about to pick you up and throw you away from me, along with the city that I gave you and your ancestors.",
+        "id": 102
+      }
+    ],
+    "id": 101
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 40,
+        "v": "Then I will put everlasting shame and insult on you that will not be forgotten.’”",
+        "id": 104
+      }
+    ],
+    "id": 103
+  }
+]

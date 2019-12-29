@@ -1,0 +1,604 @@
+[
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 1,
+        "v": "The rulers of Moab will say to each other,",
+        "id": 1
+      }
+    ],
+    "id": 0
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "“We must send some lambs from the city of Sela as a gift to the ruler of Judah to persuade him to not allow his army to attack us anymore.",
+        "id": 3
+      }
+    ],
+    "id": 2
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "We should send them through the desert to the king in Jerusalem.”",
+        "id": 5
+      }
+    ],
+    "id": 4
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 2,
+        "v": "The women of Moab will be left alone at the fords of the Arnon River;",
+        "id": 7
+      }
+    ],
+    "id": 6
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "they will be like birds that have been pushed out of their nests.",
+        "id": 9
+      }
+    ],
+    "id": 8
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 3,
+        "v": "They will cry out, “Help us!",
+        "id": 11
+      }
+    ],
+    "id": 10
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Tell us what we should do!",
+        "id": 13
+      }
+    ],
+    "id": 12
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Protect us completely,",
+        "id": 15
+      }
+    ],
+    "id": 14
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "we who are running away from our enemies,",
+        "id": 17
+      }
+    ],
+    "id": 16
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and do not betray us.",
+        "id": 19
+      }
+    ],
+    "id": 18
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 4,
+        "v": "Allow those of us who are fleeing from Moab to stay with you;",
+        "id": 21
+      }
+    ],
+    "id": 20
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "hide us from our enemies who want to destroy us!",
+        "id": 23
+      }
+    ],
+    "id": 22
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Some day there will be no one to oppress us,",
+        "id": 25
+      }
+    ],
+    "id": 24
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and our enemies will stop destroying our land.”",
+        "id": 27
+      }
+    ],
+    "id": 26
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 5,
+        "v": "Then Yahweh will appoint someone to be king",
+        "id": 29
+      }
+    ],
+    "id": 28
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "who will be a descendant of King David.",
+        "id": 31
+      }
+    ],
+    "id": 30
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "As this man rules, he will be merciful and truthful.",
+        "id": 33
+      }
+    ],
+    "id": 32
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "He will always do what is fair",
+        "id": 35
+      }
+    ],
+    "id": 34
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and quickly do what is righteous.",
+        "id": 37
+      }
+    ],
+    "id": 36
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 6,
+        "v": "We people of Judah have heard about the people of Moab;",
+        "id": 39
+      }
+    ],
+    "id": 38
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "we have heard that they are very proud and conceited;",
+        "id": 41
+      }
+    ],
+    "id": 40
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "they are insolent,",
+        "id": 43
+      }
+    ],
+    "id": 42
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "but what they say about themselves is not true.",
+        "id": 45
+      }
+    ],
+    "id": 44
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 7,
+        "v": "Some day all the people in Moab will weep.",
+        "id": 47
+      }
+    ],
+    "id": 46
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "They will all mourn,",
+        "id": 49
+      }
+    ],
+    "id": 48
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "because there will be no more raisin cakes in the city of Kir Hareseth.",
+        "id": 51
+      }
+    ],
+    "id": 50
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "But more than the cakes, they mourn for the people who lived there, who were all killed.",
+        "id": 53
+      }
+    ],
+    "id": 52
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 8,
+        "v": "The crops in the fields of Heshbon will wither,",
+        "id": 55
+      }
+    ],
+    "id": 54
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and the vineyards of Sibmah will wither also.",
+        "id": 57
+      }
+    ],
+    "id": 56
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "The armies of other nations will destroy Moab,",
+        "id": 59
+      }
+    ],
+    "id": 58
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "which is like a beautiful grapevine",
+        "id": 61
+      }
+    ],
+    "id": 60
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "whose branches spread north to Jazer,",
+        "id": 63
+      }
+    ],
+    "id": 62
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and east to the desert.",
+        "id": 65
+      }
+    ],
+    "id": 64
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Its branches spread very far west,",
+        "id": 67
+      }
+    ],
+    "id": 66
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "to the west side of the Dead Sea.",
+        "id": 69
+      }
+    ],
+    "id": 68
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 9,
+        "v": "So I will weep for Jazer",
+        "id": 71
+      }
+    ],
+    "id": 70
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and for the grapevines of Sibmah.",
+        "id": 73
+      }
+    ],
+    "id": 72
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "I will shed tears for all of you.",
+        "id": 75
+      }
+    ],
+    "id": 74
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "I will cry because people will no longer shout joyfully, like they usually do",
+        "id": 77
+      }
+    ],
+    "id": 76
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "when they gather the fruit that ripens in the summer and the other crops.",
+        "id": 79
+      }
+    ],
+    "id": 78
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 10,
+        "v": "People will no longer be glad at harvest time.",
+        "id": 81
+      }
+    ],
+    "id": 80
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "No one will sing in the vineyards;",
+        "id": 83
+      }
+    ],
+    "id": 82
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "no one will shout joyfully.",
+        "id": 85
+      }
+    ],
+    "id": 84
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "No one will tread on grapes to get grape juice for wine;",
+        "id": 87
+      }
+    ],
+    "id": 86
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "there will be nothing to shout about joyfully.",
+        "id": 89
+      }
+    ],
+    "id": 88
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 11,
+        "v": "I cry in my inner being for Moab;",
+        "id": 91
+      }
+    ],
+    "id": 90
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "my groaning is like a sad song played on a harp.",
+        "id": 93
+      }
+    ],
+    "id": 92
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "I am sad in my inner being for Kir Hareseth.",
+        "id": 95
+      }
+    ],
+    "id": 94
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 12,
+        "v": "The people of Moab will go and pray at their high places,",
+        "id": 97
+      }
+    ],
+    "id": 96
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "but that will not help them.",
+        "id": 99
+      }
+    ],
+    "id": 98
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "They will cry out to their gods in their temples,",
+        "id": 101
+      }
+    ],
+    "id": 100
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "but no one will be able to rescue them.",
+        "id": 103
+      }
+    ],
+    "id": 102
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 13,
+        "v": "Yahweh has already spoken those things about Moab.",
+        "id": 105
+      },
+      {
+        "t": "v",
+        "n": 14,
+        "v": "But now he says that exactly three years from now, he will destroy all the things that the people of Moab have been proud of. Even though they have a huge number of people in Moab now, only a few people will remain alive, and they will be weak.",
+        "id": 106
+      }
+    ],
+    "id": 104
+  }
+]

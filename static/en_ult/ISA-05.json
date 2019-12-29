@@ -1,0 +1,716 @@
+[
+  {
+    "t": "m",
+    "v": [],
+    "id": 0
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 1,
+        "v": "Let me sing for my well beloved, a song of my beloved about his vineyard.",
+        "id": 2
+      }
+    ],
+    "id": 1
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "My well beloved had a vineyard on a very fertile hill.",
+        "id": 4
+      }
+    ],
+    "id": 3
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 2,
+        "v": "He spaded it, removed the stones, and planted it with an excellent kind of vine.",
+        "id": 6
+      }
+    ],
+    "id": 5
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "He built a tower in the middle of it, and also built a winepress.",
+        "id": 8
+      }
+    ],
+    "id": 7
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "He waited for it to produce grapes, but it only produced wild grapes.",
+        "id": 10
+      }
+    ],
+    "id": 9
+  },
+  {
+    "t": "p",
+    "v": [],
+    "id": 11
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 3,
+        "v": "So now, inhabitant of Jerusalem and man of Judah,",
+        "id": 13
+      }
+    ],
+    "id": 12
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "judge between me and my vineyard.",
+        "id": 15
+      }
+    ],
+    "id": 14
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 4,
+        "v": "What more could have been done for my vineyard, that I have not done for it?",
+        "id": 17
+      }
+    ],
+    "id": 16
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "When I looked for it to produce grapes, why did it produce wild grapes?",
+        "id": 19
+      }
+    ],
+    "id": 18
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 5,
+        "v": "Now I will tell you what I will do to my vineyard: I will remove the hedge,",
+        "id": 21
+      }
+    ],
+    "id": 20
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "I will turn it into a pasture, I will break down its wall, and it will be trampled down.",
+        "id": 23
+      }
+    ],
+    "id": 22
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 6,
+        "v": "I will lay it waste, and it will not be pruned nor hoed. Instead, briers and thorns will spring up.",
+        "id": 25
+      }
+    ],
+    "id": 24
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "I will also command the clouds not to rain on it.",
+        "id": 27
+      }
+    ],
+    "id": 26
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 7,
+        "v": "For the vineyard of Yahweh of hosts is the house of Israel,",
+        "id": 29
+      }
+    ],
+    "id": 28
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and the man of Judah his pleasant planting;",
+        "id": 31
+      }
+    ],
+    "id": 30
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "he waited for justice, but instead, there was killing; for righteousness, but, instead, a shout for help.",
+        "id": 33
+      }
+    ],
+    "id": 32
+  },
+  {
+    "t": "m",
+    "v": [],
+    "id": 34
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 8,
+        "v": "Woe to those who join house to house, who join field to field,",
+        "id": 36
+      }
+    ],
+    "id": 35
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "until no room remains, and you alone remain in the land!",
+        "id": 38
+      }
+    ],
+    "id": 37
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 9,
+        "v": "Yahweh of hosts told me,",
+        "id": 40
+      }
+    ],
+    "id": 39
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "many houses will be empty, even great and impressive ones, without any inhabitant.",
+        "id": 42
+      }
+    ],
+    "id": 41
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 10,
+        "v": "For a ten-yoke vineyard will yield only one bath, and one homer of seed will yield only an ephah.",
+        "id": 44
+      }
+    ],
+    "id": 43
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 11,
+        "v": "Woe to those who rise up early in the morning to obtain strong drink,",
+        "id": 46
+      }
+    ],
+    "id": 45
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "those who linger late into the night until wine inflames them.",
+        "id": 48
+      }
+    ],
+    "id": 47
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 12,
+        "v": "They banquet with harp, lute, tambourine, flute, and wine,",
+        "id": 50
+      }
+    ],
+    "id": 49
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "but they do not recognize the work of Yahweh, nor have they considered the doings of his hands.",
+        "id": 52
+      }
+    ],
+    "id": 51
+  },
+  {
+    "t": "m",
+    "v": [],
+    "id": 53
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 13,
+        "v": "Therefore my people have gone into captivity for lack of understanding;",
+        "id": 55
+      }
+    ],
+    "id": 54
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "their honored leaders go hungry, and their common people have nothing to drink.",
+        "id": 57
+      }
+    ],
+    "id": 56
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 14,
+        "v": "Therefore Sheol has made its appetite greater and has opened its mouth very wide;",
+        "id": 59
+      }
+    ],
+    "id": 58
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "their elite, the people, their leaders, and the revelers and those who are happy among them, descend into Sheol.",
+        "id": 61
+      }
+    ],
+    "id": 60
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 15,
+        "v": "Man will be forced to bend down, and mankind will be humbled; the eyes of the lofty will be cast down.",
+        "id": 63
+      }
+    ],
+    "id": 62
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 16,
+        "v": "Yahweh of hosts will be exalted in his justice, and God the Holy One will show himself holy by his righteousness.",
+        "id": 65
+      }
+    ],
+    "id": 64
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 17,
+        "v": "Then the sheep will feed as in their own pasture, and in the ruins, lambs will graze as foreigners.",
+        "id": 67
+      }
+    ],
+    "id": 66
+  },
+  {
+    "t": "f",
+    "c": "+",
+    "v": [
+      {
+        "t": "ft",
+        "v": "Some modern versions have",
+        "id": 69
+      },
+      {
+        "t": "fqa",
+        "v": "and in the ruins of the rich, lambs will graze",
+        "id": 70
+      },
+      {
+        "t": "t",
+        "v": ".",
+        "id": 71
+      }
+    ],
+    "id": 68
+  },
+  {
+    "t": "m",
+    "v": [],
+    "id": 72
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 18,
+        "v": "Woe to those who pull along iniquity with useless cords and who pull along sin as if it were with a cart rope.",
+        "id": 74
+      }
+    ],
+    "id": 73
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 19,
+        "v": "Woe to those who say, “Let God hurry, let him act quickly, so we can see it happen;",
+        "id": 76
+      }
+    ],
+    "id": 75
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and let the plans of the Holy One of Israel come, so that we may know them.”",
+        "id": 78
+      }
+    ],
+    "id": 77
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 20,
+        "v": "Woe to those who call evil good, and good evil;",
+        "id": 80
+      }
+    ],
+    "id": 79
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "who represent darkness as light, and light as darkness;",
+        "id": 82
+      }
+    ],
+    "id": 81
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "who represent bitter as sweet, and sweet as bitter!",
+        "id": 84
+      }
+    ],
+    "id": 83
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 21,
+        "v": "Woe to those who are wise in their own eyes, and prudent in their own understanding!",
+        "id": 86
+      }
+    ],
+    "id": 85
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 22,
+        "v": "Woe to those who are champions at drinking wine, and masters at mixing strong drinks;",
+        "id": 88
+      }
+    ],
+    "id": 87
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 23,
+        "v": "who acquit the wicked for payment, and deprive the innocent of his rights!",
+        "id": 90
+      }
+    ],
+    "id": 89
+  },
+  {
+    "t": "m",
+    "v": [],
+    "id": 91
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 24,
+        "v": "Therefore as the tongue of fire devours stubble, and as the dry grass goes down in flame,",
+        "id": 93
+      }
+    ],
+    "id": 92
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "so their root will rot, and their blossom will blow away like dust.",
+        "id": 95
+      }
+    ],
+    "id": 94
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "This will happen because they have rejected the law of Yahweh of hosts, and because they have despised the word of the Holy One of Israel.",
+        "id": 97
+      }
+    ],
+    "id": 96
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 25,
+        "v": "Therefore the anger of Yahweh is kindled against his people. He has reached out with his hand against them and has punished them.",
+        "id": 99
+      }
+    ],
+    "id": 98
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "The mountains tremble, and their corpses are like garbage in the streets.",
+        "id": 101
+      }
+    ],
+    "id": 100
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "In all these things, his anger does not subside; instead, his hand is still stretched out.",
+        "id": 103
+      }
+    ],
+    "id": 102
+  },
+  {
+    "t": "m",
+    "v": [],
+    "id": 104
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 26,
+        "v": "He will lift up a signal flag for far away nations and will whistle for those at the end of the earth.",
+        "id": 106
+      }
+    ],
+    "id": 105
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Look, they will come speedily and promptly.",
+        "id": 108
+      }
+    ],
+    "id": 107
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 27,
+        "v": "None tire or stumble among them; none slumbers or sleeps.",
+        "id": 110
+      }
+    ],
+    "id": 109
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Nor are their belts loose, or the thongs of their sandals broken.",
+        "id": 112
+      }
+    ],
+    "id": 111
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 28,
+        "v": "Their arrows are sharp and all their bows are bent;",
+        "id": 114
+      }
+    ],
+    "id": 113
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "their horses’ hooves are like flint, and their chariot wheels like storms.",
+        "id": 116
+      }
+    ],
+    "id": 115
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 29,
+        "v": "Their roaring will be like a lion; they will roar like young lions.",
+        "id": 118
+      }
+    ],
+    "id": 117
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "They will growl and seize the prey and drag it away, with none to rescue.",
+        "id": 120
+      }
+    ],
+    "id": 119
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 30,
+        "v": "On that day they will roar against the prey as the sea roars.",
+        "id": 122
+      }
+    ],
+    "id": 121
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "If anyone looks over the land, he will see darkness and suffering; even the light will be made dark by the clouds.",
+        "id": 124
+      }
+    ],
+    "id": 123
+  }
+]

@@ -1,0 +1,476 @@
+[
+  {
+    "t": "m",
+    "v": [],
+    "id": 0
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 1,
+        "v": "Why, Yahweh, do you stand far off?",
+        "id": 2
+      }
+    ],
+    "id": 1
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Why do you hide yourself in times of trouble?",
+        "id": 4
+      }
+    ],
+    "id": 3
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 2,
+        "v": "Because of their arrogance, wicked people chase the oppressed;",
+        "id": 6
+      }
+    ],
+    "id": 5
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "but please let the wicked be trapped by their own schemes that they have devised.",
+        "id": 8
+      }
+    ],
+    "id": 7
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 3,
+        "v": "For the wicked person boasts of his deepest desires;",
+        "id": 10
+      }
+    ],
+    "id": 9
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "he blesses the greedy and insults Yahweh.",
+        "id": 12
+      }
+    ],
+    "id": 11
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 4,
+        "v": "The wicked man has a raised face; he does not seek God.",
+        "id": 14
+      }
+    ],
+    "id": 13
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "He never thinks about God because he does not care at all about him.",
+        "id": 16
+      }
+    ],
+    "id": 15
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 5,
+        "v": "He is secure at all times,",
+        "id": 18
+      }
+    ],
+    "id": 17
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "but your righteous decrees are too high for him;",
+        "id": 20
+      }
+    ],
+    "id": 19
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "he snorts at all his enemies.",
+        "id": 22
+      }
+    ],
+    "id": 21
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 6,
+        "v": "He says in his heart,” I will never fail;",
+        "id": 24
+      }
+    ],
+    "id": 23
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "throughout all generations I will not meet adversity.”",
+        "id": 26
+      }
+    ],
+    "id": 25
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 7,
+        "v": "His mouth is full of curses and lies and oppression;",
+        "id": 28
+      }
+    ],
+    "id": 27
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "under his tongue are mischief and evil.",
+        "id": 30
+      }
+    ],
+    "id": 29
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 8,
+        "v": "He waits in ambush near the villages;",
+        "id": 32
+      }
+    ],
+    "id": 31
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "in the secret places he murders the innocent;",
+        "id": 34
+      }
+    ],
+    "id": 33
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "his eyes look for some helpless victim.",
+        "id": 36
+      }
+    ],
+    "id": 35
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 9,
+        "v": "He lurks in secret like a lion in the thicket;",
+        "id": 38
+      }
+    ],
+    "id": 37
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "he lies in wait to catch the oppressed.",
+        "id": 40
+      }
+    ],
+    "id": 39
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "He catches the oppressed when he pulls in his net.",
+        "id": 42
+      }
+    ],
+    "id": 41
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 10,
+        "v": "His victims are crushed and beaten down;",
+        "id": 44
+      }
+    ],
+    "id": 43
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "they fall into his strong nets.",
+        "id": 46
+      }
+    ],
+    "id": 45
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 11,
+        "v": "He says in his heart, “God has forgotten;",
+        "id": 48
+      }
+    ],
+    "id": 47
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "he covers his face; he will not bother to look.”",
+        "id": 50
+      }
+    ],
+    "id": 49
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 12,
+        "v": "Arise, Yahweh! Lift up your hand, God!",
+        "id": 52
+      }
+    ],
+    "id": 51
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Do not forget the oppressed.",
+        "id": 54
+      }
+    ],
+    "id": 53
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 13,
+        "v": "Why does the wicked man reject God",
+        "id": 56
+      }
+    ],
+    "id": 55
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and say in his heart, “You will not hold me accountable”?",
+        "id": 58
+      }
+    ],
+    "id": 57
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 14,
+        "v": "You have taken notice, for you always see the one who inflicts the misery and sorrow.",
+        "id": 60
+      }
+    ],
+    "id": 59
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "The helpless entrusts himself to you;",
+        "id": 62
+      }
+    ],
+    "id": 61
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "you rescue the fatherless.",
+        "id": 64
+      }
+    ],
+    "id": 63
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 15,
+        "v": "Break the arm of the wicked and evil man.",
+        "id": 66
+      }
+    ],
+    "id": 65
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Make him account for his evil deeds,",
+        "id": 68
+      }
+    ],
+    "id": 67
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "which he thought you would not discover.",
+        "id": 70
+      }
+    ],
+    "id": 69
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 16,
+        "v": "Yahweh is King forever and ever;",
+        "id": 72
+      }
+    ],
+    "id": 71
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "the nations are driven out of his land.",
+        "id": 74
+      }
+    ],
+    "id": 73
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 17,
+        "v": "Yahweh, you have heard the needs of the oppressed;",
+        "id": 76
+      }
+    ],
+    "id": 75
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "you strengthen their heart, you listen to their prayer;",
+        "id": 78
+      }
+    ],
+    "id": 77
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 18,
+        "v": "You defend the fatherless and the oppressed",
+        "id": 80
+      }
+    ],
+    "id": 79
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "so that no man on the earth will cause terror again.",
+        "id": 82
+      }
+    ],
+    "id": 81
+  }
+]

@@ -1,0 +1,915 @@
+[
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 1,
+        "v": "Yahweh also said this:",
+        "id": 1
+      }
+    ],
+    "id": 0
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "“All of heaven is like my throne,",
+        "id": 3
+      }
+    ],
+    "id": 2
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and the whole earth is like my footstool.",
+        "id": 5
+      }
+    ],
+    "id": 4
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "So you could certainly not build a house",
+        "id": 7
+      }
+    ],
+    "id": 6
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "that would be adequate for me to live in and rest!",
+        "id": 9
+      }
+    ],
+    "id": 8
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 2,
+        "v": "I have created everything;",
+        "id": 11
+      }
+    ],
+    "id": 10
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "all things exist because I made them.",
+        "id": 13
+      }
+    ],
+    "id": 12
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "That is true because I, Yahweh, have said it.",
+        "id": 15
+      }
+    ],
+    "id": 14
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "The people I am most pleased with are those who are humble,",
+        "id": 17
+      }
+    ],
+    "id": 16
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "who patiently endure it when they suffer,",
+        "id": 19
+      }
+    ],
+    "id": 18
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and who tremble when they hear me rebuking them.",
+        "id": 21
+      }
+    ],
+    "id": 20
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 3,
+        "v": "You have chosen to continually do the things that you want to do:",
+        "id": 23
+      }
+    ],
+    "id": 22
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "some of you slaughter oxen to sacrifice them to me,",
+        "id": 25
+      }
+    ],
+    "id": 24
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "but you also bring human sacrifices to your idols!",
+        "id": 27
+      }
+    ],
+    "id": 26
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "You sacrifice lambs to me,",
+        "id": 29
+      }
+    ],
+    "id": 28
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "but you kill dogs to offer them to your gods.",
+        "id": 31
+      }
+    ],
+    "id": 30
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "You offer grain to me,",
+        "id": 33
+      }
+    ],
+    "id": 32
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "but you also bring pigs’ blood to your idols.",
+        "id": 35
+      }
+    ],
+    "id": 34
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "You burn incense to me,",
+        "id": 37
+      }
+    ],
+    "id": 36
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "but you also praise your idols.",
+        "id": 39
+      }
+    ],
+    "id": 38
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "You delight to do those disgusting things.",
+        "id": 41
+      }
+    ],
+    "id": 40
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 4,
+        "v": "When I called out to you,",
+        "id": 43
+      }
+    ],
+    "id": 42
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "you did not answer.",
+        "id": 45
+      }
+    ],
+    "id": 44
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "When I spoke, you did not pay attention.",
+        "id": 47
+      }
+    ],
+    "id": 46
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "You did many things that I say are evil,",
+        "id": 49
+      }
+    ],
+    "id": 48
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and you chose to do things that I did not like.",
+        "id": 51
+      }
+    ],
+    "id": 50
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "So now I will punish you by causing you to experience the things that you yourselves have done, that you yourselves are afraid of.”",
+        "id": 53
+      }
+    ],
+    "id": 52
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 5,
+        "v": "But you people who tremble when you hear what Yahweh says,",
+        "id": 55
+      }
+    ],
+    "id": 54
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "listen to what he says now:",
+        "id": 57
+      }
+    ],
+    "id": 56
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "“Some of your people hate you and drive you away",
+        "id": 59
+      }
+    ],
+    "id": 58
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "because you belong to me.",
+        "id": 61
+      }
+    ],
+    "id": 60
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "They make fun of you, and they say,",
+        "id": 63
+      }
+    ],
+    "id": 62
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "‘Yahweh should show his glorious power!",
+        "id": 65
+      }
+    ],
+    "id": 64
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "We want to see him do something to cause you to be truly happy.’",
+        "id": 67
+      }
+    ],
+    "id": 66
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "But some day those people will be very disgraced.”",
+        "id": 69
+      }
+    ],
+    "id": 68
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 6,
+        "v": "At that time, you will listen to the noise in the city.",
+        "id": 71
+      }
+    ],
+    "id": 70
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "You will hear the shouting in the temple.",
+        "id": 73
+      }
+    ],
+    "id": 72
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "It will be the sound of Yahweh paying back his enemies.",
+        "id": 75
+      }
+    ],
+    "id": 74
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 7,
+        "v": "No one ever heard that a woman gave birth to a baby",
+        "id": 77
+      }
+    ],
+    "id": 76
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "when she was just starting to have birth pains.",
+        "id": 79
+      }
+    ],
+    "id": 78
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 8,
+        "v": "Certainly no one ever heard about such a thing happening,",
+        "id": 81
+      }
+    ],
+    "id": 80
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and no one has ever seen it happen.",
+        "id": 83
+      }
+    ],
+    "id": 82
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Similarly, no one ever heard that a nation was created in one instant,",
+        "id": 85
+      }
+    ],
+    "id": 84
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "not in one day.",
+        "id": 87
+      }
+    ],
+    "id": 86
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "But Jerusalem is like a woman who gives birth to children",
+        "id": 89
+      }
+    ],
+    "id": 88
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "as soon as she starts to have birth pains.",
+        "id": 91
+      }
+    ],
+    "id": 90
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 9,
+        "v": "Women certainly do not bring infants to the time when they are ready to be born and then do not allow them to be born.",
+        "id": 93
+      }
+    ],
+    "id": 92
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Similarly, Yahweh will do for Jerusalem what he has promised to do:",
+        "id": 95
+      }
+    ],
+    "id": 94
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "he will cause Jerusalem to be full of people again.",
+        "id": 97
+      }
+    ],
+    "id": 96
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "That will happen because Yahweh has said it.",
+        "id": 99
+      }
+    ],
+    "id": 98
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 10,
+        "v": "You people in Jerusalem, rejoice!",
+        "id": 101
+      }
+    ],
+    "id": 100
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "And all you people who love Jerusalem should also be happy.",
+        "id": 103
+      }
+    ],
+    "id": 102
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "You people who were sad because of what happened to Jerusalem,",
+        "id": 105
+      }
+    ],
+    "id": 104
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "you should now be glad.",
+        "id": 107
+      }
+    ],
+    "id": 106
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 11,
+        "v": "You people in Jerusalem will have everything that you need,",
+        "id": 109
+      }
+    ],
+    "id": 108
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "like a baby that gets all it needs from its mother’s breasts.",
+        "id": 111
+      }
+    ],
+    "id": 110
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "You will enjoy all the abundant and glorious things in the city.",
+        "id": 113
+      }
+    ],
+    "id": 112
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 12,
+        "v": "Yahweh has promised,",
+        "id": 115
+      }
+    ],
+    "id": 114
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "“I will cause Jerusalem to be full of valuable things that come from other nations;",
+        "id": 117
+      }
+    ],
+    "id": 116
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "those things will pour into Jerusalem; it will be like a big flood.",
+        "id": 119
+      }
+    ],
+    "id": 118
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "I will take care of the people of Jerusalem",
+        "id": 121
+      }
+    ],
+    "id": 120
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "like women care for the babies that they nurse.",
+        "id": 123
+      }
+    ],
+    "id": 122
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 13,
+        "v": "I will comfort you people in Jerusalem like mothers comfort their children.”",
+        "id": 125
+      }
+    ],
+    "id": 124
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 14,
+        "v": "When you see those things happen,",
+        "id": 127
+      }
+    ],
+    "id": 126
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "you will rejoice.",
+        "id": 129
+      }
+    ],
+    "id": 128
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Your old bones will become strong again",
+        "id": 131
+      }
+    ],
+    "id": 130
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "like in the springtime, when the grass grows.",
+        "id": 133
+      }
+    ],
+    "id": 132
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "When that happens, everyone will know that Yahweh has power to help those who worship and obey him,",
+        "id": 135
+      }
+    ],
+    "id": 134
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "but that he is angry with his enemies.",
+        "id": 137
+      }
+    ],
+    "id": 136
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 15,
+        "v": "Yahweh will come down with flames of fire,",
+        "id": 139
+      }
+    ],
+    "id": 138
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and his chariots will come down like a whirlwind;",
+        "id": 141
+      }
+    ],
+    "id": 140
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "he will be extremely angry,",
+        "id": 143
+      }
+    ],
+    "id": 142
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and he will punish his enemies by burning them in a fire.",
+        "id": 145
+      }
+    ],
+    "id": 144
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 16,
+        "v": "It is as though Yahweh had a big sword,",
+        "id": 147
+      }
+    ],
+    "id": 146
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and he will judge and execute many people.",
+        "id": 149
+      }
+    ],
+    "id": 148
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 17,
+        "v": "Yahweh says, “Some of you will prepare yourselves to enter the garden of idols by washings and special diets and clothing, and you follow into that place, those who eat the meat of pigs and mice, and other things that I have forbidden you to eat. I promise you, I will stop them and they will not do this any more!”",
+        "id": 151
+      }
+    ],
+    "id": 150
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 18,
+        "v": "I know all the evil things that they all think and do. It is now time for me to gather together the people who live in all nations and who speak all languages, and to show them that I am very great.",
+        "id": 153
+      }
+    ],
+    "id": 152
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 19,
+        "v": "I will do something among them to show everyone who they are, and those whom I have spared will go to various distant countries: To Tarshish, Put, Lud (home of archers), Meshech, Tubal, Javan, and to distant islands. I will send them to proclaim to nations that have never heard about me that I am very great and glorious.",
+        "id": 155
+      },
+      {
+        "t": "v",
+        "n": 20,
+        "v": "Then they will bring back here your relatives who have been exiled, like the offerings that my Israelite people used to bring in the correct manner to the temple. They will travel to Jerusalem, where my holy mountain is; they will come on horses and in chariots, in wagons, on mules and on camels.",
+        "id": 156
+      },
+      {
+        "t": "v",
+        "n": 21,
+        "v": "I solemnly promise that I will appoint some of them to be priests, and others to do other work in my temple. That will surely happen because I, Yahweh, have said it.",
+        "id": 157
+      }
+    ],
+    "id": 154
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 22,
+        "v": "I also promise that just like the new heaven and the new earth will last forever, you will always have descendants, and you will always be honored.",
+        "id": 159
+      },
+      {
+        "t": "v",
+        "n": 23,
+        "v": "At every festival to celebrate the Sabbath each week and the new moon each month, everyone will come and worship me. That will surely happen because I, Yahweh, have said it.",
+        "id": 160
+      },
+      {
+        "t": "v",
+        "n": 24,
+        "v": "Then they will go out of Jerusalem and look at the corpses of those who rebelled against me. The maggots in those corpses will never die, the fire will never stop burning them, and everyone who sees their corpses will detest them.”",
+        "id": 161
+      }
+    ],
+    "id": 158
+  }
+]

@@ -1,0 +1,583 @@
+[
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 1,
+        "v": "“Listen, you priests!",
+        "id": 1
+      }
+    ],
+    "id": 0
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Pay attention, you people of Israel!",
+        "id": 3
+      }
+    ],
+    "id": 2
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "And you members of the king’s family, you also need to listen!",
+        "id": 5
+      }
+    ],
+    "id": 4
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "For I will punish all of you.",
+        "id": 7
+      }
+    ],
+    "id": 6
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "The things you have done have been like a trap for the people at Mizpah.",
+        "id": 9
+      }
+    ],
+    "id": 8
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "The things you have done have become like a net spread out to catch the people who live on Mount Tabor.",
+        "id": 11
+      },
+      {
+        "t": "v",
+        "n": 2,
+        "v": "Those who rebelled against me have now killed so many that they are standing deep in their blood. I tell you that I will punish them all.",
+        "id": 12
+      }
+    ],
+    "id": 10
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 3,
+        "v": "You, the people in Ephraim, the center of Israel—I know you.",
+        "id": 14
+      }
+    ],
+    "id": 13
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "I know very well what you are like, you people of Israel.",
+        "id": 16
+      }
+    ],
+    "id": 15
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "You people in Ephraim, you have acted like prostitutes.",
+        "id": 18
+      }
+    ],
+    "id": 17
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Yes, you people in Israel are polluted.",
+        "id": 20
+      }
+    ],
+    "id": 19
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 4,
+        "v": "Ephraim and Israel are not able to ask me to forgive them, because of what they have done.",
+        "id": 22
+      }
+    ],
+    "id": 21
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "They have chosen to be unfaithful and immoral,",
+        "id": 24
+      }
+    ],
+    "id": 23
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and they do not know me, Yahweh.”",
+        "id": 26
+      }
+    ],
+    "id": 25
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 5,
+        "v": "Israel is proud; because of this others know how guilty she is.",
+        "id": 28
+      }
+    ],
+    "id": 27
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "The sins that the people of Israel have committed are making them faithless to Yahweh.",
+        "id": 30
+      }
+    ],
+    "id": 29
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Judah is becoming faithless, too.",
+        "id": 32
+      }
+    ],
+    "id": 31
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 6,
+        "v": "They are hoping to persuade Yahweh to have mercy on them.",
+        "id": 34
+      }
+    ],
+    "id": 33
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "They are coming to sacrifice sheep and cattle to him from their flocks and herds.",
+        "id": 36
+      }
+    ],
+    "id": 35
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "But they will find that Yahweh will have no mercy on them",
+        "id": 38
+      }
+    ],
+    "id": 37
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "because he has stopped helping them; he is leaving them alone.",
+        "id": 40
+      }
+    ],
+    "id": 39
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 7,
+        "v": "They did not keep their promises to Yahweh.",
+        "id": 42
+      }
+    ],
+    "id": 41
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and they have had children by foreign women.",
+        "id": 44
+      }
+    ],
+    "id": 43
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "So at the time of the new moon festivals,",
+        "id": 46
+      }
+    ],
+    "id": 45
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "they will perish, together with their cultivated fields.”",
+        "id": 48
+      }
+    ],
+    "id": 47
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 8,
+        "v": "Yahweh says, “Blow the ram horns at the city of Gibeah!",
+        "id": 50
+      }
+    ],
+    "id": 49
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Blow the trumpets at the city of Ramah!",
+        "id": 52
+      }
+    ],
+    "id": 51
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Shout a battle cry at the city of Beth Aven!",
+        "id": 54
+      }
+    ],
+    "id": 53
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Lead us into battle, you people of the tribe of Benjamin!",
+        "id": 56
+      }
+    ],
+    "id": 55
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 9,
+        "v": "I will punish the people of Ephraim and turn their city into a pile of rubble.",
+        "id": 58
+      }
+    ],
+    "id": 57
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "This is my promise to the tribes of Israel—I pledge to you all that I will do this.",
+        "id": 60
+      }
+    ],
+    "id": 59
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 10,
+        "v": "The leaders of Judah are as bad as people who steal farmland by moving boundary markers;",
+        "id": 62
+      }
+    ],
+    "id": 61
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "they steal land that does not belong to them.",
+        "id": 64
+      }
+    ],
+    "id": 63
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "I will punish them in a way that will make them perish.",
+        "id": 66
+      }
+    ],
+    "id": 65
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 11,
+        "v": "Ephraim will suffer greatly; the people will perish when I punish them,",
+        "id": 68
+      }
+    ],
+    "id": 67
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "because they were determined to worship idols.",
+        "id": 70
+      }
+    ],
+    "id": 69
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 12,
+        "v": "I will destroy Ephraim as a moth destroys wool;",
+        "id": 72
+      }
+    ],
+    "id": 71
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "I will destroy Judah as rot destroys wood.",
+        "id": 74
+      }
+    ],
+    "id": 73
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 13,
+        "v": "When the people of Ephraim realized how weak they were,",
+        "id": 76
+      }
+    ],
+    "id": 75
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "then they asked the people of Assyria for help.",
+        "id": 78
+      }
+    ],
+    "id": 77
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "When the people of Judah realized how weak they were,",
+        "id": 80
+      }
+    ],
+    "id": 79
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "they sent messengers to the great king of Assyria.",
+        "id": 82
+      }
+    ],
+    "id": 81
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "But he could not help you people;",
+        "id": 84
+      }
+    ],
+    "id": 83
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "he could not make you people strong again.",
+        "id": 86
+      }
+    ],
+    "id": 85
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 14,
+        "v": "I will become like a lion to the people of Ephraim in Israel;",
+        "id": 88
+      }
+    ],
+    "id": 87
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "I will become like a young lion to the people of Judah.",
+        "id": 90
+      }
+    ],
+    "id": 89
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "I will destroy them and leave them;",
+        "id": 92
+      }
+    ],
+    "id": 91
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "I will carry them far away,",
+        "id": 94
+      }
+    ],
+    "id": 93
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and no one will be able to rescue them.",
+        "id": 96
+      }
+    ],
+    "id": 95
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 15,
+        "v": "Then I will go back to where I came from;",
+        "id": 98
+      }
+    ],
+    "id": 97
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "from there I will wait for them to admit that they have sinned;",
+        "id": 100
+      }
+    ],
+    "id": 99
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "I will wait for them to come and ask me to help them.”",
+        "id": 102
+      }
+    ],
+    "id": 101
+  }
+]

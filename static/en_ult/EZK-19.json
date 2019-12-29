@@ -1,0 +1,338 @@
+[
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 1,
+        "v": "“Now you, take up a lamentation against the leaders of Israel",
+        "id": 1
+      },
+      {
+        "t": "v",
+        "n": 2,
+        "v": "and say,",
+        "id": 2
+      }
+    ],
+    "id": 0
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "‘Who was your mother? A lioness, she lived with a lion’s son;",
+        "id": 4
+      }
+    ],
+    "id": 3
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "in the midst of young lions, she nurtured her cubs.",
+        "id": 6
+      }
+    ],
+    "id": 5
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 3,
+        "v": "She is the one who raised up one of her cubs to become a young lion, a lion who learned to tear apart his victims, and then he devoured men.",
+        "id": 8
+      }
+    ],
+    "id": 7
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 4,
+        "v": "Then the nations heard about him. He was caught in their trap, and they brought him with hooks to the land of Egypt.",
+        "id": 10
+      }
+    ],
+    "id": 9
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 5,
+        "v": "Then she saw that although she had waited for his return, her expectation was now gone, so she took another of her cubs and raised him to become a young lion.",
+        "id": 12
+      }
+    ],
+    "id": 11
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 6,
+        "v": "This young lion roamed about in the midst of lions. He was a young lion and learned to tear his victims; he devoured men.",
+        "id": 14
+      }
+    ],
+    "id": 13
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 7,
+        "v": "He seized their widows and ruined their cities.",
+        "id": 16
+      }
+    ],
+    "id": 15
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "The land and its fullness were abandoned because of the sound of his roaring.",
+        "id": 18
+      }
+    ],
+    "id": 17
+  },
+  {
+    "t": "f",
+    "c": "+",
+    "v": [
+      {
+        "t": "ft",
+        "v": "Instead of",
+        "id": 20
+      },
+      {
+        "t": "fqa",
+        "v": "He seized their widows",
+        "id": 21
+      },
+      {
+        "t": "t",
+        "v": ", some ancient copies and many modern versions have",
+        "id": 22
+      },
+      {
+        "t": "fqa",
+        "v": "He destroyed their fortresses",
+        "id": 23
+      },
+      {
+        "t": "t",
+        "v": ".",
+        "id": 24
+      }
+    ],
+    "id": 19
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 8,
+        "v": "But the nations came against him from the surrounding provinces;",
+        "id": 26
+      }
+    ],
+    "id": 25
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "they spread their nets over him. He was caught in their trap.",
+        "id": 28
+      }
+    ],
+    "id": 27
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 9,
+        "v": "With hooks they put him in a cage and then they brought him to the king of Babylon.",
+        "id": 30
+      }
+    ],
+    "id": 29
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "They brought him to the strongholds so that his voice would no longer be heard on the mountains of Israel.",
+        "id": 32
+      }
+    ],
+    "id": 31
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 10,
+        "v": "Your mother was like a vine planted in your blood beside the water.",
+        "id": 34
+      }
+    ],
+    "id": 33
+  },
+  {
+    "t": "f",
+    "c": "+",
+    "v": [
+      {
+        "t": "ft",
+        "v": "Instead of",
+        "id": 36
+      },
+      {
+        "t": "fqa",
+        "v": "in your blood",
+        "id": 37
+      },
+      {
+        "t": "t",
+        "v": ", some ancient copies and many modern versions have",
+        "id": 38
+      },
+      {
+        "t": "fqa",
+        "v": "in your vineyard",
+        "id": 39
+      },
+      {
+        "t": "t",
+        "v": ".",
+        "id": 40
+      }
+    ],
+    "id": 35
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "it was fruitful and full of branches because of the abundance of water.",
+        "id": 42
+      }
+    ],
+    "id": 41
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 11,
+        "v": "It had strong branches that were used for rulers’ scepters,",
+        "id": 44
+      }
+    ],
+    "id": 43
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and its size was exalted above the branches,",
+        "id": 46
+      }
+    ],
+    "id": 45
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and its height was seen by the greatness of its foliage.",
+        "id": 48
+      }
+    ],
+    "id": 47
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 12,
+        "v": "But the vine was uprooted in fury and thrown down to the earth, and an eastern wind dried out its fruit.",
+        "id": 50
+      }
+    ],
+    "id": 49
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Its strong branches were broken off and withered and fire consumed them.",
+        "id": 52
+      }
+    ],
+    "id": 51
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 13,
+        "v": "So now it is planted in the wilderness, in a land of drought and thirst.",
+        "id": 54
+      }
+    ],
+    "id": 53
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 14,
+        "v": "For fire went out from her large branches and consumed its fruit.",
+        "id": 56
+      }
+    ],
+    "id": 55
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "There is no strong branch on it, no scepter to rule.’ This is a lamentation and will be sung as a lamentation.”",
+        "id": 58
+      }
+    ],
+    "id": 57
+  }
+]

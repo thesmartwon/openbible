@@ -1,0 +1,737 @@
+[
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 1,
+        "v": "The king’s heart is a stream of water in the hand of Yahweh;",
+        "id": 1
+      }
+    ],
+    "id": 0
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "he turns it wherever he pleases.",
+        "id": 3
+      }
+    ],
+    "id": 2
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 2,
+        "v": "Every person’s way is right in his own eyes,",
+        "id": 5
+      }
+    ],
+    "id": 4
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "but it is Yahweh who weighs the hearts.",
+        "id": 7
+      }
+    ],
+    "id": 6
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 3,
+        "v": "To do what is right and just",
+        "id": 9
+      }
+    ],
+    "id": 8
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "is more acceptable to Yahweh than sacrifice.",
+        "id": 11
+      }
+    ],
+    "id": 10
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 4,
+        "v": "Haughty eyes and a proud heart—",
+        "id": 13
+      }
+    ],
+    "id": 12
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "the lamp of the wicked—are sin.",
+        "id": 15
+      }
+    ],
+    "id": 14
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 5,
+        "v": "The plans of the diligent lead only to prosperity,",
+        "id": 17
+      }
+    ],
+    "id": 16
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "but everyone who acts too quickly comes only to poverty.",
+        "id": 19
+      }
+    ],
+    "id": 18
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 6,
+        "v": "Acquiring riches by a lying tongue",
+        "id": 21
+      }
+    ],
+    "id": 20
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "is a fleeting vapor and a snare that kills.",
+        "id": 23
+      }
+    ],
+    "id": 22
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 7,
+        "v": "The violence of the wicked will drag them away,",
+        "id": 25
+      }
+    ],
+    "id": 24
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "for they refuse to do what is just.",
+        "id": 27
+      }
+    ],
+    "id": 26
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 8,
+        "v": "The way of a guilty person is crooked,",
+        "id": 29
+      }
+    ],
+    "id": 28
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "but the one who is pure does what is right.",
+        "id": 31
+      }
+    ],
+    "id": 30
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 9,
+        "v": "It is better to live on a corner of the roof",
+        "id": 33
+      }
+    ],
+    "id": 32
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "than in a house shared with a quarrelsome wife.",
+        "id": 35
+      }
+    ],
+    "id": 34
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 10,
+        "v": "The appetite of the wicked craves evil;",
+        "id": 37
+      }
+    ],
+    "id": 36
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "his neighbor finds no favor in his eyes.",
+        "id": 39
+      }
+    ],
+    "id": 38
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 11,
+        "v": "When the mocker is punished, the naive become wise,",
+        "id": 41
+      }
+    ],
+    "id": 40
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and when the wise person is instructed, he lays hold of knowledge.",
+        "id": 43
+      }
+    ],
+    "id": 42
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 12,
+        "v": "The righteous person watches the house of the wicked person;",
+        "id": 45
+      }
+    ],
+    "id": 44
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "he brings wicked people to disaster.",
+        "id": 47
+      }
+    ],
+    "id": 46
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 13,
+        "v": "The one who shuts his ears to the cry of the poor,",
+        "id": 49
+      }
+    ],
+    "id": 48
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "he also will cry out, but he will not be answered.",
+        "id": 51
+      }
+    ],
+    "id": 50
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 14,
+        "v": "A gift in secret appeases anger",
+        "id": 53
+      }
+    ],
+    "id": 52
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and a concealed gift appeases strong wrath.",
+        "id": 55
+      }
+    ],
+    "id": 54
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 15,
+        "v": "When justice is done, it brings joy to the righteous person,",
+        "id": 57
+      }
+    ],
+    "id": 56
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "but it brings terror to evildoers.",
+        "id": 59
+      }
+    ],
+    "id": 58
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 16,
+        "v": "The one who wanders from the way of understanding,",
+        "id": 61
+      }
+    ],
+    "id": 60
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "he will rest in the assembly of the dead.",
+        "id": 63
+      }
+    ],
+    "id": 62
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 17,
+        "v": "Whoever loves pleasure will become poor;",
+        "id": 65
+      }
+    ],
+    "id": 64
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "the one who loves wine and oil will not be rich.",
+        "id": 67
+      }
+    ],
+    "id": 66
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 18,
+        "v": "A wicked person is ransom for the righteous person,",
+        "id": 69
+      }
+    ],
+    "id": 68
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and the treacherous person is ransom for upright people.",
+        "id": 71
+      }
+    ],
+    "id": 70
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 19,
+        "v": "It is better to live in the desert",
+        "id": 73
+      }
+    ],
+    "id": 72
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "than with a quarreling and angry wife.",
+        "id": 75
+      }
+    ],
+    "id": 74
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 20,
+        "v": "Desirable treasure and oil are kept in the dwelling of the wise,",
+        "id": 77
+      }
+    ],
+    "id": 76
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "but a foolish person swallows it all up.",
+        "id": 79
+      }
+    ],
+    "id": 78
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 21,
+        "v": "The one who does right and is kind—",
+        "id": 81
+      }
+    ],
+    "id": 80
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "this person finds life, righteousness, and honor.",
+        "id": 83
+      }
+    ],
+    "id": 82
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 22,
+        "v": "A wise man scales the city of the mighty ones,",
+        "id": 85
+      }
+    ],
+    "id": 84
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and he brings down the stronghold in which they trusted.",
+        "id": 87
+      }
+    ],
+    "id": 86
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 23,
+        "v": "Whoever guards his mouth and tongue",
+        "id": 89
+      }
+    ],
+    "id": 88
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "keeps himself out of trouble.",
+        "id": 91
+      }
+    ],
+    "id": 90
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 24,
+        "v": "The proud and haughty person—”Mocker” is his name—",
+        "id": 93
+      }
+    ],
+    "id": 92
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "acts with arrogant pride.",
+        "id": 95
+      }
+    ],
+    "id": 94
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 25,
+        "v": "The desire of the lazy kills him,",
+        "id": 97
+      }
+    ],
+    "id": 96
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "for his hands refuse to work.",
+        "id": 99
+      }
+    ],
+    "id": 98
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 26,
+        "v": "All day long he craves and craves more,",
+        "id": 101
+      }
+    ],
+    "id": 100
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "but the righteous person gives and does not hold back.",
+        "id": 103
+      }
+    ],
+    "id": 102
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 27,
+        "v": "The sacrifice of the wicked is detestable;",
+        "id": 105
+      }
+    ],
+    "id": 104
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "it is even more detestable when he brings it with evil motives.",
+        "id": 107
+      }
+    ],
+    "id": 106
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 28,
+        "v": "A false witness will perish,",
+        "id": 109
+      }
+    ],
+    "id": 108
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "but the one who listens will speak for all time.",
+        "id": 111
+      }
+    ],
+    "id": 110
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 29,
+        "v": "A wicked man makes his face hard,",
+        "id": 113
+      }
+    ],
+    "id": 112
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "but an upright person is certain about his ways.",
+        "id": 115
+      }
+    ],
+    "id": 114
+  },
+  {
+    "t": "f",
+    "c": "+",
+    "v": [
+      {
+        "t": "ft",
+        "v": "Some modern versions have",
+        "id": 117
+      },
+      {
+        "t": "fqa",
+        "v": "but an upright person thinks about his way",
+        "id": 118
+      },
+      {
+        "t": "t",
+        "v": ".",
+        "id": 119
+      }
+    ],
+    "id": 116
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 30,
+        "v": "There is no wisdom, there is no understanding, and there is no advice",
+        "id": 121
+      }
+    ],
+    "id": 120
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "that can stand against Yahweh.",
+        "id": 123
+      }
+    ],
+    "id": 122
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 31,
+        "v": "The horse is prepared for the day of battle,",
+        "id": 125
+      }
+    ],
+    "id": 124
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "but the victory belongs to Yahweh.",
+        "id": 127
+      }
+    ],
+    "id": 126
+  }
+]

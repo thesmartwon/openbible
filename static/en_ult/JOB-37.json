@@ -1,0 +1,613 @@
+[
+  {
+    "t": "m",
+    "v": [],
+    "id": 0
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 1,
+        "v": "Indeed, my heart trembles at this;",
+        "id": 2
+      }
+    ],
+    "id": 1
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "it is moved out of its place.",
+        "id": 4
+      }
+    ],
+    "id": 3
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 2,
+        "v": "Hear, oh, hear the noise of his voice,",
+        "id": 6
+      }
+    ],
+    "id": 5
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "the sound that goes out from his mouth.",
+        "id": 8
+      }
+    ],
+    "id": 7
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 3,
+        "v": "He sends it out under the whole sky,",
+        "id": 10
+      }
+    ],
+    "id": 9
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and he sends out his lightning to the edges of the earth.",
+        "id": 12
+      }
+    ],
+    "id": 11
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 4,
+        "v": "A voice roars after it;",
+        "id": 14
+      }
+    ],
+    "id": 13
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "he thunders with the voice of his majesty;",
+        "id": 16
+      }
+    ],
+    "id": 15
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "he does not restrain the lightning bolts when his voice is heard.",
+        "id": 18
+      }
+    ],
+    "id": 17
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 5,
+        "v": "God thunders marvelously with his voice;",
+        "id": 20
+      }
+    ],
+    "id": 19
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "he does great things that we cannot comprehend.",
+        "id": 22
+      }
+    ],
+    "id": 21
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 6,
+        "v": "For he says to the snow, ‘Fall on the earth’;",
+        "id": 24
+      }
+    ],
+    "id": 23
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "likewise to the rain shower,",
+        "id": 26
+      }
+    ],
+    "id": 25
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "‘Become a great shower of rain.’",
+        "id": 28
+      }
+    ],
+    "id": 27
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 7,
+        "v": "He stops the hand of every man from working,",
+        "id": 30
+      }
+    ],
+    "id": 29
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "so that all people whom he has made may see his deeds.",
+        "id": 32
+      }
+    ],
+    "id": 31
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 8,
+        "v": "Then the beasts go into hiding",
+        "id": 34
+      }
+    ],
+    "id": 33
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and stay in their dens.",
+        "id": 36
+      }
+    ],
+    "id": 35
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 9,
+        "v": "The storm comes from its chamber in the south",
+        "id": 38
+      }
+    ],
+    "id": 37
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and the cold from the scattering winds in the north.",
+        "id": 40
+      }
+    ],
+    "id": 39
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 10,
+        "v": "By the breath of God ice is given;",
+        "id": 42
+      }
+    ],
+    "id": 41
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "the expanse of the waters is frozen like metal.",
+        "id": 44
+      }
+    ],
+    "id": 43
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 11,
+        "v": "Indeed, he weighs down the thick cloud with moisture;",
+        "id": 46
+      }
+    ],
+    "id": 45
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "he scatters his lightning through the clouds.",
+        "id": 48
+      }
+    ],
+    "id": 47
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 12,
+        "v": "He swirls the clouds around by his guidance,",
+        "id": 50
+      }
+    ],
+    "id": 49
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "so that they may do whatever he commands them",
+        "id": 52
+      }
+    ],
+    "id": 51
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "above the surface of the whole world.",
+        "id": 54
+      }
+    ],
+    "id": 53
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 13,
+        "v": "He makes all of this happen; sometimes it happens for correction, sometimes for his land,",
+        "id": 56
+      }
+    ],
+    "id": 55
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and sometimes as acts of covenant faithfulness.",
+        "id": 58
+      }
+    ],
+    "id": 57
+  },
+  {
+    "t": "m",
+    "v": [],
+    "id": 59
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 14,
+        "v": "Listen to this, Job;",
+        "id": 61
+      }
+    ],
+    "id": 60
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "stop and think about God’s marvelous deeds.",
+        "id": 63
+      }
+    ],
+    "id": 62
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 15,
+        "v": "Do you know how God establishes the clouds",
+        "id": 65
+      }
+    ],
+    "id": 64
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and makes the lightning bolts to flash in them?",
+        "id": 67
+      }
+    ],
+    "id": 66
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 16,
+        "v": "Do you understand the floating of the clouds,",
+        "id": 69
+      }
+    ],
+    "id": 68
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "the marvelous deeds of God, who is perfect in knowledge?",
+        "id": 71
+      }
+    ],
+    "id": 70
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 17,
+        "v": "Do you understand how your garments become hot",
+        "id": 73
+      }
+    ],
+    "id": 72
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "when the land is still because the wind comes from the south?",
+        "id": 75
+      }
+    ],
+    "id": 74
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 18,
+        "v": "Can you spread out the sky as he can—",
+        "id": 77
+      }
+    ],
+    "id": 76
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "the sky, which is as strong as a mirror of cast metal?",
+        "id": 79
+      }
+    ],
+    "id": 78
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 19,
+        "v": "Teach us what we should say to him,",
+        "id": 81
+      }
+    ],
+    "id": 80
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "for we cannot lay out our arguments in order because of the darkness of our minds.",
+        "id": 83
+      }
+    ],
+    "id": 82
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 20,
+        "v": "Should he be told that I wish to speak with him?",
+        "id": 85
+      }
+    ],
+    "id": 84
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Would a person wish to be swallowed up?",
+        "id": 87
+      }
+    ],
+    "id": 86
+  },
+  {
+    "t": "m",
+    "v": [],
+    "id": 88
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 21,
+        "v": "Now, people cannot look at the sun when it is bright in the sky",
+        "id": 90
+      }
+    ],
+    "id": 89
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "after the wind has passed through and has cleared it of its clouds.",
+        "id": 92
+      }
+    ],
+    "id": 91
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 22,
+        "v": "Out of the north comes golden splendor—",
+        "id": 94
+      }
+    ],
+    "id": 93
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "over God is fearsome majesty.",
+        "id": 96
+      }
+    ],
+    "id": 95
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 23,
+        "v": "As for the Almighty, we cannot find him!",
+        "id": 98
+      }
+    ],
+    "id": 97
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "He is great in power;",
+        "id": 100
+      }
+    ],
+    "id": 99
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "he does not oppress justice and abundant righteousness.",
+        "id": 102
+      }
+    ],
+    "id": 101
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 24,
+        "v": "Therefore, people fear him.",
+        "id": 104
+      }
+    ],
+    "id": 103
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "He does not pay any attention to those who are wise in their own minds.”",
+        "id": 106
+      }
+    ],
+    "id": 105
+  }
+]

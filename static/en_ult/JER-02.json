@@ -1,0 +1,852 @@
+[
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 1,
+        "v": "The word of Yahweh came to me, saying,",
+        "id": 1
+      }
+    ],
+    "id": 0
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 2,
+        "v": "“Go and proclaim in the hearing of Jerusalem. Say, ‘Yahweh says this:",
+        "id": 3
+      }
+    ],
+    "id": 2
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "I have called to mind on your behalf the covenant faithfulness in your youthfulness, your love at the time when we were engaged,",
+        "id": 5
+      }
+    ],
+    "id": 4
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "when you went after me in the wilderness, the land that was not sown.",
+        "id": 7
+      }
+    ],
+    "id": 6
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 3,
+        "v": "Israel was set apart to Yahweh, the firstfruits of his harvest!",
+        "id": 9
+      }
+    ],
+    "id": 8
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "All who ate from the firstfruits were held guilty; disaster came upon them—this is Yahweh’s declaration.’”",
+        "id": 11
+      }
+    ],
+    "id": 10
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 4,
+        "v": "Hear the word of Yahweh, house of Jacob, all you clans of the house of Israel.",
+        "id": 13
+      }
+    ],
+    "id": 12
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 5,
+        "v": "Yahweh says this, “What did your fathers find wrong with me, that they went far from following me?",
+        "id": 15
+      }
+    ],
+    "id": 14
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "That they went after useless idols and became useless themselves?",
+        "id": 17
+      }
+    ],
+    "id": 16
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 6,
+        "v": "They did not say, ‘Where is Yahweh, who brought us up from the land of Egypt?",
+        "id": 19
+      }
+    ],
+    "id": 18
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Where is Yahweh, who led us to the wilderness, into the land of the Arabah and pits,",
+        "id": 21
+      }
+    ],
+    "id": 20
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "in a land of drought and deep darkness,",
+        "id": 23
+      }
+    ],
+    "id": 22
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "a land through which no one passes and where no one lives?’",
+        "id": 25
+      }
+    ],
+    "id": 24
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 7,
+        "v": "But I brought you to the land of Carmel, to eat its fruit and other good things!",
+        "id": 27
+      }
+    ],
+    "id": 26
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Yet when you came, you defiled my land, you made my inheritance an abomination!",
+        "id": 29
+      }
+    ],
+    "id": 28
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 8,
+        "v": "The priest did not say, ‘Where is Yahweh?’ and the experts in the law did not care about me!",
+        "id": 31
+      }
+    ],
+    "id": 30
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "The shepherds transgressed against me. The prophets prophesied for Baal and walked after unprofitable things.",
+        "id": 33
+      }
+    ],
+    "id": 32
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 9,
+        "v": "So I will still accuse you—this is Yahweh’s declaration—and I will accuse your sons’ sons.",
+        "id": 35
+      }
+    ],
+    "id": 34
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 10,
+        "v": "For cross over to the coasts of Kittim and look. Send messengers out to Kedar and find out",
+        "id": 37
+      }
+    ],
+    "id": 36
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and see if there has ever before been anything like this.",
+        "id": 39
+      }
+    ],
+    "id": 38
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 11,
+        "v": "Has a nation exchanged gods, even though they were not gods?",
+        "id": 41
+      }
+    ],
+    "id": 40
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "But my people have exchanged their glory for what cannot help them.",
+        "id": 43
+      }
+    ],
+    "id": 42
+  },
+  {
+    "t": "f",
+    "c": "+",
+    "v": [
+      {
+        "t": "ft",
+        "v": "Instead of",
+        "id": 45
+      },
+      {
+        "t": "fqa",
+        "v": "their glory",
+        "id": 46
+      },
+      {
+        "t": "t",
+        "v": ", some ancient copies have",
+        "id": 47
+      },
+      {
+        "t": "fqa",
+        "v": "my glory",
+        "id": 48
+      },
+      {
+        "t": "t",
+        "v": ".",
+        "id": 49
+      }
+    ],
+    "id": 44
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 12,
+        "v": "Shudder, heavens, because of this! Be shocked and horrified—this is Yahweh’s declaration.",
+        "id": 51
+      }
+    ],
+    "id": 50
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 13,
+        "v": "For my people have committed two evils against me: They have abandoned the springs of living waters,",
+        "id": 53
+      }
+    ],
+    "id": 52
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and they have dug out cisterns for themselves,",
+        "id": 55
+      }
+    ],
+    "id": 54
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "broken cisterns that cannot hold water.",
+        "id": 57
+      }
+    ],
+    "id": 56
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 14,
+        "v": "Is Israel a slave? Was he born in his master’s home? So why has he become plunder?",
+        "id": 59
+      }
+    ],
+    "id": 58
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 15,
+        "v": "Young lions roared against him. They made a lot of noise and made his land a horror.",
+        "id": 61
+      }
+    ],
+    "id": 60
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "His cities are destroyed without any inhabitants.",
+        "id": 63
+      }
+    ],
+    "id": 62
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 16,
+        "v": "Also, the people of Memphis and Tahpanhes will shave your skull.",
+        "id": 65
+      }
+    ],
+    "id": 64
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 17,
+        "v": "Did you not do this to yourselves",
+        "id": 67
+      }
+    ],
+    "id": 66
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "when you abandoned Yahweh your God, while he was leading you along the way?",
+        "id": 69
+      }
+    ],
+    "id": 68
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 18,
+        "v": "So now, why take the road to Egypt and drink the waters of Shihor?",
+        "id": 71
+      }
+    ],
+    "id": 70
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Why take the road to Assyria and drink the waters of the Euphrates River?",
+        "id": 73
+      }
+    ],
+    "id": 72
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 19,
+        "v": "Your wickedness rebukes you, and your faithlessness punishes you. So think about it and understand that it is wicked and bitter",
+        "id": 75
+      }
+    ],
+    "id": 74
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "when you forsake Yahweh your God, and have no fear of me—this is the declaration of Lord Yahweh of hosts.",
+        "id": 77
+      }
+    ],
+    "id": 76
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 20,
+        "v": "For I broke your yoke that you had in ancient days; I tore your fetters off you. Still you said,",
+        "id": 79
+      }
+    ],
+    "id": 78
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "‘I will not serve!’ since you bowed down on every high hill and beneath every leafy tree, you adulterer.",
+        "id": 81
+      }
+    ],
+    "id": 80
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 21,
+        "v": "I planted you as a choice vine, completely from pure seed.",
+        "id": 83
+      }
+    ],
+    "id": 82
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "How then have you have changed yourself into a corrupt, worthless vine?",
+        "id": 85
+      }
+    ],
+    "id": 84
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 22,
+        "v": "For even if you clean yourself in the river or wash with strong soap,",
+        "id": 87
+      }
+    ],
+    "id": 86
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "your iniquity is a stain before me—this is the declaration of the Lord Yahweh.",
+        "id": 89
+      }
+    ],
+    "id": 88
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 23,
+        "v": "How can you say, ‘I am not defiled! I have not walked after the Baals’?",
+        "id": 91
+      }
+    ],
+    "id": 90
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Look at what you did in the valleys! Consider what you have done—you are a swift female camel running here and there,",
+        "id": 93
+      }
+    ],
+    "id": 92
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 24,
+        "v": "a wild donkey accustomed to the wilderness, in her heat sniffing the wind!",
+        "id": 95
+      }
+    ],
+    "id": 94
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Who can restrain her lust? None of the males need wear themselves out pursuing her; at mating time they will find her.",
+        "id": 97
+      }
+    ],
+    "id": 96
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 25,
+        "v": "You must restrain your feet from becoming bare and your throat from being thirsty!",
+        "id": 99
+      }
+    ],
+    "id": 98
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "But you have said, ‘It is hopeless! No, I love strangers and go after them!’",
+        "id": 101
+      }
+    ],
+    "id": 100
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 26,
+        "v": "Like the shame of a thief when he is found, so the house of Israel will be ashamed—",
+        "id": 103
+      }
+    ],
+    "id": 102
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "they, their kings, their princes, and their priests and prophets!",
+        "id": 105
+      }
+    ],
+    "id": 104
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 27,
+        "v": "These are the ones who say to the tree, ‘You are my father,’ and to the stone, ‘You gave birth to me.’",
+        "id": 107
+      }
+    ],
+    "id": 106
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "For their back faces me and not their faces. Nevertheless, they say in the time of troubles, ‘Arise and save us!’",
+        "id": 109
+      }
+    ],
+    "id": 108
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 28,
+        "v": "Yet where are the gods that you made for yourselves? Let them arise if they wish to save you in your time of troubles,",
+        "id": 111
+      }
+    ],
+    "id": 110
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "for your idols equal your cities in number, Judah!",
+        "id": 113
+      }
+    ],
+    "id": 112
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 29,
+        "v": "So why do you accuse me of doing wrong? All of you have sinned against me—this is Yahweh’s declaration.",
+        "id": 115
+      }
+    ],
+    "id": 114
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 30,
+        "v": "I have punished your people in vain. They would not accept discipline.",
+        "id": 117
+      }
+    ],
+    "id": 116
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Your sword has devoured your prophets like a destructive lion!",
+        "id": 119
+      }
+    ],
+    "id": 118
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 31,
+        "v": "You who belong to this generation! Pay attention to my word, the word of Yahweh! Have I been a wilderness to Israel?",
+        "id": 121
+      }
+    ],
+    "id": 120
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Or a land of deep darkness? Why would my people say, ‘Let us wander around, we will not go to you anymore’?",
+        "id": 123
+      }
+    ],
+    "id": 122
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 32,
+        "v": "Will a virgin forget her jewelry, a bride her veils?",
+        "id": 125
+      }
+    ],
+    "id": 124
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Yet my people have forgotten me for days without number!",
+        "id": 127
+      }
+    ],
+    "id": 126
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 33,
+        "v": "How well you make your way to look for love.",
+        "id": 129
+      }
+    ],
+    "id": 128
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "You have even taught your ways to wicked women.",
+        "id": 131
+      }
+    ],
+    "id": 130
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 34,
+        "v": "The blood that was the life of innocent, poor people has been found on your clothes.",
+        "id": 133
+      }
+    ],
+    "id": 132
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "These people were not discovered in acts of burglary.",
+        "id": 135
+      }
+    ],
+    "id": 134
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 35,
+        "v": "Yet you say, ‘I am innocent; surely his anger has turned away from me.’",
+        "id": 137
+      }
+    ],
+    "id": 136
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "But look! I will bring down judgment on you because you say, ‘I have not sinned.’",
+        "id": 139
+      }
+    ],
+    "id": 138
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 36,
+        "v": "Why do you treat so very lightly this change in your ways?",
+        "id": 141
+      }
+    ],
+    "id": 140
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "You will also be disappointed by Egypt, just as you were by Assyria.",
+        "id": 143
+      }
+    ],
+    "id": 142
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 37,
+        "v": "You will also go out from there dejected, with your hands on your head,",
+        "id": 145
+      }
+    ],
+    "id": 144
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "for Yahweh has rejected the ones whom you trusted, so you will not be helped by them.”",
+        "id": 147
+      }
+    ],
+    "id": 146
+  }
+]

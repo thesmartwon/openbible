@@ -1,0 +1,659 @@
+[
+  {
+    "t": "m",
+    "v": [],
+    "id": 0
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 1,
+        "v": "“I was ready to be sought out by those who did not ask; I was ready to be found by those who did not seek.",
+        "id": 2
+      }
+    ],
+    "id": 1
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "I said, ‘Here I am! Here I am!’ to a nation that did not call on my name.",
+        "id": 4
+      }
+    ],
+    "id": 3
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 2,
+        "v": "I have spread out my hands all day to a stubborn people,",
+        "id": 6
+      }
+    ],
+    "id": 5
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "who walk in a way that is not good, who have walked after their own thoughts and plans!",
+        "id": 8
+      }
+    ],
+    "id": 7
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 3,
+        "v": "They are a people who continually offend me,",
+        "id": 10
+      }
+    ],
+    "id": 9
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "offering sacrifices in gardens, and burning incense on brick tiles.",
+        "id": 12
+      }
+    ],
+    "id": 11
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 4,
+        "v": "They sit among the graves and keep watch all night,",
+        "id": 14
+      }
+    ],
+    "id": 13
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and eat pork with the broth of foul meat in their dishes.",
+        "id": 16
+      }
+    ],
+    "id": 15
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 5,
+        "v": "They say, ‘Stand away, do not come near to me, for I am holier than you.’",
+        "id": 18
+      }
+    ],
+    "id": 17
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "These things are smoke in my nose, a fire that burns all day long.",
+        "id": 20
+      }
+    ],
+    "id": 19
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 6,
+        "v": "Look, it is written before me:",
+        "id": 22
+      }
+    ],
+    "id": 21
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "I will not keep quiet, for I will pay them back; I will repay them into their laps,",
+        "id": 24
+      }
+    ],
+    "id": 23
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 7,
+        "v": "for their sins and the sins of their fathers together,” says Yahweh.",
+        "id": 26
+      }
+    ],
+    "id": 25
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "“I will repay them for burning incense on the mountains and for mocking me on the hills.",
+        "id": 28
+      }
+    ],
+    "id": 27
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "I will therefore measure out their past deeds into their laps.”",
+        "id": 30
+      }
+    ],
+    "id": 29
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 8,
+        "v": "This is what Yahweh says, “As when juice is found in a cluster of grapes,",
+        "id": 32
+      }
+    ],
+    "id": 31
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "when one says, ‘Do not ruin it, for there is good in it,’",
+        "id": 34
+      }
+    ],
+    "id": 33
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "this is what I will do for my servants’ sake: I will not ruin them all.",
+        "id": 36
+      }
+    ],
+    "id": 35
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 9,
+        "v": "I will bring descendants from Jacob, and from Judah ones who will possess my mountains.",
+        "id": 38
+      }
+    ],
+    "id": 37
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "My chosen ones will possess the land, and my servants will live there.",
+        "id": 40
+      }
+    ],
+    "id": 39
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 10,
+        "v": "Sharon will become a pasture for the flocks, and the Valley of Achor a resting place for herds,",
+        "id": 42
+      }
+    ],
+    "id": 41
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "for my people who seek me.",
+        "id": 44
+      }
+    ],
+    "id": 43
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 11,
+        "v": "But you who abandon Yahweh, who forget my holy mountain,",
+        "id": 46
+      }
+    ],
+    "id": 45
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "who prepare a table for Fortune,",
+        "id": 48
+      }
+    ],
+    "id": 47
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and fill wine glasses of mixed wine for Destiny.",
+        "id": 50
+      }
+    ],
+    "id": 49
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 12,
+        "v": "I will appoint you for the sword, and you will all bow down to the slaughter,",
+        "id": 52
+      }
+    ],
+    "id": 51
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "because when I called, you did not answer; when I spoke, you did not listen.",
+        "id": 54
+      }
+    ],
+    "id": 53
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "But you did what was evil in my sight and and chose to do what displeases me.”",
+        "id": 56
+      }
+    ],
+    "id": 55
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 13,
+        "v": "This is what the Lord Yahweh says,",
+        "id": 58
+      }
+    ],
+    "id": 57
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "“Look, my servants will eat, but you will be hungry;",
+        "id": 60
+      }
+    ],
+    "id": 59
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "look, my servants will drink, but you will be thirsty;",
+        "id": 62
+      }
+    ],
+    "id": 61
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "look, my servants will rejoice, but you will be put to shame.",
+        "id": 64
+      }
+    ],
+    "id": 63
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 14,
+        "v": "Look, my servants will shout with joy because of gladness of heart,",
+        "id": 66
+      }
+    ],
+    "id": 65
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "but you will cry because of the pain of the heart, and will wail because of the crushing of the spirit.",
+        "id": 68
+      }
+    ],
+    "id": 67
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 15,
+        "v": "You will leave behind your name as a curse for my chosen ones to speak; I, the Lord Yahweh, will kill you;",
+        "id": 70
+      }
+    ],
+    "id": 69
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "I will call my servants by another name.",
+        "id": 72
+      }
+    ],
+    "id": 71
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 16,
+        "v": "Whoever pronounces a blessing on the earth will be blessed by me, the God of truth.",
+        "id": 74
+      }
+    ],
+    "id": 73
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Whoever takes an oath on the earth will swear by me, the God of truth,",
+        "id": 76
+      }
+    ],
+    "id": 75
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "because the former troubles will be forgotten, for they will be hidden from my eyes.",
+        "id": 78
+      }
+    ],
+    "id": 77
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 17,
+        "v": "For see, I am about to create new heavens and a new earth;",
+        "id": 80
+      }
+    ],
+    "id": 79
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and the former things will not be remembered or be brought to mind.",
+        "id": 82
+      }
+    ],
+    "id": 81
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 18,
+        "v": "But you will be glad and rejoice forever in what I am about to create. See, I am about to create Jerusalem as a joy, and her people as a delight.",
+        "id": 84
+      }
+    ],
+    "id": 83
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 19,
+        "v": "I will rejoice over Jerusalem and be glad over my people;",
+        "id": 86
+      }
+    ],
+    "id": 85
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "weeping and cries of distress will no longer be heard in her.",
+        "id": 88
+      }
+    ],
+    "id": 87
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 20,
+        "v": "Never again will an infant live there only a few days;",
+        "id": 90
+      }
+    ],
+    "id": 89
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "nor will an old man die before his time.",
+        "id": 92
+      }
+    ],
+    "id": 91
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "One who dies at one hundred years old will be considered a young person.",
+        "id": 94
+      }
+    ],
+    "id": 93
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Anyone who fails to reach the age of one hundred years old will be considered cursed.",
+        "id": 96
+      }
+    ],
+    "id": 95
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 21,
+        "v": "They will build houses and inhabit them, and they will plant vineyards and eat their fruit.",
+        "id": 98
+      }
+    ],
+    "id": 97
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 22,
+        "v": "No longer will they build a house and another live in it; they will not plant, and another eat;",
+        "id": 100
+      }
+    ],
+    "id": 99
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "for as the days of trees will be the days of my people. My chosen will fully outlive the work of their hands.",
+        "id": 102
+      }
+    ],
+    "id": 101
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 23,
+        "v": "They will not labor in vain, nor give birth to dismay.",
+        "id": 104
+      }
+    ],
+    "id": 103
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "For they are the children of those blessed by Yahweh, and their descendants with them.",
+        "id": 106
+      }
+    ],
+    "id": 105
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 24,
+        "v": "Before they call, I will answer; and while they are still speaking, I will hear.",
+        "id": 108
+      }
+    ],
+    "id": 107
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 25,
+        "v": "The wolf and the lamb will graze together, and the lion will eat straw like the ox;",
+        "id": 110
+      }
+    ],
+    "id": 109
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "but dust will be the serpent’s food.",
+        "id": 112
+      }
+    ],
+    "id": 111
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "They will no longer hurt nor destroy on all my holy mountain,” says Yahweh.",
+        "id": 114
+      }
+    ],
+    "id": 113
+  }
+]

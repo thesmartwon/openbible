@@ -1,0 +1,766 @@
+[
+  {
+    "t": "m",
+    "v": [],
+    "id": 0
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 1,
+        "v": "The Lord has covered the daughter of Zion under the cloud of his anger.",
+        "id": 2
+      }
+    ],
+    "id": 1
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "He has thrown the splendor of Israel down from heaven to earth.",
+        "id": 4
+      }
+    ],
+    "id": 3
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "He has not remembered his footstool on the day of his anger.",
+        "id": 6
+      }
+    ],
+    "id": 5
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 2,
+        "v": "The Lord has swallowed up and has had no compassion on all the towns of Jacob.",
+        "id": 8
+      }
+    ],
+    "id": 7
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "In the days of his anger he has thrown down the fortified cities of the daughter of Judah;",
+        "id": 10
+      }
+    ],
+    "id": 9
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "in dishonor he has brought down to the ground the kingdom and its rulers.",
+        "id": 12
+      }
+    ],
+    "id": 11
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 3,
+        "v": "With fierce anger he has cut off every horn of Israel.",
+        "id": 14
+      }
+    ],
+    "id": 13
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "He has withdrawn his right hand from before the enemy.",
+        "id": 16
+      }
+    ],
+    "id": 15
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "He has burned up Jacob like a blazing fire that devours everything around it.",
+        "id": 18
+      }
+    ],
+    "id": 17
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 4,
+        "v": "Like an enemy he has bent his bow toward us,",
+        "id": 20
+      }
+    ],
+    "id": 19
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "with his right is ready to shoot.",
+        "id": 22
+      }
+    ],
+    "id": 21
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "He has slaughtered all who had been so pleasing to him in the tent of the daughter of Zion;",
+        "id": 24
+      }
+    ],
+    "id": 23
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "he has poured out his wrath like fire.",
+        "id": 26
+      }
+    ],
+    "id": 25
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 5,
+        "v": "The Lord has become like an enemy. He has swallowed up Israel.",
+        "id": 28
+      }
+    ],
+    "id": 27
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "He has swallowed up all her palaces. He has destroyed her strongholds.",
+        "id": 30
+      }
+    ],
+    "id": 29
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "He has increased mourning and lamentation within the daughter of Judah.",
+        "id": 32
+      }
+    ],
+    "id": 31
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 6,
+        "v": "He has attacked his tabernacle like a garden hut. He has destroyed the place of the solemn assembly.",
+        "id": 34
+      }
+    ],
+    "id": 33
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Yahweh has caused both solemn assembly and Sabbath to be forgotten in Zion,",
+        "id": 36
+      }
+    ],
+    "id": 35
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "for he has despised both king and priest in the indignation of his anger.",
+        "id": 38
+      }
+    ],
+    "id": 37
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 7,
+        "v": "The Lord has rejected his altar and disowned his sanctuary.",
+        "id": 40
+      }
+    ],
+    "id": 39
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "He has given over the walls of her palaces into the hand of the enemy.",
+        "id": 42
+      }
+    ],
+    "id": 41
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "They have raised a shout in the house of Yahweh, as on the day of an appointed feast.",
+        "id": 44
+      }
+    ],
+    "id": 43
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 8,
+        "v": "Yahweh decided to destroy the city wall of the daughter of Zion.",
+        "id": 46
+      }
+    ],
+    "id": 45
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "He has stretched out the measuring line and has not withheld his hand from destroying the wall.",
+        "id": 48
+      }
+    ],
+    "id": 47
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "He has made the ramparts and wall to lament; together they wasted away.",
+        "id": 50
+      }
+    ],
+    "id": 49
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 9,
+        "v": "Her gates have sunk into the ground; he has destroyed and broken the bars of her gate.",
+        "id": 52
+      }
+    ],
+    "id": 51
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Her king and her princes are among the nations, the law is no more",
+        "id": 54
+      }
+    ],
+    "id": 53
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and her prophets find no vision from Yahweh.",
+        "id": 56
+      }
+    ],
+    "id": 55
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 10,
+        "v": "The elders of the daughter of Zion sit on the ground in silence.",
+        "id": 58
+      }
+    ],
+    "id": 57
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "They have thrown dust on their heads and put on sackcloth.",
+        "id": 60
+      }
+    ],
+    "id": 59
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "The virgins of Jerusalem have bowed their heads to the ground.",
+        "id": 62
+      }
+    ],
+    "id": 61
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 11,
+        "v": "My eyes have failed from their tears; my stomach churns;",
+        "id": 64
+      }
+    ],
+    "id": 63
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "my inner parts are poured out to the ground because of the destruction of the daughter of my people,",
+        "id": 66
+      }
+    ],
+    "id": 65
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "children and infants faint in the streets of the city.",
+        "id": 68
+      }
+    ],
+    "id": 67
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 12,
+        "v": "They say to their mothers, “Where is grain and wine?”",
+        "id": 70
+      }
+    ],
+    "id": 69
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "as they faint like a wounded man in the streets of the city,",
+        "id": 72
+      }
+    ],
+    "id": 71
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "their lives are poured out on the bosom of their mothers.",
+        "id": 74
+      }
+    ],
+    "id": 73
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 13,
+        "v": "What can I say to you, daughter of Jerusalem?",
+        "id": 76
+      }
+    ],
+    "id": 75
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "To what can I compare to you, that I may comfort you, virgin daughter of Zion?",
+        "id": 78
+      }
+    ],
+    "id": 77
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Your wound is as great as the sea. Who can heal you?",
+        "id": 80
+      }
+    ],
+    "id": 79
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 14,
+        "v": "Your prophets have seen false and worthless visions for you.",
+        "id": 82
+      }
+    ],
+    "id": 81
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "They have not exposed your iniquity to restore your fortunes,",
+        "id": 84
+      }
+    ],
+    "id": 83
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "but for you they gave utterances that are false and misleading.",
+        "id": 86
+      }
+    ],
+    "id": 85
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 15,
+        "v": "All those who pass along the road clap their hands at you.",
+        "id": 88
+      }
+    ],
+    "id": 87
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "They hiss and shake their heads against the daughter of Jerusalem and say,",
+        "id": 90
+      }
+    ],
+    "id": 89
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "“Is this the city that they called ‘The Perfection of Beauty,’ ‘The Joy for All of Earth’?”",
+        "id": 92
+      }
+    ],
+    "id": 91
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 16,
+        "v": "All your enemies open their mouths against you.",
+        "id": 94
+      }
+    ],
+    "id": 93
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "They sneer and grind their teeth in rage and say, “We have swallowed her up!",
+        "id": 96
+      }
+    ],
+    "id": 95
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "This is the day we have waited for! We have lived to see it!”",
+        "id": 98
+      }
+    ],
+    "id": 97
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 17,
+        "v": "Yahweh has done what he planned to do. He has fulfilled his word.",
+        "id": 100
+      }
+    ],
+    "id": 99
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "He has overthrown you without pity,",
+        "id": 102
+      }
+    ],
+    "id": 101
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "for he has permitted the enemy to rejoice over you; he has lifted up the horn of your enemies.",
+        "id": 104
+      }
+    ],
+    "id": 103
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 18,
+        "v": "Their heart cried out to the Lord,",
+        "id": 106
+      }
+    ],
+    "id": 105
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "walls of the daughter of Zion! Make your tears flow down like a river day and night.",
+        "id": 108
+      }
+    ],
+    "id": 107
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Give yourself no relief, your eyes no relief.",
+        "id": 110
+      }
+    ],
+    "id": 109
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 19,
+        "v": "Arise, cry out in the night, at the beginning of the night watches!",
+        "id": 112
+      }
+    ],
+    "id": 111
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Pour out your heart like water before the face of the Lord.",
+        "id": 114
+      }
+    ],
+    "id": 113
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Lift up your hands to him for the lives of your children who faint with hunger at the corner of every street.”",
+        "id": 116
+      }
+    ],
+    "id": 115
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 20,
+        "v": "See, Yahweh, and consider those you have dealt in this way.",
+        "id": 118
+      }
+    ],
+    "id": 117
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Should women eat the fruit of their wombs, the children whom they have cared for?",
+        "id": 120
+      }
+    ],
+    "id": 119
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Should priest and prophet be slaughtered in the sanctuary of the Lord?",
+        "id": 122
+      }
+    ],
+    "id": 121
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 21,
+        "v": "Both the young and the old lie on the dust of the streets.",
+        "id": 124
+      }
+    ],
+    "id": 123
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "My young women and my young men have fallen by the sword;",
+        "id": 126
+      }
+    ],
+    "id": 125
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "you have slaughtered them without taking pity on them.",
+        "id": 128
+      }
+    ],
+    "id": 127
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 22,
+        "v": "You have summoned, as you would call the people to a feast day, my terrors on every side, on the day of the anger of Yahweh no one escaped or survived;",
+        "id": 130
+      }
+    ],
+    "id": 129
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "those I cared for and raised,",
+        "id": 132
+      }
+    ],
+    "id": 131
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "my enemy has destroyed.",
+        "id": 134
+      }
+    ],
+    "id": 133
+  }
+]

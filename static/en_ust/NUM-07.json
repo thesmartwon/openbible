@@ -1,0 +1,2112 @@
+[
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 1,
+        "id": 1
+      },
+      {
+        "t": "w",
+        "v": "When",
+        "id": 2
+      },
+      {
+        "t": "w",
+        "v": "Moses",
+        "id": 3
+      },
+      {
+        "t": "w",
+        "v": "had",
+        "id": 4
+      },
+      {
+        "t": "w",
+        "v": "finished",
+        "id": 5
+      },
+      {
+        "t": "w",
+        "v": "setting",
+        "id": 6
+      },
+      {
+        "t": "w",
+        "v": "up",
+        "id": 7
+      },
+      {
+        "t": "w",
+        "v": "the",
+        "id": 8
+      },
+      {
+        "t": "w",
+        "v": "sacred",
+        "id": 9
+      },
+      {
+        "t": "w",
+        "v": "tent",
+        "id": 10
+      },
+      {
+        "t": "t",
+        "v": ",",
+        "id": 11
+      },
+      {
+        "t": "w",
+        "v": "he",
+        "id": 12
+      },
+      {
+        "t": "w",
+        "v": "poured",
+        "id": 13
+      },
+      {
+        "t": "w",
+        "v": "oil",
+        "id": 14
+      },
+      {
+        "t": "w",
+        "v": "on",
+        "id": 15
+      },
+      {
+        "t": "w",
+        "v": "it",
+        "id": 16
+      },
+      {
+        "t": "t",
+        "v": ",",
+        "id": 17
+      },
+      {
+        "t": "w",
+        "v": "and",
+        "id": 18
+      },
+      {
+        "t": "w",
+        "v": "set",
+        "id": 19
+      },
+      {
+        "t": "w",
+        "v": "it",
+        "id": 20
+      },
+      {
+        "t": "w",
+        "v": "apart",
+        "id": 21
+      },
+      {
+        "t": "w",
+        "v": "for",
+        "id": 22
+      },
+      {
+        "t": "w",
+        "v": "the",
+        "id": 23
+      },
+      {
+        "t": "w",
+        "v": "honor",
+        "id": 24
+      },
+      {
+        "t": "w",
+        "v": "of",
+        "id": 25
+      },
+      {
+        "t": "w",
+        "v": "Yahweh",
+        "id": 26
+      },
+      {
+        "t": "t",
+        "v": ".",
+        "id": 27
+      },
+      {
+        "t": "w",
+        "v": "He",
+        "id": 28
+      },
+      {
+        "t": "w",
+        "v": "also",
+        "id": 29
+      },
+      {
+        "t": "w",
+        "v": "dedicated",
+        "id": 30
+      },
+      {
+        "t": "w",
+        "v": "the",
+        "id": 31
+      },
+      {
+        "t": "w",
+        "v": "things",
+        "id": 32
+      },
+      {
+        "t": "w",
+        "v": "that",
+        "id": 33
+      },
+      {
+        "t": "w",
+        "v": "are",
+        "id": 34
+      },
+      {
+        "t": "w",
+        "v": "inside",
+        "id": 35
+      },
+      {
+        "t": "w",
+        "v": "the",
+        "id": 36
+      },
+      {
+        "t": "w",
+        "v": "sacred",
+        "id": 37
+      },
+      {
+        "t": "w",
+        "v": "tent",
+        "id": 38
+      },
+      {
+        "t": "t",
+        "v": ",",
+        "id": 39
+      },
+      {
+        "t": "w",
+        "v": "and",
+        "id": 40
+      },
+      {
+        "t": "w",
+        "v": "the",
+        "id": 41
+      },
+      {
+        "t": "w",
+        "v": "altar",
+        "id": 42
+      },
+      {
+        "t": "w",
+        "v": "for",
+        "id": 43
+      },
+      {
+        "t": "w",
+        "v": "burning",
+        "id": 44
+      },
+      {
+        "t": "w",
+        "v": "sacrifices",
+        "id": 45
+      },
+      {
+        "t": "t",
+        "v": ",",
+        "id": 46
+      },
+      {
+        "t": "w",
+        "v": "and",
+        "id": 47
+      },
+      {
+        "t": "w",
+        "v": "all",
+        "id": 48
+      },
+      {
+        "t": "w",
+        "v": "the",
+        "id": 49
+      },
+      {
+        "t": "w",
+        "v": "things",
+        "id": 50
+      },
+      {
+        "t": "w",
+        "v": "that",
+        "id": 51
+      },
+      {
+        "t": "w",
+        "v": "would",
+        "id": 52
+      },
+      {
+        "t": "w",
+        "v": "be",
+        "id": 53
+      },
+      {
+        "t": "w",
+        "v": "used",
+        "id": 54
+      },
+      {
+        "t": "w",
+        "v": "at",
+        "id": 55
+      },
+      {
+        "t": "w",
+        "v": "the",
+        "id": 56
+      },
+      {
+        "t": "w",
+        "v": "altar",
+        "id": 57
+      },
+      {
+        "t": "t",
+        "v": ".",
+        "id": 58
+      },
+      {
+        "t": "v",
+        "n": 2,
+        "id": 59
+      },
+      {
+        "t": "w",
+        "v": "Then",
+        "id": 60
+      },
+      {
+        "t": "w",
+        "v": "the",
+        "id": 61
+      },
+      {
+        "t": "w",
+        "v": "leaders",
+        "id": 62
+      },
+      {
+        "t": "w",
+        "v": "of",
+        "id": 63
+      },
+      {
+        "t": "w",
+        "v": "the",
+        "id": 64
+      },
+      {
+        "t": "w",
+        "v": "twelve",
+        "id": 65
+      },
+      {
+        "t": "w",
+        "v": "Israelite",
+        "id": 66
+      },
+      {
+        "t": "w",
+        "v": "tribes",
+        "id": 67
+      },
+      {
+        "t": "t",
+        "v": ",",
+        "id": 68
+      },
+      {
+        "t": "w",
+        "v": "the",
+        "id": 69
+      },
+      {
+        "t": "w",
+        "v": "same",
+        "id": 70
+      },
+      {
+        "t": "w",
+        "v": "men",
+        "id": 71
+      },
+      {
+        "t": "w",
+        "v": "who",
+        "id": 72
+      },
+      {
+        "t": "w",
+        "v": "had",
+        "id": 73
+      },
+      {
+        "t": "w",
+        "v": "helped",
+        "id": 74
+      },
+      {
+        "t": "w",
+        "v": "Aaron",
+        "id": 75
+      },
+      {
+        "t": "w",
+        "v": "and",
+        "id": 76
+      },
+      {
+        "t": "w",
+        "v": "Moses",
+        "id": 77
+      },
+      {
+        "t": "w",
+        "v": "to",
+        "id": 78
+      },
+      {
+        "t": "w",
+        "v": "count",
+        "id": 79
+      },
+      {
+        "t": "w",
+        "v": "the",
+        "id": 80
+      },
+      {
+        "t": "w",
+        "v": "men",
+        "id": 81
+      },
+      {
+        "t": "w",
+        "v": "who",
+        "id": 82
+      },
+      {
+        "t": "w",
+        "v": "could",
+        "id": 83
+      },
+      {
+        "t": "w",
+        "v": "fight",
+        "id": 84
+      },
+      {
+        "t": "w",
+        "v": "in",
+        "id": 85
+      },
+      {
+        "t": "w",
+        "v": "battles",
+        "id": 86
+      },
+      {
+        "t": "t",
+        "v": ",",
+        "id": 87
+      },
+      {
+        "t": "v",
+        "n": 3,
+        "id": 88
+      },
+      {
+        "t": "w",
+        "v": "came",
+        "id": 89
+      },
+      {
+        "t": "w",
+        "v": "to",
+        "id": 90
+      },
+      {
+        "t": "w",
+        "v": "the",
+        "id": 91
+      },
+      {
+        "t": "w",
+        "v": "sacred",
+        "id": 92
+      },
+      {
+        "t": "w",
+        "v": "tent",
+        "id": 93
+      },
+      {
+        "t": "t",
+        "v": ",",
+        "id": 94
+      },
+      {
+        "t": "w",
+        "v": "bringing",
+        "id": 95
+      },
+      {
+        "t": "w",
+        "v": "gifts",
+        "id": 96
+      },
+      {
+        "t": "w",
+        "v": "to",
+        "id": 97
+      },
+      {
+        "t": "w",
+        "v": "Yahweh",
+        "id": 98
+      },
+      {
+        "t": "t",
+        "v": ".",
+        "id": 99
+      },
+      {
+        "t": "w",
+        "v": "They",
+        "id": 100
+      },
+      {
+        "t": "w",
+        "v": "brought",
+        "id": 101
+      },
+      {
+        "t": "w",
+        "v": "six",
+        "id": 102
+      },
+      {
+        "t": "w",
+        "v": "sturdy",
+        "id": 103
+      },
+      {
+        "t": "w",
+        "v": "carts",
+        "id": 104
+      },
+      {
+        "t": "w",
+        "v": "and",
+        "id": 105
+      },
+      {
+        "t": "w",
+        "v": "twelve",
+        "id": 106
+      },
+      {
+        "t": "w",
+        "v": "oxen",
+        "id": 107
+      },
+      {
+        "t": "t",
+        "v": ",",
+        "id": 108
+      },
+      {
+        "t": "w",
+        "v": "one",
+        "id": 109
+      },
+      {
+        "t": "w",
+        "v": "ox",
+        "id": 110
+      },
+      {
+        "t": "w",
+        "v": "from",
+        "id": 111
+      },
+      {
+        "t": "w",
+        "v": "each",
+        "id": 112
+      },
+      {
+        "t": "w",
+        "v": "of",
+        "id": 113
+      },
+      {
+        "t": "w",
+        "v": "the",
+        "id": 114
+      },
+      {
+        "t": "w",
+        "v": "leaders",
+        "id": 115
+      },
+      {
+        "t": "w",
+        "v": "and",
+        "id": 116
+      },
+      {
+        "t": "w",
+        "v": "a",
+        "id": 117
+      },
+      {
+        "t": "w",
+        "v": "cart",
+        "id": 118
+      },
+      {
+        "t": "w",
+        "v": "from",
+        "id": 119
+      },
+      {
+        "t": "w",
+        "v": "each",
+        "id": 120
+      },
+      {
+        "t": "w",
+        "v": "of",
+        "id": 121
+      },
+      {
+        "t": "w",
+        "v": "the",
+        "id": 122
+      },
+      {
+        "t": "w",
+        "v": "two",
+        "id": 123
+      },
+      {
+        "t": "w",
+        "v": "leaders",
+        "id": 124
+      },
+      {
+        "t": "t",
+        "v": ".",
+        "id": 125
+      }
+    ],
+    "id": 0
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 4,
+        "id": 127
+      },
+      {
+        "t": "w",
+        "v": "Then",
+        "id": 128
+      },
+      {
+        "t": "w",
+        "v": "Yahweh",
+        "id": 129
+      },
+      {
+        "t": "w",
+        "v": "said",
+        "id": 130
+      },
+      {
+        "t": "w",
+        "v": "to",
+        "id": 131
+      },
+      {
+        "t": "w",
+        "v": "Moses",
+        "id": 132
+      },
+      {
+        "t": "t",
+        "v": ",",
+        "id": 133
+      },
+      {
+        "t": "v",
+        "n": 5,
+        "v": "“",
+        "id": 134
+      },
+      {
+        "t": "w",
+        "v": "Accept",
+        "id": 135
+      },
+      {
+        "t": "w",
+        "v": "these",
+        "id": 136
+      },
+      {
+        "t": "w",
+        "v": "gifts",
+        "id": 137
+      },
+      {
+        "t": "t",
+        "v": ",",
+        "id": 138
+      },
+      {
+        "t": "w",
+        "v": "in",
+        "id": 139
+      },
+      {
+        "t": "w",
+        "v": "order",
+        "id": 140
+      },
+      {
+        "t": "w",
+        "v": "that",
+        "id": 141
+      },
+      {
+        "t": "w",
+        "v": "the",
+        "id": 142
+      },
+      {
+        "t": "w",
+        "v": "descendants",
+        "id": 143
+      },
+      {
+        "t": "w",
+        "v": "of",
+        "id": 144
+      },
+      {
+        "t": "w",
+        "v": "Levi",
+        "id": 145
+      },
+      {
+        "t": "w",
+        "v": "can",
+        "id": 146
+      },
+      {
+        "t": "w",
+        "v": "use",
+        "id": 147
+      },
+      {
+        "t": "w",
+        "v": "them",
+        "id": 148
+      },
+      {
+        "t": "w",
+        "v": "for",
+        "id": 149
+      },
+      {
+        "t": "w",
+        "v": "carrying",
+        "id": 150
+      },
+      {
+        "t": "w",
+        "v": "the",
+        "id": 151
+      },
+      {
+        "t": "w",
+        "v": "sacred",
+        "id": 152
+      },
+      {
+        "t": "w",
+        "v": "items",
+        "id": 153
+      },
+      {
+        "t": "w",
+        "v": "that",
+        "id": 154
+      },
+      {
+        "t": "w",
+        "v": "are",
+        "id": 155
+      },
+      {
+        "t": "w",
+        "v": "here",
+        "id": 156
+      },
+      {
+        "t": "w",
+        "v": "at",
+        "id": 157
+      },
+      {
+        "t": "w",
+        "v": "the",
+        "id": 158
+      },
+      {
+        "t": "w",
+        "v": "sacred",
+        "id": 159
+      },
+      {
+        "t": "w",
+        "v": "tent",
+        "id": 160
+      },
+      {
+        "t": "t",
+        "v": ".”",
+        "id": 161
+      }
+    ],
+    "id": 126
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 6,
+        "id": 163
+      },
+      {
+        "t": "w",
+        "v": "So",
+        "id": 164
+      },
+      {
+        "t": "w",
+        "v": "Moses",
+        "id": 165
+      },
+      {
+        "t": "w",
+        "v": "took",
+        "id": 166
+      },
+      {
+        "t": "w",
+        "v": "the",
+        "id": 167
+      },
+      {
+        "t": "w",
+        "v": "carts",
+        "id": 168
+      },
+      {
+        "t": "w",
+        "v": "and",
+        "id": 169
+      },
+      {
+        "t": "w",
+        "v": "oxen",
+        "id": 170
+      },
+      {
+        "t": "w",
+        "v": "and",
+        "id": 171
+      },
+      {
+        "t": "w",
+        "v": "gave",
+        "id": 172
+      },
+      {
+        "t": "w",
+        "v": "them",
+        "id": 173
+      },
+      {
+        "t": "w",
+        "v": "to",
+        "id": 174
+      },
+      {
+        "t": "w",
+        "v": "the",
+        "id": 175
+      },
+      {
+        "t": "w",
+        "v": "descendants",
+        "id": 176
+      },
+      {
+        "t": "w",
+        "v": "of",
+        "id": 177
+      },
+      {
+        "t": "w",
+        "v": "Levi",
+        "id": 178
+      },
+      {
+        "t": "t",
+        "v": ".",
+        "id": 179
+      },
+      {
+        "t": "v",
+        "n": 7,
+        "id": 180
+      },
+      {
+        "t": "w",
+        "v": "He",
+        "id": 181
+      },
+      {
+        "t": "w",
+        "v": "gave",
+        "id": 182
+      },
+      {
+        "t": "w",
+        "v": "two",
+        "id": 183
+      },
+      {
+        "t": "w",
+        "v": "carts",
+        "id": 184
+      },
+      {
+        "t": "w",
+        "v": "and",
+        "id": 185
+      },
+      {
+        "t": "w",
+        "v": "four",
+        "id": 186
+      },
+      {
+        "t": "w",
+        "v": "oxen",
+        "id": 187
+      },
+      {
+        "t": "w",
+        "v": "to",
+        "id": 188
+      },
+      {
+        "t": "w",
+        "v": "the",
+        "id": 189
+      },
+      {
+        "t": "w",
+        "v": "descendants",
+        "id": 190
+      },
+      {
+        "t": "w",
+        "v": "of",
+        "id": 191
+      },
+      {
+        "t": "w",
+        "v": "Gershon",
+        "id": 192
+      },
+      {
+        "t": "w",
+        "v": "for",
+        "id": 193
+      },
+      {
+        "t": "w",
+        "v": "their",
+        "id": 194
+      },
+      {
+        "t": "w",
+        "v": "work",
+        "id": 195
+      },
+      {
+        "t": "t",
+        "v": ",",
+        "id": 196
+      },
+      {
+        "t": "v",
+        "n": 8,
+        "id": 197
+      },
+      {
+        "t": "w",
+        "v": "and",
+        "id": 198
+      },
+      {
+        "t": "w",
+        "v": "he",
+        "id": 199
+      },
+      {
+        "t": "w",
+        "v": "gave",
+        "id": 200
+      },
+      {
+        "t": "w",
+        "v": "four",
+        "id": 201
+      },
+      {
+        "t": "w",
+        "v": "carts",
+        "id": 202
+      },
+      {
+        "t": "w",
+        "v": "and",
+        "id": 203
+      },
+      {
+        "t": "w",
+        "v": "eight",
+        "id": 204
+      },
+      {
+        "t": "w",
+        "v": "oxen",
+        "id": 205
+      },
+      {
+        "t": "w",
+        "v": "to",
+        "id": 206
+      },
+      {
+        "t": "w",
+        "v": "the",
+        "id": 207
+      },
+      {
+        "t": "w",
+        "v": "descendants",
+        "id": 208
+      },
+      {
+        "t": "w",
+        "v": "of",
+        "id": 209
+      },
+      {
+        "t": "w",
+        "v": "Merari",
+        "id": 210
+      },
+      {
+        "t": "w",
+        "v": "for",
+        "id": 211
+      },
+      {
+        "t": "w",
+        "v": "their",
+        "id": 212
+      },
+      {
+        "t": "w",
+        "v": "work",
+        "id": 213
+      },
+      {
+        "t": "t",
+        "v": ".",
+        "id": 214
+      },
+      {
+        "t": "w",
+        "v": "Aaron",
+        "id": 215
+      },
+      {
+        "t": "t",
+        "v": "’",
+        "id": 216
+      },
+      {
+        "t": "w",
+        "v": "s",
+        "id": 217
+      },
+      {
+        "t": "w",
+        "v": "son",
+        "id": 218
+      },
+      {
+        "t": "w",
+        "v": "Ithamar",
+        "id": 219
+      },
+      {
+        "t": "w",
+        "v": "was",
+        "id": 220
+      },
+      {
+        "t": "w",
+        "v": "the",
+        "id": 221
+      },
+      {
+        "t": "w",
+        "v": "supervisor",
+        "id": 222
+      },
+      {
+        "t": "w",
+        "v": "of",
+        "id": 223
+      },
+      {
+        "t": "w",
+        "v": "all",
+        "id": 224
+      },
+      {
+        "t": "w",
+        "v": "their",
+        "id": 225
+      },
+      {
+        "t": "w",
+        "v": "work",
+        "id": 226
+      },
+      {
+        "t": "t",
+        "v": ".",
+        "id": 227
+      },
+      {
+        "t": "v",
+        "n": 9,
+        "id": 228
+      },
+      {
+        "t": "w",
+        "v": "But",
+        "id": 229
+      },
+      {
+        "t": "w",
+        "v": "he",
+        "id": 230
+      },
+      {
+        "t": "w",
+        "v": "did",
+        "id": 231
+      },
+      {
+        "t": "w",
+        "v": "not",
+        "id": 232
+      },
+      {
+        "t": "w",
+        "v": "give",
+        "id": 233
+      },
+      {
+        "t": "w",
+        "v": "any",
+        "id": 234
+      },
+      {
+        "t": "w",
+        "v": "carts",
+        "id": 235
+      },
+      {
+        "t": "w",
+        "v": "or",
+        "id": 236
+      },
+      {
+        "t": "w",
+        "v": "oxen",
+        "id": 237
+      },
+      {
+        "t": "w",
+        "v": "to",
+        "id": 238
+      },
+      {
+        "t": "w",
+        "v": "the",
+        "id": 239
+      },
+      {
+        "t": "w",
+        "v": "descendants",
+        "id": 240
+      },
+      {
+        "t": "w",
+        "v": "of",
+        "id": 241
+      },
+      {
+        "t": "w",
+        "v": "Kohath",
+        "id": 242
+      },
+      {
+        "t": "t",
+        "v": ",",
+        "id": 243
+      },
+      {
+        "t": "w",
+        "v": "because",
+        "id": 244
+      },
+      {
+        "t": "w",
+        "v": "they",
+        "id": 245
+      },
+      {
+        "t": "w",
+        "v": "took",
+        "id": 246
+      },
+      {
+        "t": "w",
+        "v": "care",
+        "id": 247
+      },
+      {
+        "t": "w",
+        "v": "of",
+        "id": 248
+      },
+      {
+        "t": "w",
+        "v": "the",
+        "id": 249
+      },
+      {
+        "t": "w",
+        "v": "sacred",
+        "id": 250
+      },
+      {
+        "t": "w",
+        "v": "items",
+        "id": 251
+      },
+      {
+        "t": "w",
+        "v": "that",
+        "id": 252
+      },
+      {
+        "t": "w",
+        "v": "were",
+        "id": 253
+      },
+      {
+        "t": "w",
+        "v": "to",
+        "id": 254
+      },
+      {
+        "t": "w",
+        "v": "be",
+        "id": 255
+      },
+      {
+        "t": "w",
+        "v": "carried",
+        "id": 256
+      },
+      {
+        "t": "w",
+        "v": "on",
+        "id": 257
+      },
+      {
+        "t": "w",
+        "v": "their",
+        "id": 258
+      },
+      {
+        "t": "w",
+        "v": "shoulders",
+        "id": 259
+      },
+      {
+        "t": "t",
+        "v": ",",
+        "id": 260
+      },
+      {
+        "t": "w",
+        "v": "not",
+        "id": 261
+      },
+      {
+        "t": "w",
+        "v": "on",
+        "id": 262
+      },
+      {
+        "t": "w",
+        "v": "carts",
+        "id": 263
+      },
+      {
+        "t": "t",
+        "v": ".",
+        "id": 264
+      }
+    ],
+    "id": 162
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 10,
+        "id": 266
+      },
+      {
+        "t": "w",
+        "v": "On",
+        "id": 267
+      },
+      {
+        "t": "w",
+        "v": "the",
+        "id": 268
+      },
+      {
+        "t": "w",
+        "v": "day",
+        "id": 269
+      },
+      {
+        "t": "w",
+        "v": "that",
+        "id": 270
+      },
+      {
+        "t": "w",
+        "v": "the",
+        "id": 271
+      },
+      {
+        "t": "w",
+        "v": "altar",
+        "id": 272
+      },
+      {
+        "t": "w",
+        "v": "was",
+        "id": 273
+      },
+      {
+        "t": "w",
+        "v": "dedicated",
+        "id": 274
+      },
+      {
+        "t": "t",
+        "v": ",",
+        "id": 275
+      },
+      {
+        "t": "w",
+        "v": "the",
+        "id": 276
+      },
+      {
+        "t": "w",
+        "v": "twelve",
+        "id": 277
+      },
+      {
+        "t": "w",
+        "v": "leaders",
+        "id": 278
+      },
+      {
+        "t": "w",
+        "v": "brought",
+        "id": 279
+      },
+      {
+        "t": "w",
+        "v": "other",
+        "id": 280
+      },
+      {
+        "t": "w",
+        "v": "gifts",
+        "id": 281
+      },
+      {
+        "t": "w",
+        "v": "to",
+        "id": 282
+      },
+      {
+        "t": "w",
+        "v": "be",
+        "id": 283
+      },
+      {
+        "t": "w",
+        "v": "dedicated",
+        "id": 284
+      },
+      {
+        "t": "w",
+        "v": "and",
+        "id": 285
+      },
+      {
+        "t": "w",
+        "v": "put",
+        "id": 286
+      },
+      {
+        "t": "w",
+        "v": "them",
+        "id": 287
+      },
+      {
+        "t": "w",
+        "v": "in",
+        "id": 288
+      },
+      {
+        "t": "w",
+        "v": "front",
+        "id": 289
+      },
+      {
+        "t": "w",
+        "v": "of",
+        "id": 290
+      },
+      {
+        "t": "w",
+        "v": "the",
+        "id": 291
+      },
+      {
+        "t": "w",
+        "v": "altar",
+        "id": 292
+      },
+      {
+        "t": "t",
+        "v": ".",
+        "id": 293
+      },
+      {
+        "t": "v",
+        "n": 11,
+        "id": 294
+      },
+      {
+        "t": "w",
+        "v": "Yahweh",
+        "id": 295
+      },
+      {
+        "t": "w",
+        "v": "said",
+        "id": 296
+      },
+      {
+        "t": "w",
+        "v": "to",
+        "id": 297
+      },
+      {
+        "t": "w",
+        "v": "Moses",
+        "id": 298
+      },
+      {
+        "t": "t",
+        "v": ", “",
+        "id": 299
+      },
+      {
+        "t": "w",
+        "v": "On",
+        "id": 300
+      },
+      {
+        "t": "w",
+        "v": "each",
+        "id": 301
+      },
+      {
+        "t": "w",
+        "v": "of",
+        "id": 302
+      },
+      {
+        "t": "w",
+        "v": "the",
+        "id": 303
+      },
+      {
+        "t": "w",
+        "v": "next",
+        "id": 304
+      },
+      {
+        "t": "w",
+        "v": "twelve",
+        "id": 305
+      },
+      {
+        "t": "w",
+        "v": "days",
+        "id": 306
+      },
+      {
+        "t": "w",
+        "v": "one",
+        "id": 307
+      },
+      {
+        "t": "w",
+        "v": "leader",
+        "id": 308
+      },
+      {
+        "t": "w",
+        "v": "should",
+        "id": 309
+      },
+      {
+        "t": "w",
+        "v": "bring",
+        "id": 310
+      },
+      {
+        "t": "w",
+        "v": "his",
+        "id": 311
+      },
+      {
+        "t": "w",
+        "v": "gifts",
+        "id": 312
+      },
+      {
+        "t": "w",
+        "v": "for",
+        "id": 313
+      },
+      {
+        "t": "w",
+        "v": "the",
+        "id": 314
+      },
+      {
+        "t": "w",
+        "v": "dedication",
+        "id": 315
+      },
+      {
+        "t": "w",
+        "v": "of",
+        "id": 316
+      },
+      {
+        "t": "w",
+        "v": "the",
+        "id": 317
+      },
+      {
+        "t": "w",
+        "v": "altar",
+        "id": 318
+      },
+      {
+        "t": "t",
+        "v": ".”",
+        "id": 319
+      }
+    ],
+    "id": 265
+  },
+  {
+    "t": "pi",
+    "v": [
+      {
+        "t": "v",
+        "n": 12,
+        "v": "On the first day, Nahshon son of Amminadab, from the tribe of Judah brought his gifts:",
+        "id": 321
+      },
+      {
+        "t": "v",
+        "n": 14,
+        "id": 322
+      },
+      {
+        "t": "w",
+        "v": "and",
+        "id": 323
+      },
+      {
+        "t": "w",
+        "v": "a",
+        "id": 324
+      },
+      {
+        "t": "w",
+        "v": "small",
+        "id": 325
+      },
+      {
+        "t": "w",
+        "v": "gold",
+        "id": 326
+      },
+      {
+        "t": "w",
+        "v": "dish",
+        "id": 327
+      },
+      {
+        "t": "w",
+        "v": "that",
+        "id": 328
+      },
+      {
+        "t": "w",
+        "v": "weighed",
+        "id": 329
+      },
+      {
+        "t": "w",
+        "v": "113",
+        "id": 330
+      },
+      {
+        "t": "w",
+        "v": "grams",
+        "id": 331
+      },
+      {
+        "t": "w",
+        "v": "and",
+        "id": 332
+      },
+      {
+        "t": "w",
+        "v": "was",
+        "id": 333
+      },
+      {
+        "t": "w",
+        "v": "filled",
+        "id": 334
+      },
+      {
+        "t": "w",
+        "v": "with",
+        "id": 335
+      },
+      {
+        "t": "w",
+        "v": "incense",
+        "id": 336
+      },
+      {
+        "t": "t",
+        "v": ".",
+        "id": 337
+      },
+      {
+        "t": "v",
+        "n": 15,
+        "v": "They also brought the gifts of a young bull, a ram, and a one-year-old male lamb, to be sacrificed completely by being burned on the altar,",
+        "id": 338
+      }
+    ],
+    "id": 320
+  },
+  {
+    "t": "pi",
+    "v": [
+      {
+        "t": "v",
+        "n": 18,
+        "v": "On the second day, Nethanel son of Zuar, the leader of Issachar, brought his gifts:",
+        "id": 340
+      },
+      {
+        "t": "v",
+        "n": 20,
+        "v": "Nethanel also brought the gifts of a young bull, a ram, and a one-year-old male lamb, to be sacrificed completely by being burned on the altar,",
+        "id": 341
+      }
+    ],
+    "id": 339
+  },
+  {
+    "t": "pi",
+    "v": [
+      {
+        "t": "v",
+        "n": 24,
+        "v": "On the third day, Eliab son of Helon, leader of the tribe of Zebulun brought his gifts:",
+        "id": 343
+      },
+      {
+        "t": "v",
+        "n": 27,
+        "v": "Eliab also brought a young bull, a ram, and a one-year-old male lamb, to be sacrificed completely by being burned on the altar,",
+        "id": 344
+      }
+    ],
+    "id": 342
+  },
+  {
+    "t": "pi",
+    "v": [
+      {
+        "t": "v",
+        "n": 30,
+        "v": "On the fourth day, Elizur son of Shedeur, leader of the tribe of Reuben brought his gifts:",
+        "id": 346
+      },
+      {
+        "t": "v",
+        "n": 33,
+        "v": "Elizur also brought a young bull, a ram, and a one-year-old male lamb, to be sacrificed completely by being burned on the altar,",
+        "id": 347
+      }
+    ],
+    "id": 345
+  },
+  {
+    "t": "pi",
+    "v": [
+      {
+        "t": "v",
+        "n": 36,
+        "v": "On the fifth day, Shelumiel son of Zurishaddai, leader of the tribe of Simeon brought his gifts:",
+        "id": 349
+      },
+      {
+        "t": "v",
+        "n": 39,
+        "v": "Shelumiel also brought a young bull, a ram, and a one-year-old male lamb, to be sacrificed completely by being burned on the altar,",
+        "id": 350
+      }
+    ],
+    "id": 348
+  },
+  {
+    "t": "pi",
+    "v": [
+      {
+        "t": "v",
+        "n": 42,
+        "v": "On the sixth day, Eliasaph son of Deuel, leader of the tribe of Gad brought his gifts:",
+        "id": 352
+      },
+      {
+        "t": "v",
+        "n": 45,
+        "v": "Eliasaph also brought a young bull, a ram, and a one-year-old male lamb, to be sacrificed completely by being burned on the altar,",
+        "id": 353
+      }
+    ],
+    "id": 351
+  },
+  {
+    "t": "pi",
+    "v": [
+      {
+        "t": "v",
+        "n": 48,
+        "v": "On the seventh day, Elishama son of Ammihud, leader of the tribe of Ephraim brought his gifts:",
+        "id": 355
+      },
+      {
+        "t": "v",
+        "n": 51,
+        "v": "Elishama also brought a young bull, a ram, and a one-year-old male lamb, to be sacrificed completely by being burned on the altar,",
+        "id": 356
+      }
+    ],
+    "id": 354
+  },
+  {
+    "t": "pi",
+    "v": [
+      {
+        "t": "v",
+        "n": 54,
+        "v": "On the eighth day, Gamaliel son of Pedahzur, leader of the tribe of Manasseh brought his gifts:",
+        "id": 358
+      },
+      {
+        "t": "v",
+        "n": 57,
+        "v": "Gamaliel also brought a young bull, a ram, and a one-year-old male lamb, to be sacrificed completely by being burned on the altar,",
+        "id": 359
+      }
+    ],
+    "id": 357
+  },
+  {
+    "t": "pi",
+    "v": [
+      {
+        "t": "v",
+        "n": 60,
+        "v": "On the ninth day, Abidan son of Gideoni, leader of the tribe of Benjamin brought his gifts:",
+        "id": 361
+      },
+      {
+        "t": "v",
+        "n": 63,
+        "v": "Adiban also brought a young bull, a ram, and a one year-old male lamb, to be sacrificed completely by being burned on the altar,",
+        "id": 362
+      }
+    ],
+    "id": 360
+  },
+  {
+    "t": "pi",
+    "v": [
+      {
+        "t": "v",
+        "n": 66,
+        "v": "On the tenth day, Ahiezer son of Ammishaddai, leader of the tribe of Dan brought his gifts:",
+        "id": 364
+      },
+      {
+        "t": "v",
+        "n": 69,
+        "v": "Ahiezer also brought a young bull, a ram, and a one-year-old male lamb, to be sacrificed completely by being burned on the altar,",
+        "id": 365
+      }
+    ],
+    "id": 363
+  },
+  {
+    "t": "pi",
+    "v": [
+      {
+        "t": "v",
+        "n": 72,
+        "v": "On the eleventh day, Pagiel son of Okran, leader of the tribe of Asher brought his gifts:",
+        "id": 367
+      },
+      {
+        "t": "v",
+        "n": 75,
+        "v": "Pagiel also brought a young bull, a ram, and a one-year-old male lamb, to be sacrificed completely by being burned on the altar,",
+        "id": 368
+      }
+    ],
+    "id": 366
+  },
+  {
+    "t": "pi",
+    "v": [
+      {
+        "t": "v",
+        "n": 78,
+        "v": "On the twelveth day, Ahira son of Enan, leader of the tribe of Naphtali brought his gifts:",
+        "id": 370
+      },
+      {
+        "t": "v",
+        "n": 81,
+        "v": "Ahira also brought a young bull, a ram, and a one-year-old male lamb, to be sacrificed completely by being burned on the altar,",
+        "id": 371
+      }
+    ],
+    "id": 369
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 84,
+        "v": "When the altar was dedicated to Yahweh, those twelve leaders brought these gifts:",
+        "id": 373
+      },
+      {
+        "t": "v",
+        "n": 87,
+        "v": "The twelve leaders also brought twelve bulls, twelve rams, and twelve one-year-old male lambs to be sacrificed completely by being burned along with the flour offerings,",
+        "id": 374
+      }
+    ],
+    "id": 372
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 89,
+        "id": 376
+      },
+      {
+        "t": "w",
+        "v": "Whenever",
+        "id": 377
+      },
+      {
+        "t": "w",
+        "v": "Moses",
+        "id": 378
+      },
+      {
+        "t": "w",
+        "v": "entered",
+        "id": 379
+      },
+      {
+        "t": "w",
+        "v": "the",
+        "id": 380
+      },
+      {
+        "t": "w",
+        "v": "sacred",
+        "id": 381
+      },
+      {
+        "t": "w",
+        "v": "tent",
+        "id": 382
+      },
+      {
+        "t": "w",
+        "v": "to",
+        "id": 383
+      },
+      {
+        "t": "w",
+        "v": "talk",
+        "id": 384
+      },
+      {
+        "t": "w",
+        "v": "with",
+        "id": 385
+      },
+      {
+        "t": "w",
+        "v": "Yahweh",
+        "id": 386
+      },
+      {
+        "t": "t",
+        "v": ",",
+        "id": 387
+      },
+      {
+        "t": "w",
+        "v": "he",
+        "id": 388
+      },
+      {
+        "t": "w",
+        "v": "heard",
+        "id": 389
+      },
+      {
+        "t": "w",
+        "v": "Yahweh",
+        "id": 390
+      },
+      {
+        "t": "t",
+        "v": "’",
+        "id": 391
+      },
+      {
+        "t": "w",
+        "v": "s",
+        "id": 392
+      },
+      {
+        "t": "w",
+        "v": "voice",
+        "id": 393
+      },
+      {
+        "t": "w",
+        "v": "speaking",
+        "id": 394
+      },
+      {
+        "t": "w",
+        "v": "between",
+        "id": 395
+      },
+      {
+        "t": "w",
+        "v": "the",
+        "id": 396
+      },
+      {
+        "t": "w",
+        "v": "two",
+        "id": 397
+      },
+      {
+        "t": "w",
+        "v": "images",
+        "id": 398
+      },
+      {
+        "t": "w",
+        "v": "of",
+        "id": 399
+      },
+      {
+        "t": "w",
+        "v": "creatures",
+        "id": 400
+      },
+      {
+        "t": "w",
+        "v": "with",
+        "id": 401
+      },
+      {
+        "t": "w",
+        "v": "wings",
+        "id": 402
+      },
+      {
+        "t": "w",
+        "v": "that",
+        "id": 403
+      },
+      {
+        "t": "w",
+        "v": "were",
+        "id": 404
+      },
+      {
+        "t": "w",
+        "v": "above",
+        "id": 405
+      },
+      {
+        "t": "w",
+        "v": "the",
+        "id": 406
+      },
+      {
+        "t": "w",
+        "v": "lid",
+        "id": 407
+      },
+      {
+        "t": "w",
+        "v": "of",
+        "id": 408
+      },
+      {
+        "t": "w",
+        "v": "the",
+        "id": 409
+      },
+      {
+        "t": "w",
+        "v": "sacred",
+        "id": 410
+      },
+      {
+        "t": "w",
+        "v": "chest",
+        "id": 411
+      },
+      {
+        "t": "t",
+        "v": ".",
+        "id": 412
+      }
+    ],
+    "id": 375
+  }
+]

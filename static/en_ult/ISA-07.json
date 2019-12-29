@@ -1,0 +1,431 @@
+[
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 1,
+        "v": "During the days of Ahaz son of Jotham son of Uzziah, king of Judah, Rezin the king of Aram, and Pekah son of Remaliah, king of Israel, went up to Jerusalem to war against it, but they could not prevail against it.",
+        "id": 1
+      },
+      {
+        "t": "v",
+        "n": 2,
+        "v": "It was reported to the house of David that Aram was allied with Ephraim. His heart trembled, and the heart of his people, as the trees of the forest shake in the wind.",
+        "id": 2
+      }
+    ],
+    "id": 0
+  },
+  {
+    "t": "f",
+    "c": "+",
+    "v": [
+      {
+        "t": "ft",
+        "v": "Instead of",
+        "id": 4
+      },
+      {
+        "t": "fqa",
+        "v": "that Aram was allied with Ephraim",
+        "id": 5
+      },
+      {
+        "t": "t",
+        "v": ", some versions have",
+        "id": 6
+      },
+      {
+        "t": "fqa",
+        "v": "that Aram had camped in Ephraim",
+        "id": 7
+      },
+      {
+        "t": "t",
+        "v": ".",
+        "id": 8
+      }
+    ],
+    "id": 3
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 3,
+        "v": "Then Yahweh said to Isaiah, “Go out with your son Shear-Jashub to meet Ahaz at the end of the conduit of the upper pool, on the road to Launderer’s Field.",
+        "id": 10
+      },
+      {
+        "t": "v",
+        "n": 4,
+        "v": "Tell him, ‘Be careful, remain calm, do not be afraid or intimidated by these two smoldering firebrands, by the fierce anger of Rezin and Aram, and of Pekah son of Remaliah.",
+        "id": 11
+      },
+      {
+        "t": "v",
+        "n": 5,
+        "v": "Aram, Ephraim, and the son of Remaliah have planned evil against you; they have said,",
+        "id": 12
+      },
+      {
+        "t": "v",
+        "n": 6,
+        "v": "“Let us attack Judah and terrify her, and let us break into her and set up our king there, the son of Tabeel.”",
+        "id": 13
+      }
+    ],
+    "id": 9
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 7,
+        "v": "The Lord Yahweh says, “It will not take place; it will not happen,",
+        "id": 15
+      }
+    ],
+    "id": 14
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 8,
+        "v": "because the head of Aram is Damascus, and the head of Damascus is Rezin.",
+        "id": 17
+      }
+    ],
+    "id": 16
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Within sixty-five years, Ephraim will be shattered and will no longer be a people.",
+        "id": 19
+      }
+    ],
+    "id": 18
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 9,
+        "v": "The head of Ephraim is Samaria, and the head of Samaria is Remaliah’s son.",
+        "id": 21
+      }
+    ],
+    "id": 20
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "If you do not remain firm in faith, surely you will not remain secure.”’”",
+        "id": 23
+      }
+    ],
+    "id": 22
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 10,
+        "v": "The Lord spoke again to Ahaz,",
+        "id": 25
+      },
+      {
+        "t": "v",
+        "n": 11,
+        "v": "“Ask a sign of Yahweh your God; ask for it in the depths or in the height above.”",
+        "id": 32
+      },
+      {
+        "t": "v",
+        "n": 12,
+        "v": "But Ahaz said, “I will not ask, nor will I test Yahweh.”",
+        "id": 33
+      },
+      {
+        "t": "v",
+        "n": 13,
+        "v": "So Isaiah replied, “Listen, house of David. Is it not enough for you people to test the patience of people? Must you also test the patience of my God?",
+        "id": 34
+      },
+      {
+        "t": "v",
+        "n": 14,
+        "v": "Therefore the Lord himself will give you people a sign: See, the young woman will conceive, bear a son, and will call his name Immanuel.",
+        "id": 35
+      },
+      {
+        "t": "v",
+        "n": 15,
+        "v": "He will eat curds and honey when he knows to refuse the evil and choose the good.",
+        "id": 42
+      },
+      {
+        "t": "v",
+        "n": 16,
+        "v": "For before the child knows to refuse the evil and choose the good, the land whose two kings you dread will be desolate.",
+        "id": 43
+      },
+      {
+        "t": "v",
+        "n": 17,
+        "v": "Yahweh will bring on you, on your people, and on your father’s house days unlike any since Ephraim seceded from Judah—he will bring on you the king of Assyria.”",
+        "id": 44
+      }
+    ],
+    "id": 24
+  },
+  {
+    "t": "f",
+    "c": "+",
+    "v": [
+      {
+        "t": "ft",
+        "v": "Instead of",
+        "id": 27
+      },
+      {
+        "t": "fqa",
+        "v": "The Lord spoke",
+        "id": 28
+      },
+      {
+        "t": "t",
+        "v": ", some versions have",
+        "id": 29
+      },
+      {
+        "t": "fqa",
+        "v": "Yahweh spoke",
+        "id": 30
+      },
+      {
+        "t": "t",
+        "v": ".",
+        "id": 31
+      }
+    ],
+    "id": 26
+  },
+  {
+    "t": "f",
+    "c": "+",
+    "v": [
+      {
+        "t": "ft",
+        "v": "Instead of",
+        "id": 37
+      },
+      {
+        "t": "fqa",
+        "v": "the young woman",
+        "id": 38
+      },
+      {
+        "t": "t",
+        "v": ", some versions have",
+        "id": 39
+      },
+      {
+        "t": "fqa",
+        "v": "a young woman",
+        "id": 40
+      },
+      {
+        "t": "t",
+        "v": ".",
+        "id": 41
+      }
+    ],
+    "id": 36
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 18,
+        "v": "At that time",
+        "id": 46
+      }
+    ],
+    "id": 45
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Yahweh will whistle for a fly from the distant streams of Egypt,",
+        "id": 48
+      }
+    ],
+    "id": 47
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and for a bee from the land of Assyria.",
+        "id": 50
+      }
+    ],
+    "id": 49
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 19,
+        "v": "They will all come and settle down into all the gorges, into the clefts of the rocks,",
+        "id": 52
+      }
+    ],
+    "id": 51
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "on all the thornbushes, and onto all the pastures.",
+        "id": 54
+      }
+    ],
+    "id": 53
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 20,
+        "v": "At that time the Lord will shave with a razor that was hired beyond the Euphrates River—the king of Assyria—",
+        "id": 56
+      }
+    ],
+    "id": 55
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "the head and the hair of the legs; it will also sweep away the beard.",
+        "id": 58
+      }
+    ],
+    "id": 57
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 21,
+        "v": "On that day, a man will keep alive a young cow and two sheep,",
+        "id": 60
+      }
+    ],
+    "id": 59
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 22,
+        "v": "and because of the abundance of milk which they shall give, he will eat curds,",
+        "id": 62
+      }
+    ],
+    "id": 61
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "for everyone left in the land will eat curds and honey.",
+        "id": 64
+      }
+    ],
+    "id": 63
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 23,
+        "v": "At that time, where there were a thousand vines worth a thousand silver shekels,",
+        "id": 66
+      }
+    ],
+    "id": 65
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "there will be nothing but briers and thorns.",
+        "id": 68
+      }
+    ],
+    "id": 67
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 24,
+        "v": "Men will go there to hunt with bows, because all the land will be briers and thorns.",
+        "id": 70
+      }
+    ],
+    "id": 69
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 25,
+        "v": "They will stay away from all the hills that were cultivated with the hoe, for fear of the briers and thorns;",
+        "id": 72
+      }
+    ],
+    "id": 71
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "but it will be a place where cattle and sheep graze.",
+        "id": 74
+      }
+    ],
+    "id": 73
+  }
+]

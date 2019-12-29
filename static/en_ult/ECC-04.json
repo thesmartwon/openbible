@@ -1,0 +1,378 @@
+[
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 1,
+        "v": "Once again I thought about all the oppression that is done under the sun.",
+        "id": 1
+      }
+    ],
+    "id": 0
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "And behold, the tears of oppressed people,",
+        "id": 3
+      }
+    ],
+    "id": 2
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and they had no one to comfort them!",
+        "id": 5
+      }
+    ],
+    "id": 4
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Power was in the hand of their oppressors,",
+        "id": 7
+      }
+    ],
+    "id": 6
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and there was no one to comfort them!",
+        "id": 9
+      }
+    ],
+    "id": 8
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 2,
+        "v": "So I considered those who are already dead",
+        "id": 11
+      }
+    ],
+    "id": 10
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "more fortunate than the living, who are still alive.",
+        "id": 13
+      }
+    ],
+    "id": 12
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 3,
+        "v": "However, more fortunate than both of them is the one who has not yet lived,",
+        "id": 15
+      }
+    ],
+    "id": 14
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "the one who has not seen any of the evil acts that are done under the sun.",
+        "id": 17
+      },
+      {
+        "t": "v",
+        "n": 4,
+        "v": "Then I saw that every act of labor and every skillful work became the envy of one’s neighbor. This also is vapor and an attempt to shepherd the wind.",
+        "id": 18
+      }
+    ],
+    "id": 16
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 5,
+        "v": "The fool folds his hands and does not work,",
+        "id": 20
+      }
+    ],
+    "id": 19
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "so his food is his own flesh.",
+        "id": 22
+      }
+    ],
+    "id": 21
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 6,
+        "v": "But better is a handful of profit with quiet work",
+        "id": 24
+      }
+    ],
+    "id": 23
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "than two handfuls with the work that tries to shepherd the wind.",
+        "id": 26
+      },
+      {
+        "t": "v",
+        "n": 7,
+        "v": "Then I thought again about more futility, more vanishing vapor under the sun.",
+        "id": 27
+      }
+    ],
+    "id": 25
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 8,
+        "v": "There is the kind of man who is alone.",
+        "id": 29
+      }
+    ],
+    "id": 28
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "He does not have anyone, no son or brother.",
+        "id": 31
+      }
+    ],
+    "id": 30
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "There is no end to all his work,",
+        "id": 33
+      }
+    ],
+    "id": 32
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and his eyes are not satisfied with gaining wealth.",
+        "id": 35
+      }
+    ],
+    "id": 34
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "He wonders, “For whom am I toiling",
+        "id": 37
+      }
+    ],
+    "id": 36
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and depriving myself of pleasure?”",
+        "id": 39
+      }
+    ],
+    "id": 38
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "This also is vapor, a bad situation.",
+        "id": 41
+      }
+    ],
+    "id": 40
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 9,
+        "v": "Two people work better than one;",
+        "id": 43
+      }
+    ],
+    "id": 42
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "together they can earn a good pay for their labor.",
+        "id": 45
+      }
+    ],
+    "id": 44
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 10,
+        "v": "For if one falls, the other can lift up his friend.",
+        "id": 47
+      }
+    ],
+    "id": 46
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "However, sorrow follows the one who is alone when he falls",
+        "id": 49
+      }
+    ],
+    "id": 48
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "if there is no one to lift him up.",
+        "id": 51
+      }
+    ],
+    "id": 50
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 11,
+        "v": "If two lie down together, they can be warm,",
+        "id": 53
+      }
+    ],
+    "id": 52
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "but how can one be warm alone?",
+        "id": 55
+      }
+    ],
+    "id": 54
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 12,
+        "v": "One man alone can be overpowered,",
+        "id": 57
+      }
+    ],
+    "id": 56
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "but two can withstand an attack,",
+        "id": 59
+      }
+    ],
+    "id": 58
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and a three-strand rope is not quickly broken.",
+        "id": 61
+      },
+      {
+        "t": "v",
+        "n": 13,
+        "v": "It is better to be a poor but wise youth than an old and foolish king who no longer knows how to listen to warnings.",
+        "id": 62
+      },
+      {
+        "t": "v",
+        "n": 14,
+        "v": "This is true even if the young man becomes king from prison, or even if he was born poor in his kingdom.",
+        "id": 63
+      },
+      {
+        "t": "v",
+        "n": 15,
+        "v": "I saw everyone who was alive and was walking around under the sun, along with a youth who was to rise up to take his place.",
+        "id": 64
+      },
+      {
+        "t": "v",
+        "n": 16,
+        "v": "There is no end to all the people who want to obey the new king, but later many of them will no longer praise him. Surely this situation is vapor and an attempt to shepherd the wind.",
+        "id": 65
+      }
+    ],
+    "id": 60
+  }
+]

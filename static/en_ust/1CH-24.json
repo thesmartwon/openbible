@@ -1,0 +1,548 @@
+[
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 1,
+        "v": "These are the divisions of the descendants of Aaron the first high priest: Aaron’s four sons were Nadab, Abihu, Eleazar, and Ithamar.",
+        "id": 1
+      }
+    ],
+    "id": 0
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 2,
+        "v": "But Nadab and Abihu died before their father died, and they had no children. So their younger brothers Eleazar and Ithamar became the priests.",
+        "id": 3
+      },
+      {
+        "t": "v",
+        "n": 3,
+        "v": "Zadok, who was a descendant of Eleazar, and Ahimelech, who was a descendant of Ithamar, helped David to separate the family groups into two groups. Each group had certain duties.",
+        "id": 4
+      },
+      {
+        "t": "v",
+        "n": 4,
+        "v": "There were more leaders among the descendants of Eleazar than there were among the descendants of Ithamar. So they appointed sixteen leaders from Eleazar’s descendants and eight leaders from Ithamar’s descendants.",
+        "id": 5
+      },
+      {
+        "t": "v",
+        "n": 5,
+        "v": "There were temple officials and priests who were there, including descendants of both Eleazar and Ithamar, to make sure that the work was divided fairly. So they decided what work each group would do by casting lots.",
+        "id": 6
+      }
+    ],
+    "id": 2
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 6,
+        "v": "Shemaiah son of Nethanel, who was a descendant of Levi, wrote down the names of the leaders of each group while David and his officials were watching. Zadok, the high priest, and Ahimelech his assistant, and the leaders of the families of the priests and of the families of the other descendants of Levi also watched.",
+        "id": 8
+      }
+    ],
+    "id": 7
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 7,
+        "v": "Jehoiarib was the first one whose name was selected by casting lots.",
+        "id": 10
+      }
+    ],
+    "id": 9
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Next Jedaiah was selected.",
+        "id": 12
+      }
+    ],
+    "id": 11
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 8,
+        "v": "Next, Harim was selected.",
+        "id": 14
+      }
+    ],
+    "id": 13
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Next, Seorim was selected.",
+        "id": 16
+      }
+    ],
+    "id": 15
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 9,
+        "v": "Next, Malkijah was selected.",
+        "id": 18
+      }
+    ],
+    "id": 17
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Next, Mijamin was selected.",
+        "id": 20
+      }
+    ],
+    "id": 19
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 10,
+        "v": "Next, Hakkoz was selected.",
+        "id": 22
+      }
+    ],
+    "id": 21
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Next, Abijah was selected.",
+        "id": 24
+      }
+    ],
+    "id": 23
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 11,
+        "v": "Next, Jeshua was selected.",
+        "id": 26
+      }
+    ],
+    "id": 25
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Next, Shecaniah was selected.",
+        "id": 28
+      }
+    ],
+    "id": 27
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 12,
+        "v": "Next, Eliashib was selected.",
+        "id": 30
+      }
+    ],
+    "id": 29
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Next, Jakim was selected.",
+        "id": 32
+      }
+    ],
+    "id": 31
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 13,
+        "v": "Next, Huppah was selected.",
+        "id": 34
+      }
+    ],
+    "id": 33
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Next, Jeshebeab was selected.",
+        "id": 36
+      }
+    ],
+    "id": 35
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 14,
+        "v": "Next, Bilgah was selected.",
+        "id": 38
+      }
+    ],
+    "id": 37
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Next, Immer was selected.",
+        "id": 40
+      }
+    ],
+    "id": 39
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 15,
+        "v": "Next, Hezir was selected.",
+        "id": 42
+      }
+    ],
+    "id": 41
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Next, Happizzez was selected.",
+        "id": 44
+      }
+    ],
+    "id": 43
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 16,
+        "v": "Next, Pethahiah was selected.",
+        "id": 46
+      }
+    ],
+    "id": 45
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Next, Jehezkel was selected.",
+        "id": 48
+      }
+    ],
+    "id": 47
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 17,
+        "v": "Next, Jakin was selected.",
+        "id": 50
+      }
+    ],
+    "id": 49
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Next, Gamul was selected.",
+        "id": 52
+      }
+    ],
+    "id": 51
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 18,
+        "v": "Next, Delaiah was selected.",
+        "id": 54
+      }
+    ],
+    "id": 53
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Next, Maaziah was selected.",
+        "id": 56
+      }
+    ],
+    "id": 55
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 19,
+        "v": "Those were the men who were chosen to be the leaders of the groups that would serve in the temple, obeying the regulations that were set down by Aaron, regulations which Yahweh, the God to whom we Israelite people belong, had given to him.",
+        "id": 58
+      }
+    ],
+    "id": 57
+  },
+  {
+    "t": "m",
+    "v": [
+      {
+        "t": "v",
+        "n": 20,
+        "v": "This is a list of some of the other descendants of Levi:",
+        "id": 60
+      }
+    ],
+    "id": 59
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "From the sons of Amram there was Shubael.",
+        "id": 62
+      }
+    ],
+    "id": 61
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "From the sons of Shubael there was Jehdeiah.",
+        "id": 64
+      }
+    ],
+    "id": 63
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 21,
+        "v": "From Rehabiah son of Eleazar there was Isshiah, his oldest son.",
+        "id": 66
+      }
+    ],
+    "id": 65
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 22,
+        "v": "From the descendants of Kohath’s son Izhar there was Shelomoth.",
+        "id": 68
+      }
+    ],
+    "id": 67
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "From the descendants of Shelomoth there was Jahath.",
+        "id": 70
+      }
+    ],
+    "id": 69
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 23,
+        "v": "From the descendants of Kohath’s son Hebron there was his oldest son Jeriah and Jeriah’s younger brothers Amariah, Jahaziel, and Jekameam.",
+        "id": 72
+      }
+    ],
+    "id": 71
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 24,
+        "v": "From the descendants of Kohath’s son Uzziel there was Micah.",
+        "id": 74
+      }
+    ],
+    "id": 73
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "From the descendants of Micah there was Shamir.",
+        "id": 76
+      }
+    ],
+    "id": 75
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 25,
+        "v": "And Micah’s younger brother was Isshiah.",
+        "id": 78
+      }
+    ],
+    "id": 77
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "From the descendants of Isshiah was Zechariah.",
+        "id": 80
+      }
+    ],
+    "id": 79
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 26,
+        "v": "The sons of Merari were Mahli, Mushi, and Jaaziah.",
+        "id": 82
+      }
+    ],
+    "id": 81
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 27,
+        "v": "From the descendants of Jaaziah there were Beno, Shoham, Zaccur, and Ibri.",
+        "id": 84
+      }
+    ],
+    "id": 83
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 28,
+        "v": "Mahli’s son Eleazar did not have any sons.",
+        "id": 86
+      }
+    ],
+    "id": 85
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 29,
+        "v": "From the descendants of Kish there was his son Jerahmeel.",
+        "id": 88
+      }
+    ],
+    "id": 87
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 30,
+        "v": "The sons of Mushi were Mahli, Eder, and Jerimoth.",
+        "id": 90
+      }
+    ],
+    "id": 89
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "t",
+        "v": "Those were descendants of Levi who were listed according to the leaders of their families.",
+        "id": 92
+      },
+      {
+        "t": "v",
+        "n": 31,
+        "v": "The jobs they would do were decided by casting lots like their fellow Israelites the descendants of Aaron, did. They cast lots while King David, Zadok, Ahimelech, and the leaders of he families of the priests and the other descendants of Levi watched. The jobs that were given to the families of each oldest brother and each youngest brother were equal.",
+        "id": 93
+      }
+    ],
+    "id": 91
+  }
+]

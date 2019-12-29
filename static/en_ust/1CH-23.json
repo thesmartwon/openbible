@@ -1,0 +1,424 @@
+[
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 1,
+        "v": "David was a very old man when he appointed his son Solomon to be the next king.",
+        "id": 1
+      }
+    ],
+    "id": 0
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 2,
+        "v": "David gathered the leaders of Israel and the priests and other descendants of Levi.",
+        "id": 3
+      },
+      {
+        "t": "v",
+        "n": 3,
+        "v": "He commanded some of his officials to count the descendants of Levi who were at least thirty years old, and they found out that there were thirty-eight thousand of them.",
+        "id": 4
+      },
+      {
+        "t": "v",
+        "n": 4,
+        "v": "Then David said, “From those thirty-eight thousand men, I want twenty-four thousand of them to supervise the work at the temple of Yahweh, and I want six thousand of them to be officials and judges.",
+        "id": 5
+      },
+      {
+        "t": "v",
+        "n": 5,
+        "v": "I want four thousand to be guards at the gates, and four thousand to praise Yahweh, using the musical instruments that I have provided for them.”",
+        "id": 6
+      }
+    ],
+    "id": 2
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 6,
+        "v": "David divided the descendants of Levi into three groups; each group consisted of men who were descendants of one of the three sons of Levi—Gershon, Kohath, and Merari.",
+        "id": 8
+      },
+      {
+        "t": "s",
+        "v": "The descendants of Gershon are listed next.",
+        "id": 9
+      }
+    ],
+    "id": 7
+  },
+  {
+    "t": "m",
+    "v": [
+      {
+        "t": "v",
+        "n": 7,
+        "v": "The descendants of Gershon were Ladan and Shimei.",
+        "id": 11
+      }
+    ],
+    "id": 10
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 8,
+        "v": "There were three sons of Ladan: Jehiel was the oldest, and his younger brothers Zetham and Joel.",
+        "id": 13
+      }
+    ],
+    "id": 12
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 9,
+        "v": "There were three of the sons of Shimei: Shelomoth, Haziel, and Haran.",
+        "id": 15
+      }
+    ],
+    "id": 14
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "They were all leaders of the clans of Ladan.",
+        "id": 17
+      }
+    ],
+    "id": 16
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 10,
+        "v": "There were four men who were sons of Shimei:",
+        "id": 19
+      }
+    ],
+    "id": 18
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 11,
+        "v": "Jahath, who was his oldest son, and his younger brothers Ziza, Jeush, and Beriah.",
+        "id": 21
+      }
+    ],
+    "id": 20
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Jeush and Beriah did not have many sons, so they were counted as though they were one family.",
+        "id": 23
+      },
+      {
+        "t": "s",
+        "v": "The descendants of Kohath are listed next.",
+        "id": 24
+      }
+    ],
+    "id": 22
+  },
+  {
+    "t": "m",
+    "v": [
+      {
+        "t": "v",
+        "n": 12,
+        "v": "Kohath had four sons: Amram, Izhar, Hebron, and Uzziel.",
+        "id": 26
+      }
+    ],
+    "id": 25
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 13,
+        "v": "There were two sons of Amram: Aaron and Moses.",
+        "id": 28
+      }
+    ],
+    "id": 27
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Aaron and his descendants were set apart to dedicate to Yahweh the very holy things, to offer sacrifices to Yahweh, to serve in his presence, and to declare to the people what Yahweh would do to bless them. They were to do those things forever.",
+        "id": 30
+      }
+    ],
+    "id": 29
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 14,
+        "v": "The sons of Moses, the man who served God well, were counted as part of the tribe of Levi. They are listed next.",
+        "id": 32
+      }
+    ],
+    "id": 31
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 15,
+        "v": "The sons of Moses were Gershom and Eliezer.",
+        "id": 34
+      }
+    ],
+    "id": 33
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 16,
+        "v": "The oldest son of Gershom was Shubael.",
+        "id": 36
+      }
+    ],
+    "id": 35
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 17,
+        "v": "Rehabiah was the oldest son of Eliezer.",
+        "id": 38
+      }
+    ],
+    "id": 37
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Eliezer had no other sons, but Rehabiah had many sons.",
+        "id": 40
+      }
+    ],
+    "id": 39
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 18,
+        "v": "The oldest son of Izhar was Shelomith.",
+        "id": 42
+      }
+    ],
+    "id": 41
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 19,
+        "v": "Hebron had four sons.",
+        "id": 44
+      }
+    ],
+    "id": 43
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Jeriah was his oldest son, and his younger brothers were Amariah, Jahaziel, and Jekameam.",
+        "id": 46
+      }
+    ],
+    "id": 45
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 20,
+        "v": "Uzziel had two sons.",
+        "id": 48
+      }
+    ],
+    "id": 47
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Micah was the oldest son, and his younger brother was Isshiah.",
+        "id": 50
+      },
+      {
+        "t": "s",
+        "v": "The descendants of Merari are listed next.",
+        "id": 51
+      }
+    ],
+    "id": 49
+  },
+  {
+    "t": "m",
+    "v": [
+      {
+        "t": "v",
+        "n": 21,
+        "v": "Merari had two sons: Mahli and Mushi.",
+        "id": 53
+      }
+    ],
+    "id": 52
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "The sons of Mahli were Eleazar and Kish.",
+        "id": 55
+      }
+    ],
+    "id": 54
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 22,
+        "v": "Eleazar had no sons; he had only daughters. So their cousins, the sons of Kish, married them.",
+        "id": 57
+      }
+    ],
+    "id": 56
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 23,
+        "v": "The three sons of Mushi were Mahli, Eder, and Jerimoth.",
+        "id": 59
+      }
+    ],
+    "id": 58
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 24,
+        "v": "Those were the descendants of Levi, whose names were listed according to their families. They were chosen for special jobs by casting lots. Each person who was at least twenty years old was listed. They all worked in the temple of Yahweh.",
+        "id": 61
+      },
+      {
+        "t": "v",
+        "n": 25,
+        "v": "David had said previously, “Yahweh, the God to whom we Israelite people belong, has enabled us to have peace, and he has come to live in Jerusalem forever.",
+        "id": 62
+      },
+      {
+        "t": "v",
+        "n": 26,
+        "v": "Therefore, the descendants of Levi no longer need to carry the sacred tent and the items used in the work there.”",
+        "id": 63
+      },
+      {
+        "t": "v",
+        "n": 27,
+        "v": "Obeying the final instructions of David before he died, instructions for doing this work at the temple, they counted only the descendants of Levi who were at least twenty years old.",
+        "id": 64
+      }
+    ],
+    "id": 60
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 28,
+        "v": "The work of those descendants of Levi was to assist the descendants of Aaron in their work in Yahweh’s temple. They were to be in charge of the temple courtyards and the side rooms, the ceremonies for purifying all the sacred things, and to do other work at the temple.",
+        "id": 66
+      },
+      {
+        "t": "v",
+        "n": 29,
+        "v": "They were also in charge of the loaves of bread on display before God, the loaves that were placed each week on the table in the temple, the flour for the flour offerings, and the wafers that were made without yeast. They also had to measure the ingredients, mix them, and bake the bread and wafers.",
+        "id": 67
+      },
+      {
+        "t": "v",
+        "n": 30,
+        "v": "They were also told to stand every morning at the temple and thank Yahweh and praise him. They were also required to do the same thing every evening.",
+        "id": 68
+      },
+      {
+        "t": "v",
+        "n": 31,
+        "v": "And they were to do the same thing whenever offerings that were to be completely burned on the altar were presented to Yahweh on Sabbath days and during the new moon celebrations and other religious festivals. They were told how many of them should be there and what they should do each time.",
+        "id": 69
+      }
+    ],
+    "id": 65
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 32,
+        "v": "So the descendants of Levi did the work that was assigned to them by their fellow Israelites who were descendants of Aaron. They did that work at the sacred tent and in the holy place inside the tent, and later at the temple.",
+        "id": 71
+      }
+    ],
+    "id": 70
+  }
+]

@@ -1,0 +1,791 @@
+[
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 1,
+        "v": "Issachar’s four sons were Tola, Puah, Jashub, and Shimron.",
+        "id": 2
+      }
+    ],
+    "id": 1
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 2,
+        "v": "Tola’s sons were Uzzi, Rephaiah, Jeriel, Jahmai, Ibsam, and Samuel. They were all leaders of the clans descended from them.",
+        "id": 4
+      }
+    ],
+    "id": 3
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "In the record of Tola’s descendants were the names of 22,600 men who were able to be in the army during the time that David was the king of Israel.",
+        "id": 6
+      }
+    ],
+    "id": 5
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 3,
+        "v": "Uzzi’s son was Izrahiah. Izrahiah’s five sons were Michael, Obadiah, Joel, and Ishiah. Izrahiah and his sons were all leaders of their clans.",
+        "id": 8
+      }
+    ],
+    "id": 7
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 4,
+        "v": "In the record of Izrahiah’s descendants were the names of thirty-six thousand men who were able to be in the army because they had many wives and children.",
+        "id": 10
+      }
+    ],
+    "id": 9
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 5,
+        "v": "In the records of the clans descended from Issachar were the names of eighty-seven thousand men able to be in the army.",
+        "id": 12
+      },
+      {
+        "t": "s",
+        "v": "The descendants of Benjamin are listed next.",
+        "id": 13
+      }
+    ],
+    "id": 11
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 6,
+        "v": "These are the descendants of Benjamin. The three sons of Benjamin were Bela, Beker, and Jediael.",
+        "id": 15
+      }
+    ],
+    "id": 14
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 7,
+        "v": "Bela’s five sons were Ezbon, Uzzi, Uzziel, Jerimoth, and Iri. They were all leaders of clans.",
+        "id": 17
+      }
+    ],
+    "id": 16
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "In the records of the clans descended from Bela there were names of 22,034 men who were able to be in the army.",
+        "id": 19
+      }
+    ],
+    "id": 18
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 8,
+        "v": "Beker’s sons were Zemirah, Joash, Eliezer, Elioenai, Omri, Jeremoth, Abijah, Anathoth, and Alemeth.",
+        "id": 21
+      }
+    ],
+    "id": 20
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 9,
+        "v": "In the records of the clans descended from Beker were the names of 20,200 men and leaders of the clans who were able to be in the army.",
+        "id": 23
+      }
+    ],
+    "id": 22
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 10,
+        "v": "Jediael’s son was Bilhan. Bilhan’s sons were Jeush, Benjamin, Ehud, Kenaanah, Zethan, Tarshish, and Ahishahar.",
+        "id": 25
+      }
+    ],
+    "id": 24
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 11,
+        "v": "They were all leaders of clans descended from them.",
+        "id": 27
+      }
+    ],
+    "id": 26
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "There were 17,200 of them who were able to be in the army.",
+        "id": 29
+      }
+    ],
+    "id": 28
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 12,
+        "v": "Shuppim and Huppim were also members of this clan.",
+        "id": 31
+      }
+    ],
+    "id": 30
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "One of the descendants of Dan was Hushim.",
+        "id": 33
+      },
+      {
+        "t": "s",
+        "v": "The descendants of Naphtali are listed next.",
+        "id": 34
+      }
+    ],
+    "id": 32
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 13,
+        "v": "These are the descendants of Naphtali. Naphtali’s sons were Jahziel, Guni, Jezer, and Shillem. They were all descendants of Jacob’s slave wife Bilhah.",
+        "id": 36
+      },
+      {
+        "t": "s",
+        "v": "The descendants of Manasseh are listed next.",
+        "id": 37
+      }
+    ],
+    "id": 35
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 14,
+        "v": "These are the descendants of Manasseh. Manasseh had a slave wife who was from Aram. She was the mother of Asriel and Makir.",
+        "id": 39
+      }
+    ],
+    "id": 38
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Makir was the father of Gilead.",
+        "id": 41
+      }
+    ],
+    "id": 40
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 15,
+        "v": "Makir had two wives. They were from the clans of Huppim and Shuppim.",
+        "id": 43
+      }
+    ],
+    "id": 42
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "One of Makir’s wives was named Maacah.",
+        "id": 45
+      }
+    ],
+    "id": 44
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Makir had another son whose name was Zelophehad. Zelophehad had no sons; he had only daughters.",
+        "id": 47
+      }
+    ],
+    "id": 46
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 16,
+        "v": "Makir’s wife Maacah gave birth to two sons whom she named Peresh and Sheresh. Sheresh’s sons were Ulam and Rakem.",
+        "id": 49
+      }
+    ],
+    "id": 48
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 17,
+        "v": "Ulam’s son was Bedan.",
+        "id": 51
+      }
+    ],
+    "id": 50
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Those were descendants of Gilead son of Makir and grandson of Manasseh.",
+        "id": 53
+      }
+    ],
+    "id": 52
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 18,
+        "v": "Makir’s sister was Hammoleketh, who was the mother of Ishhod, Abiezer, and Mahlah.",
+        "id": 55
+      }
+    ],
+    "id": 54
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 19,
+        "v": "Another son of Gilead was Shemida, whose sons were Ahian, Shechem, Likhi, and Aniam.",
+        "id": 57
+      },
+      {
+        "t": "s",
+        "v": "The descendants of Ephraim are listed next.",
+        "id": 58
+      }
+    ],
+    "id": 56
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 20,
+        "v": "These are the descendants of Ephraim.",
+        "id": 60
+      }
+    ],
+    "id": 59
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "One son of Ephraim was Shuthelah.",
+        "id": 62
+      }
+    ],
+    "id": 61
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Shuthelah’s son was Bered.",
+        "id": 64
+      }
+    ],
+    "id": 63
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Bered’s son was Tahath.",
+        "id": 66
+      }
+    ],
+    "id": 65
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Tahath’s son was Eleadah.",
+        "id": 68
+      }
+    ],
+    "id": 67
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Eleadah’s son was also named Tahath.",
+        "id": 70
+      }
+    ],
+    "id": 69
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 21,
+        "v": "Tahath’s son was Zabad.",
+        "id": 72
+      }
+    ],
+    "id": 71
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Zabad’s son was Shuthelah.",
+        "id": 74
+      }
+    ],
+    "id": 73
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Ephraim’s other sons, Ezer and Elead, went to the city of Gath to steal some cows and sheep. But they were both killed by some of the men from that city.",
+        "id": 76
+      },
+      {
+        "t": "v",
+        "n": 22,
+        "v": "Their father Ephraim cried for them for many days, and his family came to comfort him.",
+        "id": 77
+      }
+    ],
+    "id": 75
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 23,
+        "v": "Then he and his wife slept together again; she became pregnant and gave birth to a son. Ephraim named him Beriah which resembles the word ‘trouble’ because of the trouble that his family had experienced.",
+        "id": 79
+      },
+      {
+        "t": "v",
+        "n": 24,
+        "v": "Ephraim’s daughter was Sheerah. Her workers built three towns: Lower Beth Horon, Upper Beth Horon, and Uzzen Sheerah.",
+        "id": 80
+      }
+    ],
+    "id": 78
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 25,
+        "v": "Another son of Ephraim was Rephah.",
+        "id": 82
+      }
+    ],
+    "id": 81
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Rephah’s son was Resheph.",
+        "id": 84
+      }
+    ],
+    "id": 83
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Resheph’s son was Telah.",
+        "id": 86
+      }
+    ],
+    "id": 85
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Telah’s son was Tahan.",
+        "id": 88
+      }
+    ],
+    "id": 87
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 26,
+        "v": "Tahan’s son was Ladan.",
+        "id": 90
+      }
+    ],
+    "id": 89
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Ladan’s son was Ammihud.",
+        "id": 92
+      }
+    ],
+    "id": 91
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Ammihud’s son was Elishama.",
+        "id": 94
+      }
+    ],
+    "id": 93
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 27,
+        "v": "Elishama’s son was Nun.",
+        "id": 96
+      }
+    ],
+    "id": 95
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Nun’s son was Joshua, the man who led the Israelites after Moses died.",
+        "id": 98
+      }
+    ],
+    "id": 97
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 28,
+        "v": "This is a list of the cities and areas where the descendants of Ephraim lived:",
+        "id": 100
+      }
+    ],
+    "id": 99
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Bethel and the nearby villages;",
+        "id": 102
+      }
+    ],
+    "id": 101
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Naaran to the east;",
+        "id": 104
+      }
+    ],
+    "id": 103
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Gezer to the west and the nearby villages; and",
+        "id": 106
+      }
+    ],
+    "id": 105
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Shechem and the nearby villages. Those villages extended north as far as Ayyah and the nearby villages.",
+        "id": 108
+      }
+    ],
+    "id": 107
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 29,
+        "v": "Along the border of the area where the descendants of Manasseh lived were these towns: Beth Shan, Taanach, Megiddo, and Dor, and the nearby villages.",
+        "id": 110
+      }
+    ],
+    "id": 109
+  },
+  {
+    "t": "m",
+    "v": [
+      {
+        "t": "t",
+        "v": "The people who lived in all those places were descendants of Jacob’s son Joseph.",
+        "id": 112
+      },
+      {
+        "t": "s",
+        "v": "These are the descendants of Asher.",
+        "id": 113
+      }
+    ],
+    "id": 111
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 30,
+        "v": "Asher’s sons were Imnah, Ishvah, Ishvi, and Beriah. Their sister was Serah.",
+        "id": 115
+      }
+    ],
+    "id": 114
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 31,
+        "v": "Beriah’s sons were Heber and Malkiel.",
+        "id": 117
+      }
+    ],
+    "id": 116
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Malkiel was the father of Birzaith",
+        "id": 119
+      }
+    ],
+    "id": 118
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 32,
+        "v": "Heber was the father of Japhlet, Shomer, and Hotham. Their sister was Shua.",
+        "id": 121
+      }
+    ],
+    "id": 120
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 33,
+        "v": "Japhlet’s sons were Pasak, Bimhal, and Ashvath.",
+        "id": 123
+      }
+    ],
+    "id": 122
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 34,
+        "v": "Japhlet’s younger brother was Shomer. Shomer’s sons were Rohgah, Hubbah, and Aram.",
+        "id": 125
+      }
+    ],
+    "id": 124
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 35,
+        "v": "Shomer’s younger brother was Helem. Helem’s sons were Zophah, Imna, Shelesh, and Amal.",
+        "id": 127
+      }
+    ],
+    "id": 126
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 36,
+        "v": "Zophah’s sons were Suah, Harnepher, Shual, Beri, Imrah,",
+        "id": 129
+      },
+      {
+        "t": "v",
+        "n": 37,
+        "v": "Bezer, Hod, Shamma, Shilshah, Ithran whose other name was Jether, and Beera.",
+        "id": 130
+      }
+    ],
+    "id": 128
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 38,
+        "v": "Jether’s sons were Jephunneh, Pispah, and Ara.",
+        "id": 132
+      }
+    ],
+    "id": 131
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 39,
+        "v": "Another descendant of Asher was Ulla, whose sons were Arah, Hanniel, and Rizia.",
+        "id": 134
+      }
+    ],
+    "id": 133
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 40,
+        "v": "All those men were descendants of Asher, and they were all leaders of their clans. They were brave warriors and excellent leaders. In the record of the clans that are descended from Asher are the names of twenty-six thousand men who were able to be in the army.",
+        "id": 136
+      },
+      {
+        "t": "s",
+        "v": "These are the descendants of Benjamin.",
+        "id": 0
+      }
+    ],
+    "id": 135
+  }
+]

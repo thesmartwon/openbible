@@ -1,0 +1,664 @@
+[
+  {
+    "t": "s",
+    "v": "These are the descendants of Adam",
+    "id": 0
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 1,
+        "v": "The first person God created was Adam. Adam’s son was Seth. Seth’s son was Enosh. Enosh’s son was Kenan.",
+        "id": 2
+      },
+      {
+        "t": "v",
+        "n": 2,
+        "v": "Kenan’s son was Mahalalel. Mahalalel’s son was Jared. Jared’s son was Enoch.",
+        "id": 3
+      },
+      {
+        "t": "v",
+        "n": 3,
+        "v": "Enoch’s son was Methuselah. Methusalah’s son was Lamech. Lamech’s son was Noah.",
+        "id": 4
+      },
+      {
+        "t": "v",
+        "n": 4,
+        "v": "Noah’s sons were Shem, Ham, and Japheth.",
+        "id": 5
+      },
+      {
+        "t": "s",
+        "v": "These are the sons of Japheth.",
+        "id": 6
+      }
+    ],
+    "id": 1
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 5,
+        "v": "The sons of Japheth were Gomer, Magog, Madai, Javan, Tubal, Meshech, and Tiras.",
+        "id": 8
+      }
+    ],
+    "id": 7
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 6,
+        "v": "The sons of Gomer were Ashkenaz, Riphath, and Togarmah.",
+        "id": 10
+      }
+    ],
+    "id": 9
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 7,
+        "v": "The sons of Javan were Elishah, Tarshish, Kittim, and Rodanim.",
+        "id": 12
+      },
+      {
+        "t": "s",
+        "v": "These are the sons of Ham.",
+        "id": 13
+      }
+    ],
+    "id": 11
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 8,
+        "v": "The sons of Ham were Cush, Egypt, Put, and Canaan.",
+        "id": 15
+      }
+    ],
+    "id": 14
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 9,
+        "v": "The sons of Cush were Seba, Havilah, Sabta, Raamah, and Sabteka.",
+        "id": 17
+      }
+    ],
+    "id": 16
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "The sons of Raamah were Sheba and Dedan.",
+        "id": 19
+      }
+    ],
+    "id": 18
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 10,
+        "v": "Another son of Cush was Nimrod. When he grew up, he became a mighty warrior on the earth.",
+        "id": 21
+      }
+    ],
+    "id": 20
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 11,
+        "v": "Egypt was the ancestor of the Lud , the Anam, the Lehab, the Naphtuh,",
+        "id": 23
+      },
+      {
+        "t": "v",
+        "n": 12,
+        "v": "the Pathrus, the Kasluh, and the Caphtor people groups. The people of the region of Philistia were descended from the Kasluh people group.",
+        "id": 24
+      }
+    ],
+    "id": 22
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 13,
+        "v": "Canaan’s first son was Sidon. He was also the ancestor of the people groups of the Hethites,",
+        "id": 26
+      },
+      {
+        "t": "v",
+        "n": 14,
+        "v": "the Jebusites, the Amorites, the Girgashites,",
+        "id": 27
+      },
+      {
+        "t": "v",
+        "n": 15,
+        "v": "the Hivites, the Arkites, the Sinites,",
+        "id": 28
+      },
+      {
+        "t": "v",
+        "n": 16,
+        "v": "the Arvadites, the Zemarites, and the Hamathites.",
+        "id": 29
+      },
+      {
+        "t": "s",
+        "v": "These are the descendants of Shem",
+        "id": 30
+      }
+    ],
+    "id": 25
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 17,
+        "v": "The sons of Shem were Elam, Ashur, Arphaxad, Lud, and Aram.",
+        "id": 32
+      }
+    ],
+    "id": 31
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Aram’s sons were Uz, Hul, Gether, and Meshech.",
+        "id": 34
+      }
+    ],
+    "id": 33
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 18,
+        "v": "Arphachshad was the father of Shelah, who was the father of Eber.",
+        "id": 36
+      }
+    ],
+    "id": 35
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 19,
+        "v": "Eber had two sons. One was named Peleg which sounds like the word that means ‘divided’ because during the time that he lived, the people on the earth were divided into various language groups. Peleg’s younger brother was Joktan.",
+        "id": 38
+      }
+    ],
+    "id": 37
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 20,
+        "v": "Joktan was the ancestor of Almodad, Sheleph, Hazarmaveth, Jerah,",
+        "id": 40
+      },
+      {
+        "t": "v",
+        "n": 21,
+        "v": "Hadoram, Uzal, Diklah,",
+        "id": 41
+      },
+      {
+        "t": "v",
+        "n": 22,
+        "v": "Obal, Abimael, Sheba,",
+        "id": 42
+      },
+      {
+        "t": "v",
+        "n": 23,
+        "v": "Ophir, Havilah, and Jobab.",
+        "id": 43
+      }
+    ],
+    "id": 39
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 24,
+        "v": "These are the descendants of Shem, in order from him to Abraham: Arphaxad, Shelah,",
+        "id": 45
+      },
+      {
+        "t": "v",
+        "n": 25,
+        "v": "Eber, Peleg, Reu,",
+        "id": 46
+      },
+      {
+        "t": "v",
+        "n": 26,
+        "v": "Serug, Nahor, Terah,",
+        "id": 47
+      },
+      {
+        "t": "v",
+        "n": 27,
+        "v": "and Abram, whose name was later changed to Abraham.",
+        "id": 48
+      },
+      {
+        "t": "s",
+        "v": "These are the descendants of Abraham.",
+        "id": 49
+      }
+    ],
+    "id": 44
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 28,
+        "v": "Abraham’s sons were Isaac and Ishmael.",
+        "id": 51
+      }
+    ],
+    "id": 50
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 29,
+        "v": "The son of Abraham’s slave wife Hagar was Ishmael. Ishmael’s twelve sons were Nebaioth, his firstborn, then Kedar, Adbeel, Mibsam,",
+        "id": 53
+      },
+      {
+        "t": "v",
+        "n": 30,
+        "v": "Mishma, Dumah, Massa, Hadad, Tema,",
+        "id": 54
+      },
+      {
+        "t": "v",
+        "n": 31,
+        "v": "Jetur, Naphish, and Kedemah.",
+        "id": 55
+      }
+    ],
+    "id": 52
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 32,
+        "v": "After Abraham’s wife Sarah died, he took another wife named Keturah. Her sons were Zimran, Jokshan, Medan, Midian, Ishbak, and Shuah.",
+        "id": 57
+      }
+    ],
+    "id": 56
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Jokshan’s sons were Sheba and Dedan.",
+        "id": 59
+      }
+    ],
+    "id": 58
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 33,
+        "v": "Midian’s sons were Ephah, Epher, Hanok, Abida, and Eldaah.",
+        "id": 61
+      },
+      {
+        "t": "s",
+        "v": "These are the descendants of Esau.",
+        "id": 62
+      }
+    ],
+    "id": 60
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 34,
+        "v": "The son of Abraham’s wife Sarah was Isaac, and Isaac’s sons were Esau and Jacob, whose name was later changed to Israel.",
+        "id": 64
+      }
+    ],
+    "id": 63
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 35,
+        "v": "The sons of Esau were Eliphaz, Reuel, Jeush, Jalam, and Korah.",
+        "id": 66
+      }
+    ],
+    "id": 65
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 36,
+        "v": "The sons of Eliphaz were Teman, Omar, Zepho, Gatam, Kenaz, Timna, and Amalek.",
+        "id": 68
+      }
+    ],
+    "id": 67
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 37,
+        "v": "Reuel’s sons were Nahath, Zerah, Shammah, and Mizzah.",
+        "id": 70
+      },
+      {
+        "t": "s",
+        "v": "These are the descendants of Seir.",
+        "id": 71
+      }
+    ],
+    "id": 69
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 38,
+        "v": "Another descendant of Esau was Seir. His descendants lived in the region of Edom. Seir’s sons were Lotan, Shobal, Zibeon, Anah, Dishon, Ezer, and Dishan.",
+        "id": 73
+      }
+    ],
+    "id": 72
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 39,
+        "v": "Lotan’s sons were Hori and Homam, and Lotan’s sister was Timna.",
+        "id": 75
+      }
+    ],
+    "id": 74
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 40,
+        "v": "Shobal’s sons were Alvan, Manahath, Ebal, Shepho, and Onam.",
+        "id": 77
+      }
+    ],
+    "id": 76
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Zibeon’s sons were Aiah and Anah.",
+        "id": 79
+      }
+    ],
+    "id": 78
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 41,
+        "v": "Anah’s son was Dishon.",
+        "id": 81
+      }
+    ],
+    "id": 80
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "1 Dishon’s sons were Hemdan, Eshban, Ithran, and Keran.",
+        "id": 83
+      }
+    ],
+    "id": 82
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 42,
+        "v": "Ezer’s sons were Bilhan, Zaavan, and Akan.",
+        "id": 85
+      }
+    ],
+    "id": 84
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Dishan’s sons were Uz and Aran.",
+        "id": 87
+      },
+      {
+        "t": "s",
+        "v": "These are the kings of Edom.",
+        "id": 88
+      }
+    ],
+    "id": 86
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 43,
+        "v": "These are the names of the kings who ruled the region of Edom before any kings ruled over Israel:",
+        "id": 90
+      }
+    ],
+    "id": 89
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Bela son of Beor, was king in Edom, and the name of the city in which he lived was Dinhabah.",
+        "id": 92
+      }
+    ],
+    "id": 91
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 44,
+        "v": "When Bela died, Jobab son of Zerah, from the city of Bozrah, became the king.",
+        "id": 94
+      }
+    ],
+    "id": 93
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 45,
+        "v": "When Jobab died, Husham became the king. He was from the region where the Teman people group lived.",
+        "id": 96
+      }
+    ],
+    "id": 95
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 46,
+        "v": "When Husham died, Hadad son of Bedad, became the king. He ruled in the city of Avith. Hadad’s army defeated the army of the Midian people group in the region of Moab.",
+        "id": 98
+      }
+    ],
+    "id": 97
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 47,
+        "v": "When Hadad died, Samlah became the king. He was from the city of Masrekah.",
+        "id": 100
+      }
+    ],
+    "id": 99
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 48,
+        "v": "When Samlah died, Shaul became the king. He was from the city of Rehoboth Hannahar.",
+        "id": 102
+      }
+    ],
+    "id": 101
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 49,
+        "v": "When Shaul died, Baal-Hanan son of Akbor became the king.",
+        "id": 104
+      }
+    ],
+    "id": 103
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 50,
+        "v": "When Baal-Hanan died, Hadar became the king. He was from the city of Pau. His wife’s name was Mehetabel; she was the daughter of Matred and the granddaughter of Me-Zahab.",
+        "id": 106
+      },
+      {
+        "t": "v",
+        "n": 51,
+        "v": "Then Hadad died.",
+        "id": 107
+      }
+    ],
+    "id": 105
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "The chiefs of the Edom people group were Chiefs Timna, Alvah, Jetheth,",
+        "id": 109
+      },
+      {
+        "t": "v",
+        "n": 52,
+        "v": "Oholibamah, Elah, Pinon,",
+        "id": 110
+      },
+      {
+        "t": "v",
+        "n": 53,
+        "v": "Kenaz, Teman, Mibzar,",
+        "id": 111
+      },
+      {
+        "t": "v",
+        "n": 54,
+        "v": "and Magdiel. These were the chiefs of Edom.",
+        "id": 112
+      }
+    ],
+    "id": 108
+  }
+]

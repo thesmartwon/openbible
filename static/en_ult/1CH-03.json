@@ -1,0 +1,206 @@
+[
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 1,
+        "v": "Now these are the sons of David who were born to him in Hebron: the firstborn was Amnon, by Ahinoam from Jezreel; the second was Daniel, by Abigail from Carmel;",
+        "id": 1
+      },
+      {
+        "t": "v",
+        "n": 2,
+        "v": "the third was Absalom, whose mother was Maakah, daughter of Talmai king of Geshur. The fourth was Adonijah son of Haggith;",
+        "id": 2
+      },
+      {
+        "t": "v",
+        "n": 3,
+        "v": "the fifth was Shephatiah by Abital; the sixth was Ithream by Eglah his wife.",
+        "id": 3
+      }
+    ],
+    "id": 0
+  },
+  {
+    "t": "m",
+    "v": [
+      {
+        "t": "v",
+        "n": 4,
+        "v": "These six were born to David in Hebron, where he reigned seven years and six months. He then ruled thirty-three years in Jerusalem.",
+        "id": 5
+      },
+      {
+        "t": "v",
+        "n": 5,
+        "v": "These four sons, by Bathsheba daughter of Ammiel, were born to him in Jerusalem: Shammua, Shobab, Nathan, and Solomon.",
+        "id": 6
+      },
+      {
+        "t": "v",
+        "n": 6,
+        "v": "David’s other nine sons were: Ibhar, Elishua, Eliphelet,",
+        "id": 15
+      },
+      {
+        "t": "v",
+        "n": 7,
+        "v": "Nogah, Nepheg, Japhia,",
+        "id": 16
+      },
+      {
+        "t": "v",
+        "n": 8,
+        "v": "Elishama, Eliada, and Eliphelet.",
+        "id": 17
+      },
+      {
+        "t": "v",
+        "n": 9,
+        "v": "These were David’s sons, not including the sons by his concubines. Tamar was their sister.",
+        "id": 18
+      }
+    ],
+    "id": 4
+  },
+  {
+    "t": "f",
+    "c": "+",
+    "v": [
+      {
+        "t": "ft",
+        "v": "Some versions have",
+        "id": 8
+      },
+      {
+        "t": "fqa",
+        "v": "Bathseba",
+        "id": 9
+      },
+      {
+        "t": "t",
+        "v": "or",
+        "id": 10
+      },
+      {
+        "t": "fqa",
+        "v": "Bathshua",
+        "id": 11
+      },
+      {
+        "t": "t",
+        "v": "instead of",
+        "id": 12
+      },
+      {
+        "t": "fqa",
+        "v": "Bathsheba",
+        "id": 13
+      },
+      {
+        "t": "t",
+        "v": ".",
+        "id": 14
+      }
+    ],
+    "id": 7
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 10,
+        "v": "Solomon’s son was Rehoboam. Rehoboam’s son was Abijah. Abijah’s son was Asa. Asa’s son was Jehoshaphat.",
+        "id": 20
+      },
+      {
+        "t": "v",
+        "n": 11,
+        "v": "Jehoshaphat’s son was Jehoram. Jehoram’s son was Ahaziah. Ahaziah’s son was Joash.",
+        "id": 21
+      },
+      {
+        "t": "v",
+        "n": 12,
+        "v": "Joash’s son was Amaziah. Amaziah’s son was Azariah. Azariah’s son was Jotham.",
+        "id": 22
+      },
+      {
+        "t": "v",
+        "n": 13,
+        "v": "Jotham’s son was Ahaz. Ahaz’s son was Hezekiah. Hezekiah’s son was Manasseh.",
+        "id": 23
+      },
+      {
+        "t": "v",
+        "n": 14,
+        "v": "Manasseh’s son was Amon. Amon’s son was Josiah.",
+        "id": 24
+      },
+      {
+        "t": "v",
+        "n": 15,
+        "v": "Josiah’s sons were his firstborn Johanan, his second son Jehoiakim, his third son Zedekiah, and his fourth son Shallum.",
+        "id": 25
+      },
+      {
+        "t": "v",
+        "n": 16,
+        "v": "Jehoiakim’s sons were Jehoiachin and Zedekiah.",
+        "id": 26
+      },
+      {
+        "t": "v",
+        "n": 17,
+        "v": "The sons of Jehoiachin, the captive, were Shealtiel,",
+        "id": 27
+      },
+      {
+        "t": "v",
+        "n": 18,
+        "v": "Malkiram, Pedaiah, Shenazzar, Jekamiah, Hoshama, and Nedabiah.",
+        "id": 28
+      },
+      {
+        "t": "v",
+        "n": 19,
+        "v": "Pedaiah’s sons were Zerubbabel and Shimei. Zerubbabel’s sons were Meshullam and Hananiah; Shelomith was their sister.",
+        "id": 29
+      },
+      {
+        "t": "v",
+        "n": 20,
+        "v": "His other five sons were Hashubah, Ohel, Berekiah, Hasadiah, and Jushab-Hesed.",
+        "id": 30
+      },
+      {
+        "t": "v",
+        "n": 21,
+        "v": "Hananiah’s sons were Pelatiah and Jeshaiah. His son was Rephaiah, and further descendants were Arnan, Obadiah, and Shekaniah.",
+        "id": 31
+      },
+      {
+        "t": "v",
+        "n": 22,
+        "v": "Shekaniah’s son was Shemaiah. Shemaiah’s sons were Hattush, Igal, Bariah, Neariah, and Shaphat.",
+        "id": 32
+      },
+      {
+        "t": "v",
+        "n": 23,
+        "v": "Neariah’s three sons were Elioenai, Hizkiah, and Azrikam.",
+        "id": 33
+      },
+      {
+        "t": "v",
+        "n": 24,
+        "v": "Elioenai’s seven sons were Hodaviah, Eliashib, Pelaiah, Akkub, Johanan, Delaiah, and Anani.",
+        "id": 34
+      }
+    ],
+    "id": 19
+  }
+]

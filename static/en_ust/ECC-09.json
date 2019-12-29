@@ -1,0 +1,484 @@
+[
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 1,
+        "v": "I thought about all those things, and I decided that God controls what happens to everyone, even those who are wise and those who are righteous. No one knows whether others will love them or whether they will hate them.",
+        "id": 1
+      }
+    ],
+    "id": 0
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 2,
+        "v": "But we know that some time in the future we will all die.",
+        "id": 3
+      }
+    ],
+    "id": 2
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "It does not matter whether we act righteously or wickedly,",
+        "id": 5
+      }
+    ],
+    "id": 4
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "whether we are good or whether we are bad,",
+        "id": 7
+      }
+    ],
+    "id": 6
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "whether we are acceptable for worshiping God",
+        "id": 9
+      }
+    ],
+    "id": 8
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "or whether we have done things to cause us to be unacceptable.",
+        "id": 11
+      }
+    ],
+    "id": 10
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "It does not matter if we offer sacrifices to God or if we do not.",
+        "id": 13
+      }
+    ],
+    "id": 12
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "It does not matter if we do what we have promised God that we will do or if we do not.",
+        "id": 15
+      }
+    ],
+    "id": 14
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "We all die.",
+        "id": 17
+      }
+    ],
+    "id": 16
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "The same thing will happen to good people and to sinful people,",
+        "id": 19
+      }
+    ],
+    "id": 18
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "to those who solemnly promise to do things for God and to those who are afraid to make such promises.",
+        "id": 21
+      }
+    ],
+    "id": 20
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 3,
+        "v": "It seems wrong that the same thing happens to everyone on this earth. Everyone dies. Furthermore, people’s inner beings are full of evil. People do foolish things while they are alive, and then they join those who are dead.",
+        "id": 23
+      },
+      {
+        "t": "v",
+        "n": 4,
+        "v": "While we are alive, we can expect that good things will happen to us. We despise dogs, but it is better to be a dog that is alive than to be a majestic lion that is dead.",
+        "id": 24
+      }
+    ],
+    "id": 22
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 5,
+        "v": "We who are alive know that some day we will die,",
+        "id": 26
+      }
+    ],
+    "id": 25
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "but dead people do not know anything.",
+        "id": 28
+      }
+    ],
+    "id": 27
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Dead people do not receive any more rewards,",
+        "id": 30
+      }
+    ],
+    "id": 29
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and people soon forget them.",
+        "id": 32
+      }
+    ],
+    "id": 31
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 6,
+        "v": "While they were alive, they loved people, they hated people, they envied people,",
+        "id": 34
+      }
+    ],
+    "id": 33
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "but they stop doing any of that when they die.",
+        "id": 36
+      }
+    ],
+    "id": 35
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "They will never again be a part of anything that happens here on the earth.",
+        "id": 38
+      }
+    ],
+    "id": 37
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 7,
+        "v": "So I say, be joyful while you eat your food and drink your wine, because that is what God wants you to do.",
+        "id": 40
+      },
+      {
+        "t": "v",
+        "n": 8,
+        "v": "Wear nice clothes and cause your face to have a good appearance.",
+        "id": 41
+      },
+      {
+        "t": "v",
+        "n": 9,
+        "v": "Enjoy living with your wife whom you love, all during the time that God has given to you to be alive here on this earth. Even though it is difficult to understand why many things happen, this life with your wife is your reward for doing the work that you do here on this earth.",
+        "id": 42
+      },
+      {
+        "t": "v",
+        "n": 10,
+        "v": "Whatever you are able to do, do it with all your energy, because at some point you will die, and in the place of the dead where you are going, no one works or plans to do anything or knows anything or has any wisdom.",
+        "id": 43
+      }
+    ],
+    "id": 39
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 11,
+        "v": "I have seen something else here on the earth:",
+        "id": 45
+      }
+    ],
+    "id": 44
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "The person who runs fastest does not always win the race,",
+        "id": 47
+      }
+    ],
+    "id": 46
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "the strongest soldiers do not always win the battle,",
+        "id": 49
+      }
+    ],
+    "id": 48
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "the wisest people do not always have food,",
+        "id": 51
+      }
+    ],
+    "id": 50
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "the smartest people do not always become rich,",
+        "id": 53
+      }
+    ],
+    "id": 52
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and the people who have studied a lot are not always honored by others.",
+        "id": 55
+      }
+    ],
+    "id": 54
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "We cannot always control what things will happen to us and where they will happen.",
+        "id": 57
+      }
+    ],
+    "id": 56
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 12,
+        "v": "No one knows when he will die.",
+        "id": 59
+      }
+    ],
+    "id": 58
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Fish are cruelly caught in a net,",
+        "id": 61
+      }
+    ],
+    "id": 60
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and birds are caught in snares.",
+        "id": 63
+      }
+    ],
+    "id": 62
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Similarly, people experience disasters",
+        "id": 65
+      }
+    ],
+    "id": 64
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "at times when they do not expect them to happen.",
+        "id": 67
+      }
+    ],
+    "id": 66
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 13,
+        "v": "Once I saw here on this earth something that a wise man did that impressed me.",
+        "id": 69
+      },
+      {
+        "t": "v",
+        "n": 14,
+        "v": "There was a small town, where only a few people lived. The army of a great king came to that town and surrounded it. They built dirt ramps up against the walls in order to climb up and attack the town.",
+        "id": 70
+      },
+      {
+        "t": "v",
+        "n": 15,
+        "v": "In that town there was someone who was poor but very wise. Because of what that person suggested, the town was saved, but people soon forgot about him.",
+        "id": 71
+      },
+      {
+        "t": "v",
+        "n": 16,
+        "v": "So I realized that although being wise is better than being strong, if you are poor, no one will appreciate what you do, and people will soon forget what you said.",
+        "id": 72
+      }
+    ],
+    "id": 68
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 17,
+        "v": "A wise man who speaks quietly—people hear him better",
+        "id": 74
+      }
+    ],
+    "id": 73
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "than they hear a king who is shouting to a foolish crowd.",
+        "id": 76
+      }
+    ],
+    "id": 75
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 18,
+        "v": "Being wise is more useful",
+        "id": 78
+      }
+    ],
+    "id": 77
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "than having a lot of weapons;",
+        "id": 80
+      }
+    ],
+    "id": 79
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "however, if a person does just one foolish thing,",
+        "id": 82
+      }
+    ],
+    "id": 81
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "he might ruin many good things that others have done.",
+        "id": 84
+      }
+    ],
+    "id": 83
+  }
+]

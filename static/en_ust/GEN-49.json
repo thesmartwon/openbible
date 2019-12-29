@@ -1,0 +1,607 @@
+[
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 1,
+        "v": "Jacob summoned all his sons and said to them,",
+        "id": 1
+      },
+      {
+        "t": "v",
+        "n": 2,
+        "v": "“Gather around close to me in order that I can tell you what will happen in the future.",
+        "id": 2
+      },
+      {
+        "t": "t",
+        "v": "My sons, come and listen to me.",
+        "id": 3
+      },
+      {
+        "t": "t",
+        "v": "I am your father, Jacob.",
+        "id": 4
+      }
+    ],
+    "id": 0
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 3,
+        "v": "Reuben, you are my oldest son.",
+        "id": 6
+      },
+      {
+        "t": "t",
+        "v": "You were born when I was young and energetic.",
+        "id": 7
+      },
+      {
+        "t": "t",
+        "v": "When I became a grown man, you were my first child. You are prouder and stronger than all the rest of my sons.",
+        "id": 8
+      },
+      {
+        "t": "v",
+        "n": 4,
+        "v": "But you were as unstable as ocean waves.",
+        "id": 9
+      },
+      {
+        "t": "t",
+        "v": "So now you will not be my most important son,",
+        "id": 10
+      },
+      {
+        "t": "t",
+        "v": "because you climbed up onto my bed and slept with my concubine. That caused me, your father, to have great shame.",
+        "id": 11
+      }
+    ],
+    "id": 5
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 5,
+        "v": "Simeon and Levi, you two brothers have both acted like criminals.",
+        "id": 13
+      },
+      {
+        "t": "t",
+        "v": "You use your swords to act violently.",
+        "id": 14
+      },
+      {
+        "t": "v",
+        "n": 6,
+        "v": "I do not want to be with you when you make evil plans.",
+        "id": 15
+      },
+      {
+        "t": "t",
+        "v": "I am too honorable to join you in your meetings,",
+        "id": 16
+      },
+      {
+        "t": "t",
+        "v": "because you killed people when you became very angry,",
+        "id": 17
+      },
+      {
+        "t": "t",
+        "v": "and you hamstrung oxen just to have fun.",
+        "id": 18
+      }
+    ],
+    "id": 12
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 7,
+        "v": "God says, ‘I will curse them for being very angry,",
+        "id": 20
+      },
+      {
+        "t": "t",
+        "v": "for acting very cruelly when they were very furious.",
+        "id": 21
+      },
+      {
+        "t": "t",
+        "v": "I will scatter their descendants throughout Israel land.’",
+        "id": 22
+      }
+    ],
+    "id": 19
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 8,
+        "v": "Judah, your older and younger brothers will praise you.",
+        "id": 24
+      },
+      {
+        "t": "t",
+        "v": "They will bow down before you,",
+        "id": 25
+      },
+      {
+        "t": "t",
+        "v": "because you will thoroughly defeat your enemies.",
+        "id": 26
+      }
+    ],
+    "id": 23
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 9,
+        "v": "Judah is like a young lion that has returned to its den satisfied",
+        "id": 28
+      },
+      {
+        "t": "t",
+        "v": "after eating the animals that it has killed.",
+        "id": 29
+      },
+      {
+        "t": "t",
+        "v": "He is like a lion that lies down and stretches out after eating;",
+        "id": 30
+      },
+      {
+        "t": "t",
+        "v": "no one would dare to disturb it.",
+        "id": 31
+      }
+    ],
+    "id": 27
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 10,
+        "v": "There will always be a ruler from the descendants of Judah.",
+        "id": 33
+      },
+      {
+        "t": "t",
+        "v": "Each one will hold a scepter to show that he has authority as a king.",
+        "id": 34
+      },
+      {
+        "t": "t",
+        "v": "He will do that until nations bring tribute to him",
+        "id": 35
+      },
+      {
+        "t": "t",
+        "v": "and show that they will obey him.",
+        "id": 36
+      }
+    ],
+    "id": 32
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 11,
+        "v": "The grapevines of his descendants will produce grapes very abundantly.",
+        "id": 38
+      },
+      {
+        "t": "t",
+        "v": "As a result, they will not object to tying their young donkeys to the grapevines in order that they can eat the leaves of the grapevines.",
+        "id": 39
+      },
+      {
+        "t": "t",
+        "v": "Wine will be very plentiful, with the result that they will wash their clothes in wine;",
+        "id": 40
+      },
+      {
+        "t": "t",
+        "v": "they will wash their cloaks in wine that is as red as blood.",
+        "id": 41
+      },
+      {
+        "t": "v",
+        "n": 12,
+        "v": "Their eyes will be red because of drinking too much wine,",
+        "id": 42
+      },
+      {
+        "t": "t",
+        "v": "but their teeth will be very white because of drinking much milk from the cows.",
+        "id": 43
+      }
+    ],
+    "id": 37
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 13,
+        "v": "Zebulun, your descendants will live by the seashore",
+        "id": 45
+      },
+      {
+        "t": "t",
+        "v": "where there will be a safe harbor for ships.",
+        "id": 46
+      },
+      {
+        "t": "t",
+        "v": "Their land will extend north as far as the city of Sidon.",
+        "id": 47
+      }
+    ],
+    "id": 44
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 14,
+        "v": "Issachar, your descendants will be like strong donkeys",
+        "id": 49
+      },
+      {
+        "t": "t",
+        "v": "that are lying down between two groups of sheep.",
+        "id": 50
+      },
+      {
+        "t": "t",
+        "v": "so tired that they cannot get up!",
+        "id": 51
+      },
+      {
+        "t": "v",
+        "n": 15,
+        "v": "They will see that their resting place is good",
+        "id": 52
+      },
+      {
+        "t": "t",
+        "v": "and that the land pleases them very much.",
+        "id": 53
+      },
+      {
+        "t": "t",
+        "v": "But they will bend their backs to carry heavy loads",
+        "id": 54
+      },
+      {
+        "t": "t",
+        "v": "and be forced to work for others.",
+        "id": 55
+      }
+    ],
+    "id": 48
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 16,
+        "v": "Dan, although your tribe will be small,",
+        "id": 57
+      },
+      {
+        "t": "t",
+        "v": "your leaders will rule their people just as the leaders of other tribes of Israel will rule their people.",
+        "id": 58
+      },
+      {
+        "t": "v",
+        "n": 17,
+        "v": "Your descendants will be like snakes at the side of a road,",
+        "id": 59
+      },
+      {
+        "t": "t",
+        "v": "like poisonous snakes lying beside a path.",
+        "id": 60
+      },
+      {
+        "t": "t",
+        "v": "They will strike the heels of horses that pass by,",
+        "id": 61
+      },
+      {
+        "t": "t",
+        "v": "causing the riders to fall backwards as the horses rear up on their hind legs.”",
+        "id": 62
+      }
+    ],
+    "id": 56
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 18,
+        "v": "Then Jacob prayed, “Yahweh, I am waiting for you to rescue me from my enemies.”",
+        "id": 64
+      }
+    ],
+    "id": 63
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 19,
+        "v": "Then Jacob continued telling his sons what would happen in the future. He said,",
+        "id": 66
+      },
+      {
+        "t": "t",
+        "v": "“Gad, your tribe will be attacked by a group of bandits, but your tribe will pursue and attack them.",
+        "id": 67
+      }
+    ],
+    "id": 65
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 20,
+        "v": "Asher, your descendants will eat good tasting food;",
+        "id": 69
+      },
+      {
+        "t": "t",
+        "v": "they will produce food that is delicious enough for kings to eat.",
+        "id": 70
+      }
+    ],
+    "id": 68
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 21,
+        "v": "Naphtali, your descendants will be like deer that run free, deer that have beautiful fawns.",
+        "id": 72
+      }
+    ],
+    "id": 71
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 22,
+        "v": "Joseph, you will have many descendants.",
+        "id": 74
+      },
+      {
+        "t": "t",
+        "v": "Their children will be as many as the fruit on a vine near a spring of water, whose branches extend over a wall.",
+        "id": 75
+      },
+      {
+        "t": "v",
+        "n": 23,
+        "v": "Their enemies will attack them fiercely,",
+        "id": 76
+      },
+      {
+        "t": "t",
+        "v": "and shoot at them with bows and arrows and pursue them.",
+        "id": 77
+      },
+      {
+        "t": "v",
+        "n": 24,
+        "v": "But they will hold their bows steady and their arms will remain strong,",
+        "id": 78
+      },
+      {
+        "t": "t",
+        "v": "because of the power of my mighty God,",
+        "id": 79
+      },
+      {
+        "t": "t",
+        "v": "because of Yahweh, who guides and provides for me,",
+        "id": 80
+      },
+      {
+        "t": "t",
+        "v": "as a shepherd guides and provides for his sheep.",
+        "id": 81
+      },
+      {
+        "t": "t",
+        "v": "The people of Israel will ask Yahweh to protect them,",
+        "id": 82
+      },
+      {
+        "t": "t",
+        "v": "as people take refuge on top of a high rock.",
+        "id": 83
+      }
+    ],
+    "id": 73
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 25,
+        "v": "God, the one whom I worship, will help your descendants.",
+        "id": 85
+      },
+      {
+        "t": "t",
+        "v": "God Almighty will bless them",
+        "id": 86
+      },
+      {
+        "t": "t",
+        "v": "by sending them rain from the sky",
+        "id": 87
+      },
+      {
+        "t": "t",
+        "v": "and by giving them water from deep below the ground.",
+        "id": 88
+      },
+      {
+        "t": "t",
+        "v": "He will give them many children and will nourish them.",
+        "id": 89
+      }
+    ],
+    "id": 84
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 26,
+        "v": "The blessings that I want God to give you are great ones.",
+        "id": 91
+      },
+      {
+        "t": "t",
+        "v": "They are greater than the blessings that come from the eternal mountains,",
+        "id": 92
+      },
+      {
+        "t": "t",
+        "v": "than the ones that come from the everlasting hills.",
+        "id": 93
+      },
+      {
+        "t": "t",
+        "v": "Joseph, I pray that these blessings will be given to you,",
+        "id": 94
+      },
+      {
+        "t": "t",
+        "v": "because you are the leader of your brothers.",
+        "id": 95
+      }
+    ],
+    "id": 90
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 27,
+        "v": "Benjamin, your descendants will be like vicious wolves.",
+        "id": 97
+      },
+      {
+        "t": "t",
+        "v": "In the morning they will kill their enemies",
+        "id": 98
+      },
+      {
+        "t": "t",
+        "v": "like a wolf devours its prey,",
+        "id": 99
+      },
+      {
+        "t": "t",
+        "v": "and in the evening they will divide among their warriors the spoils that they seized from their enemies.”",
+        "id": 100
+      }
+    ],
+    "id": 96
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 28,
+        "v": "Those twelve sons are the ancestors of the twelve tribes of Israel. That is what their father said to them as he blessed them, telling to each one words that were right for him.",
+        "id": 102
+      }
+    ],
+    "id": 101
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 29,
+        "v": "Then Jacob said to his sons, “I will soon die and join my ancestors who have already died. Bury my body where some of my ancestors are buried, in the cave that is in the field that was bought from Ephron, who belonged to the Heth people group.",
+        "id": 104
+      },
+      {
+        "t": "v",
+        "n": 30,
+        "v": "The field of Machpelah, was east of Mamre, in the land of Canaan. Abraham bought it from Ephron to use as a burial place.",
+        "id": 105
+      },
+      {
+        "t": "v",
+        "n": 31,
+        "v": "That is where they buried him and his wife Sarah. That is where they buried my father Isaac and his wife Rebekah. And that is where I buried my wife Leah.",
+        "id": 106
+      },
+      {
+        "t": "v",
+        "n": 32,
+        "v": "That field and the cave in it were bought from the Heth people group; so that is where I want you to bury me.”",
+        "id": 107
+      }
+    ],
+    "id": 103
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 33,
+        "v": "When Jacob finished giving those instructions to his sons, he lay down on his bed again. Then he stopped breathing and died.",
+        "id": 109
+      }
+    ],
+    "id": 108
+  }
+]

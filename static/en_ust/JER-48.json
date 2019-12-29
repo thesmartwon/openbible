@@ -1,0 +1,1644 @@
+[
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 1,
+        "v": "This is a message about Moab. Yahweh, commander of the angel armies, the God whom Israel worships, says,",
+        "id": 1
+      }
+    ],
+    "id": 0
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "“Terrible things will happen to the city of Nebo;",
+        "id": 3
+      }
+    ],
+    "id": 2
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "it will soon be ruined.",
+        "id": 5
+      }
+    ],
+    "id": 4
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "the city of Kiriathaim will be put to shame. It is taken!",
+        "id": 7
+      }
+    ],
+    "id": 6
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "The defended fortress will be ruined, and its people will become ashamed.",
+        "id": 9
+      }
+    ],
+    "id": 8
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 2,
+        "v": "No one will boast about Moab again;",
+        "id": 11
+      }
+    ],
+    "id": 10
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "the enemies of Moab will plan to destroy the capital city, Heshbon.",
+        "id": 13
+      }
+    ],
+    "id": 12
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "They will say, ‘Come, let us cause Moab to no longer be a nation.’",
+        "id": 15
+      }
+    ],
+    "id": 14
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "You also, You Madmen! you also will be silenced;",
+        "id": 17
+      }
+    ],
+    "id": 16
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "enemy armies will pursue you to kill you.",
+        "id": 19
+      }
+    ],
+    "id": 18
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 3,
+        "v": "Listen to the people of Horonaim screaming;",
+        "id": 21
+      }
+    ],
+    "id": 20
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "they will be wailing because their town was completely destroyed .",
+        "id": 23
+      }
+    ],
+    "id": 22
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 4,
+        "v": "All of Moab will be ruined;",
+        "id": 25
+      }
+    ],
+    "id": 24
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "even the little children will cry loudly.",
+        "id": 27
+      }
+    ],
+    "id": 26
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 5,
+        "v": "They will cry bitterly",
+        "id": 29
+      }
+    ],
+    "id": 28
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "as they climb up Luhith hill.",
+        "id": 31
+      }
+    ],
+    "id": 30
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Others will wail on the road down to Horonaim.",
+        "id": 33
+      }
+    ],
+    "id": 32
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "They were so very sad because their town was completely destroyed.",
+        "id": 35
+      }
+    ],
+    "id": 34
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 6,
+        "v": "Someone will say to them, ‘Flee!",
+        "id": 37
+      }
+    ],
+    "id": 36
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Hide in the desert!’",
+        "id": 39
+      }
+    ],
+    "id": 38
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 7,
+        "v": "But you trusted that because you were rich and powerful, you would be safe;",
+        "id": 41
+      }
+    ],
+    "id": 40
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "so you will be captured.",
+        "id": 43
+      }
+    ],
+    "id": 42
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Your god Chemosh and all his priests and officials",
+        "id": 45
+      }
+    ],
+    "id": 44
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "will be taken away to distant lands.",
+        "id": 47
+      }
+    ],
+    "id": 46
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 8,
+        "v": "All the towns in Moab will be destroyed;",
+        "id": 49
+      }
+    ],
+    "id": 48
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "none of them will escape.",
+        "id": 51
+      }
+    ],
+    "id": 50
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Towns in the valleys and on the plateau will all be destroyed,",
+        "id": 53
+      }
+    ],
+    "id": 52
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "because Yahweh has said that is what will happen.",
+        "id": 55
+      }
+    ],
+    "id": 54
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 9,
+        "v": "Someone should help all the people in Moab to run away,",
+        "id": 57
+      }
+    ],
+    "id": 56
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "so that their land will be empty,",
+        "id": 59
+      }
+    ],
+    "id": 58
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "so that no one will live in it any longer.”",
+        "id": 61
+      }
+    ],
+    "id": 60
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 10,
+        "v": "May Yahweh punish anyone who will not eagerly do what he desires;",
+        "id": 63
+      }
+    ],
+    "id": 62
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "may he curse anyone who refrains from using his sword to kill the people in Moab.",
+        "id": 65
+      }
+    ],
+    "id": 64
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 11,
+        "v": "The people of Moab have always felt secure;",
+        "id": 67
+      }
+    ],
+    "id": 66
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "they have never been exiled.",
+        "id": 69
+      }
+    ],
+    "id": 68
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "They are like wine that has been left undisturbed in a container for many days to give it good flavor,",
+        "id": 71
+      }
+    ],
+    "id": 70
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "so now it is smells good,",
+        "id": 73
+      }
+    ],
+    "id": 72
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and it tastes good.",
+        "id": 75
+      }
+    ],
+    "id": 74
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 12,
+        "v": "But Yahweh says that there will be a time when he will send enemies to attack them;",
+        "id": 77
+      }
+    ],
+    "id": 76
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "they will get rid of the people of Moab like people pour out wine on the ground",
+        "id": 79
+      }
+    ],
+    "id": 78
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and then smash the wine jar.",
+        "id": 81
+      }
+    ],
+    "id": 80
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 13,
+        "v": "Then the people of Moab will be ashamed of their god Chemosh that they had trusted in, because it did not help them,",
+        "id": 83
+      }
+    ],
+    "id": 82
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "like the Israelite people were ashamed because their gold statue of a calf was smashed at Bethel.",
+        "id": 85
+      }
+    ],
+    "id": 84
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 14,
+        "v": "The soldiers of Moab previously said, “We are warriors;",
+        "id": 87
+      }
+    ],
+    "id": 86
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "we have fought bravely in battles!”",
+        "id": 89
+      }
+    ],
+    "id": 88
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 15,
+        "v": "But now our king, who is called Yahweh, commander of the angel armies, says that the country of Moab and all the towns in it will be destroyed.",
+        "id": 91
+      }
+    ],
+    "id": 90
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Their fine young men will all be slaughtered.",
+        "id": 93
+      }
+    ],
+    "id": 92
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 16,
+        "v": "Moab will very soon be destroyed.",
+        "id": 95
+      }
+    ],
+    "id": 94
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "They will soon experience disaster.",
+        "id": 97
+      }
+    ],
+    "id": 96
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 17,
+        "v": "You people who live in nations near Moab,",
+        "id": 99
+      }
+    ],
+    "id": 98
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "who know that it is very famous,",
+        "id": 101
+      }
+    ],
+    "id": 100
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "should mourn for Moab,",
+        "id": 103
+      }
+    ],
+    "id": 102
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and say, “Its glorious power is completely ended .”",
+        "id": 105
+      }
+    ],
+    "id": 104
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 18,
+        "v": "You people of the city of Dibon, stop being proud because of being honored,",
+        "id": 107
+      }
+    ],
+    "id": 106
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and sit in the dust where you will thirst for water,",
+        "id": 109
+      }
+    ],
+    "id": 108
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "because those who will destroy other places in Moab will attack your city",
+        "id": 111
+      }
+    ],
+    "id": 110
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and destroy your fortifications.",
+        "id": 113
+      }
+    ],
+    "id": 112
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 19,
+        "v": "You people of the city of Aroer,",
+        "id": 115
+      }
+    ],
+    "id": 114
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "stand along the road and watch.",
+        "id": 117
+      }
+    ],
+    "id": 116
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Shout to the men and women who will be fleeing from Moab,",
+        "id": 119
+      }
+    ],
+    "id": 118
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "“What has happened there?”",
+        "id": 121
+      }
+    ],
+    "id": 120
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 20,
+        "v": "They will reply,",
+        "id": 123
+      }
+    ],
+    "id": 122
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "“Moab is ruined and we are disgraced!”",
+        "id": 125
+      }
+    ],
+    "id": 124
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "So weep and wail .",
+        "id": 127
+      }
+    ],
+    "id": 126
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Proclaim to Amon that Moab has been destroyed.",
+        "id": 129
+      }
+    ],
+    "id": 128
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 21,
+        "v": "Yahweh is punishing the towns of Moab that are on the plateau:",
+        "id": 131
+      }
+    ],
+    "id": 130
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Holon and Jahaz and Mephaath,",
+        "id": 133
+      }
+    ],
+    "id": 132
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 22,
+        "v": "Dibon and Nebo and Beth Diblathaim,",
+        "id": 135
+      }
+    ],
+    "id": 134
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 23,
+        "v": "Kiriathaim and Beth Gamul and Beth Meon,",
+        "id": 137
+      }
+    ],
+    "id": 136
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 24,
+        "v": "Kerioth and Bozrah.",
+        "id": 139
+      }
+    ],
+    "id": 138
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "He is punishing cities that are near each other and towns that are far away from each other.",
+        "id": 141
+      }
+    ],
+    "id": 140
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 25,
+        "v": "Yahweh says, “The power of Moab will be finished;",
+        "id": 143
+      }
+    ],
+    "id": 142
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "it is as though it will have a broken arm.",
+        "id": 145
+      }
+    ],
+    "id": 144
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 26,
+        "v": "You people of Moab thought you were powerful enough to rebel against me, Yahweh;",
+        "id": 147
+      }
+    ],
+    "id": 146
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "so now I will cause you all to stagger like drunken people.",
+        "id": 149
+      }
+    ],
+    "id": 148
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "You people of Moab will wallow in your own vomit",
+        "id": 151
+      }
+    ],
+    "id": 150
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and be ridiculed.",
+        "id": 153
+      }
+    ],
+    "id": 152
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 27,
+        "v": "Did you not ridicule the people of Israel?",
+        "id": 155
+      }
+    ],
+    "id": 154
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Did you think they were nothing but thieves,",
+        "id": 157
+      }
+    ],
+    "id": 156
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "so that you shook your head at them with scorn,",
+        "id": 159
+      }
+    ],
+    "id": 158
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and despised them every time you spoke about them?",
+        "id": 161
+      }
+    ],
+    "id": 160
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 28,
+        "v": "You people who live in Moab,",
+        "id": 163
+      }
+    ],
+    "id": 162
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "you should abandon your towns and go and live in caves.",
+        "id": 165
+      }
+    ],
+    "id": 164
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Be like pigeons that make their nests in the entrances of caves.”",
+        "id": 167
+      }
+    ],
+    "id": 166
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 29,
+        "v": "We have all heard that the people of Moab are very proud;",
+        "id": 169
+      }
+    ],
+    "id": 168
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "they are extremely proud and conceited.",
+        "id": 171
+      }
+    ],
+    "id": 170
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 30,
+        "v": "But Yahweh says, “I know about that,",
+        "id": 173
+      }
+    ],
+    "id": 172
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "but it is useless for them to boast",
+        "id": 175
+      }
+    ],
+    "id": 174
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "because it will accomplish nothing.",
+        "id": 177
+      }
+    ],
+    "id": 176
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 31,
+        "v": "So now I will wail for Moab;",
+        "id": 179
+      }
+    ],
+    "id": 178
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "I will cry about all its people.",
+        "id": 181
+      }
+    ],
+    "id": 180
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "I will moan for the men of the city of Kir Hareseth, the old capital of Moab.",
+        "id": 183
+      }
+    ],
+    "id": 182
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 32,
+        "v": "You people of the city of Sibmah, you have many vineyards, and I will be sad when they are destroyed.",
+        "id": 185
+      }
+    ],
+    "id": 184
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "It is as though the branches of your vines extend across the Dead Sea to the city of Jazer, but the enemies of Moab will take your grapes and wine from you!",
+        "id": 187
+      }
+    ],
+    "id": 186
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 33,
+        "v": "But no one will be joyful or happy in Moab now;",
+        "id": 189
+      }
+    ],
+    "id": 188
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "your fruit and grapes that ripen in the summer will soon be destroyed.",
+        "id": 191
+      }
+    ],
+    "id": 190
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "There will be no grape juice coming from the winepresses,",
+        "id": 193
+      }
+    ],
+    "id": 192
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "so there will be no wine.",
+        "id": 195
+      }
+    ],
+    "id": 194
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "People will not shout joyfully",
+        "id": 197
+      }
+    ],
+    "id": 196
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "as they tread on the grapes;",
+        "id": 199
+      }
+    ],
+    "id": 198
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "people will shout,",
+        "id": 201
+      }
+    ],
+    "id": 200
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "but they will not be shouting joyfully.",
+        "id": 203
+      }
+    ],
+    "id": 202
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 34,
+        "v": "Instead, the sound of their wailing will rise from the city of Heshbon to the town of Elealeh and the village of Jahaz,",
+        "id": 205
+      }
+    ],
+    "id": 204
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "from the city of Zoar as far as the town of Horonaim Eglath Shelishiyah.",
+        "id": 207
+      }
+    ],
+    "id": 206
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Even the water in the stream of Nimrim will be dried up.",
+        "id": 209
+      }
+    ],
+    "id": 208
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 35,
+        "v": "I, Yahweh, say that I will get rid of the people who offer sacrifices on the hilltops,",
+        "id": 211
+      }
+    ],
+    "id": 210
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "thos who burn incense to their gods.",
+        "id": 213
+      }
+    ],
+    "id": 212
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 36,
+        "v": "I moan for the people of Moab and Kir Hareseth",
+        "id": 215
+      }
+    ],
+    "id": 214
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "like someone playing a funeral song on a flute,",
+        "id": 217
+      }
+    ],
+    "id": 216
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "because all their wealth will disappear.",
+        "id": 219
+      }
+    ],
+    "id": 218
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 37,
+        "v": "The men will shave their heads and their beards to show that they are mourning.",
+        "id": 221
+      }
+    ],
+    "id": 220
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "They all will slash their hands and wear rough cloth around their waists.",
+        "id": 223
+      }
+    ],
+    "id": 222
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 38,
+        "v": "In every home and in the town plazas in Moab there will be people who are mourning,",
+        "id": 225
+      }
+    ],
+    "id": 224
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "because I will have destroyed Moab",
+        "id": 227
+      }
+    ],
+    "id": 226
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "like someone smashes an old jar that no one wants anymore.",
+        "id": 229
+      }
+    ],
+    "id": 228
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 39,
+        "v": "Moab will be completely shattered with terror!",
+        "id": 231
+      }
+    ],
+    "id": 230
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "And you will hear the people wailing loudly!",
+        "id": 233
+      }
+    ],
+    "id": 232
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "They will be disgraced.",
+        "id": 235
+      }
+    ],
+    "id": 234
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Moab will become a nation that people ridicule.",
+        "id": 237
+      }
+    ],
+    "id": 236
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "The people in nearby countries will be horrified about what has happened there.",
+        "id": 239
+      }
+    ],
+    "id": 238
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 40,
+        "v": "This is what I, Yahweh, say:",
+        "id": 241
+      }
+    ],
+    "id": 240
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "‘Look! Their enemies will be swooping down over Moab",
+        "id": 243
+      }
+    ],
+    "id": 242
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "like an eagle swoops down to seize an animal.",
+        "id": 245
+      }
+    ],
+    "id": 244
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 41,
+        "v": "Its cities will be captured,",
+        "id": 247
+      }
+    ],
+    "id": 246
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "its fortresses will be seized.",
+        "id": 249
+      }
+    ],
+    "id": 248
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Even their warriors will be afraid,",
+        "id": 251
+      }
+    ],
+    "id": 250
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "like a woman who is about to give birth.",
+        "id": 253
+      }
+    ],
+    "id": 252
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 42,
+        "v": "Moab boasted against me, Yahweh,",
+        "id": 255
+      }
+    ],
+    "id": 254
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "so it will be destroyed.",
+        "id": 257
+      }
+    ],
+    "id": 256
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 43,
+        "v": "I, Yahweh, say that you people of Moab will be terrified, and fall into pits and traps.",
+        "id": 259
+      }
+    ],
+    "id": 258
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 44,
+        "v": "Those who are terrified and try to run away will fall into deep pits.",
+        "id": 261
+      }
+    ],
+    "id": 260
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Whoever climbs out of a pit will be caught in a trap,",
+        "id": 263
+      }
+    ],
+    "id": 262
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "because I will punish them at the time that I have appointed.’",
+        "id": 265
+      }
+    ],
+    "id": 264
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 45,
+        "v": "The people will flee as far as the city of Heshbon,",
+        "id": 267
+      }
+    ],
+    "id": 266
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "but they will not be able to go any further,",
+        "id": 269
+      }
+    ],
+    "id": 268
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "because a fire will burn in Heshbon,",
+        "id": 271
+      }
+    ],
+    "id": 270
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "which is the city where King Sihon lived long ago,",
+        "id": 273
+      }
+    ],
+    "id": 272
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and it will burn up all the people in Moab",
+        "id": 275
+      }
+    ],
+    "id": 274
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "who noisily boasted very much.",
+        "id": 277
+      }
+    ],
+    "id": 276
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 46,
+        "v": "You people of Moab, terrible things will happen to you!",
+        "id": 279
+      }
+    ],
+    "id": 278
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "You people who worship your god Chemosh, you will be destroyed.",
+        "id": 281
+      }
+    ],
+    "id": 280
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Your sons and your daughters will be captured and taken away to other countries.",
+        "id": 283
+      }
+    ],
+    "id": 282
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 47,
+        "v": "But some day, I will enable the people of Moab to return to their land again.",
+        "id": 285
+      }
+    ],
+    "id": 284
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "That will surely happen because I, Yahweh, have said it.”",
+        "id": 287
+      }
+    ],
+    "id": 286
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "t",
+        "v": "That is the end of what Jeremiah prophesied about Moab.",
+        "id": 289
+      }
+    ],
+    "id": 288
+  }
+]

@@ -1,0 +1,2039 @@
+[
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 1,
+        "v": "Yahweh gave to Jeremiah the prophet a message about Babylon and the country of Babylonia.",
+        "id": 1
+      }
+    ],
+    "id": 0
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 2,
+        "v": "This is what Yahweh says:",
+        "id": 3
+      }
+    ],
+    "id": 2
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "“Proclaim a message among the nations;",
+        "id": 5
+      }
+    ],
+    "id": 4
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "do not withhold any of it;",
+        "id": 7
+      }
+    ],
+    "id": 6
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "raise up a signal flag",
+        "id": 9
+      }
+    ],
+    "id": 8
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "to announce that Babylon will be captured.",
+        "id": 11
+      }
+    ],
+    "id": 10
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Its chief god Marduk, whose other name is Bel, will be completely disgraced,",
+        "id": 13
+      }
+    ],
+    "id": 12
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and all the other statues and idols will be shattered.",
+        "id": 15
+      }
+    ],
+    "id": 14
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 3,
+        "v": "The army of a nation will come from the north to attack Babylon",
+        "id": 17
+      }
+    ],
+    "id": 16
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and destroy the city very thoroughly,",
+        "id": 19
+      }
+    ],
+    "id": 18
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "with the result that no one will live there again.",
+        "id": 21
+      }
+    ],
+    "id": 20
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Both people and animals will run away.”",
+        "id": 23
+      }
+    ],
+    "id": 22
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 4,
+        "v": "“But I, Yahweh, say that in the future, when that is about to happen,",
+        "id": 25
+      }
+    ],
+    "id": 24
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "the people of Israel and the people of Judah will join together.",
+        "id": 27
+      }
+    ],
+    "id": 26
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "They will be weeping",
+        "id": 29
+      }
+    ],
+    "id": 28
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and wanting to worship me, their God.",
+        "id": 31
+      }
+    ],
+    "id": 30
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 5,
+        "v": "They will inquire about the road to Jerusalem,",
+        "id": 33
+      }
+    ],
+    "id": 32
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and then they will start traveling toward it.",
+        "id": 35
+      }
+    ],
+    "id": 34
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "They will say to each other,",
+        "id": 37
+      }
+    ],
+    "id": 36
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "‘We must return to Yahweh again!’",
+        "id": 39
+      }
+    ],
+    "id": 38
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "They will make an everlasting agreement with me that they will never forget.",
+        "id": 41
+      }
+    ],
+    "id": 40
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 6,
+        "v": "My people have been like lost sheep.",
+        "id": 43
+      }
+    ],
+    "id": 42
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Their leaders have caused them to abandon me",
+        "id": 45
+      }
+    ],
+    "id": 44
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "like shepherds who have allowed their sheep to wander in the hills and mountains.",
+        "id": 47
+      }
+    ],
+    "id": 46
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "My people are like sheep",
+        "id": 49
+      }
+    ],
+    "id": 48
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "that do not know the path to return to the sheepfold.",
+        "id": 51
+      }
+    ],
+    "id": 50
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 7,
+        "v": "All their enemies who found them attacked them.",
+        "id": 53
+      }
+    ],
+    "id": 52
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "They said, ‘We did not sin by attacking them,",
+        "id": 55
+      }
+    ],
+    "id": 54
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "because they sinned against Yahweh;",
+        "id": 57
+      }
+    ],
+    "id": 56
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "he is the one who provides what they need;",
+        "id": 59
+      }
+    ],
+    "id": 58
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "he is the one to whom they should have remained faithful;",
+        "id": 61
+      }
+    ],
+    "id": 60
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "he is the one whom their ancestors confidently expected to help them.’",
+        "id": 63
+      }
+    ],
+    "id": 62
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 8,
+        "v": "But now, I say to the leaders of my people, ‘Depart from Babylon!",
+        "id": 65
+      }
+    ],
+    "id": 64
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Leave the land of Babylonia!",
+        "id": 67
+      }
+    ],
+    "id": 66
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Act like male goats that go in front of the rest of the flock;",
+        "id": 69
+      }
+    ],
+    "id": 68
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "lead my people back to their own land.",
+        "id": 71
+      }
+    ],
+    "id": 70
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 9,
+        "v": "Do that because I am going to gather an army of great nations to the north of Babylon.",
+        "id": 73
+      }
+    ],
+    "id": 72
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "They will join together to attack Babylon and will capture it.",
+        "id": 75
+      }
+    ],
+    "id": 74
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Their arrows will be like skilled warriors",
+        "id": 77
+      }
+    ],
+    "id": 76
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "that always hit what they are aiming at.",
+        "id": 79
+      }
+    ],
+    "id": 78
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 10,
+        "v": "Babylonia will be conquered,",
+        "id": 81
+      }
+    ],
+    "id": 80
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and those who conquer it will take away everything they want.",
+        "id": 83
+      }
+    ],
+    "id": 82
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "That will surely happen because I, Yahweh, have said it.’”",
+        "id": 85
+      }
+    ],
+    "id": 84
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 11,
+        "v": "“You people of Babylon who plundered my chosen people,",
+        "id": 87
+      }
+    ],
+    "id": 86
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "now you are very happy.",
+        "id": 89
+      }
+    ],
+    "id": 88
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "You run around joyfully like a calf in a meadow,",
+        "id": 91
+      }
+    ],
+    "id": 90
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and are happy like stallions are happy when they are neighing.",
+        "id": 93
+      }
+    ],
+    "id": 92
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 12,
+        "v": "But soon your people will be very disgraced as a result of being conquered.",
+        "id": 95
+      }
+    ],
+    "id": 94
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Your country will be the most insignificant nation;",
+        "id": 97
+      }
+    ],
+    "id": 96
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "it will be a wilderness, a dry land and a desert plain.",
+        "id": 99
+      }
+    ],
+    "id": 98
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 13,
+        "v": "Because I, Yahweh, am angry with you people of Babylon,",
+        "id": 101
+      }
+    ],
+    "id": 100
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "I will cause your city to become completely deserted.",
+        "id": 103
+      }
+    ],
+    "id": 102
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "All who pass by will be horrified",
+        "id": 105
+      }
+    ],
+    "id": 104
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and will gasp because of the destruction there.",
+        "id": 107
+      }
+    ],
+    "id": 106
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 14,
+        "v": "All you nations that surround Babylon,",
+        "id": 109
+      }
+    ],
+    "id": 108
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "prepare to attack it!",
+        "id": 111
+      }
+    ],
+    "id": 110
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Tell your archers to shoot at their enemies;",
+        "id": 113
+      }
+    ],
+    "id": 112
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "shoot all of your arrows at them and do not hold back,",
+        "id": 115
+      }
+    ],
+    "id": 114
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "because the people of Babylon have sinned against me, Yahweh.",
+        "id": 117
+      }
+    ],
+    "id": 116
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 15,
+        "v": "Shout victorious war cries against Babylon from all sides of the city.",
+        "id": 119
+      }
+    ],
+    "id": 118
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "The soldiers of Babylon will surrender;",
+        "id": 121
+      }
+    ],
+    "id": 120
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "the towers and walls will be torn down.",
+        "id": 123
+      }
+    ],
+    "id": 122
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "It is I, Yahweh, who will be getting revenge on the people of Babylon,",
+        "id": 125
+      }
+    ],
+    "id": 124
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and I will use you to get revenge.",
+        "id": 127
+      }
+    ],
+    "id": 126
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Do to the people of Babylon what they have done to others!",
+        "id": 129
+      }
+    ],
+    "id": 128
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 16,
+        "v": "Take away from Babylon those who plant crops",
+        "id": 131
+      }
+    ],
+    "id": 130
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and those who reap the harvests!",
+        "id": 133
+      }
+    ],
+    "id": 132
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Because of the swords carried by those who will attack Babylon,",
+        "id": 135
+      }
+    ],
+    "id": 134
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "the people in Babylon who have come from other countries",
+        "id": 137
+      }
+    ],
+    "id": 136
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "should all run away; they should go back to their own countries.”",
+        "id": 139
+      }
+    ],
+    "id": 138
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 17,
+        "v": "“The Israelite people are like sheep",
+        "id": 141
+      }
+    ],
+    "id": 140
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "that have been scattered by lions.",
+        "id": 143
+      }
+    ],
+    "id": 142
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "First the army of the king of Assyria defeated them.",
+        "id": 145
+      }
+    ],
+    "id": 144
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Then the army of King Nebuchadnezzar of Babylon smashed them.",
+        "id": 147
+      }
+    ],
+    "id": 146
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 18,
+        "v": "So this is what I, Yahweh, commander of the angel armies, the God whom Israel worships, say:",
+        "id": 149
+      }
+    ],
+    "id": 148
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "‘Now I will punish the king of Babylon and the people of his land,",
+        "id": 151
+      }
+    ],
+    "id": 150
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "like I punished the king of Assyria.",
+        "id": 153
+      }
+    ],
+    "id": 152
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 19,
+        "v": "And I will bring the people of Israel back to their own land",
+        "id": 155
+      }
+    ],
+    "id": 154
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "where they will eat the food that grows in the fields of the regions of Carmel and Bashan,",
+        "id": 157
+      }
+    ],
+    "id": 156
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and the people in the hill areas of Ephraim and Gilead will have all they want to eat.",
+        "id": 159
+      }
+    ],
+    "id": 158
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 20,
+        "v": "At that time, there will not be people in Israel and in Judah who are still guilty for having sinned ,",
+        "id": 161
+      }
+    ],
+    "id": 160
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "because I will forgive the small group of people whom I enable to still be alive.’”",
+        "id": 163
+      }
+    ],
+    "id": 162
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 21,
+        "v": "“So, I, Yahweh, say to the enemies of Babylonia, ‘Attack the people who live in the region of Merathaim",
+        "id": 165
+      }
+    ],
+    "id": 164
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and the people in the region of Pekod of Babylonia.",
+        "id": 167
+      }
+    ],
+    "id": 166
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Pursue them to kill them, and completely get rid of every single one of them,",
+        "id": 169
+      }
+    ],
+    "id": 168
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "as I have commanded you to do.",
+        "id": 171
+      }
+    ],
+    "id": 170
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 22,
+        "v": "Shout your battle cries throughout the land;",
+        "id": 173
+      }
+    ],
+    "id": 172
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "shout when you are causing great destruction.",
+        "id": 175
+      }
+    ],
+    "id": 174
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 23,
+        "v": "The army of Babylon is like the most powerful hammer on the earth,",
+        "id": 177
+      }
+    ],
+    "id": 176
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "but it will be completely shattered.",
+        "id": 179
+      }
+    ],
+    "id": 178
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Babylon, one of the nations, will be a complete ruin.’",
+        "id": 181
+      }
+    ],
+    "id": 180
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 24,
+        "v": "You people of Babylon, listen,",
+        "id": 183
+      }
+    ],
+    "id": 182
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "because I have set a trap for you without your awareness;",
+        "id": 185
+      }
+    ],
+    "id": 184
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "you will be caught in that trap,",
+        "id": 187
+      }
+    ],
+    "id": 186
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "because you fought against me.",
+        "id": 189
+      }
+    ],
+    "id": 188
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 25,
+        "v": "It is as though I have opened the place where I store my weapons,",
+        "id": 191
+      }
+    ],
+    "id": 190
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and I have brought out all the weapons",
+        "id": 193
+      }
+    ],
+    "id": 192
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "to use against the people with whom I am angry.",
+        "id": 195
+      }
+    ],
+    "id": 194
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "I, Yahweh, commander of the angel armies, have a lot of work to do",
+        "id": 197
+      }
+    ],
+    "id": 196
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "to punish the people of Babylonia.",
+        "id": 199
+      }
+    ],
+    "id": 198
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 26,
+        "v": "So, you enemies of Babylonia, come from distant lands and attack it.",
+        "id": 201
+      }
+    ],
+    "id": 200
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Break open the places where they store the grain,",
+        "id": 203
+      }
+    ],
+    "id": 202
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and pile up the rubble like heaps of grain.",
+        "id": 205
+      }
+    ],
+    "id": 204
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Destroy everything completely;",
+        "id": 207
+      }
+    ],
+    "id": 206
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "do not leave anything that is not destroyed.",
+        "id": 209
+      }
+    ],
+    "id": 208
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 27,
+        "v": "Destroy all the young warriors who are as strong as bulls;",
+        "id": 211
+      }
+    ],
+    "id": 210
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "take them to where you will slaughter them.",
+        "id": 213
+      }
+    ],
+    "id": 212
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "It will be terrible for them,",
+        "id": 215
+      }
+    ],
+    "id": 214
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "because it will be time for them to be punished.",
+        "id": 217
+      }
+    ],
+    "id": 216
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 28,
+        "v": "Listen to the people who have fled and escaped from Babylon",
+        "id": 219
+      }
+    ],
+    "id": 218
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "while they tell in Jerusalem how I, Yahweh, have gotten revenge against those who destroyed my temple in Jerusalem.",
+        "id": 221
+      }
+    ],
+    "id": 220
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 29,
+        "v": "Summon archers to come to attack Babylon;",
+        "id": 223
+      }
+    ],
+    "id": 222
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "surround the city",
+        "id": 225
+      }
+    ],
+    "id": 224
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "in order that no one will escape.",
+        "id": 227
+      }
+    ],
+    "id": 226
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Do to the people of Babylon what they have done to others ,",
+        "id": 229
+      }
+    ],
+    "id": 228
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "because they have defied me, the Holy One of the Israelite people.",
+        "id": 231
+      }
+    ],
+    "id": 230
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 30,
+        "v": "The young men of Babylon will fall in the streets;",
+        "id": 233
+      }
+    ],
+    "id": 232
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "all their soldiers will be killed in one day. This will happen because I, Yahweh, have declared it!",
+        "id": 235
+      }
+    ],
+    "id": 234
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 31,
+        "v": "I, Yahweh, commander of the angel armies, say this:",
+        "id": 237
+      }
+    ],
+    "id": 236
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "‘You arrogant people,",
+        "id": 239
+      }
+    ],
+    "id": 238
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "it is now the time;",
+        "id": 241
+      }
+    ],
+    "id": 240
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "it is the day when I will punish you.",
+        "id": 243
+      }
+    ],
+    "id": 242
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 32,
+        "v": "Your land is full of proud people,",
+        "id": 245
+      }
+    ],
+    "id": 244
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "but you will stumble and fall,",
+        "id": 247
+      }
+    ],
+    "id": 246
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and no one will lift you up again.",
+        "id": 249
+      }
+    ],
+    "id": 248
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "I will light a fire in the cities of Babylonia",
+        "id": 251
+      }
+    ],
+    "id": 250
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "that will burn up everything that is nearby.’",
+        "id": 253
+      }
+    ],
+    "id": 252
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 33,
+        "v": "I, Yahweh, commander of the angel armies, also say this:",
+        "id": 255
+      }
+    ],
+    "id": 254
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "‘The people of Israel and Judah were oppressed;",
+        "id": 257
+      }
+    ],
+    "id": 256
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "those who captured them guarded them carefully and would not allow them to leave Babylon.",
+        "id": 259
+      }
+    ],
+    "id": 258
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 34,
+        "v": "But Yahweh is strong, and he will free them.",
+        "id": 261
+      }
+    ],
+    "id": 260
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Yahweh is the Commander of the angel armies;",
+        "id": 263
+      }
+    ],
+    "id": 262
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "He will defend his people",
+        "id": 265
+      }
+    ],
+    "id": 264
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and enable them to return to their land where they will have peace,",
+        "id": 267
+      }
+    ],
+    "id": 266
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "but the people of Babylonia will not have peace.",
+        "id": 269
+      }
+    ],
+    "id": 268
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 35,
+        "v": "He will send enemy soldiers carrying swords to strike the people of Babylonia;",
+        "id": 271
+      }
+    ],
+    "id": 270
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "they will strike the officials and wise men",
+        "id": 273
+      }
+    ],
+    "id": 272
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and all the other people who live in Babylon.",
+        "id": 275
+      }
+    ],
+    "id": 274
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 36,
+        "v": "They will strike their false prophets with swords",
+        "id": 277
+      }
+    ],
+    "id": 276
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and they will become foolish.",
+        "id": 279
+      }
+    ],
+    "id": 278
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "They will strike the strongest warriors of Babylonia,",
+        "id": 281
+      }
+    ],
+    "id": 280
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and they will all be terrified.",
+        "id": 283
+      }
+    ],
+    "id": 282
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 37,
+        "v": "They will strike their horses and chariots",
+        "id": 285
+      }
+    ],
+    "id": 284
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and the foreign mercenaries who are in the army of Babylonia,",
+        "id": 287
+      }
+    ],
+    "id": 286
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and they will all become as weak as women.",
+        "id": 289
+      }
+    ],
+    "id": 288
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "They will seize all the valuable things there in Babylon",
+        "id": 291
+      }
+    ],
+    "id": 290
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and take them away.",
+        "id": 293
+      }
+    ],
+    "id": 292
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 38,
+        "v": "Yahweh will cause the streams to become dry.",
+        "id": 295
+      }
+    ],
+    "id": 294
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "He will do all those things because the entire land of Babylonia is filled with idols,",
+        "id": 297
+      }
+    ],
+    "id": 296
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and those horrible idols have caused the people who worship them to become crazy.",
+        "id": 299
+      }
+    ],
+    "id": 298
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 39,
+        "v": "Soon only jackals and other wild creatures will live there;",
+        "id": 301
+      }
+    ],
+    "id": 300
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and it will be a place where ostriches live.",
+        "id": 303
+      }
+    ],
+    "id": 302
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "People will never live there again;",
+        "id": 305
+      }
+    ],
+    "id": 304
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "it will be uninhabited forever .",
+        "id": 307
+      }
+    ],
+    "id": 306
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 40,
+        "v": "Yahweh God will destroy Babylon like he destroyed Sodom and Gomorrah and the nearby towns;",
+        "id": 309
+      }
+    ],
+    "id": 308
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "no one will ever live there again.",
+        "id": 311
+      }
+    ],
+    "id": 310
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 41,
+        "v": "Look! A great army will come from the north.",
+        "id": 313
+      }
+    ],
+    "id": 312
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "A great nation far away with many kings is preparing to attack you people of Babylon.",
+        "id": 315
+      }
+    ],
+    "id": 314
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 42,
+        "v": "Their army has bows and arrows and spears;",
+        "id": 317
+      }
+    ],
+    "id": 316
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "they are very cruel, and do not act mercifully to anyone.",
+        "id": 319
+      }
+    ],
+    "id": 318
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "As they ride along on their horses,",
+        "id": 321
+      }
+    ],
+    "id": 320
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "the sound of the horses’ hooves is like the roaring of the ocean waves;",
+        "id": 323
+      }
+    ],
+    "id": 322
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "they are riding in battle formation",
+        "id": 325
+      }
+    ],
+    "id": 324
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "to attack you, you people of Babylon.",
+        "id": 327
+      }
+    ],
+    "id": 326
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 43,
+        "v": "The king of Babylon heard their report,",
+        "id": 329
+      }
+    ],
+    "id": 328
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "“The enemy is approaching.”",
+        "id": 331
+      }
+    ],
+    "id": 330
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "So he was frightened and became weak.",
+        "id": 333
+      }
+    ],
+    "id": 332
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Fear and anguish gripped him,",
+        "id": 335
+      }
+    ],
+    "id": 334
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "like a woman who is about to give birth to a baby.”",
+        "id": 337
+      }
+    ],
+    "id": 336
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 44,
+        "v": "I, Yahweh, will come to Babylon suddenly like a lion comes out of the jungle",
+        "id": 339
+      }
+    ],
+    "id": 338
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and leaps on the sheep that are eating the good pastureland.",
+        "id": 341
+      }
+    ],
+    "id": 340
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "I will quickly chase the people of Babylonia from their land.",
+        "id": 343
+      }
+    ],
+    "id": 342
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "And then I will appoint for them a leader whom I will choose;",
+        "id": 345
+      }
+    ],
+    "id": 344
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "I will do that because there is no one like me who can say that what I have done is not right.",
+        "id": 347
+      }
+    ],
+    "id": 346
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "No ruler can oppose me.",
+        "id": 349
+      }
+    ],
+    "id": 348
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 45,
+        "v": "Listen to what I have planned to do to the people of Babylon city and the rest of Babylonia:",
+        "id": 351
+      }
+    ],
+    "id": 350
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "even the little children will be dragged away,",
+        "id": 353
+      }
+    ],
+    "id": 352
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and I will completely destroy the people who live there.",
+        "id": 355
+      }
+    ],
+    "id": 354
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 46,
+        "v": "When Babylon is destroyed, the noise will be extremely loud,",
+        "id": 357
+      }
+    ],
+    "id": 356
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "with the result that the earth will shake,",
+        "id": 359
+      }
+    ],
+    "id": 358
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and the wailing of the people will be heard by the people of other nations.’”",
+        "id": 361
+      }
+    ],
+    "id": 360
+  }
+]

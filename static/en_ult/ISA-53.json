@@ -1,0 +1,358 @@
+[
+  {
+    "t": "m",
+    "v": [],
+    "id": 0
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 1,
+        "v": "Who has believed what they heard from us, and to whom has the arm of Yahweh been revealed?",
+        "id": 2
+      }
+    ],
+    "id": 1
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 2,
+        "v": "For he grew up before Yahweh like a sapling, and like a sprout out of parched earth;",
+        "id": 4
+      }
+    ],
+    "id": 3
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "he had no remarkable appearance or splendor; when we saw him, there was no beauty to attract us.",
+        "id": 6
+      }
+    ],
+    "id": 5
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 3,
+        "v": "He was despised and rejected by people; a man of sorrows, and one familiar with pain.",
+        "id": 8
+      }
+    ],
+    "id": 7
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Like one from whom men hide their faces, he was despised; and we considered him insignificant.",
+        "id": 10
+      }
+    ],
+    "id": 9
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 4,
+        "v": "But surely he has borne our sicknesses and carried our sorrows;",
+        "id": 12
+      }
+    ],
+    "id": 11
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "yet we thought he was being punished by God, struck by God, and afflicted.",
+        "id": 14
+      }
+    ],
+    "id": 13
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 5,
+        "v": "But he was pierced because of our rebellious deeds; he was crushed because of our sins.",
+        "id": 16
+      }
+    ],
+    "id": 15
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "The punishment for our peace was on him, and with his wounds we are healed.",
+        "id": 18
+      }
+    ],
+    "id": 17
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 6,
+        "v": "We all like sheep have gone astray; we have each turned to his own way,",
+        "id": 20
+      }
+    ],
+    "id": 19
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and Yahweh has placed on him the iniquity of us all.",
+        "id": 22
+      }
+    ],
+    "id": 21
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 7,
+        "v": "He was oppressed; yet when he humbled himself, he did not open his mouth;",
+        "id": 24
+      }
+    ],
+    "id": 23
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "as a lamb that is led to the slaughter, and as a sheep that before its shearers is silent,",
+        "id": 26
+      }
+    ],
+    "id": 25
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "so he did not open his mouth.",
+        "id": 28
+      }
+    ],
+    "id": 27
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 8,
+        "v": "By coercion and judgment he was condemned; who from that generation thought anymore about him?",
+        "id": 30
+      }
+    ],
+    "id": 29
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "But he was cut off from the land of the living; because of the offenses of my people the penalty was put on him.",
+        "id": 32
+      }
+    ],
+    "id": 31
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 9,
+        "v": "They placed his grave with the criminals, with a rich man in his death,",
+        "id": 34
+      }
+    ],
+    "id": 33
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "although he had done no violence, nor had there been any deceit in his mouth.",
+        "id": 36
+      }
+    ],
+    "id": 35
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 10,
+        "v": "Yet it was Yahweh’s will to crush him and make him ill. When he makes his life an offering for sin,",
+        "id": 38
+      }
+    ],
+    "id": 37
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "he will see his offspring, he will prolong his days, and Yahweh’s purpose will be accomplished through him.",
+        "id": 40
+      }
+    ],
+    "id": 39
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 11,
+        "v": "After the suffering of his life, he will see light and be satisfied by his knowledge.",
+        "id": 42
+      }
+    ],
+    "id": 41
+  },
+  {
+    "t": "f",
+    "c": "+",
+    "v": [
+      {
+        "t": "ft",
+        "v": "Instead of",
+        "id": 44
+      },
+      {
+        "t": "fqa",
+        "v": "After the suffering of his life",
+        "id": 45
+      },
+      {
+        "t": "t",
+        "v": ", some modern versions have",
+        "id": 46
+      },
+      {
+        "t": "fqa",
+        "v": "From the suffering of his life he will see the result",
+        "id": 47
+      },
+      {
+        "t": "t",
+        "v": ".",
+        "id": 48
+      }
+    ],
+    "id": 43
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "My righteous servant will justify many; he will bear their iniquities.",
+        "id": 50
+      }
+    ],
+    "id": 49
+  },
+  {
+    "t": "f",
+    "c": "+",
+    "v": [
+      {
+        "t": "ft",
+        "v": "Many modern versions supply",
+        "id": 52
+      },
+      {
+        "t": "fqa",
+        "v": "light",
+        "id": 53
+      },
+      {
+        "t": "t",
+        "v": ". Some modern versions have",
+        "id": 54
+      },
+      {
+        "t": "fqa",
+        "v": "By his knowledge, my righteous servant will justify many",
+        "id": 55
+      },
+      {
+        "t": "t",
+        "v": ".",
+        "id": 56
+      }
+    ],
+    "id": 51
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 12,
+        "v": "Therefore will I give him his portion among the multitudes, and he will divide the spoils with the many,",
+        "id": 58
+      }
+    ],
+    "id": 57
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "because he exposed himself to death and was numbered with the transgressors.",
+        "id": 60
+      }
+    ],
+    "id": 59
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "He bore the sin of many and made intercession for the transgressors.",
+        "id": 62
+      }
+    ],
+    "id": 61
+  }
+]

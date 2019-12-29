@@ -1,0 +1,1158 @@
+[
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 1,
+        "v": "Before God’s prophet Moses died, he asked God to bless the Israelite people.",
+        "id": 1
+      },
+      {
+        "t": "v",
+        "n": 2,
+        "v": "This is what he said:",
+        "id": 2
+      }
+    ],
+    "id": 0
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "“Yahweh came and spoke to us at Mount Sinai;",
+        "id": 4
+      }
+    ],
+    "id": 3
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "he came like the sun rises in the region of Edom",
+        "id": 6
+      }
+    ],
+    "id": 5
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and like his light shone on us when we were in the desert near Mount Paran after we left Mount Sinai.",
+        "id": 8
+      }
+    ],
+    "id": 7
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "He came with ten thousand angels,",
+        "id": 10
+      }
+    ],
+    "id": 9
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and there was a flaming fire at his right side.",
+        "id": 12
+      }
+    ],
+    "id": 11
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 3,
+        "v": "Yahweh truly loves his people",
+        "id": 14
+      }
+    ],
+    "id": 13
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and protects all those who belong to him.",
+        "id": 16
+      }
+    ],
+    "id": 15
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "So they prostrate themselves in front of him,",
+        "id": 18
+      }
+    ],
+    "id": 17
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and they listen to his instructions.",
+        "id": 20
+      }
+    ],
+    "id": 19
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 4,
+        "v": "I gave them laws to obey,",
+        "id": 22
+      }
+    ],
+    "id": 21
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "laws that would forever be for the descendants of Jacob.",
+        "id": 24
+      }
+    ],
+    "id": 23
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 5,
+        "v": "So Yahweh became the king of his Israelite people",
+        "id": 26
+      }
+    ],
+    "id": 25
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "when all the tribes and their leaders had gathered together.",
+        "id": 28
+      }
+    ],
+    "id": 27
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 6,
+        "v": "I say this about the tribe of Reuben:",
+        "id": 30
+      }
+    ],
+    "id": 29
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "I desire that their tribe will never disappear,",
+        "id": 32
+      }
+    ],
+    "id": 31
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "but that they will never become numerous.",
+        "id": 34
+      }
+    ],
+    "id": 33
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 7,
+        "v": "I say this about the tribe of Judah:",
+        "id": 36
+      }
+    ],
+    "id": 35
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Yahweh, listen to them when they call out for help;",
+        "id": 38
+      }
+    ],
+    "id": 37
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and after they separate from the other tribes, unite them with the other tribes again.",
+        "id": 40
+      }
+    ],
+    "id": 39
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Fight for them,",
+        "id": 42
+      }
+    ],
+    "id": 41
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and help them to fight against their enemies.",
+        "id": 44
+      }
+    ],
+    "id": 43
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 8,
+        "v": "I say this about the tribe of Levi:",
+        "id": 46
+      }
+    ],
+    "id": 45
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Yahweh, give to those who are dedicated to you the sacred stones that they will use to find out what you want to be done;",
+        "id": 48
+      }
+    ],
+    "id": 47
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "You tested them at a spring in the desert, a spring that they named Massah and also named Meribah",
+        "id": 50
+      }
+    ],
+    "id": 49
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "to find out if they would remain loyal to you.",
+        "id": 52
+      }
+    ],
+    "id": 51
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 9,
+        "v": "The tribe of Levi did what you told them to do",
+        "id": 54
+      }
+    ],
+    "id": 53
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and obeyed the covenant that you had made with the Israelite people;",
+        "id": 56
+      }
+    ],
+    "id": 55
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "those laws were more important to them",
+        "id": 58
+      }
+    ],
+    "id": 57
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "than their siblings and parents and children.",
+        "id": 60
+      }
+    ],
+    "id": 59
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 10,
+        "v": "The tribe of Levi will teach the Israelite people your decrees and your laws,",
+        "id": 62
+      }
+    ],
+    "id": 61
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and they are the ones who will burn incense and who will completely burn on the altar the offerings that the people bring.",
+        "id": 64
+      }
+    ],
+    "id": 63
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 11,
+        "v": "Yahweh, bless their work",
+        "id": 66
+      }
+    ],
+    "id": 65
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and accept all that they do.",
+        "id": 68
+      }
+    ],
+    "id": 67
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Crush all their enemies;",
+        "id": 70
+      }
+    ],
+    "id": 69
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "do not enable their enemies to be able to fight against them again.",
+        "id": 72
+      }
+    ],
+    "id": 71
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 12,
+        "v": "I say this about the tribe of Benjamin:",
+        "id": 74
+      }
+    ],
+    "id": 73
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "They are the tribe that Yahweh loves;",
+        "id": 76
+      }
+    ],
+    "id": 75
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "he keeps them safe.",
+        "id": 78
+      }
+    ],
+    "id": 77
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "He protects them continually,",
+        "id": 80
+      }
+    ],
+    "id": 79
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and he lives among their hills.",
+        "id": 82
+      }
+    ],
+    "id": 81
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 13,
+        "v": "I say this about the tribes of Joseph:",
+        "id": 84
+      }
+    ],
+    "id": 83
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "I desire that Yahweh will bless their land",
+        "id": 86
+      }
+    ],
+    "id": 85
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "by giving them rain from the sky",
+        "id": 88
+      }
+    ],
+    "id": 87
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and water from deep down in the ground.",
+        "id": 90
+      }
+    ],
+    "id": 89
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 14,
+        "v": "I desire that Yahweh will bless their land by giving them good fruit ripened by the sun",
+        "id": 92
+      }
+    ],
+    "id": 91
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and good crops in the right months.",
+        "id": 94
+      }
+    ],
+    "id": 93
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 15,
+        "v": "I desire that Yahweh give them that very nice fruit that will grow on trees in their ancient mountains.",
+        "id": 96
+      }
+    ],
+    "id": 95
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 16,
+        "v": "I desire that Yahweh will bless their land and that he fill the land with many good crops.",
+        "id": 98
+      }
+    ],
+    "id": 97
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "I desire that Yahweh will bless the tribes of Joseph in all those ways,",
+        "id": 100
+      }
+    ],
+    "id": 99
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "because he was the leader over his older brothers when they were in Egypt.",
+        "id": 102
+      }
+    ],
+    "id": 101
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 17,
+        "v": "The descendants of Joseph will be as strong as a bull;",
+        "id": 104
+      }
+    ],
+    "id": 103
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "with their weapons they will wound their enemies like a wild ox gores other animals with its horns.",
+        "id": 106
+      }
+    ],
+    "id": 105
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "They will push other people groups,",
+        "id": 108
+      }
+    ],
+    "id": 107
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "all of them, to the most distant places on the earth.",
+        "id": 110
+      }
+    ],
+    "id": 109
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "That is what the descendants of the two sons of Joseph will do,",
+        "id": 112
+      }
+    ],
+    "id": 111
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "the ten thousands of the tribe of Ephraim and the thousands of the tribe of Manasseh.",
+        "id": 114
+      }
+    ],
+    "id": 113
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 18,
+        "v": "I say this about the tribes of Zebulun and Issachar:",
+        "id": 116
+      }
+    ],
+    "id": 115
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "I desire that the people of Zebulun will prosper in their travels across the seas,",
+        "id": 118
+      }
+    ],
+    "id": 117
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and that the people of Issachar will prosper while they stay at home and take care of their cattle and crops.",
+        "id": 120
+      }
+    ],
+    "id": 119
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 19,
+        "v": "They will invite people from the other Israelite tribes to the mountain where they worship Yahweh,",
+        "id": 122
+      }
+    ],
+    "id": 121
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and they will offer correct sacrifices to him.",
+        "id": 124
+      }
+    ],
+    "id": 123
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "They will become rich from the trade that they carry out on the seas",
+        "id": 126
+      }
+    ],
+    "id": 125
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and from using the sand along the sea to make things.",
+        "id": 128
+      }
+    ],
+    "id": 127
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 20,
+        "v": "I say this about the tribe of Gad:",
+        "id": 130
+      }
+    ],
+    "id": 129
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Praise Yahweh, the one who made their territory large.",
+        "id": 132
+      }
+    ],
+    "id": 131
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "The people of their tribe will attack their enemies fiercely like a lion that crouches,",
+        "id": 134
+      }
+    ],
+    "id": 133
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "waiting to tear off the arm or the scalp of some animal.",
+        "id": 136
+      }
+    ],
+    "id": 135
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 21,
+        "v": "They chose the best part of the land for themselves;",
+        "id": 138
+      }
+    ],
+    "id": 137
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "a large share of the land, a share that should be given to a leader was allotted to them.",
+        "id": 140
+      }
+    ],
+    "id": 139
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "When the leaders of the tribes of Israel gathered together,",
+        "id": 142
+      }
+    ],
+    "id": 141
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "they decided that the tribe of Gad should have a large share of the land.",
+        "id": 144
+      }
+    ],
+    "id": 143
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "The tribe of Gad obeyed the commands of Yahweh and the things that he decided that they should do.",
+        "id": 146
+      }
+    ],
+    "id": 145
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 22,
+        "v": "I say this about the tribe of Dan:",
+        "id": 148
+      }
+    ],
+    "id": 147
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "The people of the tribe of Dan are like a young lion;",
+        "id": 150
+      }
+    ],
+    "id": 149
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "they leap out from their caves in the region of Bashan to attack their enemies.",
+        "id": 152
+      }
+    ],
+    "id": 151
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 23,
+        "v": "I say this about the tribe of Naphtali:",
+        "id": 154
+      }
+    ],
+    "id": 153
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "The people of the tribe of Naphtali have been blessed by Yahweh, who has been very kind to them;",
+        "id": 156
+      }
+    ],
+    "id": 155
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "their land extends far south from Lake Galilee.",
+        "id": 158
+      }
+    ],
+    "id": 157
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 24,
+        "v": "I say this about the tribe of Asher:",
+        "id": 160
+      }
+    ],
+    "id": 159
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Yahweh will bless the descendants of Asher more than he will bless the other tribes.",
+        "id": 162
+      }
+    ],
+    "id": 161
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Yahweh will favor them most of all.",
+        "id": 164
+      }
+    ],
+    "id": 163
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "I desire that their land will be filled with olive trees that will produce a lot of olives to make olive oil.",
+        "id": 166
+      }
+    ],
+    "id": 165
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 25,
+        "v": "Their towns will be protected by high walls with gates that have bronze and iron bars;",
+        "id": 168
+      }
+    ],
+    "id": 167
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "I desire all the time that they live and not be harmed by anyone.",
+        "id": 170
+      }
+    ],
+    "id": 169
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 26,
+        "v": "You people of Israel, there is no god like your God,",
+        "id": 172
+      }
+    ],
+    "id": 171
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "who rides majestically across the sky to help you.",
+        "id": 174
+      }
+    ],
+    "id": 173
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 27,
+        "v": "God, who lives forever, is the one who gives you refuge;",
+        "id": 176
+      }
+    ],
+    "id": 175
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "it is as though he puts his everlasting arms under you to support you.",
+        "id": 178
+      }
+    ],
+    "id": 177
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "He will drive out your enemies while you advance;",
+        "id": 180
+      }
+    ],
+    "id": 179
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "he has told you to destroy all of them.",
+        "id": 182
+      }
+    ],
+    "id": 181
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 28,
+        "v": "So you Israelite people will live safely;",
+        "id": 184
+      }
+    ],
+    "id": 183
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "you descendants of Jacob will not be disturbed by others;",
+        "id": 186
+      }
+    ],
+    "id": 185
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "in the land where you will live, there will be plenty of grain and wine,",
+        "id": 188
+      }
+    ],
+    "id": 187
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and plenty of rain will fall from the sky.",
+        "id": 190
+      }
+    ],
+    "id": 189
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 29,
+        "v": "You people of Israel, how fortunate are you.",
+        "id": 192
+      }
+    ],
+    "id": 191
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "There is certainly no nation like your nation,",
+        "id": 194
+      }
+    ],
+    "id": 193
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "whom Yahweh has rescued from being slaves in Egypt.",
+        "id": 196
+      }
+    ],
+    "id": 195
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "He will be like a shield to protect you",
+        "id": 198
+      }
+    ],
+    "id": 197
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and like a sword to enable you to defeat your enemies.",
+        "id": 200
+      }
+    ],
+    "id": 199
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Your enemies will come to you begging for you to act mercifully toward them,",
+        "id": 202
+      }
+    ],
+    "id": 201
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "but you will trample on their backs.”",
+        "id": 204
+      }
+    ],
+    "id": 203
+  }
+]

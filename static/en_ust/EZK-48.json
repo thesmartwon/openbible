@@ -1,0 +1,389 @@
+[
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 1,
+        "v": "Here is a list of the tribes of Israel and the territory that each tribe is to receive. The northern boundary of Israel will start at the Mediterranean Sea and go east to the city of Hethlon, then to Lebo Hamath, and farther on to Hazar Enan, which is south of Damascus, and it will continue to Hamath. Each tribe will receive land that will extend from the eastern boundary of Israel west to the Great Sea.",
+        "id": 1
+      }
+    ],
+    "id": 0
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "t",
+        "v": "The tribe of Dan will receive land alongside the northern border of Israel.",
+        "id": 3
+      }
+    ],
+    "id": 2
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 2,
+        "v": "South of their area will be the territory for the tribe of Asher.",
+        "id": 5
+      }
+    ],
+    "id": 4
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 3,
+        "v": "South of Asher’s land will be territory for the tribe of Naphtali.",
+        "id": 7
+      }
+    ],
+    "id": 6
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 4,
+        "v": "South of Naphtali’s land will be territory for the tribe of Manasseh.",
+        "id": 9
+      }
+    ],
+    "id": 8
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 5,
+        "v": "South of Manasseh’s land will be territory for the tribe of Ephraim.",
+        "id": 11
+      }
+    ],
+    "id": 10
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 6,
+        "v": "South of Ephraim’s land will be territory for the tribe of Reuben.",
+        "id": 13
+      }
+    ],
+    "id": 12
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 7,
+        "v": "South of their land will be territory for the tribe of Judah.",
+        "id": 15
+      }
+    ],
+    "id": 14
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 8,
+        "v": "South of Judah’s land will be an area that the entire nation will give to me; you will set it apart for special use. The temple will be in the center of this area. It will be as long as any of the portions of land assigned a tribe of Israel.",
+        "id": 17
+      }
+    ],
+    "id": 16
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 9,
+        "v": "This special area will be thirteen and one-half kilometers long and five and two-fifths kilometers wide. This is what you will give to Yahweh.",
+        "id": 19
+      },
+      {
+        "t": "v",
+        "n": 10,
+        "v": "Within this special area, these will what you will assign to the priests: you will assign them an area of land measuring thirteen and one-half kilometers on the northern and southern side; and five and two-fifths kilometers on the western and eastern sides. The temple of Yahweh will be in the middle of this special area.",
+        "id": 20
+      },
+      {
+        "t": "v",
+        "n": 11,
+        "v": "The temple area will be for the priests, those set apart for my honor, who are descendants of Zadok. They are ones who served me faithfully and did not turn away from Yahweh as the descendants of Levi did.",
+        "id": 21
+      },
+      {
+        "t": "v",
+        "n": 12,
+        "v": "When the land is distributed, you will offer that special area to me, for it to be the priests’ special portion; it is land that you will treat as very special to me. Next to the priests’ territory will be where the other descendants of Levi will live.",
+        "id": 22
+      }
+    ],
+    "id": 18
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 13,
+        "v": "The land that you will assign to the descendants of Levi will be the same size as the land that the priests will receive. So together, these two portions of land will be thirteen and one-half kilometers long and about eleven kilometers wide.",
+        "id": 24
+      },
+      {
+        "t": "v",
+        "n": 14,
+        "v": "None of this special land, this best land, may ever be sold or traded or used by other people, because it belongs to Yahweh. It is set apart for him.",
+        "id": 25
+      }
+    ],
+    "id": 23
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 15,
+        "v": "Another strip of land thirteen and one-half kilometers long and about two and three-quarters kilometers wide will be allotted for other people iving in the special area to use. There they may build homes and have pasturelands, and there will be a city in the middle of this area.",
+        "id": 27
+      },
+      {
+        "t": "v",
+        "n": 16,
+        "v": "The city will be square, two and two-fifths kilometers long on each side.",
+        "id": 28
+      },
+      {
+        "t": "v",
+        "n": 17,
+        "v": "There will be an open area around the city, within the special area, that will be about 135 meters deep in each direction.",
+        "id": 29
+      },
+      {
+        "t": "v",
+        "n": 18,
+        "v": "Outside the city there will be a farming area that will extend five and two-fifths kilometers on the east side and five and two-fifths kilometers on the west side. Men who work there will produce food for the people who work in the city.",
+        "id": 30
+      },
+      {
+        "t": "v",
+        "n": 19,
+        "v": "Those who come from the various tribes to work in the city may also work in this farmland.",
+        "id": 31
+      },
+      {
+        "t": "v",
+        "n": 20,
+        "v": "This entire special area, including the land given for Yahweh’s use and the city, will be a square that is thirteen and one-half kilometers long on each side.",
+        "id": 32
+      }
+    ],
+    "id": 26
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 21,
+        "v": "The tracts of land to the east and to the west of Yahweh’s area and the city will belong to the ruler. One area will extend east to the eastern boundary of Israel, and the other will extend west to the Great Sea. Yahweh’s area, which contains the temple, will be in the middle.",
+        "id": 34
+      },
+      {
+        "t": "v",
+        "n": 22,
+        "v": "The area that belongs to the ruler will be between the tribe of Judah to the north and the tribe of Benjamin to the south.",
+        "id": 35
+      }
+    ],
+    "id": 33
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 23,
+        "v": "South of Yahweh’s area, each of the other tribes will receive one portion of land that extends from the eastern boundary of Israel west to the Great Sea.",
+        "id": 37
+      }
+    ],
+    "id": 36
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "t",
+        "v": "Just south of Yahweh’s area will be territory for the tribe of Benjamin.",
+        "id": 39
+      }
+    ],
+    "id": 38
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 24,
+        "v": "South of Benjamin’s land will be the land for the tribe of Simeon.",
+        "id": 41
+      }
+    ],
+    "id": 40
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 25,
+        "v": "South of Simeon’s land will be the land for the tribe of Issachar.",
+        "id": 43
+      }
+    ],
+    "id": 42
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 26,
+        "v": "South of Issachar’s land will be the land for the tribe of Zebulun.",
+        "id": 45
+      }
+    ],
+    "id": 44
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 27,
+        "v": "South of Zebulun’s land will be the land for the tribe of Gad.",
+        "id": 47
+      }
+    ],
+    "id": 46
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 28,
+        "v": "The southern boundary of Gad’s land will extend south from En Gedi to the springs at Meribah Kadesh, and then to the west along the brook of Egypt to the Great Sea.",
+        "id": 49
+      }
+    ],
+    "id": 48
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 29,
+        "v": "This is a description of the land that you must assign to the tribes of Israel, for it to belong to them permanently.’ That is what I, Yahweh the Lord, declare.",
+        "id": 51
+      }
+    ],
+    "id": 50
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 30,
+        "v": "Here are the city gates: On the north side, which is two and two-fifths kilometers long,",
+        "id": 53
+      },
+      {
+        "t": "v",
+        "n": 31,
+        "v": "there will be three gates. Each gate will have the name of one of the tribes of Israel. The first one will be named for Reuben, the next for Judah, the next for Levi.",
+        "id": 54
+      }
+    ],
+    "id": 52
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 32,
+        "v": "On the east side, also two and two-fifths kilometers long, will be gates named for Joseph, Benjamin, and Dan.",
+        "id": 56
+      }
+    ],
+    "id": 55
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 33,
+        "v": "On the south side, also two-fifths of a kilometer long, will be gates named for Simeon, Issachar, and Zebulun.",
+        "id": 58
+      }
+    ],
+    "id": 57
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 34,
+        "v": "On the west side, also two-fifths of a kilometer long, will be gates named for Gad, Asher, and Naphtali.",
+        "id": 60
+      }
+    ],
+    "id": 59
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 35,
+        "v": "The distance around the city would be nine and three-quarters kilometers.",
+        "id": 62
+      }
+    ],
+    "id": 61
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "t",
+        "v": "From that time on, the name of the city will be “Yahweh is there.”",
+        "id": 64
+      }
+    ],
+    "id": 63
+  }
+]

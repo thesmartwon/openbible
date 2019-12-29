@@ -1,0 +1,379 @@
+[
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 1,
+        "v": "Yahweh said to me, “Take a large tablet and write on it, ‘Maher-Shalal-Hash-Baz.’",
+        "id": 1
+      },
+      {
+        "t": "v",
+        "n": 2,
+        "v": "I will summon faithful witnesses to attest for me, Uriah the priest, and Zechariah son of Jeberekiah.”",
+        "id": 2
+      },
+      {
+        "t": "v",
+        "n": 3,
+        "v": "I went to the prophetess, and she conceived and bore a son. Then Yahweh said to me, “Call his name Maher-Shalal-Hash-Baz.",
+        "id": 3
+      },
+      {
+        "t": "v",
+        "n": 4,
+        "v": "For before the child knows to cry, ‘My father,’ and, ‘My mother,’ the riches of Damascus and the plunder of Samaria will be carried away by the king of Assyria.”",
+        "id": 4
+      }
+    ],
+    "id": 0
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 5,
+        "v": "Yahweh spoke to me again,",
+        "id": 6
+      }
+    ],
+    "id": 5
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 6,
+        "v": "“Because this people has refused the gentle waters of Shiloah,",
+        "id": 8
+      }
+    ],
+    "id": 7
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and is happy over Rezin and Remaliah’s son,",
+        "id": 10
+      }
+    ],
+    "id": 9
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 7,
+        "v": "therefore the Lord is about to bring up on them the waters of the River, mighty and many, the king of Assyria and all his glory.",
+        "id": 12
+      }
+    ],
+    "id": 11
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "It will come up over all its channels and overflow its banks.",
+        "id": 14
+      }
+    ],
+    "id": 13
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 8,
+        "v": "The River will sweep onward into Judah, flooding and passing on, until it reaches to your neck.",
+        "id": 16
+      }
+    ],
+    "id": 15
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Its outstretched wings will fill the breadth of your land, Immanuel.”",
+        "id": 18
+      }
+    ],
+    "id": 17
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 9,
+        "v": "You peoples will be broken to pieces. Listen, all you distant countries:",
+        "id": 20
+      }
+    ],
+    "id": 19
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "arm yourselves for war and be broken in pieces; arm yourselves and be broken in pieces.",
+        "id": 22
+      }
+    ],
+    "id": 21
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 10,
+        "v": "Form a plan, but it will not be carried out; issue the command, but it will not be carried out,",
+        "id": 24
+      }
+    ],
+    "id": 23
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "for God is with us.",
+        "id": 26
+      },
+      {
+        "t": "v",
+        "n": 11,
+        "v": "Yahweh spoke to me, with his strong hand upon me, and warned me not to walk in the way of this people.",
+        "id": 27
+      }
+    ],
+    "id": 25
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 12,
+        "v": "Do not call conspiracy anything that this people calls conspiracy,",
+        "id": 29
+      }
+    ],
+    "id": 28
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "you will not fear what they fear, and do not be terrified.",
+        "id": 31
+      }
+    ],
+    "id": 30
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 13,
+        "v": "It is Yahweh of hosts whom you will honor as holy; he is the one you must fear, and he is the one you must dread.",
+        "id": 33
+      }
+    ],
+    "id": 32
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 14,
+        "v": "He will become a sanctuary;",
+        "id": 35
+      }
+    ],
+    "id": 34
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "but he will be a stone of striking, and a rock of stumbling—",
+        "id": 37
+      }
+    ],
+    "id": 36
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "for both the houses of Israel,",
+        "id": 39
+      }
+    ],
+    "id": 38
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and he will be a trap and a snare",
+        "id": 41
+      }
+    ],
+    "id": 40
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "to the people of Jerusalem.",
+        "id": 43
+      }
+    ],
+    "id": 42
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 15,
+        "v": "Many will stumble over it and fall and be broken, and be ensnared and captured.",
+        "id": 45
+      }
+    ],
+    "id": 44
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 16,
+        "v": "Bind up my testimony, seal the official record, and give it to my disciples.",
+        "id": 47
+      }
+    ],
+    "id": 46
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 17,
+        "v": "I will wait for Yahweh, who hides his face from the house of Jacob; I will trust in him.",
+        "id": 49
+      }
+    ],
+    "id": 48
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 18,
+        "v": "See, I and the sons whom Yahweh has given me are for signs and for wonders in Israel",
+        "id": 51
+      }
+    ],
+    "id": 50
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "from Yahweh of hosts, who lives on Mount Zion.",
+        "id": 53
+      }
+    ],
+    "id": 52
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 19,
+        "v": "They will say to you, “Consult with those who speak with the dead and with spirits,” the ones who chirp and mutter incantations. But should a people not consult their God? Should they consult the dead on behalf of the living?",
+        "id": 55
+      },
+      {
+        "t": "v",
+        "n": 20,
+        "v": "To the law and to the testimony! If they do not say such things, it is because they have no light of dawn.",
+        "id": 56
+      }
+    ],
+    "id": 54
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 21,
+        "v": "They will pass through the land greatly distressed and hungry. When they are hungry, they will become angry",
+        "id": 58
+      }
+    ],
+    "id": 57
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and curse their king and their God, as they turn their faces upward.",
+        "id": 60
+      }
+    ],
+    "id": 59
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 22,
+        "v": "They will look at the earth",
+        "id": 62
+      }
+    ],
+    "id": 61
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and see distress, darkness, and oppressive gloom. They will be driven into a land of darkness.",
+        "id": 64
+      }
+    ],
+    "id": 63
+  }
+]

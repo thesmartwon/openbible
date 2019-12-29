@@ -1,0 +1,620 @@
+[
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 1,
+        "v": "In the first year of Belshazzar king of Babylonia, Daniel had a dream and visions in his mind while lying on his bed. Then he wrote down what he had seen in the dream. He wrote down the most important events:",
+        "id": 1
+      },
+      {
+        "t": "v",
+        "n": 2,
+        "v": "Daniel explained, “In my vision at night I saw that the four winds of heaven were stirring up the great sea.",
+        "id": 2
+      },
+      {
+        "t": "v",
+        "n": 3,
+        "v": "Four large animals, each one different from the other, came up out of the sea.",
+        "id": 3
+      },
+      {
+        "t": "v",
+        "n": 4,
+        "v": "The first was like a lion but had eagle’s wings. As I was looking, its wings were torn off and it was lifted from the ground and made to stand on two feet, like a man. The mind of a man was given to it.",
+        "id": 4
+      },
+      {
+        "t": "v",
+        "n": 5,
+        "v": "Then there was a second animal, like a bear, and it was bending over; it had three ribs between its teeth in its mouth. It was told, ‘Get up and devour many people.’",
+        "id": 5
+      },
+      {
+        "t": "v",
+        "n": 6,
+        "v": "After this I looked again. There was another animal, one that looked like a leopard. On its back it had four wings like bird wings, and it had four heads. It was given authority to rule.",
+        "id": 6
+      },
+      {
+        "t": "v",
+        "n": 7,
+        "v": "After this I saw in the visions of the night a fourth animal, terrifying, frightening, and very strong. It had large iron teeth; it devoured, broke in pieces, and trampled underfoot what was left. It was different from the other animals, and it had ten horns.",
+        "id": 7
+      },
+      {
+        "t": "v",
+        "n": 8,
+        "v": "While I was considering the horns, I looked and saw another horn grow up among them, a little horn. Three of the first horns were wrenched out by the roots. I saw in this horn eyes like the eyes of a man and a mouth that was boasting about great things.",
+        "id": 8
+      }
+    ],
+    "id": 0
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 9,
+        "v": "As I looked,",
+        "id": 10
+      }
+    ],
+    "id": 9
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "thrones were set in place,",
+        "id": 12
+      }
+    ],
+    "id": 11
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and the Ancient of Days took his seat.",
+        "id": 14
+      }
+    ],
+    "id": 13
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "His clothing was as white as snow,",
+        "id": 16
+      }
+    ],
+    "id": 15
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and the hair of his head was like pure wool.",
+        "id": 18
+      }
+    ],
+    "id": 17
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "His throne was flames of fire,",
+        "id": 20
+      }
+    ],
+    "id": 19
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and its wheels were burning fire.",
+        "id": 22
+      },
+      {
+        "t": "v",
+        "n": 10,
+        "v": "A river of fire flowed out from before him;",
+        "id": 23
+      }
+    ],
+    "id": 21
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "millions served him,",
+        "id": 25
+      }
+    ],
+    "id": 24
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and one hundred million were standing before him.",
+        "id": 27
+      }
+    ],
+    "id": 26
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "The court was in session,",
+        "id": 29
+      }
+    ],
+    "id": 28
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and the books were opened.",
+        "id": 31
+      },
+      {
+        "t": "v",
+        "n": 11,
+        "v": "I continued to look because of the boastful words spoken by the horn. I watched while the animal was killed, and its body was destroyed, and it was given over to be burned up.",
+        "id": 32
+      },
+      {
+        "t": "v",
+        "n": 12,
+        "v": "As for the rest of the four animals, their authority to rule was taken away, but their lives were prolonged for a period of time.",
+        "id": 33
+      }
+    ],
+    "id": 30
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 13,
+        "v": "In my visions that night,",
+        "id": 35
+      }
+    ],
+    "id": 34
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "I saw one coming with the clouds of heaven like a son of man;",
+        "id": 37
+      }
+    ],
+    "id": 36
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "he came to the Ancient of Days",
+        "id": 39
+      }
+    ],
+    "id": 38
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and was presented before him.",
+        "id": 41
+      }
+    ],
+    "id": 40
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 14,
+        "v": "Authority to rule and glory and royal power were given to him",
+        "id": 43
+      }
+    ],
+    "id": 42
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "so that all the peoples, nations, and languages should serve him.",
+        "id": 45
+      }
+    ],
+    "id": 44
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "His authority to rule is an everlasting authority that will not pass away,",
+        "id": 47
+      }
+    ],
+    "id": 46
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and his kingdom is one that will never be destroyed.",
+        "id": 49
+      }
+    ],
+    "id": 48
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 15,
+        "v": "As for me, Daniel, my spirit was grieved inside of me, and the visions I saw in my mind troubled me.",
+        "id": 51
+      },
+      {
+        "t": "v",
+        "n": 16,
+        "v": "I approached one of them standing there and asked him to show me the meaning of these things.",
+        "id": 52
+      },
+      {
+        "t": "v",
+        "n": 17,
+        "v": "‘These large animals, four in number, are four kings that will arise from the earth.",
+        "id": 53
+      },
+      {
+        "t": "v",
+        "n": 18,
+        "v": "But the holy people of the Most High will receive the kingdom, and they will possess it forever and ever.’",
+        "id": 54
+      },
+      {
+        "t": "v",
+        "n": 19,
+        "v": "Then I wanted to know more about the fourth animal—it was so different from the others and very horrifying with its iron teeth and bronze claws; it devoured, broke into pieces, and trampled on what was left with its feet.",
+        "id": 55
+      },
+      {
+        "t": "v",
+        "n": 20,
+        "v": "I wanted to know about the ten horns on its head, and about the other horn that grew up, and before which the three horns fell down. I wanted to know about the horn that had eyes and about the mouth that boasted about great things and that seemed greater than its companions.",
+        "id": 56
+      },
+      {
+        "t": "v",
+        "n": 21,
+        "v": "As I looked, this horn waged war against the holy people and was defeating them",
+        "id": 57
+      },
+      {
+        "t": "v",
+        "n": 22,
+        "v": "until the Ancient of Days came, and justice was given to the holy people of the Most High. Then the time came when the holy people received the kingdom.",
+        "id": 58
+      }
+    ],
+    "id": 50
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 23,
+        "v": "This is what that person said, ‘As for the fourth animal,",
+        "id": 60
+      }
+    ],
+    "id": 59
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "it will be a fourth kingdom on earth",
+        "id": 62
+      }
+    ],
+    "id": 61
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "that will be different from all the other kingdoms.",
+        "id": 64
+      }
+    ],
+    "id": 63
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "It will devour the whole earth,",
+        "id": 66
+      }
+    ],
+    "id": 65
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and it will trample it down",
+        "id": 68
+      }
+    ],
+    "id": 67
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and break it into pieces.",
+        "id": 70
+      }
+    ],
+    "id": 69
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 24,
+        "v": "As for the ten horns,",
+        "id": 72
+      }
+    ],
+    "id": 71
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "out of this kingdom ten kings will arise,",
+        "id": 74
+      }
+    ],
+    "id": 73
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and another will arise after them.",
+        "id": 76
+      }
+    ],
+    "id": 75
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "He will be different from the previous ones,",
+        "id": 78
+      }
+    ],
+    "id": 77
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and he will conquer the three kings.",
+        "id": 80
+      },
+      {
+        "t": "v",
+        "n": 25,
+        "v": "He will speak words against the Most High",
+        "id": 81
+      }
+    ],
+    "id": 79
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and will oppress the holy people of the Most High God.",
+        "id": 83
+      }
+    ],
+    "id": 82
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "He will try to change the festivals and the law.",
+        "id": 85
+      }
+    ],
+    "id": 84
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "These things will be given into his hand",
+        "id": 87
+      }
+    ],
+    "id": 86
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "for one year, two years, and half a year.",
+        "id": 89
+      }
+    ],
+    "id": 88
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 26,
+        "v": "But the court will be in session,",
+        "id": 91
+      }
+    ],
+    "id": 90
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and they will take his royal power away",
+        "id": 93
+      }
+    ],
+    "id": 92
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "to be consumed and destroyed at the end.",
+        "id": 95
+      },
+      {
+        "t": "v",
+        "n": 27,
+        "v": "The kingdom and the dominion,",
+        "id": 96
+      }
+    ],
+    "id": 94
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and the greatness of the kingdoms under the whole heaven,",
+        "id": 98
+      }
+    ],
+    "id": 97
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "will be given to the people",
+        "id": 100
+      }
+    ],
+    "id": 99
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "who belong to the holy people of the Most High.",
+        "id": 102
+      }
+    ],
+    "id": 101
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "His kingdom is an everlasting kingdom,",
+        "id": 104
+      }
+    ],
+    "id": 103
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and all other kingdoms will serve and obey him.’",
+        "id": 106
+      }
+    ],
+    "id": 105
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 28,
+        "v": "Here is the end of the matter. As for me, Daniel, my thoughts greatly alarmed me and my face changed in appearance. But I kept these things to myself.”",
+        "id": 108
+      }
+    ],
+    "id": 107
+  }
+]

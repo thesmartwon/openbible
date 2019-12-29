@@ -1,0 +1,1116 @@
+[
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 1,
+        "v": "It came about after the plague that Yahweh spoke to Moses and Eleazar son of Aaron the priest. He said,",
+        "id": 1
+      },
+      {
+        "t": "v",
+        "n": 2,
+        "v": "“Count all the community of the people of Israel, from twenty years old and up, by their ancestor’s families, all who are able to go to war for Israel.”",
+        "id": 2
+      },
+      {
+        "t": "v",
+        "n": 3,
+        "v": "So Moses and Eleazar the priest spoke to them in the plains of Moab by the Jordan at Jericho and said,",
+        "id": 3
+      },
+      {
+        "t": "v",
+        "n": 4,
+        "v": "“Count the people, from twenty years old and up, as Yahweh commanded Moses and the people of Israel, who came out of the land of Egypt.”",
+        "id": 4
+      }
+    ],
+    "id": 0
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 5,
+        "v": "Reuben was the firstborn of Israel. From his son Hanok came the clan of the Hanokites. From Pallu came the clan of the Palluites.",
+        "id": 6
+      },
+      {
+        "t": "v",
+        "n": 6,
+        "v": "From Hezron came the clan of the Hezronites. From Karmi came the clan of the Karmites.",
+        "id": 7
+      },
+      {
+        "t": "v",
+        "n": 7,
+        "v": "These were the clans of Reuben, who numbered 43,730 men.",
+        "id": 8
+      },
+      {
+        "t": "v",
+        "n": 8,
+        "v": "Eliab was a son of Pallu.",
+        "id": 9
+      },
+      {
+        "t": "v",
+        "n": 9,
+        "v": "Eliab’s sons were Nemuel, Dathan, and Abiram. These were the same Dathan and Abiram who followed Korah when they challenged Moses and Aaron and rebelled against Yahweh.",
+        "id": 10
+      },
+      {
+        "t": "v",
+        "n": 10,
+        "v": "The earth opened its mouth and swallowed them up together with Korah when all his followers died. At that time, fire devoured 250 men, who became a warning sign.",
+        "id": 11
+      },
+      {
+        "t": "v",
+        "n": 11,
+        "v": "But Korah’s line did not die out.",
+        "id": 12
+      }
+    ],
+    "id": 5
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 12,
+        "v": "The clans of Simeon’s descendants were these:",
+        "id": 14
+      }
+    ],
+    "id": 13
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Through Nemuel, the clan of the Nemuelites,",
+        "id": 16
+      }
+    ],
+    "id": 15
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "through Jamin, the clan of the Jaminites,",
+        "id": 18
+      }
+    ],
+    "id": 17
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "through Jakin, the clan of the Jakinites,",
+        "id": 20
+      }
+    ],
+    "id": 19
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 13,
+        "v": "through Zerah, the clan of the Zerahites,",
+        "id": 22
+      }
+    ],
+    "id": 21
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "through Shaul, the clan of the Shaulites.",
+        "id": 24
+      },
+      {
+        "t": "v",
+        "n": 14,
+        "v": "These were the clans of Simeon’s descendants, who numbered 22,200 men.",
+        "id": 25
+      }
+    ],
+    "id": 23
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 15,
+        "v": "The clans of Gad’s descendants were these:",
+        "id": 27
+      }
+    ],
+    "id": 26
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Through Zephon, the clan of the Zephonites,",
+        "id": 29
+      }
+    ],
+    "id": 28
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "through Haggi, the clan of the Haggites,",
+        "id": 31
+      }
+    ],
+    "id": 30
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "through Shuni, the clan of the Shunites,",
+        "id": 33
+      }
+    ],
+    "id": 32
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 16,
+        "v": "through Ozni, the clan of the Oznites,",
+        "id": 35
+      }
+    ],
+    "id": 34
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "through Eri, the clan of the Erites,",
+        "id": 37
+      }
+    ],
+    "id": 36
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 17,
+        "v": "through Arod, the clan of the Arodites,",
+        "id": 39
+      }
+    ],
+    "id": 38
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "through Areli, the clan of the Arelites.",
+        "id": 41
+      },
+      {
+        "t": "v",
+        "n": 18,
+        "v": "These were the clans of Gad’s descendants, who numbered 40,500 men.",
+        "id": 42
+      }
+    ],
+    "id": 40
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 19,
+        "v": "Judah’s sons were Er and Onan, but these men died in the land of Canaan.",
+        "id": 44
+      },
+      {
+        "t": "v",
+        "n": 20,
+        "v": "The clans of Judah’s other descendants were these:",
+        "id": 45
+      }
+    ],
+    "id": 43
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "through Shelah, the clan of the Shelanites,",
+        "id": 47
+      }
+    ],
+    "id": 46
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "through Perez, the clan of the Perezites, and",
+        "id": 49
+      }
+    ],
+    "id": 48
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "through Zerah, the clan of the Zerahites.",
+        "id": 51
+      },
+      {
+        "t": "v",
+        "n": 21,
+        "v": "The descendants of Perez were these:",
+        "id": 52
+      }
+    ],
+    "id": 50
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Through Hezron, the clan of the Hezronites,",
+        "id": 54
+      }
+    ],
+    "id": 53
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "through Hamul, the clan of the Hamulites.",
+        "id": 56
+      },
+      {
+        "t": "v",
+        "n": 22,
+        "v": "These were the clans of Judah’s descendants, who numbered 76,500 men.",
+        "id": 57
+      }
+    ],
+    "id": 55
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 23,
+        "v": "The clans of Issachar’s descendants were these:",
+        "id": 59
+      }
+    ],
+    "id": 58
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Through Tola, the clan of the Tolaites,",
+        "id": 61
+      }
+    ],
+    "id": 60
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "through Puah, the clan of the Puites,",
+        "id": 63
+      },
+      {
+        "t": "v",
+        "n": 24,
+        "v": "through Jashub, the clan of the Jashubites,",
+        "id": 64
+      }
+    ],
+    "id": 62
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "through Shimron, the clan of the Shimronites.",
+        "id": 66
+      },
+      {
+        "t": "v",
+        "n": 25,
+        "v": "These were the clans of Issachar, who numbered 64,300 men.",
+        "id": 67
+      }
+    ],
+    "id": 65
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 26,
+        "v": "The clans of Zebulun’s descendants were these:",
+        "id": 69
+      }
+    ],
+    "id": 68
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Through Sered, the clan of the Seredites,",
+        "id": 71
+      }
+    ],
+    "id": 70
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "through Elon, the clan of the Elonites,",
+        "id": 73
+      }
+    ],
+    "id": 72
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "through Jahleel, the clan of the Jahleelites.",
+        "id": 75
+      },
+      {
+        "t": "v",
+        "n": 27,
+        "v": "These were the clans of the Zebulunites, who numbered 60,500 men.",
+        "id": 76
+      }
+    ],
+    "id": 74
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 28,
+        "v": "The clans of Joseph’s descendants were Manasseh and Ephraim.",
+        "id": 78
+      },
+      {
+        "t": "v",
+        "n": 29,
+        "v": "The descendants of Manasseh were these:",
+        "id": 79
+      }
+    ],
+    "id": 77
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "through Makir, the clan of the Makirites (Makir was Gilead’s father),",
+        "id": 81
+      }
+    ],
+    "id": 80
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "through Gilead, the clan of the Gileadites.",
+        "id": 83
+      },
+      {
+        "t": "v",
+        "n": 30,
+        "v": "Gilead’s descendants were these:",
+        "id": 84
+      }
+    ],
+    "id": 82
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Through Iezer, the clan of the Iezerites,",
+        "id": 86
+      }
+    ],
+    "id": 85
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "through Helek, the clan of the Helekites,",
+        "id": 88
+      }
+    ],
+    "id": 87
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 31,
+        "v": "through Asriel, the clan of the Asrielites,",
+        "id": 90
+      }
+    ],
+    "id": 89
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "through Shechem, the clan of the Shechemites,",
+        "id": 92
+      }
+    ],
+    "id": 91
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 32,
+        "v": "through Shemida, the clan of the Shemidaites,",
+        "id": 94
+      }
+    ],
+    "id": 93
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "through Hepher, the clan of the Hepherites.",
+        "id": 96
+      },
+      {
+        "t": "v",
+        "n": 33,
+        "v": "Zelophehad son of Hepher had no sons, but only daughters. The names of his daughters were Mahlah, Noah, Hoglah, Milkah, and Tirzah.",
+        "id": 97
+      },
+      {
+        "t": "v",
+        "n": 34,
+        "v": "These were the clans of Manasseh, who numbered 52,700 men.",
+        "id": 98
+      }
+    ],
+    "id": 95
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 35,
+        "v": "The clans of Ephraim’s descendants were these:",
+        "id": 100
+      }
+    ],
+    "id": 99
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Through Shuthelah, the clan of the Shuthelahites,",
+        "id": 102
+      }
+    ],
+    "id": 101
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "through Beker, the clan of the Bekerites,",
+        "id": 104
+      }
+    ],
+    "id": 103
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "through Tahan, the clan of the Tahanites.",
+        "id": 106
+      },
+      {
+        "t": "v",
+        "n": 36,
+        "v": "The descendants of Shuthelah were, by Eran, the clan of the Eranites.",
+        "id": 107
+      },
+      {
+        "t": "v",
+        "n": 37,
+        "v": "These were the clans of Ephraim’s descendants, who numbered 32,500 men. These were Joseph’s descendants, counted in each of their clans.",
+        "id": 108
+      }
+    ],
+    "id": 105
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 38,
+        "v": "The clans of Benjamin’s descendants were these:",
+        "id": 110
+      }
+    ],
+    "id": 109
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Through Bela, the clan of the Belaites,",
+        "id": 112
+      }
+    ],
+    "id": 111
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "through Ashbel, the clan of the Ashbelites,",
+        "id": 114
+      }
+    ],
+    "id": 113
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "through Ahiram, the clan of the Ahiramites,",
+        "id": 116
+      }
+    ],
+    "id": 115
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 39,
+        "v": "through Shephupham, the clan of the Shuphamites,",
+        "id": 118
+      }
+    ],
+    "id": 117
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "through Hupham, the clan of the Huphamites.",
+        "id": 120
+      }
+    ],
+    "id": 119
+  },
+  {
+    "t": "m",
+    "v": [
+      {
+        "t": "v",
+        "n": 40,
+        "v": "Bela’s sons were Ard and Naaman. From Ard came the clan of the Ardites, and from Naaman came the clan of the Naamites.",
+        "id": 122
+      },
+      {
+        "t": "v",
+        "n": 41,
+        "v": "These were the clans of Benjamin’s descendants. They numbered 45,600 men.",
+        "id": 123
+      }
+    ],
+    "id": 121
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 42,
+        "v": "The clans of Dan’s descendants were, by Shuham, the clans of the Shuhamites. These were the clans of Dan’s descendants.",
+        "id": 125
+      },
+      {
+        "t": "v",
+        "n": 43,
+        "v": "All the clans of the Shuhamites numbered 64,400 men.",
+        "id": 126
+      }
+    ],
+    "id": 124
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 44,
+        "v": "The clans of Asher’s descendants were these:",
+        "id": 128
+      }
+    ],
+    "id": 127
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Through Imnah, the clan of the Imnites,",
+        "id": 130
+      }
+    ],
+    "id": 129
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "through Ishvi, the clan of the Ishvites,",
+        "id": 132
+      }
+    ],
+    "id": 131
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "through Beriah, the clan of the Beriites.",
+        "id": 134
+      }
+    ],
+    "id": 133
+  },
+  {
+    "t": "m",
+    "v": [
+      {
+        "t": "v",
+        "n": 45,
+        "v": "The descendants of Beriah were these:",
+        "id": 136
+      }
+    ],
+    "id": 135
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Through Heber, the clan of the Heberites,",
+        "id": 138
+      }
+    ],
+    "id": 137
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "through Malkiel, the clan of the Malkielites.",
+        "id": 140
+      }
+    ],
+    "id": 139
+  },
+  {
+    "t": "m",
+    "v": [
+      {
+        "t": "v",
+        "n": 46,
+        "v": "The name of Asher’s daughter was Serah.",
+        "id": 142
+      },
+      {
+        "t": "v",
+        "n": 47,
+        "v": "These were the clans of Asher’s descendants, who numbered 53,400 men.",
+        "id": 143
+      }
+    ],
+    "id": 141
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 48,
+        "v": "The clans of Naphtali’s descendants were these:",
+        "id": 145
+      }
+    ],
+    "id": 144
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Through Jahzeel, the clan of the Jahzeelites,",
+        "id": 147
+      }
+    ],
+    "id": 146
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "through Guni, the clan of the Gunites,",
+        "id": 149
+      }
+    ],
+    "id": 148
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 49,
+        "v": "through Jezer, the clan of the Jezerites,",
+        "id": 151
+      }
+    ],
+    "id": 150
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "through Shillem, the clan of the Shillemites.",
+        "id": 153
+      }
+    ],
+    "id": 152
+  },
+  {
+    "t": "m",
+    "v": [
+      {
+        "t": "v",
+        "n": 50,
+        "v": "These were the clans of Naphtali’s descendants, who numbered 45,400 men.",
+        "id": 155
+      }
+    ],
+    "id": 154
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 51,
+        "v": "This was the complete count of men among the people of Israel: 601,730.",
+        "id": 157
+      }
+    ],
+    "id": 156
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 52,
+        "v": "Yahweh spoke to Moses and said,",
+        "id": 159
+      },
+      {
+        "t": "v",
+        "n": 53,
+        "v": "“The land must be divided among these men as an inheritance according to the number of their names.",
+        "id": 160
+      },
+      {
+        "t": "v",
+        "n": 54,
+        "v": "To the larger clans you must give more inheritance, and to the smaller clans you must give less inheritance. To every family you must give an inheritance according to the number of men who were counted.",
+        "id": 161
+      },
+      {
+        "t": "v",
+        "n": 55,
+        "v": "However, the land must be divided by random lots. They must inherit the land as it will be divided among their ancestors’ tribes.",
+        "id": 162
+      },
+      {
+        "t": "v",
+        "n": 56,
+        "v": "Their inheritance must be divided among the larger and the smaller clans, distributed to them by random lot.”",
+        "id": 163
+      }
+    ],
+    "id": 158
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 57,
+        "v": "The Levite clans, counted clan by clan, were these:",
+        "id": 165
+      }
+    ],
+    "id": 164
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Through Gershon, the clan of the Gershonites,",
+        "id": 167
+      }
+    ],
+    "id": 166
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "through Kohath, the clan of the Kohathites,",
+        "id": 169
+      }
+    ],
+    "id": 168
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "through Merari, the clan of the Merarites.",
+        "id": 171
+      }
+    ],
+    "id": 170
+  },
+  {
+    "t": "m",
+    "v": [
+      {
+        "t": "v",
+        "n": 58,
+        "v": "The clans of Levi were these:",
+        "id": 173
+      }
+    ],
+    "id": 172
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "the clan of the Libnites,",
+        "id": 175
+      }
+    ],
+    "id": 174
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "the clan of the Hebronites,",
+        "id": 177
+      }
+    ],
+    "id": 176
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "the clan of the Mahlites,",
+        "id": 179
+      }
+    ],
+    "id": 178
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "the clan of the Mushites,",
+        "id": 181
+      }
+    ],
+    "id": 180
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and the clan of the Korahites.",
+        "id": 183
+      }
+    ],
+    "id": 182
+  },
+  {
+    "t": "m",
+    "v": [
+      {
+        "t": "t",
+        "v": "Kohath was the Amram’s ancestor.",
+        "id": 185
+      },
+      {
+        "t": "v",
+        "n": 59,
+        "v": "The name of Amram’s wife was Jochebed, a descendant of Levi, who was born to Levites in Egypt. She bore to Amram their children, who were Aaron, Moses, and Miriam their sister.",
+        "id": 186
+      },
+      {
+        "t": "v",
+        "n": 60,
+        "v": "To Aaron were born Nadab and Abihu, Eleazar and Ithamar.",
+        "id": 187
+      },
+      {
+        "t": "v",
+        "n": 61,
+        "v": "Nadab and Abihu died when they offered before Yahweh unacceptable fire.",
+        "id": 188
+      },
+      {
+        "t": "v",
+        "n": 62,
+        "v": "The males who were counted among them numbered twenty-three thousand, all males one month old and up. But they were not counted among Israel’s descendants because no inheritance was given to them among the people of Israel.",
+        "id": 189
+      }
+    ],
+    "id": 184
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 63,
+        "v": "These are the ones who were counted by Moses and Eleazar the priest. They counted the people of Israel in the plains of Moab by the Jordan at Jericho.",
+        "id": 191
+      },
+      {
+        "t": "v",
+        "n": 64,
+        "v": "But among these there was no man who had been counted by Moses and Aaron the priest when the descendants of Israel were counted in the wilderness of Sinai.",
+        "id": 192
+      },
+      {
+        "t": "v",
+        "n": 65,
+        "v": "For Yahweh had said that all of those people would certainly die in the wilderness. There was not a man left among them, except Caleb son of Jephunneh and Joshua son of Nun.",
+        "id": 193
+      }
+    ],
+    "id": 190
+  }
+]

@@ -1,0 +1,1269 @@
+[
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 1,
+        "v": "Yahweh says that at that time, he will be the God who is worshiped by all the clans in Israel, and they will be his people.",
+        "id": 1
+      }
+    ],
+    "id": 0
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 2,
+        "v": "This is what Yahweh says:",
+        "id": 3
+      }
+    ],
+    "id": 2
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "“Those people who remained alive and were not killed by their enemies’ swords",
+        "id": 5
+      }
+    ],
+    "id": 4
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "were blessed by me even in the desert;",
+        "id": 7
+      }
+    ],
+    "id": 6
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "where they survived.",
+        "id": 9
+      }
+    ],
+    "id": 8
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 3,
+        "v": "Long ago I, Yahweh, said to your ancestors, the Israelite people,",
+        "id": 11
+      }
+    ],
+    "id": 10
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "‘I have loved you and I will continue to love you forever.",
+        "id": 13
+      }
+    ],
+    "id": 12
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "By faithfully loving you I have brought you close to myself.’",
+        "id": 15
+      }
+    ],
+    "id": 14
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 4,
+        "v": "And now I tell you, my Israelite people who I will think of like a chaste woman, that I will cause you to be a nation again.",
+        "id": 17
+      }
+    ],
+    "id": 16
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "You will joyfully dance as you play your tambourines.",
+        "id": 19
+      }
+    ],
+    "id": 18
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 5,
+        "v": "Again you will plant your vineyards on the hills of Samaria,",
+        "id": 21
+      }
+    ],
+    "id": 20
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and you will eat the grapes that grow there.",
+        "id": 23
+      }
+    ],
+    "id": 22
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 6,
+        "v": "There will be a time when watchmen will call out from the hills of Samaria ,",
+        "id": 25
+      }
+    ],
+    "id": 24
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "‘Come, let us go up to Jerusalem",
+        "id": 27
+      }
+    ],
+    "id": 26
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "to worship Yahweh, our God!’”",
+        "id": 29
+      }
+    ],
+    "id": 28
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 7,
+        "v": "And now Yahweh also says this:",
+        "id": 31
+      }
+    ],
+    "id": 30
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "“Sing joyfully about what I have done for the people of Israel!",
+        "id": 33
+      }
+    ],
+    "id": 32
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Shout about your nation, the greatest nation!",
+        "id": 35
+      }
+    ],
+    "id": 34
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Shout joyfully, praising me and saying,",
+        "id": 37
+      }
+    ],
+    "id": 36
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "‘Yahweh, has rescued his people,",
+        "id": 39
+      }
+    ],
+    "id": 38
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "the ones who were still alive!’",
+        "id": 41
+      }
+    ],
+    "id": 40
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 8,
+        "v": "Do that because I will bring them back from the northeast,",
+        "id": 43
+      }
+    ],
+    "id": 42
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "from the most distant places on the earth.",
+        "id": 45
+      }
+    ],
+    "id": 44
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Among them will be blind people and lame people,",
+        "id": 47
+      }
+    ],
+    "id": 46
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "women who are pregnant and women who are having labor pains.",
+        "id": 49
+      }
+    ],
+    "id": 48
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "They will be a huge group of people!",
+        "id": 51
+      }
+    ],
+    "id": 50
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 9,
+        "v": "They will be weeping as they return,",
+        "id": 53
+      }
+    ],
+    "id": 52
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and they will be praying to me.",
+        "id": 55
+      }
+    ],
+    "id": 54
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "I will guide them along streams of water,",
+        "id": 57
+      }
+    ],
+    "id": 56
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "on level paths where they will not stumble.",
+        "id": 59
+      }
+    ],
+    "id": 58
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "I will do this because I am like a father to the Israelite people;",
+        "id": 61
+      }
+    ],
+    "id": 60
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "it is as though Israel is my oldest son.”",
+        "id": 63
+      }
+    ],
+    "id": 62
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 10,
+        "v": "People in the nations of the world, listen to this message from Yahweh.",
+        "id": 65
+      }
+    ],
+    "id": 64
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Then proclaim it to people who live along the coasts far away.",
+        "id": 67
+      }
+    ],
+    "id": 66
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Yahweh scattered his people, but he will gather them again and will take care of them",
+        "id": 69
+      }
+    ],
+    "id": 68
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "like a shepherd takes care of his sheep.",
+        "id": 71
+      }
+    ],
+    "id": 70
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 11,
+        "v": "Yahweh will buy his Israelite people back",
+        "id": 73
+      }
+    ],
+    "id": 72
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "from those who conquered them because they were more powerful than his people.",
+        "id": 75
+      }
+    ],
+    "id": 74
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 12,
+        "v": "Yahweh’s people will return to Jerusalem",
+        "id": 77
+      }
+    ],
+    "id": 76
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and shout joyfully on the slopes of Zion Hill.",
+        "id": 79
+      }
+    ],
+    "id": 78
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "They will rejoice about the things that Yahweh has abundantly given to them—",
+        "id": 81
+      }
+    ],
+    "id": 80
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "grain and new wine and olive oil",
+        "id": 83
+      }
+    ],
+    "id": 82
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and young sheep and cattle.",
+        "id": 85
+      }
+    ],
+    "id": 84
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "They themselves will be like a well-watered garden,",
+        "id": 87
+      }
+    ],
+    "id": 86
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and they will no longer feel worn out.",
+        "id": 89
+      }
+    ],
+    "id": 88
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 13,
+        "v": "The young women will dance joyfully,",
+        "id": 91
+      }
+    ],
+    "id": 90
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and all the men, young ones and old ones, will join with them.",
+        "id": 93
+      }
+    ],
+    "id": 92
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "I will cause them to rejoice instead of mourning;",
+        "id": 95
+      }
+    ],
+    "id": 94
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "I will comfort them and cause them to be happy instead of being sad.",
+        "id": 97
+      }
+    ],
+    "id": 96
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 14,
+        "v": "The priests will have plenty of things to eat and drink,",
+        "id": 99
+      }
+    ],
+    "id": 98
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and all my people will be filled with the good things that I give them.",
+        "id": 101
+      }
+    ],
+    "id": 100
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "That will certainly happen because I, Yahweh, have said it!”",
+        "id": 103
+      }
+    ],
+    "id": 102
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 15,
+        "v": "Yahweh also says this:",
+        "id": 105
+      }
+    ],
+    "id": 104
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "“Women were weeping in Ramah, on the border between Israel and Judah;",
+        "id": 107
+      }
+    ],
+    "id": 106
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "they were mourning and crying very loudly.",
+        "id": 109
+      }
+    ],
+    "id": 108
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "The women who were the descendants of Ephraim and Manasseh, the two grandsons of Rachel the wife of Jacob, were weeping about their children,",
+        "id": 111
+      }
+    ],
+    "id": 110
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and no one could comfort them",
+        "id": 113
+      }
+    ],
+    "id": 112
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "because their children were all dead.",
+        "id": 115
+      }
+    ],
+    "id": 114
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 16,
+        "v": "But now this is what Yahweh says:",
+        "id": 117
+      }
+    ],
+    "id": 116
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "‘Do not cry anymore,",
+        "id": 119
+      }
+    ],
+    "id": 118
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "because I will reward you for the good things you have done for your children.",
+        "id": 121
+      }
+    ],
+    "id": 120
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Your children will return from the land where their enemies have taken them.",
+        "id": 123
+      }
+    ],
+    "id": 122
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 17,
+        "v": "I, Yahweh, am telling you that there are things that you can confidently expect me to do for you in the future.",
+        "id": 125
+      }
+    ],
+    "id": 124
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Your children will return to their own land.’",
+        "id": 127
+      }
+    ],
+    "id": 126
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 18,
+        "v": "I have heard the people of Israel grieving very much and saying to me,",
+        "id": 129
+      }
+    ],
+    "id": 128
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "‘You punished us severely,",
+        "id": 131
+      }
+    ],
+    "id": 130
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "like calves are beaten by their owners to train them for pulling a plow.",
+        "id": 133
+      }
+    ],
+    "id": 132
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "So bring us back to obey you again,",
+        "id": 135
+      }
+    ],
+    "id": 134
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "because we are ready to return to you,",
+        "id": 137
+      }
+    ],
+    "id": 136
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "because you alone are Yahweh, our God.",
+        "id": 139
+      }
+    ],
+    "id": 138
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 19,
+        "v": "We turned away from you,",
+        "id": 141
+      }
+    ],
+    "id": 140
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "but we repented;",
+        "id": 143
+      }
+    ],
+    "id": 142
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "after you caused us to realize that we were guilty.",
+        "id": 145
+      }
+    ],
+    "id": 144
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "We beat our hands on our legs to show that we were very ashamed of the sins that we committed when we were young.’",
+        "id": 147
+      }
+    ],
+    "id": 146
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 20,
+        "v": "But I, Yahweh, say this:",
+        "id": 149
+      }
+    ],
+    "id": 148
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "The Israelite people certainly are still my dear children.",
+        "id": 151
+      }
+    ],
+    "id": 150
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "It is often necessary for me to threaten to punish them,",
+        "id": 153
+      }
+    ],
+    "id": 152
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "but I still love them.",
+        "id": 155
+      }
+    ],
+    "id": 154
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "That is why I have not forgotten them,",
+        "id": 157
+      }
+    ],
+    "id": 156
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and I will certainly act mercifully toward them.",
+        "id": 159
+      }
+    ],
+    "id": 158
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 21,
+        "v": "You Israelite people, set up road signs;",
+        "id": 161
+      }
+    ],
+    "id": 160
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "put up posts along the roads",
+        "id": 163
+      }
+    ],
+    "id": 162
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "to mark the road on which you walked when you were taken from Jerusalem.",
+        "id": 165
+      }
+    ],
+    "id": 164
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "My precious Israelite people,",
+        "id": 167
+      }
+    ],
+    "id": 166
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "come back to your towns here.",
+        "id": 169
+      }
+    ],
+    "id": 168
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 22,
+        "v": "You people who have been like daughters who have forsaken their parents,",
+        "id": 171
+      }
+    ],
+    "id": 170
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "how long will you continue to wander away from me?",
+        "id": 173
+      }
+    ],
+    "id": 172
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "I, Yahweh, will cause something to happen on the earth that is new:",
+        "id": 175
+      }
+    ],
+    "id": 174
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "the women of Israel will be protecting their husbands as they travel back here!”",
+        "id": 177
+      }
+    ],
+    "id": 176
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 23,
+        "v": "This is what Yahweh, commander of the angel armies, the God whom Israel worships, says: “When I bring them back from the countries to which they have been exiled, all the people from the towns in Judah will again say, ‘I hope that Yahweh will bless this my home, the holy place where righteous people will live!’",
+        "id": 179
+      },
+      {
+        "t": "v",
+        "n": 24,
+        "v": "The people of Judah who live in the towns, including the farmers and the shepherds, will all live together peacefully.",
+        "id": 180
+      },
+      {
+        "t": "v",
+        "n": 25,
+        "v": "I will enable weary people to be refreshed with drinks of water, and enable people who are very exhausted to become strong again.”",
+        "id": 181
+      }
+    ],
+    "id": 178
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 26,
+        "v": "I, Jeremiah, woke up after dreaming all those things, and I looked around. I had slept very delightfully!",
+        "id": 183
+      }
+    ],
+    "id": 182
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 27,
+        "v": "Then Yahweh said to me, “There will be a time when I will greatly increase the number of people and the number of livestock here in Israel and Judah.",
+        "id": 185
+      },
+      {
+        "t": "v",
+        "n": 28,
+        "v": "Previously, I caused their enemies to remove the people from their land and to destroy their land and to bring many disasters to it. But in the future, I will enable them to build houses and to plant crops here in Israel again. That will surely happen because I, Yahweh, have said it.",
+        "id": 186
+      },
+      {
+        "t": "v",
+        "n": 29,
+        "v": "Previously the people often said, ‘The parents have eaten sour grapes, but it is the children’s teeth that ache.’ They meant that it was not fair for them to be punished for their ancestors’ sins. But when I bring them back to their land, they will no longer say that.",
+        "id": 187
+      }
+    ],
+    "id": 184
+  },
+  {
+    "t": "m",
+    "v": [
+      {
+        "t": "v",
+        "n": 30,
+        "v": "But now all people will die because of the sins that they themselves have committed. It will be more like ‘The person who eats sour grapes will have his own teeth aching.’",
+        "id": 189
+      },
+      {
+        "t": "v",
+        "n": 31,
+        "v": "I, Yahweh, say this: ‘There will be a time when I will make a new agreement with the people of Israel and with the people of Judah.",
+        "id": 190
+      },
+      {
+        "t": "v",
+        "n": 32,
+        "v": "This new agreement will not be like the agreement that I made with their ancestors when I took them by their hands and led them out of Egypt. They disobeyed that agreement, even though I loved them like husbands love their wives.’",
+        "id": 191
+      },
+      {
+        "t": "v",
+        "n": 33,
+        "v": "This is what I, Yahweh, say: ‘This is the new agreement that I will make with the people of Israel some day: I will put my laws in their minds and write them on their inner beings. I will be their God, and they will be my people.",
+        "id": 192
+      },
+      {
+        "t": "v",
+        "n": 34,
+        "v": "And it will not be necessary for them to teach their neighbors or their relatives and say, “You need to know Yahweh,” because everyone, including both unimportant people and very important people, will already know me. And I will forgive them for having been very wicked, and I will never think again about the sins that they have committed.’”",
+        "id": 193
+      }
+    ],
+    "id": 188
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 35,
+        "v": "Yahweh is the one who causes the sun to give light during the day,",
+        "id": 195
+      }
+    ],
+    "id": 194
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and who causes the moon and the stars to give light during the night.",
+        "id": 197
+      }
+    ],
+    "id": 196
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "He stirs up the seas, with the result that waves roar.",
+        "id": 199
+      }
+    ],
+    "id": 198
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "His name is Yahweh, commander of the angel armies,",
+        "id": 201
+      }
+    ],
+    "id": 200
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and this is what he says:",
+        "id": 203
+      }
+    ],
+    "id": 202
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 36,
+        "v": "“I will not permanently reject my Israelite people",
+        "id": 205
+      }
+    ],
+    "id": 204
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "any more than I will get rid of the laws that control the universe.",
+        "id": 207
+      }
+    ],
+    "id": 206
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 37,
+        "v": "And this is what I say:",
+        "id": 209
+      }
+    ],
+    "id": 208
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "‘No one can measure the sky",
+        "id": 211
+      }
+    ],
+    "id": 210
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and no one can find out what is supporting the earth.",
+        "id": 213
+      }
+    ],
+    "id": 212
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Similarly, I cannot reject the descendants of Jacob",
+        "id": 215
+      }
+    ],
+    "id": 214
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "because of all the evil things that they have done.’",
+        "id": 217
+      }
+    ],
+    "id": 216
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "That is certain, because I, Yahweh, have said it!",
+        "id": 219
+      }
+    ],
+    "id": 218
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 38,
+        "v": "I, Yahweh, also say that there will be a time when everything in Jerusalem will be rebuilt for me, from the tower of Hananel at the northeast corner, west to the gate named the Corner Gate.",
+        "id": 221
+      },
+      {
+        "t": "v",
+        "n": 39,
+        "v": "Workers will stretch a measuring line over Gareb Hill all the way southwest to Goah.",
+        "id": 222
+      },
+      {
+        "t": "v",
+        "n": 40,
+        "v": "And the whole area, including the place where corpses and ashes are thrown in the Kidron Valley, and all the fields to the east as far as the Horse Gate, will become set apart for me. And the city of Jerusalem will never again be captured or destroyed.”",
+        "id": 223
+      }
+    ],
+    "id": 220
+  }
+]

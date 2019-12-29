@@ -1,0 +1,1258 @@
+[
+  {
+    "t": "m",
+    "v": [],
+    "id": 0
+  },
+  {
+    "t": "m",
+    "v": [
+      {
+        "t": "d",
+        "v": "A song written by Ethan, from the clan of Ezra",
+        "id": 2
+      }
+    ],
+    "id": 1
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 1,
+        "v": "Yahweh, I will sing forever about the ways you faithfully love me;",
+        "id": 4
+      }
+    ],
+    "id": 3
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "people not yet born will hear that you faithfully do all that you have promised.",
+        "id": 6
+      }
+    ],
+    "id": 5
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 2,
+        "v": "I will tell people that you will faithfully love us forever,",
+        "id": 8
+      }
+    ],
+    "id": 7
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and that your being faithful to do what you have promised is as permanent as the sky.",
+        "id": 10
+      }
+    ],
+    "id": 9
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 3,
+        "v": "Yahweh said, “I have made an agreement with David, whom I chose to serve me.",
+        "id": 12
+      }
+    ],
+    "id": 11
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "I have made this solemn agreement with him:",
+        "id": 14
+      }
+    ],
+    "id": 13
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 4,
+        "v": "‘I will enable various ones of your descendants to always be kings;",
+        "id": 16
+      }
+    ],
+    "id": 15
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "the line of kings descended from you will never end.’”",
+        "id": 18
+      }
+    ],
+    "id": 17
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 5,
+        "v": "Yahweh, I desire that all those beings who are in heaven will praise you for the wonderful things that you do,",
+        "id": 20
+      }
+    ],
+    "id": 19
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and that all your holy angels will sing about how you faithfully do what you promise.",
+        "id": 22
+      }
+    ],
+    "id": 21
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 6,
+        "v": "There is no one in heaven who can be compared with you, Yahweh.",
+        "id": 24
+      }
+    ],
+    "id": 23
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "There are no angels in heaven who are equal to you.",
+        "id": 26
+      }
+    ],
+    "id": 25
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 7,
+        "v": "When your holy angels gather together,",
+        "id": 28
+      }
+    ],
+    "id": 27
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "they declare that you must be revered;",
+        "id": 30
+      }
+    ],
+    "id": 29
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "they say that you are more awesome than all the angels that surround your throne!",
+        "id": 32
+      }
+    ],
+    "id": 31
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 8,
+        "v": "O Yahweh God, commander of the angel armies, there is no one who is as powerful as you are;",
+        "id": 34
+      }
+    ],
+    "id": 33
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "your faithfully doing all that you promise is like a cloak that always surrounds you.",
+        "id": 36
+      }
+    ],
+    "id": 35
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 9,
+        "v": "You rule over the powerful seas;",
+        "id": 38
+      }
+    ],
+    "id": 37
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "when their waves rise up, you calm them.",
+        "id": 40
+      }
+    ],
+    "id": 39
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 10,
+        "v": "You are the one who crushed and killed the great sea monster named Rahab.",
+        "id": 42
+      }
+    ],
+    "id": 41
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "You defeated and scattered your enemies with your great power.",
+        "id": 44
+      }
+    ],
+    "id": 43
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 11,
+        "v": "The heavens are yours, and the earth is yours;",
+        "id": 46
+      }
+    ],
+    "id": 45
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "everything on the earth is yours because you created it all.",
+        "id": 48
+      }
+    ],
+    "id": 47
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 12,
+        "v": "You created everything from the north to the south.",
+        "id": 50
+      }
+    ],
+    "id": 49
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Mount Tabor and Mount Hermon joyfully praise you .",
+        "id": 52
+      }
+    ],
+    "id": 51
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 13,
+        "v": "You are very powerful;",
+        "id": 54
+      }
+    ],
+    "id": 53
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "you are extremely strong.",
+        "id": 56
+      }
+    ],
+    "id": 55
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 14,
+        "v": "You rule over people fairly and justly;",
+        "id": 58
+      }
+    ],
+    "id": 57
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "you are always faithfully loving us and doing what you promised.",
+        "id": 60
+      }
+    ],
+    "id": 59
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 15,
+        "v": "Yahweh, how fortunate are those who worship you with joyful shouts in their festivals,",
+        "id": 62
+      }
+    ],
+    "id": 61
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "who live knowing that you are always watching over them.",
+        "id": 64
+      }
+    ],
+    "id": 63
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 16,
+        "v": "Every day, throughout the day, they rejoice in what you have done,",
+        "id": 66
+      }
+    ],
+    "id": 65
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and they praise you for being very good to them.",
+        "id": 68
+      }
+    ],
+    "id": 67
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 17,
+        "v": "You give us your glorious strength;",
+        "id": 70
+      }
+    ],
+    "id": 69
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "because you act in our favor, we defeat our enemies.",
+        "id": 72
+      }
+    ],
+    "id": 71
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 18,
+        "v": "Yahweh, you gave us the one who protects us;",
+        "id": 74
+      }
+    ],
+    "id": 73
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "you, the holy God whom we Israelites worship, he gave us our king.",
+        "id": 76
+      }
+    ],
+    "id": 75
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 19,
+        "v": "Long ago you spoke in a vision to one of your servants, saying,",
+        "id": 78
+      }
+    ],
+    "id": 77
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "“I have crowned a famous soldier;",
+        "id": 80
+      }
+    ],
+    "id": 79
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "I chose him from among all the people to be a king.",
+        "id": 82
+      }
+    ],
+    "id": 81
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 20,
+        "v": "That man is David, the one who will serve me faithfully,",
+        "id": 84
+      }
+    ],
+    "id": 83
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and I anointed him with sacred olive oil to make him king.",
+        "id": 86
+      }
+    ],
+    "id": 85
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 21,
+        "v": "My strength will always be with him;",
+        "id": 88
+      }
+    ],
+    "id": 87
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "with my power, I will make him strong.",
+        "id": 90
+      }
+    ],
+    "id": 89
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 22,
+        "v": "His enemies will never find ways to outwit him,",
+        "id": 92
+      }
+    ],
+    "id": 91
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and wicked people will never defeat him.",
+        "id": 94
+      }
+    ],
+    "id": 93
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 23,
+        "v": "I will crush his enemies in front of him",
+        "id": 96
+      }
+    ],
+    "id": 95
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and get rid of those who hate him.",
+        "id": 98
+      }
+    ],
+    "id": 97
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 24,
+        "v": "I will always be loyal to him and faithfully love him",
+        "id": 100
+      }
+    ],
+    "id": 99
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and enable him to defeat his enemies.",
+        "id": 102
+      }
+    ],
+    "id": 101
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 25,
+        "v": "I will cause his kingdom to include all the land from the Mediterranean Sea to the Euphrates River.",
+        "id": 104
+      }
+    ],
+    "id": 103
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 26,
+        "v": "He will say to me, ‘You are my Father,",
+        "id": 106
+      }
+    ],
+    "id": 105
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "my God, the one who protects and saves me.’",
+        "id": 108
+      }
+    ],
+    "id": 107
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 27,
+        "v": "I will give him the rights as my firstborn son;",
+        "id": 110
+      }
+    ],
+    "id": 109
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "he will be the greatest king on the earth.",
+        "id": 112
+      }
+    ],
+    "id": 111
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 28,
+        "v": "I will always be loyal to him,",
+        "id": 114
+      }
+    ],
+    "id": 113
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and my agreement to bless him will last forever.",
+        "id": 116
+      }
+    ],
+    "id": 115
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 29,
+        "v": "I will establish a line of his descendants that will never end,",
+        "id": 118
+      }
+    ],
+    "id": 117
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "various ones of his descendants will always be kings.",
+        "id": 120
+      }
+    ],
+    "id": 119
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 30,
+        "v": "But if some of his descendants disobey my laws",
+        "id": 122
+      }
+    ],
+    "id": 121
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and do not behave as my commands say that they should,",
+        "id": 124
+      }
+    ],
+    "id": 123
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 31,
+        "v": "if they disregard my requirements",
+        "id": 126
+      }
+    ],
+    "id": 125
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and do not do the right things that I have told them to do,",
+        "id": 128
+      }
+    ],
+    "id": 127
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 32,
+        "v": "I will punish them severely",
+        "id": 130
+      }
+    ],
+    "id": 129
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and cause them to suffer for doing wrong.",
+        "id": 132
+      }
+    ],
+    "id": 131
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 33,
+        "v": "But I will not stop faithfully loving David,",
+        "id": 134
+      }
+    ],
+    "id": 133
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and I will always do what I promised him.",
+        "id": 136
+      }
+    ],
+    "id": 135
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 34,
+        "v": "I will not break the agreement that I made with him;",
+        "id": 138
+      }
+    ],
+    "id": 137
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "I will not change even one word that I spoke to him.",
+        "id": 140
+      }
+    ],
+    "id": 139
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 35,
+        "v": "Once I made a solemn promise to David, and that will never change;",
+        "id": 142
+      }
+    ],
+    "id": 141
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "because I am God, I will never lie to David.",
+        "id": 144
+      }
+    ],
+    "id": 143
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 36,
+        "v": "I promised that the line of kings descended from him will go on forever;",
+        "id": 146
+      }
+    ],
+    "id": 145
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "it will last as long as the sun shines.",
+        "id": 148
+      }
+    ],
+    "id": 147
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 37,
+        "v": "That line will be as permanent as the moon",
+        "id": 150
+      }
+    ],
+    "id": 149
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "that is always watching everything here on earth.”",
+        "id": 152
+      }
+    ],
+    "id": 151
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 38,
+        "v": "But Yahweh, now you have rejected him!",
+        "id": 154
+      }
+    ],
+    "id": 153
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "You are very angry with the king whom you appointed.",
+        "id": 156
+      }
+    ],
+    "id": 155
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 39,
+        "v": "It seems that you have broken the agreement that you made with your servant, David;",
+        "id": 158
+      }
+    ],
+    "id": 157
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "it seems as though you have thrown his crown into the dust.",
+        "id": 160
+      }
+    ],
+    "id": 159
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 40,
+        "v": "You have torn down the walls that protect his city",
+        "id": 162
+      }
+    ],
+    "id": 161
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and allowed all his forts to become ruins.",
+        "id": 164
+      }
+    ],
+    "id": 163
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 41,
+        "v": "All those who pass by plunder his possessions;",
+        "id": 166
+      }
+    ],
+    "id": 165
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "his neighbors laugh at him.",
+        "id": 168
+      }
+    ],
+    "id": 167
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 42,
+        "v": "You have enabled his enemies to defeat him;",
+        "id": 170
+      }
+    ],
+    "id": 169
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "you have made them all happy.",
+        "id": 172
+      }
+    ],
+    "id": 171
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 43,
+        "v": "You have caused his sword to become useless,",
+        "id": 174
+      }
+    ],
+    "id": 173
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and you have not helped him in his battles.",
+        "id": 176
+      }
+    ],
+    "id": 175
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 44,
+        "v": "You have caused his splendor to end",
+        "id": 178
+      }
+    ],
+    "id": 177
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and knocked his throne to the ground.",
+        "id": 180
+      }
+    ],
+    "id": 179
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 45,
+        "v": "You have caused him to become old when he is still young",
+        "id": 182
+      }
+    ],
+    "id": 181
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and caused him to be very shamed.",
+        "id": 184
+      }
+    ],
+    "id": 183
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 46,
+        "v": "O Yahweh, how long will this continue?",
+        "id": 186
+      }
+    ],
+    "id": 185
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Will you hide yourself from us forever?",
+        "id": 188
+      }
+    ],
+    "id": 187
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "How long will your anger against us burn like a fire?",
+        "id": 190
+      }
+    ],
+    "id": 189
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 47,
+        "v": "Do not forget that life is very short;",
+        "id": 192
+      }
+    ],
+    "id": 191
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Do not forget that you have created all of us to die uselessly.",
+        "id": 194
+      }
+    ],
+    "id": 193
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 48,
+        "v": "No one can keep on living and never die;",
+        "id": 196
+      }
+    ],
+    "id": 195
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "no one can bring himself back from the place of the dead.",
+        "id": 198
+      }
+    ],
+    "id": 197
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 49,
+        "v": "Yahweh, you promised long ago",
+        "id": 200
+      }
+    ],
+    "id": 199
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "that you would faithfully love me;",
+        "id": 202
+      }
+    ],
+    "id": 201
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "why are you not doing that?",
+        "id": 204
+      }
+    ],
+    "id": 203
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "You solemnly promised this to David!",
+        "id": 206
+      }
+    ],
+    "id": 205
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 50,
+        "v": "Yahweh, do not forget that people insult us!",
+        "id": 208
+      }
+    ],
+    "id": 207
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Heathen people curse me!",
+        "id": 210
+      }
+    ],
+    "id": 209
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 51,
+        "v": "Yahweh, your enemies insult your chosen king!",
+        "id": 212
+      }
+    ],
+    "id": 211
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "They insult him wherever he goes.",
+        "id": 214
+      }
+    ],
+    "id": 213
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 52,
+        "v": "I hope that Yahweh will be praised forever!",
+        "id": 216
+      }
+    ],
+    "id": 215
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Amen! May it be so!",
+        "id": 218
+      }
+    ],
+    "id": 217
+  }
+]

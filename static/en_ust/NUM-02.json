@@ -1,0 +1,1803 @@
+[
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 1,
+        "id": 1
+      },
+      {
+        "t": "w",
+        "v": "Then",
+        "id": 2
+      },
+      {
+        "t": "w",
+        "v": "Yahweh",
+        "id": 3
+      },
+      {
+        "t": "w",
+        "v": "said",
+        "id": 4
+      },
+      {
+        "t": "w",
+        "v": "this",
+        "id": 5
+      },
+      {
+        "t": "w",
+        "v": "to",
+        "id": 6
+      },
+      {
+        "t": "w",
+        "v": "Aaron",
+        "id": 7
+      },
+      {
+        "t": "w",
+        "v": "and",
+        "id": 8
+      },
+      {
+        "t": "w",
+        "v": "Moses",
+        "id": 9
+      },
+      {
+        "t": "t",
+        "v": ",",
+        "id": 10
+      },
+      {
+        "t": "v",
+        "n": 2,
+        "v": "“",
+        "id": 11
+      },
+      {
+        "t": "w",
+        "v": "When",
+        "id": 12
+      },
+      {
+        "t": "w",
+        "v": "the",
+        "id": 13
+      },
+      {
+        "t": "w",
+        "v": "Israelites",
+        "id": 14
+      },
+      {
+        "t": "w",
+        "v": "set",
+        "id": 15
+      },
+      {
+        "t": "w",
+        "v": "up",
+        "id": 16
+      },
+      {
+        "t": "w",
+        "v": "their",
+        "id": 17
+      },
+      {
+        "t": "w",
+        "v": "tents",
+        "id": 18
+      },
+      {
+        "t": "t",
+        "v": ",",
+        "id": 19
+      },
+      {
+        "t": "w",
+        "v": "they",
+        "id": 20
+      },
+      {
+        "t": "w",
+        "v": "are",
+        "id": 21
+      },
+      {
+        "t": "w",
+        "v": "to",
+        "id": 22
+      },
+      {
+        "t": "w",
+        "v": "set",
+        "id": 23
+      },
+      {
+        "t": "w",
+        "v": "them",
+        "id": 24
+      },
+      {
+        "t": "w",
+        "v": "up",
+        "id": 25
+      },
+      {
+        "t": "w",
+        "v": "in",
+        "id": 26
+      },
+      {
+        "t": "w",
+        "v": "areas",
+        "id": 27
+      },
+      {
+        "t": "w",
+        "v": "that",
+        "id": 28
+      },
+      {
+        "t": "w",
+        "v": "surround",
+        "id": 29
+      },
+      {
+        "t": "w",
+        "v": "the",
+        "id": 30
+      },
+      {
+        "t": "w",
+        "v": "sacred",
+        "id": 31
+      },
+      {
+        "t": "w",
+        "v": "tent",
+        "id": 32
+      },
+      {
+        "t": "t",
+        "v": ",",
+        "id": 33
+      },
+      {
+        "t": "w",
+        "v": "but",
+        "id": 34
+      },
+      {
+        "t": "w",
+        "v": "not",
+        "id": 35
+      },
+      {
+        "t": "w",
+        "v": "close",
+        "id": 36
+      },
+      {
+        "t": "w",
+        "v": "to",
+        "id": 37
+      },
+      {
+        "t": "w",
+        "v": "it",
+        "id": 38
+      },
+      {
+        "t": "t",
+        "v": ".",
+        "id": 39
+      },
+      {
+        "t": "w",
+        "v": "The",
+        "id": 40
+      },
+      {
+        "t": "w",
+        "v": "people",
+        "id": 41
+      },
+      {
+        "t": "w",
+        "v": "of",
+        "id": 42
+      },
+      {
+        "t": "w",
+        "v": "each",
+        "id": 43
+      },
+      {
+        "t": "w",
+        "v": "tribe",
+        "id": 44
+      },
+      {
+        "t": "w",
+        "v": "must",
+        "id": 45
+      },
+      {
+        "t": "w",
+        "v": "set",
+        "id": 46
+      },
+      {
+        "t": "w",
+        "v": "up",
+        "id": 47
+      },
+      {
+        "t": "w",
+        "v": "their",
+        "id": 48
+      },
+      {
+        "t": "w",
+        "v": "tents",
+        "id": 49
+      },
+      {
+        "t": "w",
+        "v": "in",
+        "id": 50
+      },
+      {
+        "t": "w",
+        "v": "a",
+        "id": 51
+      },
+      {
+        "t": "w",
+        "v": "different",
+        "id": 52
+      },
+      {
+        "t": "w",
+        "v": "area",
+        "id": 53
+      },
+      {
+        "t": "t",
+        "v": ".",
+        "id": 54
+      },
+      {
+        "t": "w",
+        "v": "Each",
+        "id": 55
+      },
+      {
+        "t": "w",
+        "v": "tribe",
+        "id": 56
+      },
+      {
+        "t": "w",
+        "v": "must",
+        "id": 57
+      },
+      {
+        "t": "w",
+        "v": "put",
+        "id": 58
+      },
+      {
+        "t": "w",
+        "v": "up",
+        "id": 59
+      },
+      {
+        "t": "w",
+        "v": "a",
+        "id": 60
+      },
+      {
+        "t": "w",
+        "v": "flag",
+        "id": 61
+      },
+      {
+        "t": "w",
+        "v": "in",
+        "id": 62
+      },
+      {
+        "t": "w",
+        "v": "that",
+        "id": 63
+      },
+      {
+        "t": "w",
+        "v": "area",
+        "id": 64
+      },
+      {
+        "t": "w",
+        "v": "that",
+        "id": 65
+      },
+      {
+        "t": "w",
+        "v": "identifies",
+        "id": 66
+      },
+      {
+        "t": "w",
+        "v": "their",
+        "id": 67
+      },
+      {
+        "t": "w",
+        "v": "tribe",
+        "id": 68
+      },
+      {
+        "t": "t",
+        "v": ".",
+        "id": 69
+      },
+      {
+        "t": "v",
+        "n": 3,
+        "v": "The people of the tribe of Judah must set up their tents on the east side of the sacred tent, close to their tribal flag. Nahshon son of Amminadab, will be the leader of the 74,600 men of the tribe of Judah.",
+        "id": 70
+      },
+      {
+        "t": "v",
+        "n": 5,
+        "v": "The people of the tribe of Issachar will set up their tents beside Judah. Nethanel son of Zuar will be the leader of the 54,400 men of the tribe of Issachar.",
+        "id": 71
+      },
+      {
+        "t": "v",
+        "n": 7,
+        "v": "The people of the tribe of Zebulun will set up their tents beside Issachar. Eliab son of Helon, will be the leader of the 57,400 men of the tribe of Zebulun.",
+        "id": 72
+      }
+    ],
+    "id": 0
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 9,
+        "id": 74
+      },
+      {
+        "t": "w",
+        "v": "So",
+        "id": 75
+      },
+      {
+        "t": "w",
+        "v": "there",
+        "id": 76
+      },
+      {
+        "t": "w",
+        "v": "will",
+        "id": 77
+      },
+      {
+        "t": "w",
+        "v": "be",
+        "id": 78
+      },
+      {
+        "t": "w",
+        "v": "186",
+        "id": 79
+      },
+      {
+        "t": "t",
+        "v": ",",
+        "id": 80
+      },
+      {
+        "t": "w",
+        "v": "400",
+        "id": 81
+      },
+      {
+        "t": "w",
+        "v": "troops",
+        "id": 82
+      },
+      {
+        "t": "w",
+        "v": "on",
+        "id": 83
+      },
+      {
+        "t": "w",
+        "v": "the",
+        "id": 84
+      },
+      {
+        "t": "w",
+        "v": "east",
+        "id": 85
+      },
+      {
+        "t": "w",
+        "v": "side",
+        "id": 86
+      },
+      {
+        "t": "w",
+        "v": "of",
+        "id": 87
+      },
+      {
+        "t": "w",
+        "v": "the",
+        "id": 88
+      },
+      {
+        "t": "w",
+        "v": "sacred",
+        "id": 89
+      },
+      {
+        "t": "w",
+        "v": "tent",
+        "id": 90
+      },
+      {
+        "t": "t",
+        "v": ".",
+        "id": 91
+      },
+      {
+        "t": "w",
+        "v": "Whenever",
+        "id": 92
+      },
+      {
+        "t": "w",
+        "v": "the",
+        "id": 93
+      },
+      {
+        "t": "w",
+        "v": "Israelites",
+        "id": 94
+      },
+      {
+        "t": "w",
+        "v": "move",
+        "id": 95
+      },
+      {
+        "t": "w",
+        "v": "to",
+        "id": 96
+      },
+      {
+        "t": "w",
+        "v": "a",
+        "id": 97
+      },
+      {
+        "t": "w",
+        "v": "new",
+        "id": 98
+      },
+      {
+        "t": "w",
+        "v": "location",
+        "id": 99
+      },
+      {
+        "t": "t",
+        "v": ",",
+        "id": 100
+      },
+      {
+        "t": "w",
+        "v": "those",
+        "id": 101
+      },
+      {
+        "t": "w",
+        "v": "three",
+        "id": 102
+      },
+      {
+        "t": "w",
+        "v": "tribes",
+        "id": 103
+      },
+      {
+        "t": "w",
+        "v": "must",
+        "id": 104
+      },
+      {
+        "t": "w",
+        "v": "go",
+        "id": 105
+      },
+      {
+        "t": "w",
+        "v": "in",
+        "id": 106
+      },
+      {
+        "t": "w",
+        "v": "front",
+        "id": 107
+      },
+      {
+        "t": "w",
+        "v": "of",
+        "id": 108
+      },
+      {
+        "t": "w",
+        "v": "the",
+        "id": 109
+      },
+      {
+        "t": "w",
+        "v": "others",
+        "id": 110
+      },
+      {
+        "t": "t",
+        "v": ".",
+        "id": 111
+      },
+      {
+        "t": "v",
+        "n": 10,
+        "v": "The tribe of Reuben must set up their tents on the south side of the sacred tent, close to their tribal flag. Elizur son of Shedeur, will be the leader of the 46,500 men of the tribe of Reuben.",
+        "id": 112
+      },
+      {
+        "t": "v",
+        "n": 12,
+        "v": "The people of the tribe of Simeon will set up their tents beside Reuben. Shelumiel son of Zurishaddai, will be the leader of the 59,300 men of the tribe of Simeon.",
+        "id": 113
+      },
+      {
+        "t": "v",
+        "n": 14,
+        "v": "The people of the tribe of Gad will set up their tents beside Simeon. Eliasaph son of Deuel, will be the leader of the 45,650 men of the tribe of Gad.",
+        "id": 114
+      }
+    ],
+    "id": 73
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 16,
+        "id": 116
+      },
+      {
+        "t": "w",
+        "v": "So",
+        "id": 117
+      },
+      {
+        "t": "w",
+        "v": "there",
+        "id": 118
+      },
+      {
+        "t": "w",
+        "v": "will",
+        "id": 119
+      },
+      {
+        "t": "w",
+        "v": "be",
+        "id": 120
+      },
+      {
+        "t": "w",
+        "v": "151",
+        "id": 121
+      },
+      {
+        "t": "t",
+        "v": ",",
+        "id": 122
+      },
+      {
+        "t": "w",
+        "v": "450",
+        "id": 123
+      },
+      {
+        "t": "w",
+        "v": "troops",
+        "id": 124
+      },
+      {
+        "t": "w",
+        "v": "on",
+        "id": 125
+      },
+      {
+        "t": "w",
+        "v": "the",
+        "id": 126
+      },
+      {
+        "t": "w",
+        "v": "south",
+        "id": 127
+      },
+      {
+        "t": "w",
+        "v": "side",
+        "id": 128
+      },
+      {
+        "t": "w",
+        "v": "of",
+        "id": 129
+      },
+      {
+        "t": "w",
+        "v": "the",
+        "id": 130
+      },
+      {
+        "t": "w",
+        "v": "sacred",
+        "id": 131
+      },
+      {
+        "t": "w",
+        "v": "tent",
+        "id": 132
+      },
+      {
+        "t": "t",
+        "v": ".",
+        "id": 133
+      },
+      {
+        "t": "w",
+        "v": "Those",
+        "id": 134
+      },
+      {
+        "t": "w",
+        "v": "three",
+        "id": 135
+      },
+      {
+        "t": "w",
+        "v": "tribes",
+        "id": 136
+      },
+      {
+        "t": "w",
+        "v": "will",
+        "id": 137
+      },
+      {
+        "t": "w",
+        "v": "follow",
+        "id": 138
+      },
+      {
+        "t": "w",
+        "v": "the",
+        "id": 139
+      },
+      {
+        "t": "w",
+        "v": "first",
+        "id": 140
+      },
+      {
+        "t": "w",
+        "v": "group",
+        "id": 141
+      },
+      {
+        "t": "w",
+        "v": "when",
+        "id": 142
+      },
+      {
+        "t": "w",
+        "v": "the",
+        "id": 143
+      },
+      {
+        "t": "w",
+        "v": "Israelites",
+        "id": 144
+      },
+      {
+        "t": "w",
+        "v": "travel",
+        "id": 145
+      },
+      {
+        "t": "t",
+        "v": ".",
+        "id": 146
+      }
+    ],
+    "id": 115
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 17,
+        "id": 148
+      },
+      {
+        "t": "w",
+        "v": "Behind",
+        "id": 149
+      },
+      {
+        "t": "w",
+        "v": "that",
+        "id": 150
+      },
+      {
+        "t": "w",
+        "v": "group",
+        "id": 151
+      },
+      {
+        "t": "w",
+        "v": "will",
+        "id": 152
+      },
+      {
+        "t": "w",
+        "v": "walk",
+        "id": 153
+      },
+      {
+        "t": "w",
+        "v": "the",
+        "id": 154
+      },
+      {
+        "t": "w",
+        "v": "descendants",
+        "id": 155
+      },
+      {
+        "t": "w",
+        "v": "of",
+        "id": 156
+      },
+      {
+        "t": "w",
+        "v": "Levi",
+        "id": 157
+      },
+      {
+        "t": "t",
+        "v": ",",
+        "id": 158
+      },
+      {
+        "t": "w",
+        "v": "who",
+        "id": 159
+      },
+      {
+        "t": "w",
+        "v": "will",
+        "id": 160
+      },
+      {
+        "t": "w",
+        "v": "carry",
+        "id": 161
+      },
+      {
+        "t": "w",
+        "v": "the",
+        "id": 162
+      },
+      {
+        "t": "w",
+        "v": "sacred",
+        "id": 163
+      },
+      {
+        "t": "w",
+        "v": "tent",
+        "id": 164
+      },
+      {
+        "t": "t",
+        "v": ".",
+        "id": 165
+      },
+      {
+        "t": "w",
+        "v": "The",
+        "id": 166
+      },
+      {
+        "t": "w",
+        "v": "Israelites",
+        "id": 167
+      },
+      {
+        "t": "w",
+        "v": "will",
+        "id": 168
+      },
+      {
+        "t": "w",
+        "v": "march",
+        "id": 169
+      },
+      {
+        "t": "w",
+        "v": "in",
+        "id": 170
+      },
+      {
+        "t": "w",
+        "v": "the",
+        "id": 171
+      },
+      {
+        "t": "w",
+        "v": "same",
+        "id": 172
+      },
+      {
+        "t": "w",
+        "v": "order",
+        "id": 173
+      },
+      {
+        "t": "w",
+        "v": "that",
+        "id": 174
+      },
+      {
+        "t": "w",
+        "v": "they",
+        "id": 175
+      },
+      {
+        "t": "w",
+        "v": "always",
+        "id": 176
+      },
+      {
+        "t": "w",
+        "v": "set",
+        "id": 177
+      },
+      {
+        "t": "w",
+        "v": "up",
+        "id": 178
+      },
+      {
+        "t": "w",
+        "v": "their",
+        "id": 179
+      },
+      {
+        "t": "w",
+        "v": "tents",
+        "id": 180
+      },
+      {
+        "t": "t",
+        "v": ".",
+        "id": 181
+      },
+      {
+        "t": "w",
+        "v": "Each",
+        "id": 182
+      },
+      {
+        "t": "w",
+        "v": "tribe",
+        "id": 183
+      },
+      {
+        "t": "w",
+        "v": "will",
+        "id": 184
+      },
+      {
+        "t": "w",
+        "v": "carry",
+        "id": 185
+      },
+      {
+        "t": "w",
+        "v": "its",
+        "id": 186
+      },
+      {
+        "t": "w",
+        "v": "own",
+        "id": 187
+      },
+      {
+        "t": "w",
+        "v": "flag",
+        "id": 188
+      },
+      {
+        "t": "t",
+        "v": ".",
+        "id": 189
+      },
+      {
+        "t": "v",
+        "n": 18,
+        "v": "The tribe of Ephraim must set up their tents on the west side of the sacred tent, close to their tribal flag. Elishama son of Ammihud, will be the leader of the 40,500 men of the tribe of Ephraim.",
+        "id": 190
+      },
+      {
+        "t": "v",
+        "n": 20,
+        "v": "The people of the tribe of Manasseh will set up their tents beside Ephraim. Gamaliel son of Pedahzur, will be the leader of the 32,200 men of the tribe of Manasseh.",
+        "id": 191
+      },
+      {
+        "t": "v",
+        "n": 22,
+        "v": "The people of the tribe of Benjamin will set up their tents beside Manasseh. Abidan son of Gideoni, will be the leader of the 35,400 men of the tribe of Benjamin.",
+        "id": 192
+      }
+    ],
+    "id": 147
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 24,
+        "id": 194
+      },
+      {
+        "t": "w",
+        "v": "So",
+        "id": 195
+      },
+      {
+        "t": "w",
+        "v": "there",
+        "id": 196
+      },
+      {
+        "t": "w",
+        "v": "will",
+        "id": 197
+      },
+      {
+        "t": "w",
+        "v": "be",
+        "id": 198
+      },
+      {
+        "t": "w",
+        "v": "108",
+        "id": 199
+      },
+      {
+        "t": "t",
+        "v": ",",
+        "id": 200
+      },
+      {
+        "t": "w",
+        "v": "100",
+        "id": 201
+      },
+      {
+        "t": "w",
+        "v": "troops",
+        "id": 202
+      },
+      {
+        "t": "w",
+        "v": "on",
+        "id": 203
+      },
+      {
+        "t": "w",
+        "v": "the",
+        "id": 204
+      },
+      {
+        "t": "w",
+        "v": "west",
+        "id": 205
+      },
+      {
+        "t": "w",
+        "v": "side",
+        "id": 206
+      },
+      {
+        "t": "w",
+        "v": "of",
+        "id": 207
+      },
+      {
+        "t": "w",
+        "v": "the",
+        "id": 208
+      },
+      {
+        "t": "w",
+        "v": "sacred",
+        "id": 209
+      },
+      {
+        "t": "w",
+        "v": "tent",
+        "id": 210
+      },
+      {
+        "t": "t",
+        "v": ".",
+        "id": 211
+      },
+      {
+        "t": "w",
+        "v": "Those",
+        "id": 212
+      },
+      {
+        "t": "w",
+        "v": "three",
+        "id": 213
+      },
+      {
+        "t": "w",
+        "v": "tribes",
+        "id": 214
+      },
+      {
+        "t": "w",
+        "v": "will",
+        "id": 215
+      },
+      {
+        "t": "w",
+        "v": "follow",
+        "id": 216
+      },
+      {
+        "t": "w",
+        "v": "the",
+        "id": 217
+      },
+      {
+        "t": "w",
+        "v": "second",
+        "id": 218
+      },
+      {
+        "t": "w",
+        "v": "group",
+        "id": 219
+      },
+      {
+        "t": "t",
+        "v": ",",
+        "id": 220
+      },
+      {
+        "t": "w",
+        "v": "behind",
+        "id": 221
+      },
+      {
+        "t": "w",
+        "v": "the",
+        "id": 222
+      },
+      {
+        "t": "w",
+        "v": "descendants",
+        "id": 223
+      },
+      {
+        "t": "w",
+        "v": "of",
+        "id": 224
+      },
+      {
+        "t": "w",
+        "v": "Levi",
+        "id": 225
+      },
+      {
+        "t": "t",
+        "v": ".",
+        "id": 226
+      },
+      {
+        "t": "v",
+        "n": 25,
+        "v": "The tribe of Dan must set up their tents on the north side of the sacred tent, close to their tribal flag. Ahiezer son of Ammishaddai, will be the leader of the 62,700 men of the tribe of Dan.",
+        "id": 227
+      },
+      {
+        "t": "v",
+        "n": 27,
+        "v": "The people of the tribe of Asher will set up their tents beside Dan. Pagiel son of Ocran, will be the leader of the 41,500 men of the tribe of Asher.",
+        "id": 228
+      },
+      {
+        "t": "v",
+        "n": 29,
+        "v": "The people of the tribe of Napthali will set up their tents beside Asher. Ahira son of Enan, will be the leader of the 53,400 men of the tribe of Naphtali.",
+        "id": 229
+      }
+    ],
+    "id": 193
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 31,
+        "id": 231
+      },
+      {
+        "t": "w",
+        "v": "So",
+        "id": 232
+      },
+      {
+        "t": "w",
+        "v": "there",
+        "id": 233
+      },
+      {
+        "t": "w",
+        "v": "will",
+        "id": 234
+      },
+      {
+        "t": "w",
+        "v": "be",
+        "id": 235
+      },
+      {
+        "t": "w",
+        "v": "157",
+        "id": 236
+      },
+      {
+        "t": "t",
+        "v": ",",
+        "id": 237
+      },
+      {
+        "t": "w",
+        "v": "600",
+        "id": 238
+      },
+      {
+        "t": "w",
+        "v": "troops",
+        "id": 239
+      },
+      {
+        "t": "w",
+        "v": "on",
+        "id": 240
+      },
+      {
+        "t": "w",
+        "v": "the",
+        "id": 241
+      },
+      {
+        "t": "w",
+        "v": "north",
+        "id": 242
+      },
+      {
+        "t": "w",
+        "v": "side",
+        "id": 243
+      },
+      {
+        "t": "w",
+        "v": "of",
+        "id": 244
+      },
+      {
+        "t": "w",
+        "v": "the",
+        "id": 245
+      },
+      {
+        "t": "w",
+        "v": "sacred",
+        "id": 246
+      },
+      {
+        "t": "w",
+        "v": "tent",
+        "id": 247
+      },
+      {
+        "t": "t",
+        "v": ".",
+        "id": 248
+      },
+      {
+        "t": "w",
+        "v": "Those",
+        "id": 249
+      },
+      {
+        "t": "w",
+        "v": "three",
+        "id": 250
+      },
+      {
+        "t": "w",
+        "v": "tribes",
+        "id": 251
+      },
+      {
+        "t": "w",
+        "v": "will",
+        "id": 252
+      },
+      {
+        "t": "w",
+        "v": "be",
+        "id": 253
+      },
+      {
+        "t": "w",
+        "v": "last",
+        "id": 254
+      },
+      {
+        "t": "t",
+        "v": ".",
+        "id": 255
+      },
+      {
+        "t": "w",
+        "v": "They",
+        "id": 256
+      },
+      {
+        "t": "w",
+        "v": "must",
+        "id": 257
+      },
+      {
+        "t": "w",
+        "v": "carry",
+        "id": 258
+      },
+      {
+        "t": "w",
+        "v": "their",
+        "id": 259
+      },
+      {
+        "t": "w",
+        "v": "own",
+        "id": 260
+      },
+      {
+        "t": "w",
+        "v": "flags",
+        "id": 261
+      },
+      {
+        "t": "w",
+        "v": "when",
+        "id": 262
+      },
+      {
+        "t": "w",
+        "v": "the",
+        "id": 263
+      },
+      {
+        "t": "w",
+        "v": "Israelites",
+        "id": 264
+      },
+      {
+        "t": "w",
+        "v": "travel",
+        "id": 265
+      },
+      {
+        "t": "t",
+        "v": ".”",
+        "id": 266
+      }
+    ],
+    "id": 230
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 32,
+        "id": 268
+      },
+      {
+        "t": "w",
+        "v": "So",
+        "id": 269
+      },
+      {
+        "t": "w",
+        "v": "there",
+        "id": 270
+      },
+      {
+        "t": "w",
+        "v": "were",
+        "id": 271
+      },
+      {
+        "t": "w",
+        "v": "603",
+        "id": 272
+      },
+      {
+        "t": "t",
+        "v": ",",
+        "id": 273
+      },
+      {
+        "t": "w",
+        "v": "550",
+        "id": 274
+      },
+      {
+        "t": "w",
+        "v": "Israelite",
+        "id": 275
+      },
+      {
+        "t": "w",
+        "v": "men",
+        "id": 276
+      },
+      {
+        "t": "w",
+        "v": "who",
+        "id": 277
+      },
+      {
+        "t": "w",
+        "v": "were",
+        "id": 278
+      },
+      {
+        "t": "w",
+        "v": "able",
+        "id": 279
+      },
+      {
+        "t": "w",
+        "v": "to",
+        "id": 280
+      },
+      {
+        "t": "w",
+        "v": "fight",
+        "id": 281
+      },
+      {
+        "t": "w",
+        "v": "who",
+        "id": 282
+      },
+      {
+        "t": "w",
+        "v": "were",
+        "id": 283
+      },
+      {
+        "t": "w",
+        "v": "listed",
+        "id": 284
+      },
+      {
+        "t": "w",
+        "v": "according",
+        "id": 285
+      },
+      {
+        "t": "w",
+        "v": "to",
+        "id": 286
+      },
+      {
+        "t": "w",
+        "v": "their",
+        "id": 287
+      },
+      {
+        "t": "w",
+        "v": "families",
+        "id": 288
+      },
+      {
+        "t": "t",
+        "v": "’",
+        "id": 289
+      },
+      {
+        "t": "w",
+        "v": "ancestors",
+        "id": 290
+      },
+      {
+        "t": "t",
+        "v": ".",
+        "id": 291
+      },
+      {
+        "t": "v",
+        "n": 33,
+        "id": 292
+      },
+      {
+        "t": "w",
+        "v": "But",
+        "id": 293
+      },
+      {
+        "t": "w",
+        "v": "just",
+        "id": 294
+      },
+      {
+        "t": "w",
+        "v": "as",
+        "id": 295
+      },
+      {
+        "t": "w",
+        "v": "Yahweh",
+        "id": 296
+      },
+      {
+        "t": "w",
+        "v": "had",
+        "id": 297
+      },
+      {
+        "t": "w",
+        "v": "commanded",
+        "id": 298
+      },
+      {
+        "t": "t",
+        "v": ",",
+        "id": 299
+      },
+      {
+        "t": "w",
+        "v": "Moses",
+        "id": 300
+      },
+      {
+        "t": "w",
+        "v": "and",
+        "id": 301
+      },
+      {
+        "t": "w",
+        "v": "Aaron",
+        "id": 302
+      },
+      {
+        "t": "w",
+        "v": "did",
+        "id": 303
+      },
+      {
+        "t": "w",
+        "v": "not",
+        "id": 304
+      },
+      {
+        "t": "w",
+        "v": "count",
+        "id": 305
+      },
+      {
+        "t": "w",
+        "v": "the",
+        "id": 306
+      },
+      {
+        "t": "w",
+        "v": "Levites",
+        "id": 307
+      },
+      {
+        "t": "w",
+        "v": "among",
+        "id": 308
+      },
+      {
+        "t": "w",
+        "v": "the",
+        "id": 309
+      },
+      {
+        "t": "w",
+        "v": "people",
+        "id": 310
+      },
+      {
+        "t": "w",
+        "v": "of",
+        "id": 311
+      },
+      {
+        "t": "w",
+        "v": "Israel",
+        "id": 312
+      },
+      {
+        "t": "t",
+        "v": ".",
+        "id": 313
+      }
+    ],
+    "id": 267
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 34,
+        "id": 315
+      },
+      {
+        "t": "w",
+        "v": "The",
+        "id": 316
+      },
+      {
+        "t": "w",
+        "v": "Israelites",
+        "id": 317
+      },
+      {
+        "t": "w",
+        "v": "did",
+        "id": 318
+      },
+      {
+        "t": "w",
+        "v": "everything",
+        "id": 319
+      },
+      {
+        "t": "w",
+        "v": "that",
+        "id": 320
+      },
+      {
+        "t": "w",
+        "v": "Yahweh",
+        "id": 321
+      },
+      {
+        "t": "w",
+        "v": "had",
+        "id": 322
+      },
+      {
+        "t": "w",
+        "v": "told",
+        "id": 323
+      },
+      {
+        "t": "w",
+        "v": "Moses",
+        "id": 324
+      },
+      {
+        "t": "t",
+        "v": ".",
+        "id": 325
+      },
+      {
+        "t": "w",
+        "v": "They",
+        "id": 326
+      },
+      {
+        "t": "w",
+        "v": "set",
+        "id": 327
+      },
+      {
+        "t": "w",
+        "v": "up",
+        "id": 328
+      },
+      {
+        "t": "w",
+        "v": "their",
+        "id": 329
+      },
+      {
+        "t": "w",
+        "v": "tents",
+        "id": 330
+      },
+      {
+        "t": "w",
+        "v": "close",
+        "id": 331
+      },
+      {
+        "t": "w",
+        "v": "to",
+        "id": 332
+      },
+      {
+        "t": "w",
+        "v": "their",
+        "id": 333
+      },
+      {
+        "t": "w",
+        "v": "tribal",
+        "id": 334
+      },
+      {
+        "t": "w",
+        "v": "flags",
+        "id": 335
+      },
+      {
+        "t": "t",
+        "v": ",",
+        "id": 336
+      },
+      {
+        "t": "w",
+        "v": "and",
+        "id": 337
+      },
+      {
+        "t": "w",
+        "v": "when",
+        "id": 338
+      },
+      {
+        "t": "w",
+        "v": "they",
+        "id": 339
+      },
+      {
+        "t": "w",
+        "v": "traveled",
+        "id": 340
+      },
+      {
+        "t": "w",
+        "v": "to",
+        "id": 341
+      },
+      {
+        "t": "w",
+        "v": "a",
+        "id": 342
+      },
+      {
+        "t": "w",
+        "v": "new",
+        "id": 343
+      },
+      {
+        "t": "w",
+        "v": "location",
+        "id": 344
+      },
+      {
+        "t": "t",
+        "v": ",",
+        "id": 345
+      },
+      {
+        "t": "w",
+        "v": "they",
+        "id": 346
+      },
+      {
+        "t": "w",
+        "v": "walked",
+        "id": 347
+      },
+      {
+        "t": "w",
+        "v": "with",
+        "id": 348
+      },
+      {
+        "t": "w",
+        "v": "their",
+        "id": 349
+      },
+      {
+        "t": "w",
+        "v": "own",
+        "id": 350
+      },
+      {
+        "t": "w",
+        "v": "clans",
+        "id": 351
+      },
+      {
+        "t": "w",
+        "v": "and",
+        "id": 352
+      },
+      {
+        "t": "w",
+        "v": "family",
+        "id": 353
+      },
+      {
+        "t": "w",
+        "v": "groups",
+        "id": 354
+      },
+      {
+        "t": "t",
+        "v": ".",
+        "id": 355
+      }
+    ],
+    "id": 314
+  }
+]

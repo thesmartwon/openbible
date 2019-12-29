@@ -1,0 +1,218 @@
+[
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 1,
+        "v": "Then Job answered Yahweh and said,",
+        "id": 1
+      }
+    ],
+    "id": 0
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 2,
+        "v": "“I know that you can do all things,",
+        "id": 3
+      }
+    ],
+    "id": 2
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "that no purpose of yours can be stopped.",
+        "id": 5
+      }
+    ],
+    "id": 4
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 3,
+        "v": "‘Who is this who without knowledge conceals plans?’",
+        "id": 7
+      }
+    ],
+    "id": 6
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Indeed, I have spoken things that I did not understand,",
+        "id": 9
+      }
+    ],
+    "id": 8
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "things too difficult for me to understand, which I did not know about.",
+        "id": 11
+      }
+    ],
+    "id": 10
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 4,
+        "v": "You said to me, ‘Listen, now, and I will speak;",
+        "id": 13
+      }
+    ],
+    "id": 12
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "I will ask you things, and you will tell me.’",
+        "id": 15
+      }
+    ],
+    "id": 14
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 5,
+        "v": "I had heard about you by my ear’s hearing,",
+        "id": 17
+      }
+    ],
+    "id": 16
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "but now my eye sees you.",
+        "id": 19
+      }
+    ],
+    "id": 18
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 6,
+        "v": "So I despise myself;",
+        "id": 21
+      }
+    ],
+    "id": 20
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "I repent in dust and ashes.”",
+        "id": 23
+      }
+    ],
+    "id": 22
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 7,
+        "v": "It came about that after he had said these words to Job, Yahweh said to Eliphaz the Temanite, “My wrath is kindled against you and against your two friends, for you have not spoken of me what is right, as my servant Job has done.",
+        "id": 25
+      },
+      {
+        "t": "v",
+        "n": 8,
+        "v": "Now therefore, take for yourselves seven bulls and seven rams, go to my servant Job, and offer up for yourselves a burnt offering. My servant Job will pray for you, and I will accept his prayer, so that I may not deal with you after your folly. You have not said what is right about me, as my servant Job has done.”",
+        "id": 26
+      },
+      {
+        "t": "v",
+        "n": 9,
+        "v": "So Eliphaz the Temanite, Bildad the Shuhite, and Zophar the Naamathite went and did as Yahweh had commanded them, and Yahweh accepted Job.",
+        "id": 27
+      }
+    ],
+    "id": 24
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 10,
+        "v": "When Job prayed for his friends, Yahweh restored his fortunes. Yahweh gave him twice as much as he had possessed before.",
+        "id": 29
+      },
+      {
+        "t": "v",
+        "n": 11,
+        "v": "Then all Job’s brothers, and all his sisters, and all who knew him before, came to him and ate food with him in his house. They showed him sympathy and comforted him for all the disasters that Yahweh had brought upon him, and each of them gave Job a piece of silver and a ring of gold.",
+        "id": 30
+      },
+      {
+        "t": "v",
+        "n": 12,
+        "v": "Yahweh blessed the final end of Job’s life more than the first; he had fourteen thousand sheep, six thousand camels, one thousand yoke of oxen, and one thousand female donkeys.",
+        "id": 31
+      },
+      {
+        "t": "v",
+        "n": 13,
+        "v": "He also had seven sons and three daughters.",
+        "id": 32
+      },
+      {
+        "t": "v",
+        "n": 14,
+        "v": "He named the first daughter Jemimah, the second Keziah, and the third Keren-Happuch.",
+        "id": 33
+      },
+      {
+        "t": "v",
+        "n": 15,
+        "v": "In all the land no women were found as beautiful as Job’s daughters. Their father gave them an inheritance along with their brothers.",
+        "id": 34
+      },
+      {
+        "t": "v",
+        "n": 16,
+        "v": "After this, Job lived 140 years; he saw his sons and his sons’ sons, up to four generations.",
+        "id": 35
+      },
+      {
+        "t": "v",
+        "n": 17,
+        "v": "Then Job died, being old and full of days.",
+        "id": 36
+      }
+    ],
+    "id": 28
+  }
+]

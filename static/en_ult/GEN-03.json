@@ -1,0 +1,404 @@
+[
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 1,
+        "v": "Now the serpent was more shrewd than any other beast of the field which Yahweh God had made. He said to the woman, “Has God really said, ‘You must not eat from any tree of the garden’?”",
+        "id": 1
+      },
+      {
+        "t": "v",
+        "n": 2,
+        "v": "The woman said to the serpent, “We may eat the fruit from the trees of the garden,",
+        "id": 2
+      },
+      {
+        "t": "v",
+        "n": 3,
+        "v": "but concerning the fruit of the tree which is in the middle of the garden, God said, ‘You may not eat it, nor may you touch it, or you will die.’”",
+        "id": 3
+      },
+      {
+        "t": "v",
+        "n": 4,
+        "v": "The serpent said to the woman, “You will surely not die.",
+        "id": 4
+      },
+      {
+        "t": "v",
+        "n": 5,
+        "v": "For God knows that the day you eat it your eyes will be opened, and you will be like God, knowing good and evil.”",
+        "id": 5
+      },
+      {
+        "t": "v",
+        "n": 6,
+        "v": "When the woman saw that the tree was good for food, and that it was a delight to the eyes, and that the tree was desirable to make one wise, she took some of its fruit and ate it. Then she also gave some to her husband who was with her, and he ate it.",
+        "id": 6
+      },
+      {
+        "t": "v",
+        "n": 7,
+        "v": "The eyes of both of them were opened, and they knew that they were naked. They sewed fig leaves together and made coverings for themselves.",
+        "id": 7
+      },
+      {
+        "t": "v",
+        "n": 8,
+        "v": "They heard the sound of Yahweh God walking in the garden in the cool of the day, so the man and his wife hid themselves from the presence of Yahweh God among the trees of the garden.",
+        "id": 8
+      }
+    ],
+    "id": 0
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 9,
+        "v": "Yahweh God called to the man and said to him, “Where are you?”",
+        "id": 10
+      },
+      {
+        "t": "v",
+        "n": 10,
+        "v": "The man said, “I heard you in the garden, and I was afraid, because I was naked. So I hid myself.”",
+        "id": 11
+      },
+      {
+        "t": "v",
+        "n": 11,
+        "v": "God said, “Who told you that you were naked? Have you eaten from the tree that I commanded you not to eat from?”",
+        "id": 12
+      },
+      {
+        "t": "v",
+        "n": 12,
+        "v": "The man said, “The woman whom you gave to be with me, she gave me fruit from the tree, and I ate it.”",
+        "id": 13
+      },
+      {
+        "t": "v",
+        "n": 13,
+        "v": "Yahweh God said to the woman, “What is this you have done?” The woman said, “The serpent lied to me, and I ate.”",
+        "id": 14
+      }
+    ],
+    "id": 9
+  },
+  {
+    "t": "m",
+    "v": [
+      {
+        "t": "v",
+        "n": 14,
+        "v": "Yahweh God said to the serpent,",
+        "id": 16
+      }
+    ],
+    "id": 15
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "“Because you have done this,",
+        "id": 18
+      }
+    ],
+    "id": 17
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "cursed are you alone among all the livestock",
+        "id": 20
+      }
+    ],
+    "id": 19
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and all the beasts of the field.",
+        "id": 22
+      }
+    ],
+    "id": 21
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "It is on your stomach that you will go,",
+        "id": 24
+      }
+    ],
+    "id": 23
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and it is dust that you will eat all the days of your life.",
+        "id": 26
+      }
+    ],
+    "id": 25
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 15,
+        "v": "I will put hostility between you and the woman,",
+        "id": 28
+      }
+    ],
+    "id": 27
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and between your seed and her seed.",
+        "id": 30
+      }
+    ],
+    "id": 29
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "He will bruise your head, and you will bruise his heel.”",
+        "id": 32
+      }
+    ],
+    "id": 31
+  },
+  {
+    "t": "m",
+    "v": [
+      {
+        "t": "v",
+        "n": 16,
+        "v": "To the woman he said,",
+        "id": 34
+      }
+    ],
+    "id": 33
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "“I will greatly multiply your pain in having children;",
+        "id": 36
+      }
+    ],
+    "id": 35
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "it is in pain that you will give birth to children.",
+        "id": 38
+      }
+    ],
+    "id": 37
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Your desire will be for your husband, but he will rule over you.”",
+        "id": 40
+      }
+    ],
+    "id": 39
+  },
+  {
+    "t": "m",
+    "v": [
+      {
+        "t": "v",
+        "n": 17,
+        "v": "To Adam he said,",
+        "id": 42
+      }
+    ],
+    "id": 41
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "“Because you have listened to the voice of your wife,",
+        "id": 44
+      }
+    ],
+    "id": 43
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and have eaten from the tree, concerning which I commanded you,",
+        "id": 46
+      }
+    ],
+    "id": 45
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "saying, ‘You may not eat from it,’",
+        "id": 48
+      }
+    ],
+    "id": 47
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "cursed is the ground because of you;",
+        "id": 50
+      }
+    ],
+    "id": 49
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "through painful work you will eat from it all the days of your life.",
+        "id": 52
+      }
+    ],
+    "id": 51
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 18,
+        "v": "It will produce thorns and thistles for you,",
+        "id": 54
+      }
+    ],
+    "id": 53
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and you will eat the plants of the field.",
+        "id": 56
+      }
+    ],
+    "id": 55
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 19,
+        "v": "By the sweat of your face you will eat bread,",
+        "id": 58
+      }
+    ],
+    "id": 57
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "until you return to the ground, for out of it you were taken.",
+        "id": 60
+      }
+    ],
+    "id": 59
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "For dust you are, and to dust you will return.”",
+        "id": 62
+      }
+    ],
+    "id": 61
+  },
+  {
+    "t": "m",
+    "v": [
+      {
+        "t": "v",
+        "n": 20,
+        "v": "The man called his wife’s name Eve because she was the mother of all the living.",
+        "id": 64
+      },
+      {
+        "t": "v",
+        "n": 21,
+        "v": "Yahweh God made for Adam and for his wife garments of skins and clothed them.",
+        "id": 65
+      }
+    ],
+    "id": 63
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 22,
+        "v": "Yahweh God said, “Now the man has become like one of us, knowing good and evil. So now he must not be allowed to reach out with his hand, take from the tree of life, eat it, and live forever.”",
+        "id": 67
+      },
+      {
+        "t": "v",
+        "n": 23,
+        "v": "Therefore Yahweh God sent him out from the garden of Eden, to cultivate the ground from which he had been taken.",
+        "id": 68
+      },
+      {
+        "t": "v",
+        "n": 24,
+        "v": "So God drove the man out of the garden, and he placed cherubim at the east of the garden of Eden, and a flaming sword that turned every way, in order to guard the way to the tree of life.",
+        "id": 69
+      }
+    ],
+    "id": 66
+  }
+]

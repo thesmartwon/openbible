@@ -1,0 +1,326 @@
+[
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 1,
+        "v": "For everything there is an appointed time, and a season for every purpose under heaven.",
+        "id": 1
+      }
+    ],
+    "id": 0
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 2,
+        "v": "There is a time to be born and a time to die,",
+        "id": 3
+      }
+    ],
+    "id": 2
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "a time to plant and a time to pull up plants,",
+        "id": 5
+      }
+    ],
+    "id": 4
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 3,
+        "v": "a time to kill and a time to heal,",
+        "id": 7
+      }
+    ],
+    "id": 6
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "a time to tear down and a time to build up.",
+        "id": 9
+      }
+    ],
+    "id": 8
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 4,
+        "v": "There is a time to weep and a time to laugh,",
+        "id": 11
+      }
+    ],
+    "id": 10
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "a time to mourn and a time to dance,",
+        "id": 13
+      }
+    ],
+    "id": 12
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 5,
+        "v": "a time to throw away stones and a time to gather stones,",
+        "id": 15
+      }
+    ],
+    "id": 14
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "a time to embrace other people, and a time to refrain from embracing.",
+        "id": 17
+      }
+    ],
+    "id": 16
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 6,
+        "v": "There is a time to look for things and a time to stop looking,",
+        "id": 19
+      }
+    ],
+    "id": 18
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "a time to keep things and a time to throw away things,",
+        "id": 21
+      }
+    ],
+    "id": 20
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 7,
+        "v": "a time to tear clothing and a time to repair clothing,",
+        "id": 23
+      }
+    ],
+    "id": 22
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "a time to keep silent and a time to speak.",
+        "id": 25
+      }
+    ],
+    "id": 24
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 8,
+        "v": "There is a time to love and a time to hate,",
+        "id": 27
+      }
+    ],
+    "id": 26
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "a time for war and a time for peace.",
+        "id": 29
+      },
+      {
+        "t": "v",
+        "n": 9,
+        "v": "What profit does the worker gain in his labor?",
+        "id": 30
+      },
+      {
+        "t": "v",
+        "n": 10,
+        "v": "I have seen the work that God has given to human beings to complete.",
+        "id": 31
+      },
+      {
+        "t": "v",
+        "n": 11,
+        "v": "God has made everything suitable for its own time. He has also placed eternity in their hearts. But mankind cannot understand the deeds that God has done, from their beginning all the way to their end.",
+        "id": 32
+      },
+      {
+        "t": "v",
+        "n": 12,
+        "v": "I know that there is nothing better for anyone than to rejoice and to do good so long as he lives—",
+        "id": 33
+      },
+      {
+        "t": "v",
+        "n": 13,
+        "v": "and that everyone should eat and drink, and should understand how to enjoy the good that comes from all his work. This is a gift from God.",
+        "id": 34
+      },
+      {
+        "t": "v",
+        "n": 14,
+        "v": "I know that whatever God does lasts forever. Nothing can be added to it or taken away, because it is God who has done it so that people will approach him with honor.",
+        "id": 35
+      }
+    ],
+    "id": 28
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 15,
+        "v": "Whatever exists has already existed;",
+        "id": 37
+      }
+    ],
+    "id": 36
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "whatever will exist has already existed.",
+        "id": 39
+      }
+    ],
+    "id": 38
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "God makes human beings seek hidden things.",
+        "id": 41
+      },
+      {
+        "t": "v",
+        "n": 16,
+        "v": "I have seen the wickedness that is under the sun, where there should be justice, and in place of righteousness, wickedness was there.",
+        "id": 46
+      },
+      {
+        "t": "v",
+        "n": 17,
+        "v": "I said in my heart, “God will judge the righteous and the wicked at the right time for every matter and every deed.”",
+        "id": 47
+      },
+      {
+        "t": "v",
+        "n": 18,
+        "v": "I said in my heart, “God tests human beings to show them that they are like animals.”",
+        "id": 48
+      },
+      {
+        "t": "v",
+        "n": 19,
+        "v": "For the fate of the children of mankind and the fate of animals is the same fate for them. The death of one is like the death of the other. The breath is the same for all of them. There is no advantage for mankind over the animals. For is not everything just a breath?",
+        "id": 49
+      },
+      {
+        "t": "v",
+        "n": 20,
+        "v": "Everything is going to the same place. Everything comes from the dust, and everything returns to the dust.",
+        "id": 50
+      },
+      {
+        "t": "v",
+        "n": 21,
+        "v": "Who knows whether the spirit of mankind goes upward and the spirit of animals goes downward into the earth?",
+        "id": 51
+      },
+      {
+        "t": "v",
+        "n": 22,
+        "v": "So again I realized that there is nothing better for anyone than to take pleasure in his work, for that is his assignment. Who can bring him back to see what happens after him?",
+        "id": 55
+      }
+    ],
+    "id": 40
+  },
+  {
+    "t": "f",
+    "c": "+",
+    "v": [
+      {
+        "t": "ft",
+        "v": "Instead of",
+        "id": 43
+      },
+      {
+        "t": "fqa",
+        "v": "God makes human beings seek hidden things",
+        "id": 44
+      },
+      {
+        "t": "t",
+        "v": ", other modern versions interpret this line in different ways.",
+        "id": 45
+      }
+    ],
+    "id": 42
+  },
+  {
+    "t": "f",
+    "c": "+",
+    "v": [
+      {
+        "t": "ft",
+        "v": "Some modern versions have",
+        "id": 53
+      },
+      {
+        "t": "fqa",
+        "v": "Who knows the spirit of mankind, which goes upward, and the spirit of animals, which goes downward into the earth?",
+        "id": 54
+      }
+    ],
+    "id": 52
+  }
+]

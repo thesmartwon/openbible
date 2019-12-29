@@ -1,0 +1,469 @@
+[
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 1,
+        "v": "I said in my heart, “Come now, I will test you with happiness. So enjoy pleasure.” But look, this also was just a temporary breeze.",
+        "id": 1
+      },
+      {
+        "t": "v",
+        "n": 2,
+        "v": "I said about laughter, “It is crazy,” and about pleasure, “What use is it?”",
+        "id": 2
+      },
+      {
+        "t": "v",
+        "n": 3,
+        "v": "I explored in my heart how to gratify my desires with wine. I let my mind guide me with wisdom although I was still holding on to folly. I wanted to find out what is good for people to do under heaven during the days of their lives.",
+        "id": 3
+      },
+      {
+        "t": "v",
+        "n": 4,
+        "v": "I accomplished great things. I built houses for myself and planted vineyards.",
+        "id": 4
+      },
+      {
+        "t": "v",
+        "n": 5,
+        "v": "I built for myself gardens and parks; I planted all kinds of fruit trees in them.",
+        "id": 5
+      },
+      {
+        "t": "v",
+        "n": 6,
+        "v": "I created pools of water to water a forest where trees were grown.",
+        "id": 6
+      },
+      {
+        "t": "v",
+        "n": 7,
+        "v": "I purchased male slaves and female slaves; I had slaves born in my palace. I also had large herds and flocks of livestock, much more than any king who ruled before me in Jerusalem.",
+        "id": 7
+      },
+      {
+        "t": "v",
+        "n": 8,
+        "v": "I also accumulated for myself silver and gold, the treasures of kings and provinces. I got male and female singers for myself—the delights of the children of humanity—and many concubines.",
+        "id": 8
+      },
+      {
+        "t": "v",
+        "n": 9,
+        "v": "So I became greater and wealthier than all who were before me in Jerusalem, and my wisdom remained with me.",
+        "id": 15
+      }
+    ],
+    "id": 0
+  },
+  {
+    "t": "f",
+    "c": "+",
+    "v": [
+      {
+        "t": "ft",
+        "v": "Modern versions interpret the last part of this verse in different ways:",
+        "id": 10
+      },
+      {
+        "t": "fqa",
+        "v": "everything that pleases people",
+        "id": 11
+      },
+      {
+        "t": "t",
+        "v": ",",
+        "id": 12
+      },
+      {
+        "t": "fqa",
+        "v": "concubines and everything that pleases men",
+        "id": 13
+      },
+      {
+        "t": "t",
+        "v": ", etc.",
+        "id": 14
+      }
+    ],
+    "id": 9
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 10,
+        "v": "Whatever my eyes desired,",
+        "id": 17
+      }
+    ],
+    "id": 16
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "I did not withhold from them.",
+        "id": 19
+      }
+    ],
+    "id": 18
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "I did not withhold my heart from any pleasure,",
+        "id": 21
+      }
+    ],
+    "id": 20
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "because my heart rejoiced in all my labor",
+        "id": 23
+      }
+    ],
+    "id": 22
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and pleasure was my reward for all my work.",
+        "id": 25
+      }
+    ],
+    "id": 24
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 11,
+        "v": "Then I looked on all the deeds that my hands had accomplished,",
+        "id": 27
+      }
+    ],
+    "id": 26
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and on the work that I had done,",
+        "id": 29
+      }
+    ],
+    "id": 28
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "but again, everything was vapor and an attempt to shepherd the wind.",
+        "id": 31
+      }
+    ],
+    "id": 30
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "There was no profit under the sun in it.",
+        "id": 33
+      }
+    ],
+    "id": 32
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 12,
+        "v": "Then I turned to consider wisdom,",
+        "id": 35
+      }
+    ],
+    "id": 34
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and also madness and folly.",
+        "id": 37
+      }
+    ],
+    "id": 36
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "For what can the next king do who comes after the king,",
+        "id": 39
+      }
+    ],
+    "id": 38
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "which has not already been done?",
+        "id": 41
+      }
+    ],
+    "id": 40
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 13,
+        "v": "Then I began to understand",
+        "id": 43
+      }
+    ],
+    "id": 42
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "that wisdom has advantages over folly,",
+        "id": 45
+      }
+    ],
+    "id": 44
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "just as light is better than darkness.",
+        "id": 47
+      }
+    ],
+    "id": 46
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 14,
+        "v": "The wise man uses his eyes in his head to see where he is going,",
+        "id": 49
+      }
+    ],
+    "id": 48
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "but the fool walks in darkness,",
+        "id": 51
+      }
+    ],
+    "id": 50
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "although I know the same event happens to all of them.",
+        "id": 53
+      }
+    ],
+    "id": 52
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 15,
+        "v": "Then I said in my heart,",
+        "id": 55
+      }
+    ],
+    "id": 54
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "“What happens to the fool,",
+        "id": 57
+      }
+    ],
+    "id": 56
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "will also happen to me.",
+        "id": 59
+      }
+    ],
+    "id": 58
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "So what difference does it make if I am very wise?”",
+        "id": 61
+      }
+    ],
+    "id": 60
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "I concluded in my heart,",
+        "id": 63
+      }
+    ],
+    "id": 62
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "“This too is only vapor.”",
+        "id": 65
+      }
+    ],
+    "id": 64
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 16,
+        "v": "For the wise man, like the fool, is not remembered for very long.",
+        "id": 67
+      }
+    ],
+    "id": 66
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "In the days to come everything will have been long forgotten.",
+        "id": 69
+      }
+    ],
+    "id": 68
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "The wise man dies just like the fool dies.",
+        "id": 71
+      },
+      {
+        "t": "v",
+        "n": 17,
+        "v": "So I detested life because all the work done under the sun was evil to me. This was because everything is vapor and an attempt to shepherd the wind.",
+        "id": 72
+      },
+      {
+        "t": "v",
+        "n": 18,
+        "v": "I hated all my accomplishments for which I had worked under the sun because I must leave them behind to the man who comes after me.",
+        "id": 73
+      },
+      {
+        "t": "v",
+        "n": 19,
+        "v": "For who knows whether he will be a wise man or a fool? Yet he will be master over everything under the sun that my work and wisdom have built. This also is vapor.",
+        "id": 74
+      },
+      {
+        "t": "v",
+        "n": 20,
+        "v": "Therefore my heart began to despair over all the work under the sun that I did.",
+        "id": 75
+      },
+      {
+        "t": "v",
+        "n": 21,
+        "v": "For there might be someone who works with wisdom, with knowledge, and skill, but he will leave everything he has to a man who has not made any of it. This also is vapor and a great tragedy.",
+        "id": 76
+      },
+      {
+        "t": "v",
+        "n": 22,
+        "v": "For what profit does the person gain who works so hard and tries in his heart to complete his labors under the sun?",
+        "id": 77
+      },
+      {
+        "t": "v",
+        "n": 23,
+        "v": "Every day his work is painful and stressful, so at night his soul does not find rest. This also is vapor.",
+        "id": 78
+      },
+      {
+        "t": "v",
+        "n": 24,
+        "v": "There is nothing better for anyone than to simply eat and drink and be satisfied with what is good in his work. I saw that this truth comes from God’s hand.",
+        "id": 79
+      },
+      {
+        "t": "v",
+        "n": 25,
+        "v": "For who can eat or who can have any kind of pleasure apart from God?",
+        "id": 80
+      },
+      {
+        "t": "v",
+        "n": 26,
+        "v": "For to anyone who pleases him, God gives wisdom and knowledge and joy. However, to the sinner he gives the work of gathering and storing up so that he may give it away to someone who pleases God. This also amounts to vapor and an attempt to shepherd the wind.",
+        "id": 81
+      }
+    ],
+    "id": 70
+  }
+]

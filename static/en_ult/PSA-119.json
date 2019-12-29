@@ -1,0 +1,4324 @@
+[
+  {
+    "t": "m",
+    "v": [],
+    "id": 0
+  },
+  {
+    "t": "qa",
+    "v": [
+      {
+        "t": "t",
+        "v": "ALEPH",
+        "id": 2
+      }
+    ],
+    "id": 1
+  },
+  {
+    "t": "m",
+    "v": [],
+    "id": 3
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 1,
+        "v": "Blessed are those whose ways are blameless,",
+        "id": 5
+      }
+    ],
+    "id": 4
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "who walk in the law of Yahweh.",
+        "id": 7
+      }
+    ],
+    "id": 6
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 2,
+        "v": "Blessed are they who keep his solemn commands,",
+        "id": 9
+      }
+    ],
+    "id": 8
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "who seek him with all their heart.",
+        "id": 11
+      }
+    ],
+    "id": 10
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 3,
+        "v": "They do no wrong;",
+        "id": 13
+      }
+    ],
+    "id": 12
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "they walk in his ways.",
+        "id": 15
+      }
+    ],
+    "id": 14
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 4,
+        "v": "You have commanded us to keep your instructions",
+        "id": 17
+      }
+    ],
+    "id": 16
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "so that we should carefully observe them.",
+        "id": 19
+      }
+    ],
+    "id": 18
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 5,
+        "v": "Oh, that I would be firmly established",
+        "id": 21
+      }
+    ],
+    "id": 20
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "in the observance of your statutes!",
+        "id": 23
+      }
+    ],
+    "id": 22
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 6,
+        "v": "Then I would not be put to shame",
+        "id": 25
+      }
+    ],
+    "id": 24
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "when I think of all your commandments.",
+        "id": 27
+      }
+    ],
+    "id": 26
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 7,
+        "v": "I will give thanks to you with an upright heart",
+        "id": 29
+      }
+    ],
+    "id": 28
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "when I learn your righteous decrees.",
+        "id": 31
+      }
+    ],
+    "id": 30
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 8,
+        "v": "I will observe your statutes;",
+        "id": 33
+      }
+    ],
+    "id": 32
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "do not leave me alone.",
+        "id": 35
+      }
+    ],
+    "id": 34
+  },
+  {
+    "t": "qa",
+    "v": [
+      {
+        "t": "t",
+        "v": "BETH",
+        "id": 37
+      }
+    ],
+    "id": 36
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 9,
+        "v": "How can a young person keep his path pure?",
+        "id": 39
+      }
+    ],
+    "id": 38
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "By obeying your word.",
+        "id": 41
+      }
+    ],
+    "id": 40
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 10,
+        "v": "With my whole heart I seek you;",
+        "id": 43
+      }
+    ],
+    "id": 42
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Do not let me stray from your commandments.",
+        "id": 45
+      }
+    ],
+    "id": 44
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 11,
+        "v": "I have stored up your word in my heart",
+        "id": 47
+      }
+    ],
+    "id": 46
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "so that I might not sin against you.",
+        "id": 49
+      }
+    ],
+    "id": 48
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 12,
+        "v": "Blessed you are, Yahweh;",
+        "id": 51
+      }
+    ],
+    "id": 50
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "teach me your statutes.",
+        "id": 53
+      }
+    ],
+    "id": 52
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 13,
+        "v": "With my mouth I have declared",
+        "id": 55
+      }
+    ],
+    "id": 54
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "all the righteous decrees that you have revealed.",
+        "id": 57
+      }
+    ],
+    "id": 56
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 14,
+        "v": "I rejoice in the way of your covenant decrees",
+        "id": 59
+      }
+    ],
+    "id": 58
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "more than in all riches.",
+        "id": 61
+      }
+    ],
+    "id": 60
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 15,
+        "v": "I will meditate on your instructions",
+        "id": 63
+      }
+    ],
+    "id": 62
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and pay attention to your ways.",
+        "id": 65
+      }
+    ],
+    "id": 64
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 16,
+        "v": "I delight in your statutes;",
+        "id": 67
+      }
+    ],
+    "id": 66
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "I will not forget your word.",
+        "id": 69
+      }
+    ],
+    "id": 68
+  },
+  {
+    "t": "qa",
+    "v": [
+      {
+        "t": "t",
+        "v": "GIMEL",
+        "id": 71
+      }
+    ],
+    "id": 70
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 17,
+        "v": "Be kind to your servant so that I may live",
+        "id": 73
+      }
+    ],
+    "id": 72
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and keep your word.",
+        "id": 75
+      }
+    ],
+    "id": 74
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 18,
+        "v": "Open my eyes so that I may see",
+        "id": 77
+      }
+    ],
+    "id": 76
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "marvelous things in your law.",
+        "id": 79
+      }
+    ],
+    "id": 78
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 19,
+        "v": "I am a foreigner in the land;",
+        "id": 81
+      }
+    ],
+    "id": 80
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "do not hide your commandments from me.",
+        "id": 83
+      }
+    ],
+    "id": 82
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 20,
+        "v": "My desires are crushed by the longing to know",
+        "id": 85
+      }
+    ],
+    "id": 84
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "your righteous decrees at all times.",
+        "id": 87
+      }
+    ],
+    "id": 86
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 21,
+        "v": "You rebuke the proud, who are cursed,",
+        "id": 89
+      }
+    ],
+    "id": 88
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "who wander from your commandments.",
+        "id": 91
+      }
+    ],
+    "id": 90
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 22,
+        "v": "Spare me from disgrace and humiliation,",
+        "id": 93
+      }
+    ],
+    "id": 92
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "for I have obeyed your covenant decrees.",
+        "id": 95
+      }
+    ],
+    "id": 94
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 23,
+        "v": "Though rulers plot and slander me,",
+        "id": 97
+      }
+    ],
+    "id": 96
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "your servant meditates on your statutes.",
+        "id": 99
+      }
+    ],
+    "id": 98
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 24,
+        "v": "Your covenant decrees are my delight,",
+        "id": 101
+      }
+    ],
+    "id": 100
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and they are my counselors.",
+        "id": 103
+      }
+    ],
+    "id": 102
+  },
+  {
+    "t": "qa",
+    "v": [
+      {
+        "t": "t",
+        "v": "DALETH",
+        "id": 105
+      }
+    ],
+    "id": 104
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 25,
+        "v": "My life clings to the dust!",
+        "id": 107
+      }
+    ],
+    "id": 106
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Give me life by your word.",
+        "id": 109
+      }
+    ],
+    "id": 108
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 26,
+        "v": "I told you my ways, and you answered me;",
+        "id": 111
+      }
+    ],
+    "id": 110
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "teach me your statutes.",
+        "id": 113
+      }
+    ],
+    "id": 112
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 27,
+        "v": "Make me understand the ways of your instructions,",
+        "id": 115
+      }
+    ],
+    "id": 114
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "so that I can meditate on your wondrous teachings.",
+        "id": 117
+      }
+    ],
+    "id": 116
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 28,
+        "v": "I am overwhelmed with grief!",
+        "id": 119
+      }
+    ],
+    "id": 118
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Strengthen me by your word.",
+        "id": 121
+      }
+    ],
+    "id": 120
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 29,
+        "v": "Turn from me the path of deceit;",
+        "id": 123
+      }
+    ],
+    "id": 122
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "graciously teach me your law.",
+        "id": 125
+      }
+    ],
+    "id": 124
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 30,
+        "v": "I have chosen the way of faithfulness;",
+        "id": 127
+      }
+    ],
+    "id": 126
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "I have always kept your righteous decrees before me.",
+        "id": 129
+      }
+    ],
+    "id": 128
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 31,
+        "v": "I cling to your covenant decrees;",
+        "id": 131
+      }
+    ],
+    "id": 130
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Yahweh, do not let me be shamed.",
+        "id": 133
+      }
+    ],
+    "id": 132
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 32,
+        "v": "I will run in the path of your commandments,",
+        "id": 135
+      }
+    ],
+    "id": 134
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "for you enlarge my heart to do so.",
+        "id": 137
+      }
+    ],
+    "id": 136
+  },
+  {
+    "t": "qa",
+    "v": [
+      {
+        "t": "t",
+        "v": "HE",
+        "id": 139
+      }
+    ],
+    "id": 138
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 33,
+        "v": "Teach me, Yahweh, the way of your statutes,",
+        "id": 141
+      }
+    ],
+    "id": 140
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and I will keep them to the end.",
+        "id": 143
+      }
+    ],
+    "id": 142
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 34,
+        "v": "Give me understanding, and I will keep your law;",
+        "id": 145
+      }
+    ],
+    "id": 144
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "I will observe it with all my heart.",
+        "id": 147
+      }
+    ],
+    "id": 146
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 35,
+        "v": "Guide me in the path of your commandments,",
+        "id": 149
+      }
+    ],
+    "id": 148
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "for I delight to walk in it.",
+        "id": 151
+      }
+    ],
+    "id": 150
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 36,
+        "v": "Direct my heart toward your covenant decrees",
+        "id": 153
+      }
+    ],
+    "id": 152
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and away from unrighteous gain.",
+        "id": 155
+      }
+    ],
+    "id": 154
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 37,
+        "v": "Turn my eyes from looking at worthless things;",
+        "id": 157
+      }
+    ],
+    "id": 156
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "revive me in your ways.",
+        "id": 159
+      }
+    ],
+    "id": 158
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 38,
+        "v": "Carry out for your servant your promise",
+        "id": 161
+      }
+    ],
+    "id": 160
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "that you made to those who honor you.",
+        "id": 163
+      }
+    ],
+    "id": 162
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 39,
+        "v": "Take away the insults I dread,",
+        "id": 165
+      }
+    ],
+    "id": 164
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "for your righteous judgments are good.",
+        "id": 167
+      }
+    ],
+    "id": 166
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 40,
+        "v": "See, I have longed for your instructions;",
+        "id": 169
+      }
+    ],
+    "id": 168
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "revive me in your righteousness.",
+        "id": 171
+      }
+    ],
+    "id": 170
+  },
+  {
+    "t": "qa",
+    "v": [
+      {
+        "t": "t",
+        "v": "VAV",
+        "id": 173
+      }
+    ],
+    "id": 172
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 41,
+        "v": "Yahweh, give me your unfailing love—",
+        "id": 175
+      }
+    ],
+    "id": 174
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "your salvation, according to your promise;",
+        "id": 177
+      }
+    ],
+    "id": 176
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 42,
+        "v": "then I will have a reply for the one who mocks me,",
+        "id": 179
+      }
+    ],
+    "id": 178
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "for I trust in your word.",
+        "id": 181
+      }
+    ],
+    "id": 180
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 43,
+        "v": "Do not take the word of truth from my mouth,",
+        "id": 183
+      }
+    ],
+    "id": 182
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "for my hope is in your righteous decrees.",
+        "id": 185
+      }
+    ],
+    "id": 184
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 44,
+        "v": "I will observe your law continually,",
+        "id": 187
+      }
+    ],
+    "id": 186
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "forever and ever.",
+        "id": 189
+      }
+    ],
+    "id": 188
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 45,
+        "v": "I will walk securely,",
+        "id": 191
+      }
+    ],
+    "id": 190
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "for I seek your instructions.",
+        "id": 193
+      }
+    ],
+    "id": 192
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 46,
+        "v": "I will speak of your solemn commands before kings",
+        "id": 195
+      }
+    ],
+    "id": 194
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and will not be ashamed.",
+        "id": 197
+      }
+    ],
+    "id": 196
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 47,
+        "v": "I delight in your commandments,",
+        "id": 199
+      }
+    ],
+    "id": 198
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "which I love dearly.",
+        "id": 201
+      }
+    ],
+    "id": 200
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 48,
+        "v": "I will lift up my hands to your commandments, which I love;",
+        "id": 203
+      }
+    ],
+    "id": 202
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "I will meditate on your statutes.",
+        "id": 205
+      }
+    ],
+    "id": 204
+  },
+  {
+    "t": "qa",
+    "v": [
+      {
+        "t": "t",
+        "v": "ZAYIN",
+        "id": 207
+      }
+    ],
+    "id": 206
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 49,
+        "v": "Call to mind your promise to your servant",
+        "id": 209
+      }
+    ],
+    "id": 208
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "because you have given me hope.",
+        "id": 211
+      }
+    ],
+    "id": 210
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 50,
+        "v": "This is my comfort in my affliction:",
+        "id": 213
+      }
+    ],
+    "id": 212
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "that your promise has kept me alive.",
+        "id": 215
+      }
+    ],
+    "id": 214
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 51,
+        "v": "The proud have scoffed at me,",
+        "id": 217
+      }
+    ],
+    "id": 216
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "yet I have not turned away from your law.",
+        "id": 219
+      }
+    ],
+    "id": 218
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 52,
+        "v": "I have thought about your righteous decrees from ancient times, Yahweh,",
+        "id": 221
+      }
+    ],
+    "id": 220
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and I comfort myself.",
+        "id": 223
+      }
+    ],
+    "id": 222
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 53,
+        "v": "Hot anger has taken hold of me",
+        "id": 225
+      }
+    ],
+    "id": 224
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "because of the wicked who reject your law.",
+        "id": 227
+      }
+    ],
+    "id": 226
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 54,
+        "v": "Your statutes have been my songs",
+        "id": 229
+      }
+    ],
+    "id": 228
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "in the house where I temporarily live.",
+        "id": 231
+      }
+    ],
+    "id": 230
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 55,
+        "v": "I think about your name during the night, Yahweh,",
+        "id": 233
+      }
+    ],
+    "id": 232
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and I keep your law.",
+        "id": 235
+      }
+    ],
+    "id": 234
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 56,
+        "v": "This has been my practice",
+        "id": 237
+      }
+    ],
+    "id": 236
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "because I have observed your instructions.",
+        "id": 239
+      }
+    ],
+    "id": 238
+  },
+  {
+    "t": "qa",
+    "v": [
+      {
+        "t": "t",
+        "v": "HETH",
+        "id": 241
+      }
+    ],
+    "id": 240
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 57,
+        "v": "Yahweh is my portion;",
+        "id": 243
+      }
+    ],
+    "id": 242
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "I have determined to observe your words.",
+        "id": 245
+      }
+    ],
+    "id": 244
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 58,
+        "v": "I earnestly request your favor with my whole heart;",
+        "id": 247
+      }
+    ],
+    "id": 246
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "be merciful to me, as your word promised.",
+        "id": 249
+      }
+    ],
+    "id": 248
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 59,
+        "v": "I examined my ways",
+        "id": 251
+      }
+    ],
+    "id": 250
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and turned my feet to your covenant decrees.",
+        "id": 253
+      }
+    ],
+    "id": 252
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 60,
+        "v": "I hurry and do not delay",
+        "id": 255
+      }
+    ],
+    "id": 254
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "to keep your commandments.",
+        "id": 257
+      }
+    ],
+    "id": 256
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 61,
+        "v": "The cords of the wicked have ensnared me;",
+        "id": 259
+      }
+    ],
+    "id": 258
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "I have not forgotten your law.",
+        "id": 261
+      }
+    ],
+    "id": 260
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 62,
+        "v": "At midnight I rise to give thanks to you",
+        "id": 263
+      }
+    ],
+    "id": 262
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "because of your righteous decrees.",
+        "id": 265
+      }
+    ],
+    "id": 264
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 63,
+        "v": "I am a companion of all who honor you,",
+        "id": 267
+      }
+    ],
+    "id": 266
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "to all who observe your instructions.",
+        "id": 269
+      }
+    ],
+    "id": 268
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 64,
+        "v": "The earth, Yahweh, is full of your covenant faithfulness;",
+        "id": 271
+      }
+    ],
+    "id": 270
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "teach me your statutes.",
+        "id": 273
+      }
+    ],
+    "id": 272
+  },
+  {
+    "t": "qa",
+    "v": [
+      {
+        "t": "t",
+        "v": "TETH",
+        "id": 275
+      }
+    ],
+    "id": 274
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 65,
+        "v": "You have done good to your servant,",
+        "id": 277
+      }
+    ],
+    "id": 276
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Yahweh, by means of your word.",
+        "id": 279
+      }
+    ],
+    "id": 278
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 66,
+        "v": "Teach me proper discernment and understanding,",
+        "id": 281
+      }
+    ],
+    "id": 280
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "for I have believed in your commandments.",
+        "id": 283
+      }
+    ],
+    "id": 282
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 67,
+        "v": "Before I was afflicted I went astray,",
+        "id": 285
+      }
+    ],
+    "id": 284
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "but now I observe your word.",
+        "id": 287
+      }
+    ],
+    "id": 286
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 68,
+        "v": "You are good, and you are one who does good;",
+        "id": 289
+      }
+    ],
+    "id": 288
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "teach me your statutes.",
+        "id": 291
+      }
+    ],
+    "id": 290
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 69,
+        "v": "The arrogant have smeared me with lies,",
+        "id": 293
+      }
+    ],
+    "id": 292
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "but I keep your instructions with my whole heart.",
+        "id": 295
+      }
+    ],
+    "id": 294
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 70,
+        "v": "Their hearts are hardened,",
+        "id": 297
+      }
+    ],
+    "id": 296
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "but I delight in your law.",
+        "id": 299
+      }
+    ],
+    "id": 298
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 71,
+        "v": "It is good for me that I have suffered",
+        "id": 301
+      }
+    ],
+    "id": 300
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "so that I would learn your statutes.",
+        "id": 303
+      }
+    ],
+    "id": 302
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 72,
+        "v": "Instruction from your mouth is more precious to me",
+        "id": 305
+      }
+    ],
+    "id": 304
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "than thousands of pieces of gold and silver.",
+        "id": 307
+      }
+    ],
+    "id": 306
+  },
+  {
+    "t": "qa",
+    "v": [
+      {
+        "t": "t",
+        "v": "YOD",
+        "id": 309
+      }
+    ],
+    "id": 308
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 73,
+        "v": "Your hands have made and fashioned me;",
+        "id": 311
+      }
+    ],
+    "id": 310
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "give me understanding so that I may learn your commandments.",
+        "id": 313
+      }
+    ],
+    "id": 312
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 74,
+        "v": "Those who honor you will be glad when they see me",
+        "id": 315
+      }
+    ],
+    "id": 314
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "because I find hope in your word.",
+        "id": 317
+      }
+    ],
+    "id": 316
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 75,
+        "v": "I know, Yahweh, that your decrees are just,",
+        "id": 319
+      }
+    ],
+    "id": 318
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and that in faithfulness you afflicted me.",
+        "id": 321
+      }
+    ],
+    "id": 320
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 76,
+        "v": "Let your covenant faithfulness comfort me,",
+        "id": 323
+      }
+    ],
+    "id": 322
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "as you promised your servant.",
+        "id": 325
+      }
+    ],
+    "id": 324
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 77,
+        "v": "Show me compassion so that I may live,",
+        "id": 327
+      }
+    ],
+    "id": 326
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "for your law is my delight.",
+        "id": 329
+      }
+    ],
+    "id": 328
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 78,
+        "v": "Let the proud be put to shame,",
+        "id": 331
+      }
+    ],
+    "id": 330
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "for they have slandered me;",
+        "id": 333
+      }
+    ],
+    "id": 332
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "but I will meditate on your instructions.",
+        "id": 335
+      }
+    ],
+    "id": 334
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 79,
+        "v": "May those who honor you turn to me,",
+        "id": 337
+      }
+    ],
+    "id": 336
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "those who know your covenant decrees.",
+        "id": 339
+      }
+    ],
+    "id": 338
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 80,
+        "v": "May my heart be blameless with respect to your statutes",
+        "id": 341
+      }
+    ],
+    "id": 340
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "so that I may not be put to shame.",
+        "id": 343
+      }
+    ],
+    "id": 342
+  },
+  {
+    "t": "qa",
+    "v": [
+      {
+        "t": "t",
+        "v": "KAPH",
+        "id": 345
+      }
+    ],
+    "id": 344
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 81,
+        "v": "I faint with longing that you might rescue me!",
+        "id": 347
+      }
+    ],
+    "id": 346
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "I hope in your word.",
+        "id": 349
+      }
+    ],
+    "id": 348
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 82,
+        "v": "My eyes long to see your promise;",
+        "id": 351
+      }
+    ],
+    "id": 350
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "when will you comfort me?",
+        "id": 353
+      }
+    ],
+    "id": 352
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 83,
+        "v": "For I have become like a wineskin in the smoke;",
+        "id": 355
+      }
+    ],
+    "id": 354
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "I do not forget your statutes.",
+        "id": 357
+      }
+    ],
+    "id": 356
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 84,
+        "v": "How long must your servant endure this;",
+        "id": 359
+      }
+    ],
+    "id": 358
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "when will you judge those who persecute me?",
+        "id": 361
+      }
+    ],
+    "id": 360
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 85,
+        "v": "The proud have dug pits for me,",
+        "id": 363
+      }
+    ],
+    "id": 362
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "defying your law.",
+        "id": 365
+      }
+    ],
+    "id": 364
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 86,
+        "v": "All your commandments are reliable;",
+        "id": 367
+      }
+    ],
+    "id": 366
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "those people persecute me wrongfully; help me.",
+        "id": 369
+      }
+    ],
+    "id": 368
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 87,
+        "v": "They have almost made an end to me on earth,",
+        "id": 371
+      }
+    ],
+    "id": 370
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "but I do not reject your instructions.",
+        "id": 373
+      }
+    ],
+    "id": 372
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 88,
+        "v": "By your steadfast love, keep me alive,",
+        "id": 375
+      }
+    ],
+    "id": 374
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "so that I may obey your commands.",
+        "id": 377
+      }
+    ],
+    "id": 376
+  },
+  {
+    "t": "qa",
+    "v": [
+      {
+        "t": "t",
+        "v": "LAMEDH",
+        "id": 379
+      }
+    ],
+    "id": 378
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 89,
+        "v": "Yahweh, your word stands forever;",
+        "id": 381
+      }
+    ],
+    "id": 380
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "your word is established firmly in heaven.",
+        "id": 383
+      }
+    ],
+    "id": 382
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 90,
+        "v": "Your faithfulness lasts for all generations;",
+        "id": 385
+      }
+    ],
+    "id": 384
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "you have established the earth, and it remains.",
+        "id": 387
+      }
+    ],
+    "id": 386
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 91,
+        "v": "All things continue to this day, just as you said in your righteous decrees,",
+        "id": 389
+      }
+    ],
+    "id": 388
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "for all things are your servants.",
+        "id": 391
+      }
+    ],
+    "id": 390
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 92,
+        "v": "If your law had not been my delight,",
+        "id": 393
+      }
+    ],
+    "id": 392
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "I would have perished in my affliction.",
+        "id": 395
+      }
+    ],
+    "id": 394
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 93,
+        "v": "I will never forget your instructions,",
+        "id": 397
+      }
+    ],
+    "id": 396
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "for through them you have kept me alive.",
+        "id": 399
+      }
+    ],
+    "id": 398
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 94,
+        "v": "I am yours; save me,",
+        "id": 401
+      }
+    ],
+    "id": 400
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "for I seek your instructions.",
+        "id": 403
+      }
+    ],
+    "id": 402
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 95,
+        "v": "The wicked prepare to destroy me,",
+        "id": 405
+      }
+    ],
+    "id": 404
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "but I will seek to understand your covenant decrees.",
+        "id": 407
+      }
+    ],
+    "id": 406
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 96,
+        "v": "I have seen that everything has its limits,",
+        "id": 409
+      }
+    ],
+    "id": 408
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "but your commandments are broad, beyond limits.",
+        "id": 411
+      }
+    ],
+    "id": 410
+  },
+  {
+    "t": "qa",
+    "v": [
+      {
+        "t": "t",
+        "v": "MEM",
+        "id": 413
+      }
+    ],
+    "id": 412
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 97,
+        "v": "Oh how I love your law!",
+        "id": 415
+      }
+    ],
+    "id": 414
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "It is my meditation all day long.",
+        "id": 417
+      }
+    ],
+    "id": 416
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 98,
+        "v": "Your commandments make me wiser than my enemies,",
+        "id": 419
+      }
+    ],
+    "id": 418
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "for your commandments are always with me.",
+        "id": 421
+      }
+    ],
+    "id": 420
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 99,
+        "v": "I have more understanding than all my teachers,",
+        "id": 423
+      }
+    ],
+    "id": 422
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "for I meditate on your covenant decrees.",
+        "id": 425
+      }
+    ],
+    "id": 424
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 100,
+        "v": "I understand more than those older than I am;",
+        "id": 427
+      }
+    ],
+    "id": 426
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "this is because I have kept your instructions.",
+        "id": 429
+      }
+    ],
+    "id": 428
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 101,
+        "v": "I have kept my feet back from every evil path",
+        "id": 431
+      }
+    ],
+    "id": 430
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "so that I might observe your word.",
+        "id": 433
+      }
+    ],
+    "id": 432
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 102,
+        "v": "I have not turned aside from your righteous decrees,",
+        "id": 435
+      }
+    ],
+    "id": 434
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "for you have instructed me.",
+        "id": 437
+      }
+    ],
+    "id": 436
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 103,
+        "v": "How sweet are your words to my taste,",
+        "id": 439
+      }
+    ],
+    "id": 438
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "yes, sweeter than honey to my mouth!",
+        "id": 441
+      }
+    ],
+    "id": 440
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 104,
+        "v": "Through your instructions I gain discernment;",
+        "id": 443
+      }
+    ],
+    "id": 442
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "therefore I hate every false way.",
+        "id": 445
+      }
+    ],
+    "id": 444
+  },
+  {
+    "t": "qa",
+    "v": [
+      {
+        "t": "t",
+        "v": "NUN",
+        "id": 447
+      }
+    ],
+    "id": 446
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 105,
+        "v": "Your word is a lamp to my feet",
+        "id": 449
+      }
+    ],
+    "id": 448
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and a light for my path.",
+        "id": 451
+      }
+    ],
+    "id": 450
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 106,
+        "v": "I have sworn and have confirmed it,",
+        "id": 453
+      }
+    ],
+    "id": 452
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "that I will observe your righteous decrees.",
+        "id": 455
+      }
+    ],
+    "id": 454
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 107,
+        "v": "I am very afflicted;",
+        "id": 457
+      }
+    ],
+    "id": 456
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "keep me alive, Yahweh, as you have promised in your word.",
+        "id": 459
+      }
+    ],
+    "id": 458
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 108,
+        "v": "Yahweh, please accept the freewill offerings of my mouth,",
+        "id": 461
+      }
+    ],
+    "id": 460
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and teach me your righteous decrees.",
+        "id": 463
+      }
+    ],
+    "id": 462
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 109,
+        "v": "My life is always in my hand,",
+        "id": 465
+      }
+    ],
+    "id": 464
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "yet I do not forget your law.",
+        "id": 467
+      }
+    ],
+    "id": 466
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 110,
+        "v": "The wicked have set a snare for me,",
+        "id": 469
+      }
+    ],
+    "id": 468
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "but I have not strayed from your instructions.",
+        "id": 471
+      }
+    ],
+    "id": 470
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 111,
+        "v": "I claim your covenant decrees as my heritage forever,",
+        "id": 473
+      }
+    ],
+    "id": 472
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "for they are the joy of my heart.",
+        "id": 475
+      }
+    ],
+    "id": 474
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 112,
+        "v": "My heart is set on obeying your statutes",
+        "id": 477
+      }
+    ],
+    "id": 476
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "forever to the very end.",
+        "id": 479
+      }
+    ],
+    "id": 478
+  },
+  {
+    "t": "qa",
+    "v": [
+      {
+        "t": "t",
+        "v": "SAMEKH",
+        "id": 481
+      }
+    ],
+    "id": 480
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 113,
+        "v": "I hate those who have a double mind,",
+        "id": 483
+      }
+    ],
+    "id": 482
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "but I love your law.",
+        "id": 485
+      }
+    ],
+    "id": 484
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 114,
+        "v": "You are my hiding place and my shield;",
+        "id": 487
+      }
+    ],
+    "id": 486
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "I hope in your word.",
+        "id": 489
+      }
+    ],
+    "id": 488
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 115,
+        "v": "Get away from me, you evil doers,",
+        "id": 491
+      }
+    ],
+    "id": 490
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "so that I may observe the commandments of my God.",
+        "id": 493
+      }
+    ],
+    "id": 492
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 116,
+        "v": "Sustain me by your word so that I may live",
+        "id": 495
+      }
+    ],
+    "id": 494
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and not be ashamed of my hope.",
+        "id": 497
+      }
+    ],
+    "id": 496
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 117,
+        "v": "Support me, and I will be safe;",
+        "id": 499
+      }
+    ],
+    "id": 498
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "I will always meditate on your statutes.",
+        "id": 501
+      }
+    ],
+    "id": 500
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 118,
+        "v": "You reject all those who stray from your statutes,",
+        "id": 503
+      }
+    ],
+    "id": 502
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "for those people are deceptive and unreliable.",
+        "id": 505
+      }
+    ],
+    "id": 504
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 119,
+        "v": "You remove all the wicked of the earth like slag;",
+        "id": 507
+      }
+    ],
+    "id": 506
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "therefore I love your solemn commands.",
+        "id": 509
+      }
+    ],
+    "id": 508
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 120,
+        "v": "My body trembles in fear of you,",
+        "id": 511
+      }
+    ],
+    "id": 510
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and I am afraid of your righteous decrees.",
+        "id": 513
+      }
+    ],
+    "id": 512
+  },
+  {
+    "t": "qa",
+    "v": [
+      {
+        "t": "t",
+        "v": "AYIN",
+        "id": 515
+      }
+    ],
+    "id": 514
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 121,
+        "v": "I do what is just and right;",
+        "id": 517
+      }
+    ],
+    "id": 516
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "do not abandon me to my oppressors.",
+        "id": 519
+      }
+    ],
+    "id": 518
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 122,
+        "v": "Guarantee the welfare of your servant;",
+        "id": 521
+      }
+    ],
+    "id": 520
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "do not let the proud oppress me.",
+        "id": 523
+      }
+    ],
+    "id": 522
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 123,
+        "v": "My eyes grow tired as I wait for your salvation",
+        "id": 525
+      }
+    ],
+    "id": 524
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and for your righteous word.",
+        "id": 527
+      }
+    ],
+    "id": 526
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 124,
+        "v": "Show your servant your covenant faithfulness,",
+        "id": 529
+      }
+    ],
+    "id": 528
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and teach me your statutes.",
+        "id": 531
+      }
+    ],
+    "id": 530
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 125,
+        "v": "I am your servant; give me understanding",
+        "id": 533
+      }
+    ],
+    "id": 532
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "so that I may know your covenant decrees.",
+        "id": 535
+      }
+    ],
+    "id": 534
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 126,
+        "v": "It is time for Yahweh to act,",
+        "id": 537
+      }
+    ],
+    "id": 536
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "for people have broken your law.",
+        "id": 539
+      }
+    ],
+    "id": 538
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 127,
+        "v": "Truly I love your commandments",
+        "id": 541
+      }
+    ],
+    "id": 540
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "more than gold, more than fine gold.",
+        "id": 543
+      }
+    ],
+    "id": 542
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 128,
+        "v": "Therefore I carefully follow all your instructions,",
+        "id": 545
+      }
+    ],
+    "id": 544
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and I hate every path of falsehood.",
+        "id": 547
+      }
+    ],
+    "id": 546
+  },
+  {
+    "t": "qa",
+    "v": [
+      {
+        "t": "t",
+        "v": "PE",
+        "id": 549
+      }
+    ],
+    "id": 548
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 129,
+        "v": "Your rules are wonderful,",
+        "id": 551
+      }
+    ],
+    "id": 550
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "that is why I obey them.",
+        "id": 553
+      }
+    ],
+    "id": 552
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 130,
+        "v": "The unfolding of your words gives light;",
+        "id": 555
+      }
+    ],
+    "id": 554
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "it gives understanding to the untrained.",
+        "id": 557
+      }
+    ],
+    "id": 556
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 131,
+        "v": "I open my mouth and pant,",
+        "id": 559
+      }
+    ],
+    "id": 558
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "for I long for your commandments.",
+        "id": 561
+      }
+    ],
+    "id": 560
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 132,
+        "v": "Turn to me and have mercy on me,",
+        "id": 563
+      }
+    ],
+    "id": 562
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "as you always do for those who love your name.",
+        "id": 565
+      }
+    ],
+    "id": 564
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 133,
+        "v": "Direct my footsteps by your word;",
+        "id": 567
+      }
+    ],
+    "id": 566
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "do not let any sin rule me.",
+        "id": 569
+      }
+    ],
+    "id": 568
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 134,
+        "v": "Redeem me from human oppression",
+        "id": 571
+      }
+    ],
+    "id": 570
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "so that I may observe your instructions.",
+        "id": 573
+      }
+    ],
+    "id": 572
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 135,
+        "v": "Let your face shine on your servant,",
+        "id": 575
+      }
+    ],
+    "id": 574
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and teach me your statutes.",
+        "id": 577
+      }
+    ],
+    "id": 576
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 136,
+        "v": "Streams of tears run down from my eyes",
+        "id": 579
+      }
+    ],
+    "id": 578
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "because people do not observe your law.",
+        "id": 581
+      }
+    ],
+    "id": 580
+  },
+  {
+    "t": "qa",
+    "v": [
+      {
+        "t": "t",
+        "v": "TSADHE",
+        "id": 583
+      }
+    ],
+    "id": 582
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 137,
+        "v": "You are righteous, Yahweh,",
+        "id": 585
+      }
+    ],
+    "id": 584
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and your decrees are fair.",
+        "id": 587
+      }
+    ],
+    "id": 586
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 138,
+        "v": "You have given your covenant decrees righteously",
+        "id": 589
+      }
+    ],
+    "id": 588
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and faithfully.",
+        "id": 591
+      }
+    ],
+    "id": 590
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 139,
+        "v": "Anger has destroyed me",
+        "id": 593
+      }
+    ],
+    "id": 592
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "because my adversaries forget your words.",
+        "id": 595
+      }
+    ],
+    "id": 594
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 140,
+        "v": "Your word has been tested very much,",
+        "id": 597
+      }
+    ],
+    "id": 596
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and your servant loves it.",
+        "id": 599
+      }
+    ],
+    "id": 598
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 141,
+        "v": "I am insignificant and despised,",
+        "id": 601
+      }
+    ],
+    "id": 600
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "yet I do not forget your instructions.",
+        "id": 603
+      }
+    ],
+    "id": 602
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 142,
+        "v": "Your justice is forever right,",
+        "id": 605
+      }
+    ],
+    "id": 604
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and your law is trustworthy.",
+        "id": 607
+      }
+    ],
+    "id": 606
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 143,
+        "v": "Though distress and anguish have found me,",
+        "id": 609
+      }
+    ],
+    "id": 608
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "your commandments are still my delight.",
+        "id": 611
+      }
+    ],
+    "id": 610
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 144,
+        "v": "Your covenant decrees are righteous forever;",
+        "id": 613
+      }
+    ],
+    "id": 612
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "give me understanding that I may live.",
+        "id": 615
+      }
+    ],
+    "id": 614
+  },
+  {
+    "t": "qa",
+    "v": [
+      {
+        "t": "t",
+        "v": "QOPH",
+        "id": 617
+      }
+    ],
+    "id": 616
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 145,
+        "v": "I cried out with my whole heart, “Answer me, Yahweh,",
+        "id": 619
+      }
+    ],
+    "id": 618
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "I will keep your statutes.",
+        "id": 621
+      }
+    ],
+    "id": 620
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 146,
+        "v": "I call to you; save me,",
+        "id": 623
+      }
+    ],
+    "id": 622
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and I will observe your covenant decrees.”",
+        "id": 625
+      }
+    ],
+    "id": 624
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 147,
+        "v": "I rise before the dawn of the morning and cry for help.",
+        "id": 627
+      }
+    ],
+    "id": 626
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "I hope in your words.",
+        "id": 629
+      }
+    ],
+    "id": 628
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 148,
+        "v": "My eyes are open before the night watches change",
+        "id": 631
+      }
+    ],
+    "id": 630
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "so that I might meditate on your word.",
+        "id": 633
+      }
+    ],
+    "id": 632
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 149,
+        "v": "Hear my voice in your covenant faithfulness;",
+        "id": 635
+      }
+    ],
+    "id": 634
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "keep me alive, Yahweh, as you have promised in your righteous decrees.",
+        "id": 637
+      }
+    ],
+    "id": 636
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 150,
+        "v": "Those who are persecuting me are coming closer to me,",
+        "id": 639
+      }
+    ],
+    "id": 638
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "but they are far from your law.",
+        "id": 641
+      }
+    ],
+    "id": 640
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 151,
+        "v": "You are near, Yahweh,",
+        "id": 643
+      }
+    ],
+    "id": 642
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and all your commandments are trustworthy.",
+        "id": 645
+      }
+    ],
+    "id": 644
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 152,
+        "v": "Long ago I learned from your covenant decrees",
+        "id": 647
+      }
+    ],
+    "id": 646
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "that you had set them in place forever.",
+        "id": 649
+      }
+    ],
+    "id": 648
+  },
+  {
+    "t": "qa",
+    "v": [
+      {
+        "t": "t",
+        "v": "RESH",
+        "id": 651
+      }
+    ],
+    "id": 650
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 153,
+        "v": "Look on my affliction and help me,",
+        "id": 653
+      }
+    ],
+    "id": 652
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "for I do not forget your law.",
+        "id": 655
+      }
+    ],
+    "id": 654
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 154,
+        "v": "Plead my cause and redeem me;",
+        "id": 657
+      }
+    ],
+    "id": 656
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "keep me, as you have promised in your word.",
+        "id": 659
+      }
+    ],
+    "id": 658
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 155,
+        "v": "Salvation is far from the wicked,",
+        "id": 661
+      }
+    ],
+    "id": 660
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "for they do not love your statutes.",
+        "id": 663
+      }
+    ],
+    "id": 662
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 156,
+        "v": "Great are your merciful actions, Yahweh;",
+        "id": 665
+      }
+    ],
+    "id": 664
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "keep me alive, as you always do.",
+        "id": 667
+      }
+    ],
+    "id": 666
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 157,
+        "v": "My persecutors and my foes are many,",
+        "id": 669
+      }
+    ],
+    "id": 668
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "yet I have not turned from your covenant decrees.",
+        "id": 671
+      }
+    ],
+    "id": 670
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 158,
+        "v": "I view the treacherous with disgust",
+        "id": 673
+      }
+    ],
+    "id": 672
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "because they do not keep your word.",
+        "id": 675
+      }
+    ],
+    "id": 674
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 159,
+        "v": "See how I love your instructions;",
+        "id": 677
+      }
+    ],
+    "id": 676
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "keep me alive, Yahweh, as you have promised by your covenant faithfulness.",
+        "id": 679
+      }
+    ],
+    "id": 678
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 160,
+        "v": "The essence of your word is truth;",
+        "id": 681
+      }
+    ],
+    "id": 680
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "every one of your righteous decrees lasts forever.",
+        "id": 683
+      }
+    ],
+    "id": 682
+  },
+  {
+    "t": "qa",
+    "v": [
+      {
+        "t": "t",
+        "v": "SHIN",
+        "id": 685
+      }
+    ],
+    "id": 684
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 161,
+        "v": "Princes persecute me without cause,",
+        "id": 687
+      }
+    ],
+    "id": 686
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "but my heart stands in awe of your word.",
+        "id": 689
+      }
+    ],
+    "id": 688
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 162,
+        "v": "I rejoice at your word",
+        "id": 691
+      }
+    ],
+    "id": 690
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "like one who finds great plunder.",
+        "id": 693
+      }
+    ],
+    "id": 692
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 163,
+        "v": "I hate and despise falsehood,",
+        "id": 695
+      }
+    ],
+    "id": 694
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "but I love your law.",
+        "id": 697
+      }
+    ],
+    "id": 696
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 164,
+        "v": "Seven times a day I praise you",
+        "id": 699
+      }
+    ],
+    "id": 698
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "because of your righteous decrees.",
+        "id": 701
+      }
+    ],
+    "id": 700
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 165,
+        "v": "Great peace they have, those who love your law;",
+        "id": 703
+      }
+    ],
+    "id": 702
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "nothing makes them stumble.",
+        "id": 705
+      }
+    ],
+    "id": 704
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 166,
+        "v": "I hope for your salvation, Yahweh,",
+        "id": 707
+      }
+    ],
+    "id": 706
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and I obey your commandments.",
+        "id": 709
+      }
+    ],
+    "id": 708
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 167,
+        "v": "I observe your solemn commands,",
+        "id": 711
+      }
+    ],
+    "id": 710
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and I love them greatly.",
+        "id": 713
+      }
+    ],
+    "id": 712
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 168,
+        "v": "I keep your instructions and your solemn commands,",
+        "id": 715
+      }
+    ],
+    "id": 714
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "for you are aware of everything I do.",
+        "id": 717
+      }
+    ],
+    "id": 716
+  },
+  {
+    "t": "qa",
+    "v": [
+      {
+        "t": "t",
+        "v": "TAV",
+        "id": 719
+      }
+    ],
+    "id": 718
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 169,
+        "v": "Listen to my cry for help, Yahweh;",
+        "id": 721
+      }
+    ],
+    "id": 720
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "give me understanding into your word.",
+        "id": 723
+      }
+    ],
+    "id": 722
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 170,
+        "v": "May my plea come before you;",
+        "id": 725
+      }
+    ],
+    "id": 724
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "help me, as you have promised in your word.",
+        "id": 727
+      }
+    ],
+    "id": 726
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 171,
+        "v": "May my lips pour out praise,",
+        "id": 729
+      }
+    ],
+    "id": 728
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "for you teach me your statutes.",
+        "id": 731
+      }
+    ],
+    "id": 730
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 172,
+        "v": "Let my tongue sing about your word,",
+        "id": 733
+      }
+    ],
+    "id": 732
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "for all your commandments are right.",
+        "id": 735
+      }
+    ],
+    "id": 734
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 173,
+        "v": "May your hand help me,",
+        "id": 737
+      }
+    ],
+    "id": 736
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "for I have chosen your instructions.",
+        "id": 739
+      }
+    ],
+    "id": 738
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 174,
+        "v": "I long for your rescue, Yahweh,",
+        "id": 741
+      }
+    ],
+    "id": 740
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and your law is my delight.",
+        "id": 743
+      }
+    ],
+    "id": 742
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 175,
+        "v": "May I live and praise you,",
+        "id": 745
+      }
+    ],
+    "id": 744
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and may your righteous decrees help me.",
+        "id": 747
+      }
+    ],
+    "id": 746
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 176,
+        "v": "I have wandered off like a lost sheep;",
+        "id": 749
+      }
+    ],
+    "id": 748
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "seek your servant,",
+        "id": 751
+      }
+    ],
+    "id": 750
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "for I have not forgotten your commandments.",
+        "id": 753
+      }
+    ],
+    "id": 752
+  }
+]

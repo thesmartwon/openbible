@@ -1,0 +1,545 @@
+[
+  {
+    "t": "nb",
+    "v": [
+      {
+        "t": "v",
+        "n": 1,
+        "v": "Balaam said to Balak, “Build seven altars here for me and prepare seven bulls and seven rams.”",
+        "id": 1
+      },
+      {
+        "t": "v",
+        "n": 2,
+        "v": "So Balak did as Balaam requested. Then Balak and Balaam offered a bull and a ram on every altar.",
+        "id": 2
+      },
+      {
+        "t": "v",
+        "n": 3,
+        "v": "Then Balaam said to Balak, “Stand at your burnt offering and I will go. Perhaps Yahweh will come to meet me. Whatever he shows me I will tell you.” So he went away to a hilltop with no trees.",
+        "id": 3
+      },
+      {
+        "t": "v",
+        "n": 4,
+        "v": "While he was on the hilltop, God met him, and Balaam said to him, “I have built seven altars, and I have offered up a bull and a ram on each one.”",
+        "id": 4
+      },
+      {
+        "t": "v",
+        "n": 5,
+        "v": "Yahweh put a message in Balaam’s mouth and said, “Return to Balak and speak to him.”",
+        "id": 5
+      },
+      {
+        "t": "v",
+        "n": 6,
+        "v": "So Balaam returned to Balak, who was standing by his burnt offering, and all the leaders of Moab were with him.",
+        "id": 6
+      },
+      {
+        "t": "v",
+        "n": 7,
+        "v": "Then Balaam began to speak his prophecy and said,",
+        "id": 7
+      }
+    ],
+    "id": 0
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "“Balak has brought me from Aram,",
+        "id": 9
+      }
+    ],
+    "id": 8
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "the king of Moab from the eastern mountains.",
+        "id": 11
+      }
+    ],
+    "id": 10
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "‘Come, curse Jacob for me,’ he said.",
+        "id": 13
+      }
+    ],
+    "id": 12
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "‘Come, defy Israel.’",
+        "id": 15
+      }
+    ],
+    "id": 14
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 8,
+        "v": "How can I curse those whom God has not cursed?",
+        "id": 17
+      }
+    ],
+    "id": 16
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "How can I oppose those whom Yahweh does not oppose?",
+        "id": 19
+      }
+    ],
+    "id": 18
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 9,
+        "v": "For from the top of the rocks I see him;",
+        "id": 21
+      }
+    ],
+    "id": 20
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "from the hills I look at him.",
+        "id": 23
+      }
+    ],
+    "id": 22
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "See, there is a people who live alone",
+        "id": 25
+      }
+    ],
+    "id": 24
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and do not consider themselves as just an ordinary nation.",
+        "id": 27
+      }
+    ],
+    "id": 26
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 10,
+        "v": "Who can count the dust of Jacob",
+        "id": 29
+      }
+    ],
+    "id": 28
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "or number even only one-fourth of Israel?",
+        "id": 31
+      }
+    ],
+    "id": 30
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Let me die the death of a righteous person,",
+        "id": 33
+      }
+    ],
+    "id": 32
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and let my life’s end be like his!”",
+        "id": 35
+      }
+    ],
+    "id": 34
+  },
+  {
+    "t": "m",
+    "v": [
+      {
+        "t": "v",
+        "n": 11,
+        "v": "Balak said to Balaam, “What have you done to me? I brought you to curse my enemies, but look, you have blessed them.”",
+        "id": 37
+      },
+      {
+        "t": "v",
+        "n": 12,
+        "v": "Balaam answered and said, “Should I not be careful to say only what Yahweh puts in my mouth?”",
+        "id": 38
+      }
+    ],
+    "id": 36
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 13,
+        "v": "So Balak said to him, “Please come with me to another place where you can see them. You will only see the nearest of them, not all of them. There you will curse them for me.”",
+        "id": 40
+      },
+      {
+        "t": "v",
+        "n": 14,
+        "v": "So he took Balaam into the field of Zophim, to the top of Mount Pisgah, and built seven more altars. He offered up a bull and a ram on each altar.",
+        "id": 41
+      },
+      {
+        "t": "v",
+        "n": 15,
+        "v": "Then Balaam said to Balak, “Stand here by your burnt offering, while I meet with Yahweh over there.”",
+        "id": 42
+      },
+      {
+        "t": "v",
+        "n": 16,
+        "v": "So Yahweh met Balaam and put a message in his mouth. He said, “Return to Balak and give him my message.”",
+        "id": 43
+      },
+      {
+        "t": "v",
+        "n": 17,
+        "v": "Balaam returned to him, and look, he was standing by his burnt offering, and the leaders of Moab were with him. Then Balak said to him, “What has Yahweh said?”",
+        "id": 44
+      },
+      {
+        "t": "v",
+        "n": 18,
+        "v": "Balaam began his prophecy. He said,",
+        "id": 45
+      }
+    ],
+    "id": 39
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "“Rise up, Balak, and hear.",
+        "id": 47
+      }
+    ],
+    "id": 46
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Listen to me, you son of Zippor.",
+        "id": 49
+      }
+    ],
+    "id": 48
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 19,
+        "v": "God is not a man, that he should lie,",
+        "id": 51
+      }
+    ],
+    "id": 50
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Or a human being, that he should change his mind.",
+        "id": 53
+      }
+    ],
+    "id": 52
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Has he promised anything without doing it?",
+        "id": 55
+      }
+    ],
+    "id": 54
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Has he said he would do something without carrying it out?",
+        "id": 57
+      },
+      {
+        "t": "v",
+        "n": 20,
+        "v": "Look, I have been commanded to bless.",
+        "id": 58
+      }
+    ],
+    "id": 56
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "God has given a blessing, and I cannot reverse it.",
+        "id": 60
+      }
+    ],
+    "id": 59
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 21,
+        "v": "He has seen no hardship in Jacob",
+        "id": 62
+      }
+    ],
+    "id": 61
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "or trouble in Israel.",
+        "id": 64
+      }
+    ],
+    "id": 63
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Yahweh their God is with them,",
+        "id": 66
+      }
+    ],
+    "id": 65
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and shouts for their king are among them.",
+        "id": 68
+      },
+      {
+        "t": "v",
+        "n": 22,
+        "v": "God brought them out of Egypt",
+        "id": 69
+      }
+    ],
+    "id": 67
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "with strength like that of a wild ox.",
+        "id": 71
+      }
+    ],
+    "id": 70
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 23,
+        "v": "There is no sorcery that works against Jacob,",
+        "id": 73
+      }
+    ],
+    "id": 72
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and no fortune-telling harms Israel.",
+        "id": 75
+      }
+    ],
+    "id": 74
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Instead, it must be said about Jacob and Israel,",
+        "id": 77
+      }
+    ],
+    "id": 76
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "‘Look what God has done!’",
+        "id": 79
+      }
+    ],
+    "id": 78
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 24,
+        "v": "Look, the people rise like a lioness,",
+        "id": 81
+      }
+    ],
+    "id": 80
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "as a lion emerges and attacks.",
+        "id": 83
+      }
+    ],
+    "id": 82
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "He does not lie down until he eats his victim",
+        "id": 85
+      }
+    ],
+    "id": 84
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and drinks the blood of what he has killed.”",
+        "id": 87
+      }
+    ],
+    "id": 86
+  },
+  {
+    "t": "m",
+    "v": [
+      {
+        "t": "v",
+        "n": 25,
+        "v": "Then Balak said to Balaam, “Do not curse them or bless them at all.”",
+        "id": 89
+      },
+      {
+        "t": "v",
+        "n": 26,
+        "v": "But Balaam answered and said to Balak, “Did I not tell you that I must say all that Yahweh tells me to say?”",
+        "id": 90
+      },
+      {
+        "t": "v",
+        "n": 27,
+        "v": "So Balak replied to Balaam, “Come now, I will take you to another place. Perhaps it will please God for you to curse them there for me.”",
+        "id": 91
+      },
+      {
+        "t": "v",
+        "n": 28,
+        "v": "So Balak took Balaam to the top of Mount Peor, which looks down on the wilderness.",
+        "id": 92
+      },
+      {
+        "t": "v",
+        "n": 29,
+        "v": "Balaam said to Balak, “Build me seven altars here and prepare seven bulls and seven rams.”",
+        "id": 93
+      },
+      {
+        "t": "v",
+        "n": 30,
+        "v": "So Balak did as Balaam had said; he offered up a bull and a ram on each altar.",
+        "id": 94
+      }
+    ],
+    "id": 88
+  }
+]

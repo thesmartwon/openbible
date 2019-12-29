@@ -1,0 +1,535 @@
+[
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 1,
+        "v": "I will stand at my guard post and station myself on the watchtower,",
+        "id": 1
+      }
+    ],
+    "id": 0
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and I will watch carefully to see what he will say to me",
+        "id": 3
+      }
+    ],
+    "id": 2
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and how I should turn from my complaint.",
+        "id": 5
+      }
+    ],
+    "id": 4
+  },
+  {
+    "t": "f",
+    "c": "+",
+    "v": [
+      {
+        "t": "ft",
+        "v": "Instead of",
+        "id": 7
+      },
+      {
+        "t": "fqa",
+        "v": "how I should turn from my complaint",
+        "id": 8
+      },
+      {
+        "t": "t",
+        "v": ", which is what the Hebrew text has, some modern versions have",
+        "id": 9
+      },
+      {
+        "t": "fqa",
+        "v": "how I should answer when he replies to my complaint",
+        "id": 10
+      },
+      {
+        "t": "t",
+        "v": "or",
+        "id": 11
+      },
+      {
+        "t": "fqa",
+        "v": "how I should answer when he rebukes me",
+        "id": 12
+      },
+      {
+        "t": "t",
+        "v": ".",
+        "id": 13
+      }
+    ],
+    "id": 6
+  },
+  {
+    "t": "m",
+    "v": [
+      {
+        "t": "v",
+        "n": 2,
+        "v": "Yahweh answered me and said,",
+        "id": 15
+      }
+    ],
+    "id": 14
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "“Record this vision, and write plainly on the tablets so that the one reading them might run.",
+        "id": 17
+      }
+    ],
+    "id": 16
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 3,
+        "v": "For the vision is yet for a future time and will finally speak and not fail.",
+        "id": 19
+      }
+    ],
+    "id": 18
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Though it delays, wait for it. For it will surely come and will not tarry.",
+        "id": 21
+      }
+    ],
+    "id": 20
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 4,
+        "v": "Look! The one whose desires are not right within him is puffed up. But the righteous will live by his faith.",
+        "id": 23
+      }
+    ],
+    "id": 22
+  },
+  {
+    "t": "m",
+    "v": [],
+    "id": 24
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 5,
+        "v": "For wine is a betrayer of the arrogant young man so that he will not abide,",
+        "id": 26
+      }
+    ],
+    "id": 25
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "but enlarges his desire like the grave and, like death, is never satisfied.",
+        "id": 28
+      }
+    ],
+    "id": 27
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "He gathers to himself every nation and gathers up for himself all of the peoples.",
+        "id": 30
+      }
+    ],
+    "id": 29
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 6,
+        "v": "Will not all these create a saying to ridicule him and a taunting song about him, saying,",
+        "id": 32
+      }
+    ],
+    "id": 31
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "‘Woe to the one increasing what is not his! For how long will you increase the weight of the pledges you have taken?’",
+        "id": 34
+      }
+    ],
+    "id": 33
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 7,
+        "v": "Will the ones biting at you not rise up suddenly, and the ones terrifying you awaken?",
+        "id": 36
+      }
+    ],
+    "id": 35
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "You will become a victim for them.",
+        "id": 38
+      }
+    ],
+    "id": 37
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 8,
+        "v": "Because you have plundered many peoples, all the remnant of the peoples will plunder you.",
+        "id": 40
+      }
+    ],
+    "id": 39
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "For you have shed human blood and acted with violence against the land, the cities, and all who live in them.",
+        "id": 42
+      }
+    ],
+    "id": 41
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 9,
+        "v": "‘Woe to the one who carves out evil gains for his house,",
+        "id": 44
+      }
+    ],
+    "id": 43
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "so he can set his nest on high to keep himself safe from the hand of evil.’",
+        "id": 46
+      }
+    ],
+    "id": 45
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 10,
+        "v": "You have devised shame for your house by cutting off many people, and have sinned against yourself.",
+        "id": 48
+      }
+    ],
+    "id": 47
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 11,
+        "v": "For the stones will cry out from the wall, and the rafters of timber will answer them,",
+        "id": 50
+      }
+    ],
+    "id": 49
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 12,
+        "v": "‘Woe to the one who builds a city with blood, and who establishes a town in iniquity.’",
+        "id": 52
+      }
+    ],
+    "id": 51
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 13,
+        "v": "Is it not from Yahweh of hosts",
+        "id": 54
+      }
+    ],
+    "id": 53
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "that peoples labor for fire and all the other nations weary themselves for nothing?",
+        "id": 56
+      }
+    ],
+    "id": 55
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 14,
+        "v": "Yet the land will be filled with the knowledge of the glory of Yahweh as the waters cover the sea.",
+        "id": 58
+      }
+    ],
+    "id": 57
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 15,
+        "v": "‘Woe to the one who forces his neighbors to drink—",
+        "id": 60
+      }
+    ],
+    "id": 59
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "you express your anger",
+        "id": 62
+      },
+      {
+        "t": "t",
+        "v": "over and you make them drunk",
+        "id": 69
+      }
+    ],
+    "id": 61
+  },
+  {
+    "t": "f",
+    "c": "+",
+    "v": [
+      {
+        "t": "ft",
+        "v": "There is some question about whether the Hebrew should be translated as",
+        "id": 64
+      },
+      {
+        "t": "fqa",
+        "v": "anger",
+        "id": 65
+      },
+      {
+        "t": "t",
+        "v": ", or as",
+        "id": 66
+      },
+      {
+        "t": "fqa",
+        "v": "wineskin",
+        "id": 67
+      },
+      {
+        "t": "t",
+        "v": ".",
+        "id": 68
+      }
+    ],
+    "id": 63
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "in order to look at their nakedness.’",
+        "id": 71
+      }
+    ],
+    "id": 70
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 16,
+        "v": "You will be filled with shame instead of glory.",
+        "id": 73
+      }
+    ],
+    "id": 72
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Now it is your turn! Drink, and you will expose your uncircumcised foreskin!",
+        "id": 75
+      }
+    ],
+    "id": 74
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "The cup in Yahweh’s right hand is coming around to you,",
+        "id": 77
+      }
+    ],
+    "id": 76
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and disgrace will cover your glory.",
+        "id": 79
+      }
+    ],
+    "id": 78
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 17,
+        "v": "The violence done to Lebanon will overwhelm you and the destruction of animals will terrify you.",
+        "id": 81
+      }
+    ],
+    "id": 80
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "For you have shed human blood and you have acted with violence against the land, the cities, and all who live in them.",
+        "id": 83
+      }
+    ],
+    "id": 82
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 18,
+        "v": "What does the carved figure profit you? For the one who has carved it, or who casts a figure from molten metal, is a teacher of lies;",
+        "id": 85
+      }
+    ],
+    "id": 84
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "for he trusts his own handiwork when he makes these mute gods.",
+        "id": 87
+      }
+    ],
+    "id": 86
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 19,
+        "v": "‘Woe to the one saying to the wood, Wake up! Or to the silent stone, Arise!’ Do these things teach?",
+        "id": 89
+      }
+    ],
+    "id": 88
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "See, it is overlaid with gold and silver, but there is no breath at all within it.",
+        "id": 91
+      }
+    ],
+    "id": 90
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 20,
+        "v": "But Yahweh is in his holy temple! Be silent before him, all the land.”",
+        "id": 93
+      }
+    ],
+    "id": 92
+  }
+]

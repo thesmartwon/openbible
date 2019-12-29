@@ -1,0 +1,441 @@
+[
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 1,
+        "v": "In those days Hezekiah was sick to the point of dying. So Isaiah son of Amoz, the prophet, came to him, and said to him, “Yahweh says, ‘Set your house in order; for you will die, not live.’”",
+        "id": 1
+      },
+      {
+        "t": "v",
+        "n": 2,
+        "v": "Then Hezekiah turned his face to the wall and prayed to Yahweh.",
+        "id": 2
+      },
+      {
+        "t": "v",
+        "n": 3,
+        "v": "He said, “Please, Yahweh, call to mind how I have faithfully walked before you with my whole heart, and how I have done what was good in your sight.” Then Hezekiah wept loudly.",
+        "id": 3
+      },
+      {
+        "t": "v",
+        "n": 4,
+        "v": "Then the word of Yahweh came to Isaiah, saying,",
+        "id": 4
+      },
+      {
+        "t": "v",
+        "n": 5,
+        "v": "“Go and say to Hezekiah, the leader of my people, ‘This is what Yahweh, the God of David your ancestor, says: I have heard your prayer, and I have seen your tears. See, I am about to add fifteen years to your life.",
+        "id": 5
+      },
+      {
+        "t": "v",
+        "n": 6,
+        "v": "Then I will rescue you and this city from the hand of the king of Assyria, and I will defend this city.",
+        "id": 6
+      },
+      {
+        "t": "v",
+        "n": 7,
+        "v": "This will be the sign to you from Yahweh, that I will do what I have promised.",
+        "id": 7
+      },
+      {
+        "t": "v",
+        "n": 8,
+        "v": "Look, I will cause the shadow on the stairs of Ahaz to go back ten steps.’” So the shadow went back ten steps of the stairs on which it had advanced.",
+        "id": 8
+      }
+    ],
+    "id": 0
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 9,
+        "v": "This was the written prayer of Hezekiah king of Judah, when he had been sick and then recovered:",
+        "id": 10
+      }
+    ],
+    "id": 9
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 10,
+        "v": "“I said that halfway through my life",
+        "id": 12
+      }
+    ],
+    "id": 11
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "I will go through the gates of Sheol; I am sent there for the rest of my years.",
+        "id": 14
+      }
+    ],
+    "id": 13
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 11,
+        "v": "I said that I will no longer see Yahweh, Yahweh in the land of the living;",
+        "id": 16
+      }
+    ],
+    "id": 15
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "I will no longer look on mankind or the inhabitants of the world.",
+        "id": 18
+      }
+    ],
+    "id": 17
+  },
+  {
+    "t": "f",
+    "c": "+",
+    "v": [
+      {
+        "t": "fqa",
+        "v": "the inhabitants of the world",
+        "id": 20
+      },
+      {
+        "t": "t",
+        "v": ":",
+        "id": 21
+      },
+      {
+        "t": "ft",
+        "v": "Most modern versions have this meaning. Ancient Hebrew copies have",
+        "id": 22
+      },
+      {
+        "t": "fqa",
+        "v": "the inhabitants of the place of non-existence",
+        "id": 23
+      },
+      {
+        "t": "t",
+        "v": "(that is, brief existence).",
+        "id": 24
+      }
+    ],
+    "id": 19
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 12,
+        "v": "My life is removed and carried away from me like a shepherd’s tent;",
+        "id": 26
+      }
+    ],
+    "id": 25
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "I have rolled up my life like a weaver; you are cutting me off from the loom;",
+        "id": 28
+      }
+    ],
+    "id": 27
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "between day and night you are ending my life.",
+        "id": 30
+      }
+    ],
+    "id": 29
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 13,
+        "v": "I cried out",
+        "id": 32
+      },
+      {
+        "t": "t",
+        "v": "until the morning;",
+        "id": 39
+      }
+    ],
+    "id": 31
+  },
+  {
+    "t": "f",
+    "c": "+",
+    "v": [
+      {
+        "t": "ft",
+        "v": "The Hebrew could be read:",
+        "id": 34
+      },
+      {
+        "t": "fqa",
+        "v": "I cried out",
+        "id": 35
+      },
+      {
+        "t": "t",
+        "v": "or",
+        "id": 36
+      },
+      {
+        "t": "fqa",
+        "v": "I calmed myself",
+        "id": 37
+      },
+      {
+        "t": "t",
+        "v": ".",
+        "id": 38
+      }
+    ],
+    "id": 33
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "like a lion he breaks all my bones.",
+        "id": 41
+      }
+    ],
+    "id": 40
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Between day and night you are ending my life.",
+        "id": 43
+      }
+    ],
+    "id": 42
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 14,
+        "v": "Like a swallow I chirp; I coo like a dove;",
+        "id": 45
+      }
+    ],
+    "id": 44
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "my eyes grow tired with looking upward. Lord, I am oppressed; help me.",
+        "id": 47
+      }
+    ],
+    "id": 46
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 15,
+        "v": "What shall I say? He has both spoken to me, and has done it;",
+        "id": 49
+      }
+    ],
+    "id": 48
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "I will walk slowly all my years because I am overcome with grief.",
+        "id": 51
+      }
+    ],
+    "id": 50
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 16,
+        "v": "Lord, the sufferings you send are good for me; may my life be given back to me;",
+        "id": 53
+      }
+    ],
+    "id": 52
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "you have restored my life and health.",
+        "id": 55
+      }
+    ],
+    "id": 54
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 17,
+        "v": "It was for my benefit that I experienced such grief.",
+        "id": 57
+      }
+    ],
+    "id": 56
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "You have rescued me from the pit of destruction;",
+        "id": 59
+      }
+    ],
+    "id": 58
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "for you have thrown all my sins behind your back.",
+        "id": 61
+      }
+    ],
+    "id": 60
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 18,
+        "v": "For Sheol does not thank you; death does not praise you;",
+        "id": 63
+      }
+    ],
+    "id": 62
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "those who go down into the pit do not hope in your trustworthiness.",
+        "id": 65
+      }
+    ],
+    "id": 64
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 19,
+        "v": "The living person, the living person, he is the one who gives you thanks, as I do this day;",
+        "id": 67
+      }
+    ],
+    "id": 66
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "a father makes known to children your trustworthiness.",
+        "id": 69
+      }
+    ],
+    "id": 68
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 20,
+        "v": "Yahweh is about to save me, and we will celebrate with music",
+        "id": 71
+      }
+    ],
+    "id": 70
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "all the days of our lives in the house of Yahweh.”",
+        "id": 73
+      }
+    ],
+    "id": 72
+  },
+  {
+    "t": "m",
+    "v": [
+      {
+        "t": "v",
+        "n": 21,
+        "v": "Now Isaiah had said, “Let them take a lump of figs and put it on the boil, and he will recover.”",
+        "id": 75
+      },
+      {
+        "t": "v",
+        "n": 22,
+        "v": "Hezekiah also had said, “What will be the sign that I should go up to the house of Yahweh?”",
+        "id": 76
+      }
+    ],
+    "id": 74
+  }
+]

@@ -1,0 +1,525 @@
+[
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 1,
+        "v": "Be careful when you approach God in his house. Listen well to him. That is better than offering sacrifices to him and then not obeying him, which is foolish.",
+        "id": 1
+      }
+    ],
+    "id": 0
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 2,
+        "v": "Do not speak too quickly without thinking about the words you say;",
+        "id": 3
+      }
+    ],
+    "id": 2
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and do not be too quick in your heart to complain about something to God.",
+        "id": 5
+      }
+    ],
+    "id": 4
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Remember that God is very different from you and he is in heaven.",
+        "id": 7
+      }
+    ],
+    "id": 6
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "You, however, are very limited and you must live all your life here on earth.",
+        "id": 9
+      }
+    ],
+    "id": 8
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "So think carefully about what you say to God, and do not speak without thinking about how you should speak to him.",
+        "id": 11
+      }
+    ],
+    "id": 10
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 3,
+        "v": "If you are continually thinking and worrying about things,",
+        "id": 13
+      }
+    ],
+    "id": 12
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "you will have bad dreams about them and not rest well.",
+        "id": 15
+      }
+    ],
+    "id": 14
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "And the more you talk,",
+        "id": 17
+      }
+    ],
+    "id": 16
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "the more likely it will be that you will say things that are foolish.",
+        "id": 19
+      }
+    ],
+    "id": 18
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 4,
+        "v": "When you solemnly promise God that you will do something, do not foolishly delay in doing it, because God is not pleased with foolish people. Do all the things that you promise God that you will do.",
+        "id": 21
+      },
+      {
+        "t": "v",
+        "n": 5,
+        "v": "It is better to not promise anything than to promise to do something and then not do it.",
+        "id": 22
+      },
+      {
+        "t": "v",
+        "n": 6,
+        "v": "Do not let the things that you promise to do cause you to sin by not doing them. And if you promise God that you will do something but then do not do it, do not say to God’s priest that it was a mistake for you to promise to do that. If you do that, God can destroy everything you have worked to accomplish.",
+        "id": 23
+      },
+      {
+        "t": "v",
+        "n": 7,
+        "v": "Promising to do something and not doing it is like having a useless dream. Instead, honor God by doing what you promised him that you would do.",
+        "id": 24
+      }
+    ],
+    "id": 20
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 8,
+        "v": "Do not be surprised if you see poor people being oppressed. There are people able to stop others from oppressing them, but even these people are under the power of someone even higher.",
+        "id": 26
+      },
+      {
+        "t": "v",
+        "n": 9,
+        "v": "Even though people throughout the land own their fields, the king forces them to give him some of the crops that they harvest.",
+        "id": 27
+      }
+    ],
+    "id": 25
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 10,
+        "v": "Everyone who tries to get as much money as they can",
+        "id": 29
+      }
+    ],
+    "id": 28
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "will never think that they have enough.",
+        "id": 31
+      }
+    ],
+    "id": 30
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "They will never be satisfied with the money that they have.",
+        "id": 33
+      }
+    ],
+    "id": 32
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "That fact also makes no sense.",
+        "id": 35
+      }
+    ],
+    "id": 34
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 11,
+        "v": "The more money that people have,",
+        "id": 37
+      }
+    ],
+    "id": 36
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "the more they want to spend it.",
+        "id": 39
+      }
+    ],
+    "id": 38
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "People who have a lot of money do not benefit from it,",
+        "id": 41
+      }
+    ],
+    "id": 40
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "except to look at it and admire it.",
+        "id": 43
+      }
+    ],
+    "id": 42
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 12,
+        "v": "Those who work hard sleep peacefully at night,",
+        "id": 45
+      }
+    ],
+    "id": 44
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "even if they do not have much food to eat.",
+        "id": 47
+      }
+    ],
+    "id": 46
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "But rich people do not sleep well",
+        "id": 49
+      }
+    ],
+    "id": 48
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "because they worry about their money.",
+        "id": 51
+      }
+    ],
+    "id": 50
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 13,
+        "v": "I have seen another terrible thing that happens here on the earth.",
+        "id": 53
+      }
+    ],
+    "id": 52
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "People save up all their money and become rich,",
+        "id": 55
+      }
+    ],
+    "id": 54
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "but they are miserable because they store up their money.",
+        "id": 57
+      }
+    ],
+    "id": 56
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 14,
+        "v": "If something happens that causes their money to be gone,",
+        "id": 59
+      }
+    ],
+    "id": 58
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "then when they die,",
+        "id": 61
+      }
+    ],
+    "id": 60
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "there is no money for their children.",
+        "id": 63
+      }
+    ],
+    "id": 62
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 15,
+        "v": "When we are born,",
+        "id": 65
+      }
+    ],
+    "id": 64
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "we do not bring anything with us,",
+        "id": 67
+      }
+    ],
+    "id": 66
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and when we die,",
+        "id": 69
+      }
+    ],
+    "id": 68
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "we take nothing with us",
+        "id": 71
+      }
+    ],
+    "id": 70
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "from all that we have earned by working hard.",
+        "id": 73
+      }
+    ],
+    "id": 72
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 16,
+        "v": "That also seems to make no sense.",
+        "id": 75
+      }
+    ],
+    "id": 74
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "People bring nothing into the world when they are born,",
+        "id": 77
+      }
+    ],
+    "id": 76
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and when they leave this world they take nothing with them.",
+        "id": 79
+      }
+    ],
+    "id": 78
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "They have worked hard,",
+        "id": 81
+      }
+    ],
+    "id": 80
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "but they receive no lasting benefit.",
+        "id": 83
+      }
+    ],
+    "id": 82
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 17,
+        "v": "Furthermore, rich people are always miserable, sad,",
+        "id": 85
+      }
+    ],
+    "id": 84
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and depressed.",
+        "id": 87
+      }
+    ],
+    "id": 86
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 18,
+        "v": "So the best thing for people to do here on the earth during the few years that God allows them to be alive is to eat, drink, and enjoy their work, because those are the things that he allows them to do.",
+        "id": 89
+      },
+      {
+        "t": "v",
+        "n": 19,
+        "v": "If people are rich and have a lot of possessions, and are able to enjoy the things that they have and to enjoy their work, those things are also gifts from God.",
+        "id": 90
+      },
+      {
+        "t": "v",
+        "n": 20,
+        "v": "Those people do not think much about everything that has happened during their lifetime, because God makes sure that they keep working at what they enjoy.",
+        "id": 91
+      }
+    ],
+    "id": 88
+  }
+]

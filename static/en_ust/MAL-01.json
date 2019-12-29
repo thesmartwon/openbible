@@ -1,0 +1,394 @@
+[
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 1,
+        "v": "This is a message that Yahweh gave to Malachi for the Israelites.",
+        "id": 1
+      }
+    ],
+    "id": 0
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 2,
+        "v": "Yahweh says, “I have loved you.” But I, Malachi, hear you people reply, “How have you shown us that you love us?”",
+        "id": 3
+      }
+    ],
+    "id": 2
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "t",
+        "v": "Yahweh replies,",
+        "id": 5
+      }
+    ],
+    "id": 4
+  },
+  {
+    "t": "pi",
+    "v": [
+      {
+        "t": "t",
+        "v": "“Is it not true that Esau and Jacob were brothers? Yet I have a covenant with Jacob and his descendants, but I have no covenant with Esau and his descendants. I caused Esau’s region to be abandoned, a place where wild dogs live.”",
+        "id": 7
+      }
+    ],
+    "id": 6
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 4,
+        "v": "The descendants of Esau who now live in Edom may say,",
+        "id": 9
+      }
+    ],
+    "id": 8
+  },
+  {
+    "t": "pi",
+    "v": [
+      {
+        "t": "t",
+        "v": "“Yes, God has demolished our cities, but we will rebuild houses in the ruins.”",
+        "id": 11
+      }
+    ],
+    "id": 10
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "t",
+        "v": "But Yahweh, commander of the angel armies, replies,",
+        "id": 13
+      }
+    ],
+    "id": 12
+  },
+  {
+    "t": "pi",
+    "v": [
+      {
+        "t": "t",
+        "v": "“They may build houses again, but I will demolish them again. Their country will be called ‘The land where wicked people live,’ and their people will be called ‘The people with whom Yahweh is angry forever.’”",
+        "id": 15
+      }
+    ],
+    "id": 14
+  },
+  {
+    "t": "m",
+    "v": [
+      {
+        "t": "v",
+        "n": 5,
+        "v": "When you Israelite people yourselves see what Yahweh will do to them, you will say, “It is evident that Yahweh is very powerful even in foreign lands!”",
+        "id": 17
+      }
+    ],
+    "id": 16
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 6,
+        "v": "But the Yahweh, commander of the angel armies, says to the people,",
+        "id": 19
+      }
+    ],
+    "id": 18
+  },
+  {
+    "t": "pi",
+    "v": [
+      {
+        "t": "t",
+        "v": "“Boys honor their fathers, and servants respect their masters. So, if I am like your father and your master, why do you not honor me? Why do you not obey me?”",
+        "id": 21
+      }
+    ],
+    "id": 20
+  },
+  {
+    "t": "m",
+    "v": [
+      {
+        "t": "t",
+        "v": "And Yahweh, commander of the angel armies, has something to say to you priests:",
+        "id": 23
+      }
+    ],
+    "id": 22
+  },
+  {
+    "t": "pi",
+    "v": [
+      {
+        "t": "t",
+        "v": "“You show no respect for me! But you priests ask,",
+        "id": 25
+      }
+    ],
+    "id": 24
+  },
+  {
+    "t": "pi",
+    "v": [
+      {
+        "t": "t",
+        "v": "‘How have shown no respect for you?’",
+        "id": 27
+      }
+    ],
+    "id": 26
+  },
+  {
+    "t": "pi",
+    "v": [
+      {
+        "t": "v",
+        "n": 7,
+        "v": "I answer: Instead of honoring me, you have disgraced me by offering sacrifices on my altar that are unworthy of me, sacrifices that I would never accept. Then you dare to ask,",
+        "id": 29
+      }
+    ],
+    "id": 28
+  },
+  {
+    "t": "pi",
+    "v": [
+      {
+        "t": "t",
+        "v": "‘What sacrifices have we given that are unworthy of you?’",
+        "id": 31
+      }
+    ],
+    "id": 30
+  },
+  {
+    "t": "pi",
+    "v": [
+      {
+        "t": "t",
+        "v": "I answer: You think that it does not matter if you do not honor my altar.",
+        "id": 33
+      }
+    ],
+    "id": 32
+  },
+  {
+    "t": "pi",
+    "v": [
+      {
+        "t": "v",
+        "n": 8,
+        "v": "You offer for sacrifices animals that are blind. Is that not wrong? You offer animals that are sick or lame. Do you really think I would accept such gifts? You would not dare to offer such gifts to your own governor! You know that he would not take them. You know that he would be displeased with you and would not welcome you!”",
+        "id": 35
+      }
+    ],
+    "id": 34
+  },
+  {
+    "t": "m",
+    "v": [
+      {
+        "t": "t",
+        "v": "That is what Yahweh, commander of the angel armies, says!",
+        "id": 37
+      }
+    ],
+    "id": 36
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 9,
+        "v": "I, Malachi, see you continually go through the motions of asking God to help us. But Yahweh, commander of the angel armies, says,",
+        "id": 39
+      }
+    ],
+    "id": 38
+  },
+  {
+    "t": "pi",
+    "v": [
+      {
+        "t": "t",
+        "v": "“If you bring to me sacrifices that are not acceptable to me, why should I help you?”",
+        "id": 41
+      }
+    ],
+    "id": 40
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 10,
+        "v": "Yahweh also says,",
+        "id": 43
+      }
+    ],
+    "id": 42
+  },
+  {
+    "t": "pi",
+    "v": [
+      {
+        "t": "t",
+        "v": "“I wish that one of you would shut the gates of the temple courtyard, in order that no one could offer those worthless sacrifices. I am not pleased with you, and I will not accept the offerings that you bring to me.”",
+        "id": 45
+      }
+    ],
+    "id": 44
+  },
+  {
+    "t": "m",
+    "v": [
+      {
+        "t": "t",
+        "v": "This is what Yahweh, commander of the angel armies, says.",
+        "id": 47
+      },
+      {
+        "t": "v",
+        "n": 11,
+        "v": "He also says,",
+        "id": 48
+      }
+    ],
+    "id": 46
+  },
+  {
+    "t": "pi",
+    "v": [
+      {
+        "t": "t",
+        "v": "“People of other nations from east to west will indeed honor me. They will burn incense to honor me, and they will bring right offerings, offerings that I will accept. This will happen because people in all the nations will praise and honor me.",
+        "id": 50
+      }
+    ],
+    "id": 49
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 12,
+        "v": "But you priests—you priests act in a way that shows me no honor at all. You say,",
+        "id": 52
+      }
+    ],
+    "id": 51
+  },
+  {
+    "t": "pi",
+    "v": [
+      {
+        "t": "t",
+        "v": "‘It is all right if people disgrace the altar by bringing sacrifices that he will not accept.’",
+        "id": 54
+      }
+    ],
+    "id": 53
+  },
+  {
+    "t": "pi",
+    "v": [
+      {
+        "t": "v",
+        "n": 13,
+        "v": "You also say,",
+        "id": 56
+      }
+    ],
+    "id": 55
+  },
+  {
+    "t": "pi",
+    "v": [
+      {
+        "t": "t",
+        "v": "‘We are tired of burning all these sacrifices on the altar.’",
+        "id": 58
+      }
+    ],
+    "id": 57
+  },
+  {
+    "t": "pi",
+    "v": [
+      {
+        "t": "t",
+        "v": "You turn up your noses at doing this. You bring sheep or goats that wild animals have attacked and torn in two. You also bring animals that are sick or that cannot walk. You cannot really think that I should accept these from you, can you?”",
+        "id": 60
+      }
+    ],
+    "id": 59
+  },
+  {
+    "t": "m",
+    "v": [
+      {
+        "t": "t",
+        "v": "This is what Yahweh, commander of the angel armies, says.",
+        "id": 62
+      }
+    ],
+    "id": 61
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 14,
+        "v": "Yahweh also says,",
+        "id": 64
+      }
+    ],
+    "id": 63
+  },
+  {
+    "t": "pi",
+    "v": [
+      {
+        "t": "t",
+        "v": "“I will curse anyone who tries to cheat me by swearing that he will bring to me a perfect animal from his herd, and who then brings me one that has defects. If anyone does that, I will punish him, because I am a great king, and people of the other nations honor me, but you do not!”",
+        "id": 66
+      }
+    ],
+    "id": 65
+  },
+  {
+    "t": "m",
+    "v": [
+      {
+        "t": "t",
+        "v": "This is what Yahweh, commander of the angel armies, says.",
+        "id": 68
+      }
+    ],
+    "id": 67
+  }
+]

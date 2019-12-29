@@ -1,0 +1,666 @@
+[
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 1,
+        "v": "Yahweh gave me another message. He said,",
+        "id": 1
+      },
+      {
+        "t": "v",
+        "n": 2,
+        "v": "“You people quote this proverb and say that it is about Israel:",
+        "id": 2
+      }
+    ],
+    "id": 0
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "‘Parents eat sour grapes,",
+        "id": 4
+      }
+    ],
+    "id": 3
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "but it is their children who have a very sour taste in their mouths.’",
+        "id": 6
+      }
+    ],
+    "id": 5
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "t",
+        "v": "This means that you think that you must suffer for the sins that your ancestors committed.",
+        "id": 8
+      }
+    ],
+    "id": 7
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 3,
+        "v": "But I, Yahweh the Lord, declare that as surely as I am alive, you Israelite people will no longer say this proverb.",
+        "id": 10
+      },
+      {
+        "t": "v",
+        "n": 4,
+        "v": "Everyone who is alive belongs to me. That includes children and their parents; they all belong to me. And it is those who sin who will die because of their sins.",
+        "id": 11
+      }
+    ],
+    "id": 9
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 5,
+        "v": "So suppose that there is a righteous person,",
+        "id": 13
+      }
+    ],
+    "id": 12
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "one who always does what is fair and right.",
+        "id": 15
+      }
+    ],
+    "id": 14
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 6,
+        "v": "He does not eat meat sacrificed to idols on the hilltops;",
+        "id": 17
+      }
+    ],
+    "id": 16
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "he does not request help from idols as the rest of Israel has been doing.",
+        "id": 19
+      }
+    ],
+    "id": 18
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "He does not sleep with someone else’s wife",
+        "id": 21
+      }
+    ],
+    "id": 20
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "or with a woman during her monthly menstrual period.",
+        "id": 23
+      }
+    ],
+    "id": 22
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 7,
+        "v": "He does not mistreat people;",
+        "id": 25
+      }
+    ],
+    "id": 24
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "if a person borrows money from him and gives him something to guarantee that he will pay the money back, this man always gives it back to that person before the sun goes down.",
+        "id": 27
+      }
+    ],
+    "id": 26
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "He does not rob people.",
+        "id": 29
+      }
+    ],
+    "id": 28
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "He gives food to hungry people.",
+        "id": 31
+      }
+    ],
+    "id": 30
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "He gives clothing to people who need clothes.",
+        "id": 33
+      }
+    ],
+    "id": 32
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 8,
+        "v": "When he lends money to people,",
+        "id": 35
+      }
+    ],
+    "id": 34
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "he does not do it to make him pay interest.",
+        "id": 37
+      }
+    ],
+    "id": 36
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "He does not do things that are evil.",
+        "id": 39
+      }
+    ],
+    "id": 38
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "He always decides things fairly.",
+        "id": 41
+      }
+    ],
+    "id": 40
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 9,
+        "v": "He faithfully obeys all my laws.",
+        "id": 43
+      }
+    ],
+    "id": 42
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "That man is truly righteous;",
+        "id": 45
+      }
+    ],
+    "id": 44
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "he will remain alive.",
+        "id": 47
+      }
+    ],
+    "id": 46
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "That is what I, Yahweh the Lord, promise.",
+        "id": 49
+      }
+    ],
+    "id": 48
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 10,
+        "v": "But suppose that man has a son who acts violently, who murders people and does any of these other things, even though his father has not done any of them.",
+        "id": 51
+      }
+    ],
+    "id": 50
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 11,
+        "v": "He eats meat sacrificed to idols on the hilltops.",
+        "id": 53
+      }
+    ],
+    "id": 52
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "He sleeps with other people’s wives.",
+        "id": 55
+      }
+    ],
+    "id": 54
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 12,
+        "v": "He mistreats poor and needy people.",
+        "id": 57
+      }
+    ],
+    "id": 56
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "He robs people.",
+        "id": 59
+      }
+    ],
+    "id": 58
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "If someone gives him something to guarantee that he will pay back money that he has borrowed, the unrighteous man never gives it back to him before the sun goes down.",
+        "id": 61
+      }
+    ],
+    "id": 60
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "He seeks help from idols.",
+        "id": 63
+      }
+    ],
+    "id": 62
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "He does other disgusting things.",
+        "id": 65
+      }
+    ],
+    "id": 64
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 13,
+        "v": "When he lends money, he charges interest.",
+        "id": 67
+      }
+    ],
+    "id": 66
+  },
+  {
+    "t": "m",
+    "v": [
+      {
+        "t": "t",
+        "v": "If you think that I will keep such a person alive, you are certainly wrong. Because he has done all those detestable things, I will certainly make him die, and it will be his own fault.",
+        "id": 69
+      }
+    ],
+    "id": 68
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 14,
+        "v": "But suppose that man has a son who sees all the sins that his father commits, but he himself does not do those things.",
+        "id": 71
+      }
+    ],
+    "id": 70
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 15,
+        "v": "The son does not eat meat sacrificed to idols on the hilltops.",
+        "id": 73
+      }
+    ],
+    "id": 72
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "He does not request help from idols.",
+        "id": 75
+      }
+    ],
+    "id": 74
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "He does not sleep with other people’s wives.",
+        "id": 77
+      }
+    ],
+    "id": 76
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 16,
+        "v": "He does not mistreat people.",
+        "id": 79
+      }
+    ],
+    "id": 78
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "If he lends money to someone, he does not require that person to give him something to guarantee that he will pay the money back.",
+        "id": 81
+      }
+    ],
+    "id": 80
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "He does not rob anyone.",
+        "id": 83
+      }
+    ],
+    "id": 82
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "He gives food to those who need it.",
+        "id": 85
+      }
+    ],
+    "id": 84
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "He gives clothes to those who need clothes.",
+        "id": 87
+      }
+    ],
+    "id": 86
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 17,
+        "v": "He does not commit sins, unlike his father,",
+        "id": 89
+      }
+    ],
+    "id": 88
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and does not charge interest when he lends money.",
+        "id": 91
+      }
+    ],
+    "id": 90
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "He faithfully obeys all my laws.",
+        "id": 93
+      }
+    ],
+    "id": 92
+  },
+  {
+    "t": "m",
+    "v": [
+      {
+        "t": "t",
+        "v": "I will make sure that that person does not die for his father’s sins; he will certainly stay alive.",
+        "id": 95
+      },
+      {
+        "t": "v",
+        "n": 18,
+        "v": "But I will ensure that his father will die for the sins that he committed, because the father cheated and robbed people, and did other things that are evil.",
+        "id": 96
+      }
+    ],
+    "id": 94
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 19,
+        "v": "If you ask, ‘Why should the man’s son not suffer for the evil things that his father did?’, I will answer that the son has done what is fair and right and has obeyed all my laws, so he will surely remain alive.",
+        "id": 98
+      },
+      {
+        "t": "v",
+        "n": 20,
+        "v": "It is those who sin who will die because of their sins. I will not punish people because their parents have sinned, or because their children have sinned. I will reward people who live rightly, and I will punish the wicked people, those who live wrongly.",
+        "id": 99
+      }
+    ],
+    "id": 97
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 21,
+        "v": "But if a wicked person stops doing all the evil things that he did previously, and if he starts to obey faithfully all my laws, and if he does what is fair and right, he will surely remain alive; I will not kill him.",
+        "id": 101
+      },
+      {
+        "t": "v",
+        "n": 22,
+        "v": "I will not punish him for the sins he committed previously. Because of the good things that he has done since that time, I will allow him to stay alive.",
+        "id": 102
+      },
+      {
+        "t": "v",
+        "n": 23,
+        "v": "I, Yahweh the Lord, declare that I certainly am not happy about wicked people dying. Instead, I am happy when they stop doing wicked things and remain alive as a result.",
+        "id": 103
+      }
+    ],
+    "id": 100
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 24,
+        "v": "But if a righteous person stops doing right things and starts to commit sins and does the same disgusting things that wicked people do, I will certainly not allow him to remain alive. I will not think about the righteous things that he did previously. Because he did not faithfully do what pleases me, and because of all the sins that he has committed, he will certainly die.",
+        "id": 105
+      }
+    ],
+    "id": 104
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 25,
+        "v": "But you say that I, Yahweh, do not act fairly. You Israelite people, listen to what I say: It is certainly not what I do that is unfair; it is what you continually do that is not fair.",
+        "id": 107
+      },
+      {
+        "t": "v",
+        "n": 26,
+        "v": "If a righteous person turns away from doing what is right and commits sins, he will die for committing those sins.",
+        "id": 108
+      },
+      {
+        "t": "v",
+        "n": 27,
+        "v": "But if a wicked person turns away from doing wicked things and does what is just and right, he will save himself from dying.",
+        "id": 109
+      },
+      {
+        "t": "v",
+        "n": 28,
+        "v": "Because he has thought about all the evil things that he did and has turned away from doing them, I will certainly allow him to live. I will not kill him.",
+        "id": 110
+      },
+      {
+        "t": "v",
+        "n": 29,
+        "v": "But you, the Israelites, say that I do not act fairly. You people of Israel, I always actly fairly. It is you who are acting wickedly.",
+        "id": 111
+      }
+    ],
+    "id": 106
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 30,
+        "v": "Therefore, you Israelite people, I, Yahweh the Lord, will judge each of you according to what you have done. Repent! Turn away from all your wicked behavior! Then I will not destroy you because of the wrong things you have done.",
+        "id": 113
+      },
+      {
+        "t": "v",
+        "n": 31,
+        "v": "Stop doing wicked things; start thinking in a new way. You Israelite people, do you really want me to kill you because you have sinned?",
+        "id": 114
+      },
+      {
+        "t": "v",
+        "n": 32,
+        "v": "I, Yahweh the Lord, declare that I am not pleased if you die. So turn away from your sins and stay alive!”",
+        "id": 115
+      }
+    ],
+    "id": 112
+  }
+]

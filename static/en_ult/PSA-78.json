@@ -1,0 +1,1823 @@
+[
+  {
+    "t": "m",
+    "v": [
+      {
+        "t": "d",
+        "v": "A maschil of Asaph.",
+        "id": 1
+      }
+    ],
+    "id": 0
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 1,
+        "v": "Hear my teaching, my people,",
+        "id": 3
+      }
+    ],
+    "id": 2
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "listen to the words of my mouth.",
+        "id": 5
+      }
+    ],
+    "id": 4
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 2,
+        "v": "I will open my mouth in parables;",
+        "id": 7
+      }
+    ],
+    "id": 6
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "I will sing about hidden things about the past.",
+        "id": 9
+      }
+    ],
+    "id": 8
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 3,
+        "v": "These are things that we have heard and learned,",
+        "id": 11
+      }
+    ],
+    "id": 10
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "things that our ancestors have told us.",
+        "id": 13
+      }
+    ],
+    "id": 12
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 4,
+        "v": "We will not keep them from their descendants.",
+        "id": 15
+      }
+    ],
+    "id": 14
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "We will tell the next generation about the praiseworthy deeds of Yahweh,",
+        "id": 17
+      }
+    ],
+    "id": 16
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "his strength, and the wonders that he has done.",
+        "id": 19
+      }
+    ],
+    "id": 18
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 5,
+        "v": "For he established covenant decrees in Jacob",
+        "id": 21
+      }
+    ],
+    "id": 20
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and appointed a law in Israel.",
+        "id": 23
+      }
+    ],
+    "id": 22
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "He commanded our ancestors",
+        "id": 25
+      }
+    ],
+    "id": 24
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "that they were to teach them to their children.",
+        "id": 27
+      }
+    ],
+    "id": 26
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 6,
+        "v": "He commanded this so that the generation to come might know his decrees, the children not yet born,",
+        "id": 29
+      }
+    ],
+    "id": 28
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "who should tell them in turn to their own children.",
+        "id": 31
+      }
+    ],
+    "id": 30
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 7,
+        "v": "Then they would place their hope in God",
+        "id": 33
+      }
+    ],
+    "id": 32
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and not forget his deeds",
+        "id": 35
+      }
+    ],
+    "id": 34
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "but keep his commandments.",
+        "id": 37
+      }
+    ],
+    "id": 36
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 8,
+        "v": "Then they would not be like their ancestors,",
+        "id": 39
+      }
+    ],
+    "id": 38
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "who were a stubborn and rebellious generation,",
+        "id": 41
+      }
+    ],
+    "id": 40
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "a generation whose hearts were not right,",
+        "id": 43
+      }
+    ],
+    "id": 42
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and whose spirits were not committed and faithful to God.",
+        "id": 45
+      }
+    ],
+    "id": 44
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 9,
+        "v": "The Ephraimites were armed with bows,",
+        "id": 47
+      }
+    ],
+    "id": 46
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "but they turned back on the day of battle.",
+        "id": 49
+      }
+    ],
+    "id": 48
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 10,
+        "v": "They did not keep the covenant with God,",
+        "id": 51
+      }
+    ],
+    "id": 50
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and they refused to obey his law.",
+        "id": 53
+      }
+    ],
+    "id": 52
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 11,
+        "v": "They forgot his deeds,",
+        "id": 55
+      }
+    ],
+    "id": 54
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "the wonderful things that he had shown them.",
+        "id": 57
+      }
+    ],
+    "id": 56
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 12,
+        "v": "They forgot the marvelous things he did in the sight of their ancestors",
+        "id": 59
+      }
+    ],
+    "id": 58
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "in the land of Egypt, in the land of Zoan.",
+        "id": 61
+      }
+    ],
+    "id": 60
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 13,
+        "v": "He divided the sea and led them across it;",
+        "id": 63
+      }
+    ],
+    "id": 62
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "he made the waters to stand like walls.",
+        "id": 65
+      }
+    ],
+    "id": 64
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 14,
+        "v": "In the daytime he led them with a cloud",
+        "id": 67
+      }
+    ],
+    "id": 66
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and all the night with the light of fire.",
+        "id": 69
+      }
+    ],
+    "id": 68
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 15,
+        "v": "He split the rocks in the wilderness,",
+        "id": 71
+      }
+    ],
+    "id": 70
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and he gave them water abundantly, enough to fill the depths of the sea.",
+        "id": 73
+      }
+    ],
+    "id": 72
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 16,
+        "v": "He made streams flow out of the rock",
+        "id": 75
+      }
+    ],
+    "id": 74
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and made the water flow like rivers.",
+        "id": 77
+      }
+    ],
+    "id": 76
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 17,
+        "v": "Yet they continued to sin against him,",
+        "id": 79
+      }
+    ],
+    "id": 78
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "rebelling against the Most High in the wilderness.",
+        "id": 81
+      }
+    ],
+    "id": 80
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 18,
+        "v": "They challenged God in their hearts",
+        "id": 83
+      }
+    ],
+    "id": 82
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "by asking for food to satisfy their appetites.",
+        "id": 85
+      }
+    ],
+    "id": 84
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 19,
+        "v": "They spoke against God;",
+        "id": 87
+      }
+    ],
+    "id": 86
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "they said, “Can God really lay out a table for us in the wilderness?",
+        "id": 89
+      }
+    ],
+    "id": 88
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 20,
+        "v": "See, when he struck the rock, waters gushed out",
+        "id": 91
+      }
+    ],
+    "id": 90
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and streams overflowed.",
+        "id": 93
+      }
+    ],
+    "id": 92
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "But can he give bread also?",
+        "id": 95
+      }
+    ],
+    "id": 94
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Will he provide meat for his people?”",
+        "id": 97
+      }
+    ],
+    "id": 96
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 21,
+        "v": "When Yahweh heard this, he was angry;",
+        "id": 99
+      }
+    ],
+    "id": 98
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "so his fire burned against Jacob,",
+        "id": 101
+      }
+    ],
+    "id": 100
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and his anger attacked Israel,",
+        "id": 103
+      }
+    ],
+    "id": 102
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 22,
+        "v": "because they did not believe in God",
+        "id": 105
+      }
+    ],
+    "id": 104
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and did not trust in his salvation.",
+        "id": 107
+      }
+    ],
+    "id": 106
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 23,
+        "v": "Yet he commanded the skies above",
+        "id": 109
+      }
+    ],
+    "id": 108
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and opened the doors of the sky.",
+        "id": 111
+      }
+    ],
+    "id": 110
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 24,
+        "v": "He rained down manna for them to eat,",
+        "id": 113
+      }
+    ],
+    "id": 112
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and gave them the grain from heaven.",
+        "id": 115
+      }
+    ],
+    "id": 114
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 25,
+        "v": "People ate the bread of angels.",
+        "id": 117
+      }
+    ],
+    "id": 116
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "He sent them food in abundance.",
+        "id": 119
+      }
+    ],
+    "id": 118
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 26,
+        "v": "He caused the east wind to blow in the sky,",
+        "id": 121
+      }
+    ],
+    "id": 120
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and by his power he guided the south wind.",
+        "id": 123
+      }
+    ],
+    "id": 122
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 27,
+        "v": "He rained down meat on them like dust,",
+        "id": 125
+      }
+    ],
+    "id": 124
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "birds as numerous as the sands of the sea.",
+        "id": 127
+      }
+    ],
+    "id": 126
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 28,
+        "v": "They fell in the middle of their camp,",
+        "id": 129
+      }
+    ],
+    "id": 128
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "all around their tents.",
+        "id": 131
+      }
+    ],
+    "id": 130
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 29,
+        "v": "So they ate and were full.",
+        "id": 133
+      }
+    ],
+    "id": 132
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "He gave them what they craved.",
+        "id": 135
+      }
+    ],
+    "id": 134
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 30,
+        "v": "But they had not yet filled up;",
+        "id": 137
+      }
+    ],
+    "id": 136
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "their food was still in their mouths.",
+        "id": 139
+      }
+    ],
+    "id": 138
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 31,
+        "v": "Then God’s anger attacked them",
+        "id": 141
+      }
+    ],
+    "id": 140
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and killed the strongest of them.",
+        "id": 143
+      }
+    ],
+    "id": 142
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "He brought down the young men of Israel.",
+        "id": 145
+      }
+    ],
+    "id": 144
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 32,
+        "v": "Despite this, they continued to sin",
+        "id": 147
+      }
+    ],
+    "id": 146
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and did not believe his wonderful deeds.",
+        "id": 149
+      }
+    ],
+    "id": 148
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 33,
+        "v": "Therefore God cut short their days;",
+        "id": 151
+      }
+    ],
+    "id": 150
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "their years were filled with terror.",
+        "id": 153
+      }
+    ],
+    "id": 152
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 34,
+        "v": "Whenever God afflicted them, they would start to seek him,",
+        "id": 155
+      }
+    ],
+    "id": 154
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and they would return and look earnestly for him.",
+        "id": 157
+      }
+    ],
+    "id": 156
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 35,
+        "v": "They would call to mind that God was their rock",
+        "id": 159
+      }
+    ],
+    "id": 158
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and that the Most High God was their rescuer.",
+        "id": 161
+      }
+    ],
+    "id": 160
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 36,
+        "v": "But they would flatter him with their mouth",
+        "id": 163
+      }
+    ],
+    "id": 162
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and lie to him with their words.",
+        "id": 165
+      }
+    ],
+    "id": 164
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 37,
+        "v": "For their hearts were not firmly fixed on him,",
+        "id": 167
+      }
+    ],
+    "id": 166
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and they were not faithful to his covenant.",
+        "id": 169
+      }
+    ],
+    "id": 168
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 38,
+        "v": "Yet he, being merciful, forgave their iniquity and did not destroy them.",
+        "id": 171
+      }
+    ],
+    "id": 170
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Yes, many times he held back his anger",
+        "id": 173
+      }
+    ],
+    "id": 172
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and did not stir up all his wrath.",
+        "id": 175
+      }
+    ],
+    "id": 174
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 39,
+        "v": "He called to mind that they were made of flesh,",
+        "id": 177
+      }
+    ],
+    "id": 176
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "a wind that passes away and does not return.",
+        "id": 179
+      }
+    ],
+    "id": 178
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 40,
+        "v": "How often they rebelled against him in the wilderness",
+        "id": 181
+      }
+    ],
+    "id": 180
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and grieved him in the barren regions!",
+        "id": 183
+      }
+    ],
+    "id": 182
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 41,
+        "v": "Again and again they challenged God",
+        "id": 185
+      }
+    ],
+    "id": 184
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and offended the Holy One of Israel.",
+        "id": 187
+      }
+    ],
+    "id": 186
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 42,
+        "v": "They did not think about his power,",
+        "id": 189
+      }
+    ],
+    "id": 188
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "how he had rescued them from the enemy",
+        "id": 191
+      }
+    ],
+    "id": 190
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 43,
+        "v": "when he performed his terrifying signs in Egypt",
+        "id": 193
+      }
+    ],
+    "id": 192
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and his wonders in the region of Zoan.",
+        "id": 195
+      }
+    ],
+    "id": 194
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 44,
+        "v": "He turned the Egyptians’ rivers to blood",
+        "id": 197
+      }
+    ],
+    "id": 196
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "so that they could not drink from their streams.",
+        "id": 199
+      }
+    ],
+    "id": 198
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 45,
+        "v": "He sent swarms of flies that devoured them",
+        "id": 201
+      }
+    ],
+    "id": 200
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and frogs that overran their land.",
+        "id": 203
+      }
+    ],
+    "id": 202
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 46,
+        "v": "He gave their crops to the grasshopper",
+        "id": 205
+      }
+    ],
+    "id": 204
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and their labor to the locust.",
+        "id": 207
+      }
+    ],
+    "id": 206
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 47,
+        "v": "He destroyed their vines with hail",
+        "id": 209
+      }
+    ],
+    "id": 208
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and their sycamore trees with more hail.",
+        "id": 211
+      }
+    ],
+    "id": 210
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 48,
+        "v": "He rained hail on their cattle",
+        "id": 213
+      }
+    ],
+    "id": 212
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and hurled lightning bolts at their livestock.",
+        "id": 215
+      }
+    ],
+    "id": 214
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 49,
+        "v": "The fierceness of his anger lashed out against them.",
+        "id": 217
+      }
+    ],
+    "id": 216
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "He sent wrath, fury, and trouble",
+        "id": 219
+      }
+    ],
+    "id": 218
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "like agents who bring disaster.",
+        "id": 221
+      }
+    ],
+    "id": 220
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 50,
+        "v": "He leveled a path for his anger;",
+        "id": 223
+      }
+    ],
+    "id": 222
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "he did not spare them from death",
+        "id": 225
+      }
+    ],
+    "id": 224
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "but gave them over to the plague.",
+        "id": 227
+      }
+    ],
+    "id": 226
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 51,
+        "v": "He killed all the firstborn in Egypt,",
+        "id": 229
+      }
+    ],
+    "id": 228
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "the firstborn of their strength in the tents of Ham.",
+        "id": 231
+      }
+    ],
+    "id": 230
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 52,
+        "v": "He led his own people out like sheep",
+        "id": 233
+      }
+    ],
+    "id": 232
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and guided them through the wilderness like a flock.",
+        "id": 235
+      }
+    ],
+    "id": 234
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 53,
+        "v": "He led them secure and unafraid,",
+        "id": 237
+      }
+    ],
+    "id": 236
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "but the sea overwhelmed their enemies.",
+        "id": 239
+      }
+    ],
+    "id": 238
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 54,
+        "v": "Then he brought them to the border of his holy land,",
+        "id": 241
+      }
+    ],
+    "id": 240
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "to this mountain that his right hand acquired.",
+        "id": 243
+      }
+    ],
+    "id": 242
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 55,
+        "v": "He drove out the nations from before them",
+        "id": 245
+      }
+    ],
+    "id": 244
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and assigned them their inheritance.",
+        "id": 247
+      }
+    ],
+    "id": 246
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "He settled the tribes of Israel in their tents.",
+        "id": 249
+      }
+    ],
+    "id": 248
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 56,
+        "v": "Yet they challenged and defied the Most High God",
+        "id": 251
+      }
+    ],
+    "id": 250
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and did not keep his solemn commands.",
+        "id": 253
+      }
+    ],
+    "id": 252
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 57,
+        "v": "They were unfaithful and acted treacherously like their fathers;",
+        "id": 255
+      }
+    ],
+    "id": 254
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "they were as undependable as a faulty bow.",
+        "id": 257
+      }
+    ],
+    "id": 256
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 58,
+        "v": "For they made him angry with their high places",
+        "id": 259
+      }
+    ],
+    "id": 258
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and provoked him to jealous anger with their idols.",
+        "id": 261
+      }
+    ],
+    "id": 260
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 59,
+        "v": "When God heard this, he was angry",
+        "id": 263
+      }
+    ],
+    "id": 262
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and completely rejected Israel.",
+        "id": 265
+      }
+    ],
+    "id": 264
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 60,
+        "v": "He abandoned the sanctuary of Shiloh,",
+        "id": 267
+      }
+    ],
+    "id": 266
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "the tent where he had lived among people.",
+        "id": 269
+      }
+    ],
+    "id": 268
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 61,
+        "v": "He allowed his strength to be captured",
+        "id": 271
+      }
+    ],
+    "id": 270
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and gave his glory into the enemy’s hand.",
+        "id": 273
+      }
+    ],
+    "id": 272
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 62,
+        "v": "He handed his people over to the sword,",
+        "id": 275
+      }
+    ],
+    "id": 274
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and he was angry with his heritage.",
+        "id": 277
+      }
+    ],
+    "id": 276
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 63,
+        "v": "Fire devoured their young men,",
+        "id": 279
+      }
+    ],
+    "id": 278
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and their young women had no wedding songs.",
+        "id": 281
+      }
+    ],
+    "id": 280
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 64,
+        "v": "Their priests fell by the sword,",
+        "id": 283
+      }
+    ],
+    "id": 282
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and their widows could not weep.",
+        "id": 285
+      }
+    ],
+    "id": 284
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 65,
+        "v": "Then the Lord awakened as one from sleep,",
+        "id": 287
+      }
+    ],
+    "id": 286
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "like a warrior who shouts because of wine.",
+        "id": 289
+      }
+    ],
+    "id": 288
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 66,
+        "v": "He drove his adversaries back;",
+        "id": 291
+      }
+    ],
+    "id": 290
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "he put them to everlasting shame.",
+        "id": 293
+      }
+    ],
+    "id": 292
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 67,
+        "v": "He rejected the tent of Joseph,",
+        "id": 295
+      }
+    ],
+    "id": 294
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and he did not chose the tribe of Ephraim.",
+        "id": 297
+      }
+    ],
+    "id": 296
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 68,
+        "v": "He chose the tribe of Judah",
+        "id": 299
+      }
+    ],
+    "id": 298
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and Mount Zion that he loved.",
+        "id": 301
+      }
+    ],
+    "id": 300
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 69,
+        "v": "He built his sanctuary like the heavens,",
+        "id": 303
+      }
+    ],
+    "id": 302
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "like the earth that he has established forever.",
+        "id": 305
+      }
+    ],
+    "id": 304
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 70,
+        "v": "He chose David, his servant,",
+        "id": 307
+      }
+    ],
+    "id": 306
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and took him from the sheepfolds.",
+        "id": 309
+      }
+    ],
+    "id": 308
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 71,
+        "v": "He took him from following the ewes with their young, and he brought him",
+        "id": 311
+      }
+    ],
+    "id": 310
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "to be shepherd of Jacob, his people, and of Israel, his heritage.",
+        "id": 313
+      }
+    ],
+    "id": 312
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 72,
+        "v": "David shepherded them with the integrity of his heart,",
+        "id": 315
+      }
+    ],
+    "id": 314
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and he guided them with the skill of his hands.",
+        "id": 317
+      }
+    ],
+    "id": 316
+  }
+]

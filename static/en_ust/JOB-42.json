@@ -1,0 +1,258 @@
+[
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 1,
+        "v": "Then Job replied to Yahweh. He said,",
+        "id": 1
+      }
+    ],
+    "id": 0
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 2,
+        "v": "“I know that you can do everything",
+        "id": 3
+      }
+    ],
+    "id": 2
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and that no one can stop you from doing what you want to do.",
+        "id": 5
+      }
+    ],
+    "id": 4
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 3,
+        "v": "You asked me, ‘Who are you to bring confusion to what I plan to do? You are speaking ignorantly!’",
+        "id": 7
+      }
+    ],
+    "id": 6
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "It is true that I spoke about things that I did not understand,",
+        "id": 9
+      }
+    ],
+    "id": 8
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "things that are very amazing,",
+        "id": 11
+      }
+    ],
+    "id": 10
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "things about which I know nothing.",
+        "id": 13
+      }
+    ],
+    "id": 12
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 4,
+        "v": "You said to me, ‘Listen while I talk to you.",
+        "id": 15
+      }
+    ],
+    "id": 14
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "I want to ask you some questions,",
+        "id": 17
+      }
+    ],
+    "id": 16
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "so prepare yourself to answer them.’",
+        "id": 19
+      }
+    ],
+    "id": 18
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 5,
+        "v": "I had heard about you previously by rumor,",
+        "id": 21
+      }
+    ],
+    "id": 20
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "but now it is as though I have seen you with my own eyes.",
+        "id": 23
+      }
+    ],
+    "id": 22
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 6,
+        "v": "Therefore I am ashamed of what I said,",
+        "id": 25
+      }
+    ],
+    "id": 24
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and I sit in dust and ashes to show that I am sorry for what I said.”",
+        "id": 27
+      }
+    ],
+    "id": 26
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 7,
+        "v": "After Yahweh said these things to Job, he said to Eliphaz, “I am angry with you and your two friends, Bildad and Zophar, because you did not say true things about me, as my servant Job did.",
+        "id": 29
+      },
+      {
+        "t": "v",
+        "n": 8,
+        "v": "So now you must take to Job seven young bulls and seven rams and kill them and burn them on the altar as a sacrifice for yourselves. Then Job will pray for you, and I will do what he requests me to do. I will forgive you for speaking wrongly about me. I will not punish you, even though you deserve to be punished, because what you said about me was not right.”",
+        "id": 30
+      }
+    ],
+    "id": 28
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 9,
+        "v": "So Eliphaz, Bildad, and Zophar did what Yahweh commanded them to do, and Yahweh did what Job requested him to do for the three of them.",
+        "id": 32
+      }
+    ],
+    "id": 31
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 10,
+        "v": "After Job prayed for his three friends, Yahweh healed him and caused him to become rich again. Yahweh gave him twice as many things as he had before.",
+        "id": 34
+      },
+      {
+        "t": "v",
+        "n": 11,
+        "v": "Then all his brothers and sisters, and all the people who had known him before, came to his house, and they had a feast together. They consoled him because of all the troubles that Yahweh had allowed to happen to him. Each of them gave Job a piece of silver and a gold ring.",
+        "id": 35
+      }
+    ],
+    "id": 33
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 12,
+        "v": "Then Yahweh blessed Job in the second half of his life more than he had blessed him in the first half of his life. He now acquired fourteen thousand sheep, six thousand camels, one thousand oxen, and one thousand female donkeys.",
+        "id": 37
+      },
+      {
+        "t": "v",
+        "n": 13,
+        "v": "And he also had seven more sons and three more daughters.",
+        "id": 38
+      },
+      {
+        "t": "v",
+        "n": 14,
+        "v": "He named the first daughter Jemimah, he named the second daughter Keziah, and he named the third daughter Keren Happuch.",
+        "id": 39
+      },
+      {
+        "t": "v",
+        "n": 15,
+        "v": "In all of the land of Uz, there were no young women who were as beautiful as the daughters of Job, and Job declared that they would inherit some of his possessions, just as their brothers would inherit some.",
+        "id": 40
+      }
+    ],
+    "id": 36
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 16,
+        "v": "After that, Job lived 140 more years. Before he died, he saw his great-great-grandchildren.",
+        "id": 42
+      },
+      {
+        "t": "v",
+        "n": 17,
+        "v": "He was very old when he died.",
+        "id": 43
+      }
+    ],
+    "id": 41
+  }
+]

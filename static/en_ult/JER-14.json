@@ -1,0 +1,423 @@
+[
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 1,
+        "v": "This is the word of Yahweh that came to Jeremiah regarding the drought,",
+        "id": 1
+      }
+    ],
+    "id": 0
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 2,
+        "v": "“Let Judah mourn; let her gates fall apart. They are wailing for the land;",
+        "id": 3
+      }
+    ],
+    "id": 2
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "their cries for Jerusalem are going up.",
+        "id": 5
+      }
+    ],
+    "id": 4
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 3,
+        "v": "Their mighty ones send out their servants for water.",
+        "id": 7
+      }
+    ],
+    "id": 6
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "When they go to the trenches, they cannot find water. They all return unsuccessful;",
+        "id": 9
+      }
+    ],
+    "id": 8
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "they cover their heads ashamed and dishonored.",
+        "id": 11
+      }
+    ],
+    "id": 10
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 4,
+        "v": "Because of this the ground is cracked, for there is no rain in the land.",
+        "id": 13
+      }
+    ],
+    "id": 12
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "The plowmen are ashamed and cover their heads.",
+        "id": 15
+      }
+    ],
+    "id": 14
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 5,
+        "v": "For even the doe leaves her young in the fields and abandons them, for there is no grass.",
+        "id": 17
+      }
+    ],
+    "id": 16
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 6,
+        "v": "The wild donkeys stand on the bare plains and they pant in the wind like jackals.",
+        "id": 19
+      }
+    ],
+    "id": 18
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Their eyes fail to work, for there is no vegetation.”",
+        "id": 21
+      }
+    ],
+    "id": 20
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 7,
+        "v": "Even though our iniquities testify against us, Yahweh, act for the sake of your name.",
+        "id": 23
+      }
+    ],
+    "id": 22
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "For our faithless actions increase; we have sinned against you.",
+        "id": 25
+      }
+    ],
+    "id": 24
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 8,
+        "v": "You are the Hope of Israel, the one who saves him in the time of distress,",
+        "id": 27
+      }
+    ],
+    "id": 26
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "why will you be like a stranger in the land, like a foreign wanderer who stretches out and spends just one night?",
+        "id": 29
+      }
+    ],
+    "id": 28
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 9,
+        "v": "Why are you like someone who is astounded, or like a warrior who has no power to rescue?",
+        "id": 31
+      }
+    ],
+    "id": 30
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "You are in our midst, Yahweh, and your name is called over us. Do not leave us!",
+        "id": 33
+      }
+    ],
+    "id": 32
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 10,
+        "v": "Yahweh says this to this people: “Since they love to wander, they have not held back their feet from doing so.”",
+        "id": 35
+      }
+    ],
+    "id": 34
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Yahweh is not pleased with them. Now he calls to mind their iniquity and has punished their sins.",
+        "id": 37
+      },
+      {
+        "t": "v",
+        "n": 11,
+        "v": "Yahweh said to me, “Do not pray for good on behalf of this people.",
+        "id": 38
+      },
+      {
+        "t": "v",
+        "n": 12,
+        "v": "For if they fast, I will not listen to their wailing, and if they offer up burnt offerings and food offerings, I will not take pleasure in them. For I will put an end to them by sword, famine, and plague.”",
+        "id": 39
+      }
+    ],
+    "id": 36
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 13,
+        "v": "Then I said, “Oh, Lord Yahweh! Behold! The prophets are saying to the people, ‘You will not see the sword; there will be no famine for you, for I will give you true security in this place.’”",
+        "id": 41
+      },
+      {
+        "t": "v",
+        "n": 14,
+        "v": "Yahweh said to me, “The prophets prophesy deceit in my name. I did not send them out, nor did I give them any command or speak to them. But deceitful visions and useless, deceitful divination coming from their own minds are what they are prophesying to you.”",
+        "id": 42
+      },
+      {
+        "t": "v",
+        "n": 15,
+        "v": "Therefore Yahweh says this, “About the prophets prophesying in my name but whom I did not send out—those who say there will be no sword or famine in this land: These prophets will perish by sword and famine.",
+        "id": 43
+      },
+      {
+        "t": "v",
+        "n": 16,
+        "v": "Then the people to whom they prophesied will be thrown out in the streets of Jerusalem because of famine and sword, for there will be no one to bury them—them, their wives, their sons, or their daughters—for I will pour out their wickedness on them.",
+        "id": 44
+      }
+    ],
+    "id": 40
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 17,
+        "v": "Say this word to them: ‘Let my eyes flow with tears, night and day.",
+        "id": 46
+      }
+    ],
+    "id": 45
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Do not let them stop, for there will be a great collapse of the virgin daughter of my people—",
+        "id": 48
+      }
+    ],
+    "id": 47
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "a great and incurable wound.",
+        "id": 50
+      }
+    ],
+    "id": 49
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 18,
+        "v": "If I go out to the field, there are the ones who were killed by the sword!",
+        "id": 52
+      }
+    ],
+    "id": 51
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "If I come to the city, there are the diseases that are caused by famine.",
+        "id": 54
+      }
+    ],
+    "id": 53
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Both the prophet and the priest wander about the land, and they do not know.’”",
+        "id": 56
+      }
+    ],
+    "id": 55
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 19,
+        "v": "Have you completely rejected Judah? Do you hate Zion?",
+        "id": 58
+      }
+    ],
+    "id": 57
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Why will you afflict us when there is no healing for us? We hoped for peace, but there was nothing good—",
+        "id": 60
+      }
+    ],
+    "id": 59
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and for a time of healing, but see, there is only terror.",
+        "id": 62
+      }
+    ],
+    "id": 61
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 20,
+        "v": "We admit, Yahweh, our offenses, the iniquity of our ancestors, for we have sinned against you.",
+        "id": 64
+      }
+    ],
+    "id": 63
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 21,
+        "v": "Do not reject us! For the sake of your name, do not make your glorious throne a disgrace.",
+        "id": 66
+      }
+    ],
+    "id": 65
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Remember and do not break your covenant with us.",
+        "id": 68
+      }
+    ],
+    "id": 67
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 22,
+        "v": "Do any of the worthless idols of the nations bring rain? Or can the skies themselves send down showers?",
+        "id": 70
+      }
+    ],
+    "id": 69
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Are you not the one, Yahweh our God? We wait for you, for you are the one who does all these things.",
+        "id": 72
+      }
+    ],
+    "id": 71
+  }
+]

@@ -1,0 +1,262 @@
+[
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 1,
+        "v": "In the second year of Darius the king, in the sixth month, on the first day of the month, the word of Yahweh came by the hand of Haggai the prophet to the governor of Judah, Zerubbabel son of Shealtiel, and to the high priest Joshua son of Jehozadak, saying,",
+        "id": 1
+      },
+      {
+        "t": "v",
+        "n": 2,
+        "v": "“Yahweh of hosts says this: These people say, ‘It is not time for us to come or to build Yahweh’s house.’”",
+        "id": 2
+      },
+      {
+        "t": "v",
+        "n": 3,
+        "v": "Then the word of Yahweh came by the hand of Haggai the prophet, saying,",
+        "id": 3
+      }
+    ],
+    "id": 0
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 4,
+        "v": "“Is it a time for you yourselves to live in your finished houses,",
+        "id": 5
+      }
+    ],
+    "id": 4
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "while this house lies ruined?",
+        "id": 7
+      }
+    ],
+    "id": 6
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 5,
+        "v": "So now Yahweh of hosts says this:",
+        "id": 9
+      }
+    ],
+    "id": 8
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Consider your ways!",
+        "id": 11
+      }
+    ],
+    "id": 10
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 6,
+        "v": "You have sown much seed, but bring in little harvest; you eat but do not have enough;",
+        "id": 13
+      }
+    ],
+    "id": 12
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "you drink but cannot get drunk. You wear clothes but cannot warm yourselves,",
+        "id": 15
+      }
+    ],
+    "id": 14
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and the wage earner earns money only to put it into a bag full of holes!",
+        "id": 17
+      }
+    ],
+    "id": 16
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 7,
+        "v": "Yahweh of hosts says this:",
+        "id": 19
+      }
+    ],
+    "id": 18
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "“Consider your ways!",
+        "id": 21
+      }
+    ],
+    "id": 20
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 8,
+        "v": "Go up to the mountain, bring timber, and build my house;",
+        "id": 23
+      }
+    ],
+    "id": 22
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "then I will take pleasure in it, and I will be glorified!—says Yahweh.”",
+        "id": 25
+      }
+    ],
+    "id": 24
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 9,
+        "v": "“You looked for much, but behold! you have brought little home, for I blew it away!",
+        "id": 27
+      }
+    ],
+    "id": 26
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Why?” declares Yahweh of hosts.",
+        "id": 29
+      }
+    ],
+    "id": 28
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "“Because my house lies in ruins, while every one of you is working on his own house.",
+        "id": 31
+      }
+    ],
+    "id": 30
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 10,
+        "v": "Because of this the heavens withhold the dew from you, and the earth withholds its produce.",
+        "id": 33
+      }
+    ],
+    "id": 32
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 11,
+        "v": "I have summoned a drought upon the land and upon the mountains, upon the grain",
+        "id": 35
+      }
+    ],
+    "id": 34
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and upon the new wine, upon the oil and upon the harvest of the earth,",
+        "id": 37
+      }
+    ],
+    "id": 36
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "upon men and upon beasts, and upon all the labor of your hands!”",
+        "id": 39
+      }
+    ],
+    "id": 38
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 12,
+        "v": "Then Zerubbabel son of Shealtiel, and the high priest Joshua son of Jehozadak, along with all the remnant of the people, obeyed the voice of Yahweh their God and the words of Haggai the prophet, because Yahweh their God had sent him and the people feared the face of Yahweh.",
+        "id": 41
+      },
+      {
+        "t": "v",
+        "n": 13,
+        "v": "Then Haggai, the messenger of Yahweh, spoke Yahweh’s message to the people and said, “I am with you!—this is Yahweh’s declaration!”",
+        "id": 42
+      },
+      {
+        "t": "v",
+        "n": 14,
+        "v": "So Yahweh stirred up the spirit of the governor of Judah, Zerubbabel son of Shealtiel, and the spirit of the high priest Joshua son of Jehozadak, and the spirit of all the remnant of the people, so that they went and worked on the house of Yahweh of hosts, their God",
+        "id": 43
+      },
+      {
+        "t": "v",
+        "n": 15,
+        "v": "in the twenty-fourth day of the sixth month, in the second year of Darius the king.",
+        "id": 44
+      }
+    ],
+    "id": 40
+  }
+]

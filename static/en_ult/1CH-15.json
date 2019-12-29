@@ -1,0 +1,217 @@
+[
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 1,
+        "v": "David built houses for himself in the city of David. He prepared a place for the ark of God and set up a tent for it.",
+        "id": 1
+      },
+      {
+        "t": "v",
+        "n": 2,
+        "v": "Then David said, “Only the Levites may carry the ark of God, for they had been chosen by Yahweh to carry the ark of Yahweh, and to serve him forever.”",
+        "id": 2
+      },
+      {
+        "t": "v",
+        "n": 3,
+        "v": "Then David assembled all Israel at Jerusalem, to bring up the ark of Yahweh to the place he had prepared for it.",
+        "id": 3
+      },
+      {
+        "t": "v",
+        "n": 4,
+        "v": "David gathered together Aaron’s descendants and the Levites.",
+        "id": 4
+      },
+      {
+        "t": "v",
+        "n": 5,
+        "v": "From the descendants of Kohath, there was Uriel the leader and his relatives, 120 men.",
+        "id": 5
+      },
+      {
+        "t": "v",
+        "n": 6,
+        "v": "From the descendants of Merari, there was Asaiah the leader and his relatives, 220 men.",
+        "id": 6
+      },
+      {
+        "t": "v",
+        "n": 7,
+        "v": "From the descendants of Gershom, there was Joel the leader and his relatives, 130 men.",
+        "id": 7
+      },
+      {
+        "t": "v",
+        "n": 8,
+        "v": "From the descendants of Elizaphan, there was Shemaiah the leader and his relatives, 200 men.",
+        "id": 8
+      },
+      {
+        "t": "v",
+        "n": 9,
+        "v": "From the descendants of Hebron, there was Eliel the leader and his relatives, eighty men.",
+        "id": 9
+      },
+      {
+        "t": "v",
+        "n": 10,
+        "v": "From the descendants of Uzziel, there was Amminadab the leader and his relatives, 112 men.",
+        "id": 10
+      },
+      {
+        "t": "v",
+        "n": 11,
+        "v": "David called for Zadok and Abiathar the priests, and the Levites Uriel, Asaiah, Joel, Shemaiah, Eliel, and Amminadab.",
+        "id": 11
+      },
+      {
+        "t": "v",
+        "n": 12,
+        "v": "He said to them, “You are the leaders of the Levite families. Consecrate yourselves, both you and your brothers, so that you may bring up the ark of Yahweh, the God of Israel, to the place that I have prepared for it.",
+        "id": 12
+      },
+      {
+        "t": "v",
+        "n": 13,
+        "v": "You did not carry it the first time. That is why Yahweh our God broke out against us, for we did not seek him or obey his decree.”",
+        "id": 13
+      },
+      {
+        "t": "v",
+        "n": 14,
+        "v": "So the priests and the Levites consecrated themselves so they could bring up the ark of Yahweh, the God of Israel.",
+        "id": 14
+      },
+      {
+        "t": "v",
+        "n": 15,
+        "v": "So the Levites carried the ark of God on their shoulders with the poles, as Moses had commanded—following the rules given by the word of Yahweh.",
+        "id": 15
+      }
+    ],
+    "id": 0
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 16,
+        "v": "David spoke to the leaders of the Levites to assign their brothers to be musicians with musical instruments, stringed instruments, harps and cymbals, playing loudly and joyfully lifting up their voices.",
+        "id": 17
+      },
+      {
+        "t": "v",
+        "n": 17,
+        "v": "So the Levites appointed Heman son of Joel and one of his brothers, Asaph son of Berechiah. They also appointed kinsmen from Merari’s descendants and Ethan son of Kushaiah.",
+        "id": 18
+      },
+      {
+        "t": "v",
+        "n": 18,
+        "v": "With them were their kinsmen of second rank: Zechariah,",
+        "id": 19
+      },
+      {
+        "t": "t",
+        "v": "Jaaziel, Shemiramoth, Jehiel, Unni, Eliab, Benaiah, Maaseiah, Mattithiah, Eliphelehu, Mikneiah, Obed Edom, and Jeiel, the gatekeepers.",
+        "id": 22
+      },
+      {
+        "t": "v",
+        "n": 19,
+        "v": "The musicians Heman, Asaph, and Ethan were appointed to play loud bronze cymbals.",
+        "id": 23
+      },
+      {
+        "t": "v",
+        "n": 20,
+        "v": "Zechariah, Aziel, Shemiramoth, Jehiel, Unni, Eliab, Maaseiah, and Benaiah played the stringed instruments, set to Alamoth.",
+        "id": 24
+      },
+      {
+        "t": "v",
+        "n": 21,
+        "v": "Mattithiah, Eliphelehu, Mikneiah, Obed Edom, Jeiel, and Azaziah led the way with harps set to the Sheminith.",
+        "id": 25
+      },
+      {
+        "t": "v",
+        "n": 22,
+        "v": "Kenaniah, leader of the Levites, was the director of the singing because he was a teacher of music.",
+        "id": 26
+      },
+      {
+        "t": "v",
+        "n": 23,
+        "v": "Berechiah and Elkanah were guards for the ark.",
+        "id": 27
+      },
+      {
+        "t": "v",
+        "n": 24,
+        "v": "Shebaniah, Joshaphat, Nethanel, Amasai, Zechariah, Benaiah, and Eliezer, the priests, were to blow the trumpets before the ark of God. Obed Edom and Jehiah were guards for the ark.",
+        "id": 28
+      }
+    ],
+    "id": 16
+  },
+  {
+    "t": "f",
+    "c": "+",
+    "v": [
+      {
+        "t": "ft",
+        "v": "Some ancient manuscripts add the name or prefix “ben,” assuming perhaps the name of Zechariah’s father was left out.",
+        "id": 21
+      }
+    ],
+    "id": 20
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 25,
+        "v": "So David, the elders of Israel, and the commanders over thousands went to bring up the ark of the covenant of Yahweh out of Obed Edom’s house with rejoicing.",
+        "id": 30
+      },
+      {
+        "t": "v",
+        "n": 26,
+        "v": "While God helped the Levites who carried the ark of the covenant of Yahweh, they sacrificed seven bulls and seven rams.",
+        "id": 31
+      },
+      {
+        "t": "v",
+        "n": 27,
+        "v": "David was clothed with a robe of fine linen, as were the Levites who carried the ark, the singers, and Kenaniah, the leader of the song with the singers. David was wearing a linen ephod.",
+        "id": 32
+      },
+      {
+        "t": "v",
+        "n": 28,
+        "v": "So all Israel brought up the ark of the covenant of Yahweh with joyful shouting, and with the sound of horns and trumpets, with cymbals, and with stringed instruments and harps.",
+        "id": 33
+      }
+    ],
+    "id": 29
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 29,
+        "v": "But as the ark of the covenant of Yahweh came to the city of David, Michal daughter of Saul, looked out the window. She saw King David dancing and celebrating. Then she despised him in her heart.",
+        "id": 35
+      }
+    ],
+    "id": 34
+  }
+]

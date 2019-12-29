@@ -1,0 +1,320 @@
+[
+  {
+    "t": "p",
+    "v": [],
+    "id": 0
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 1,
+        "v": "Who is a wise man?",
+        "id": 2
+      }
+    ],
+    "id": 1
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Who knows what the events in life mean?",
+        "id": 4
+      }
+    ],
+    "id": 3
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Wisdom in a man causes his face to shine,",
+        "id": 6
+      }
+    ],
+    "id": 5
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and the hardness of his face is changed.",
+        "id": 8
+      },
+      {
+        "t": "v",
+        "n": 2,
+        "v": "I advise you to obey the king’s command because of God’s oath to protect him.",
+        "id": 9
+      },
+      {
+        "t": "v",
+        "n": 3,
+        "v": "Do not hurry out of his presence, and do not stand in support of something wrong, for the king does whatever he desires.",
+        "id": 10
+      },
+      {
+        "t": "v",
+        "n": 4,
+        "v": "The king’s word rules, so who will say to him, “What are you doing?”",
+        "id": 11
+      }
+    ],
+    "id": 7
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 5,
+        "v": "Whoever keeps the king’s commands avoids harm.",
+        "id": 13
+      }
+    ],
+    "id": 12
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "A wise man’s heart recognizes the proper course and time of action.",
+        "id": 15
+      }
+    ],
+    "id": 14
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 6,
+        "v": "For every matter there is a correct response and a time to respond,",
+        "id": 17
+      }
+    ],
+    "id": 16
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "because the troubles of man are great.",
+        "id": 19
+      }
+    ],
+    "id": 18
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 7,
+        "v": "No one knows what is coming next.",
+        "id": 21
+      }
+    ],
+    "id": 20
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Who can tell him what is coming?",
+        "id": 23
+      }
+    ],
+    "id": 22
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 8,
+        "v": "No one is ruler over his breath so as to stop the breath,",
+        "id": 25
+      }
+    ],
+    "id": 24
+  },
+  {
+    "t": "f",
+    "c": "+",
+    "v": [
+      {
+        "t": "ft",
+        "v": "Some versions have",
+        "id": 27
+      },
+      {
+        "t": "fqa",
+        "v": "No one is ruler over the wind so as to stop the wind",
+        "id": 28
+      },
+      {
+        "t": "t",
+        "v": ".",
+        "id": 29
+      }
+    ],
+    "id": 26
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and no one has power over the day of his death.",
+        "id": 31
+      }
+    ],
+    "id": 30
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "No one is discharged from the army during a battle,",
+        "id": 33
+      }
+    ],
+    "id": 32
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and wickedness will not rescue those who are its slaves.",
+        "id": 35
+      }
+    ],
+    "id": 34
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 9,
+        "v": "I have realized all this; I have applied my heart to every kind of work that is done under the sun. There is a time when a person oppresses another person to that person’s hurt.",
+        "id": 37
+      },
+      {
+        "t": "v",
+        "n": 10,
+        "v": "So I saw the wicked buried publicly. They were taken from the holy area and buried and were praised by people in the city where they had done their wicked deeds. This also is uselessness.",
+        "id": 42
+      },
+      {
+        "t": "v",
+        "n": 11,
+        "v": "When a sentence against an evil crime is not executed quickly, it entices the hearts of human beings to do evil.",
+        "id": 49
+      },
+      {
+        "t": "v",
+        "n": 12,
+        "v": "Even though a sinner does evil a hundred times and still lives a long time, yet I know that it will be better for those who respect God, for those who stand before him and show him respect.",
+        "id": 50
+      },
+      {
+        "t": "v",
+        "n": 13,
+        "v": "But it will not go well for a wicked man; his life will not be prolonged. His days are like a fleeting shadow because he does not honor God.",
+        "id": 51
+      },
+      {
+        "t": "v",
+        "n": 14,
+        "v": "There is another useless vapor—something else that is done on the earth. Things happen to righteous people as they happen to wicked people, and things happen to wicked people as they happen to righteous people. I say that this also is useless vapor.",
+        "id": 52
+      },
+      {
+        "t": "v",
+        "n": 15,
+        "v": "So I recommend happiness, because a man has no better thing under the sun than to eat and drink and to be happy. It is happiness that will accompany him in his labor for all the days of his life that God has given him under the sun.",
+        "id": 53
+      },
+      {
+        "t": "v",
+        "n": 16,
+        "v": "When I applied my heart to know wisdom and to understand the work that is done on the earth, work often done without sleep for the eyes at night or in the day,",
+        "id": 54
+      },
+      {
+        "t": "v",
+        "n": 17,
+        "v": "then I considered all of God’s deeds, and that man cannot understand the work that is done under the sun. No matter how much a man labors to find the answers, he will not find them. Even though a wise man might believe he knows, he really does not.",
+        "id": 55
+      }
+    ],
+    "id": 36
+  },
+  {
+    "t": "f",
+    "c": "+",
+    "v": [
+      {
+        "t": "ft",
+        "v": "Some modern versions have",
+        "id": 39
+      },
+      {
+        "t": "fqa",
+        "v": "to his own hurt",
+        "id": 40
+      },
+      {
+        "t": "t",
+        "v": ". The Hebrew passage can be interpreted either way.",
+        "id": 41
+      }
+    ],
+    "id": 38
+  },
+  {
+    "t": "f",
+    "c": "+",
+    "v": [
+      {
+        "t": "ft",
+        "v": "Some modern versions have other interpretations of this difficult verse:",
+        "id": 44
+      },
+      {
+        "t": "fqa",
+        "v": "I saw wicked people come and go into the holy place. They proudly spoke in the city about the things they had done. This also is uselessness",
+        "id": 45
+      },
+      {
+        "t": "t",
+        "v": ". Other versions have",
+        "id": 46
+      },
+      {
+        "t": "fqa",
+        "v": "I saw wicked people come and go into the holy place. They were praised in the city for the things they had done. This also is uselessness",
+        "id": 47
+      },
+      {
+        "t": "t",
+        "v": ".",
+        "id": 48
+      }
+    ],
+    "id": 43
+  }
+]

@@ -1,0 +1,293 @@
+[
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 1,
+        "v": "This is the message of Jeremiah son of Hilkiah, who wrote this. He was a priest, from the town of Anathoth in the area where the tribe of Benjamin lives.",
+        "id": 1
+      },
+      {
+        "t": "v",
+        "n": 2,
+        "v": "Yahweh started to give him these messages when Josiah had been ruling Judah for almost thirteen years.",
+        "id": 2
+      },
+      {
+        "t": "v",
+        "n": 3,
+        "v": "Yahweh continued to give him messages when Josiah’s son Jehoiakim was the king, and he continued to do that until Zedekiah had been the king of Judah for almost eleven years. It was in the fifth month of that year that the people of Jerusalem were exiled to Babylonia.",
+        "id": 3
+      }
+    ],
+    "id": 0
+  },
+  {
+    "t": "m",
+    "v": [
+      {
+        "t": "v",
+        "n": 4,
+        "v": "One day Yahweh gave me this message,",
+        "id": 5
+      }
+    ],
+    "id": 4
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 5,
+        "v": "“I knew you before I finished forming you in your mother’s womb.",
+        "id": 7
+      }
+    ],
+    "id": 6
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "I set you apart for my honor before you were born,",
+        "id": 9
+      }
+    ],
+    "id": 8
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and I appointed you to be my prophet for all the nations.”",
+        "id": 11
+      }
+    ],
+    "id": 10
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 6,
+        "v": "I replied, “O, Yahweh my God, do you not see that I am not qualified to speak for you? I am very young!”",
+        "id": 13
+      }
+    ],
+    "id": 12
+  },
+  {
+    "t": "m",
+    "v": [
+      {
+        "t": "v",
+        "n": 7,
+        "v": "Yahweh replied, “Do not say that you are too young, because you must go to everyone to whom I will send you, and you must tell them everything that I tell you to say.",
+        "id": 15
+      },
+      {
+        "t": "v",
+        "n": 8,
+        "v": "And you must not be afraid of the people to whom you will speak, because I will protect you from being harmed by them. This will surely happen because I, Yahweh, have said it!”",
+        "id": 16
+      }
+    ],
+    "id": 14
+  },
+  {
+    "t": "m",
+    "v": [
+      {
+        "t": "v",
+        "n": 9,
+        "v": "Then it was as though Yahweh touched my mouth and said, “Listen to me! I have put my message into your mouth.",
+        "id": 18
+      },
+      {
+        "t": "v",
+        "n": 10,
+        "v": "Today I am appointing you to warn nations and kingdoms. You will tell them that I will completely destroy and get rid of some of them and that I will establish others and cause them to be prosperous.”",
+        "id": 19
+      }
+    ],
+    "id": 17
+  },
+  {
+    "t": "m",
+    "v": [
+      {
+        "t": "v",
+        "n": 11,
+        "v": "Then Yahweh showed something to me, and said, “Jeremiah, what do you see?”",
+        "id": 21
+      }
+    ],
+    "id": 20
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "t",
+        "v": "I replied, “I see a branch from an almond tree.”",
+        "id": 23
+      }
+    ],
+    "id": 22
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 12,
+        "v": "Yahweh said, “That is correct. And because the word for ‘almond’ resembles the word for ‘watching’, it means that I am watching what will happen, and I will make certain that what I have said to you about destroying nations will happen.”",
+        "id": 25
+      }
+    ],
+    "id": 24
+  },
+  {
+    "t": "m",
+    "v": [
+      {
+        "t": "v",
+        "n": 13,
+        "v": "Then Yahweh spoke to me again and said, “What do you see now?”",
+        "id": 27
+      }
+    ],
+    "id": 26
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "t",
+        "v": "I replied, “I see a pot full of boiling water. It is in the north, tipping toward me.”",
+        "id": 29
+      }
+    ],
+    "id": 28
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 14,
+        "v": "Yahweh replied, “Yes! It means that from the north great trouble will spread over this land, like boiling water pouring from a pot.",
+        "id": 31
+      }
+    ],
+    "id": 30
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 15,
+        "v": "Listen to what I say:",
+        "id": 33
+      }
+    ],
+    "id": 32
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "I am summoning the armies of the kingdoms that are north of Judah to come to Jerusalem.",
+        "id": 35
+      }
+    ],
+    "id": 34
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Their kings will set up their thrones at the gates of this city to indicate that they are now the kings of Judah.",
+        "id": 37
+      }
+    ],
+    "id": 36
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Their armies will attack and break down the walls of this city, and they will do the same thing to all the other towns in Judah.",
+        "id": 39
+      }
+    ],
+    "id": 38
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 16,
+        "v": "I will punish my people because of all the evil things that they have done;",
+        "id": 41
+      }
+    ],
+    "id": 40
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "they have abandoned me and they offer offerings of worship to false gods.",
+        "id": 43
+      }
+    ],
+    "id": 42
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "They worship idols that they have made with their own hands!",
+        "id": 45
+      }
+    ],
+    "id": 44
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 17,
+        "v": "So, get up and put on your clothes to get ready for action! Then go to the people of Judah and tell them everything that I tell you to say. Do not be afraid of them, because if you are afraid of them, I will punish you as an example right in front of them!",
+        "id": 47
+      },
+      {
+        "t": "v",
+        "n": 18,
+        "v": "But listen! I will cause you to be strong, like a city that has strong walls around it. You will be as strong as an iron pillar or a bronze wall. Even the royal officials, the priests, and the general populace will not be able to defeat you.",
+        "id": 48
+      },
+      {
+        "t": "v",
+        "n": 19,
+        "v": "They will oppose you, but they will not be able to defeat you, because I will be with you and will protect you. That will surely happen because I, Yahweh, have said it!”",
+        "id": 49
+      }
+    ],
+    "id": 46
+  }
+]

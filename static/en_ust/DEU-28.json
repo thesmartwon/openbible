@@ -1,0 +1,979 @@
+[
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 1,
+        "v": "“If you do what Yahweh our God tells you to do and faithfully obey everything that I am today commanding you to do, he will cause you to become greater than any other nation on the earth.",
+        "id": 1
+      },
+      {
+        "t": "v",
+        "n": 2,
+        "v": "If you obey Yahweh, all these blessings will come to you.",
+        "id": 2
+      }
+    ],
+    "id": 0
+  },
+  {
+    "t": "pi",
+    "v": [
+      {
+        "t": "v",
+        "n": 3,
+        "v": "He will bless everything that you do when you are in the cities",
+        "id": 4
+      }
+    ],
+    "id": 3
+  },
+  {
+    "t": "pi",
+    "v": [
+      {
+        "t": "t",
+        "v": "and he will bless every thing that you do when you are working in the fields.",
+        "id": 6
+      }
+    ],
+    "id": 5
+  },
+  {
+    "t": "pi",
+    "v": [
+      {
+        "t": "v",
+        "n": 4,
+        "v": "He will bless you by giving you many children and by giving you abundant crops, and plenty of cattle and sheep.",
+        "id": 8
+      }
+    ],
+    "id": 7
+  },
+  {
+    "t": "pi",
+    "v": [
+      {
+        "t": "v",
+        "n": 5,
+        "v": "He will bless you by giving you plenty of grain to make bread.",
+        "id": 10
+      }
+    ],
+    "id": 9
+  },
+  {
+    "t": "pi",
+    "v": [
+      {
+        "t": "v",
+        "n": 6,
+        "v": "He will bless you everywhere—when you go out of your houses and when you come into your houses.",
+        "id": 12
+      }
+    ],
+    "id": 11
+  },
+  {
+    "t": "pi",
+    "v": [
+      {
+        "t": "v",
+        "n": 7,
+        "v": "Yahweh will enable you to defeat the armies of your enemies;",
+        "id": 14
+      }
+    ],
+    "id": 13
+  },
+  {
+    "t": "pi",
+    "v": [
+      {
+        "t": "t",
+        "v": "they will attack you from one direction, but they will run away from you in seven directions.",
+        "id": 16
+      }
+    ],
+    "id": 15
+  },
+  {
+    "t": "pi",
+    "v": [
+      {
+        "t": "v",
+        "n": 8,
+        "v": "Yahweh will bless you by filling your barns with grain, and he will bless all the work that you do;",
+        "id": 18
+      }
+    ],
+    "id": 17
+  },
+  {
+    "t": "pi",
+    "v": [
+      {
+        "t": "t",
+        "v": "he will bless you in the land that he is giving to you.",
+        "id": 20
+      }
+    ],
+    "id": 19
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 9,
+        "v": "If you obey all the commandments that Yahweh our God has given to you and if you live your lives by following his commandments, he will make you his own, his holy people, which is just as he promised.",
+        "id": 22
+      }
+    ],
+    "id": 21
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 10,
+        "v": "Then all the people groups on the earth will realize that you belong to Yahweh, and they will be afraid of you.",
+        "id": 24
+      }
+    ],
+    "id": 23
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 11,
+        "v": "And Yahweh will cause you to prosper very much. He will give you many children, many cattle, and abundant crops in the land that he solemnly promised to our ancestors that he would give to you.",
+        "id": 26
+      }
+    ],
+    "id": 25
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 12,
+        "v": "At the time that rain is needed, Yahweh will send it from where he stores it in the sky, and he will bless all your work, with the result that you will be able to lend money to many other nations, but you will not need to borrow money from them.",
+        "id": 28
+      }
+    ],
+    "id": 27
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 13,
+        "v": "If you faithfully obey all of the commands of Yahweh our God that I am giving you today, Yahweh will cause your nation to be superior to other nations, not inferior to them; you will always be prosperous and you will never be needy.",
+        "id": 30
+      }
+    ],
+    "id": 29
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 14,
+        "v": "Yahweh will do all these things for you if you do not stop obeying what I am commanding you today, and if you never worship other gods.",
+        "id": 32
+      }
+    ],
+    "id": 31
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 15,
+        "v": "But if you do not do what Yahweh our God is telling you to do, and if you do not faithfully obey all his rules and regulations that I am giving to you today, he will bring these curses upon you and he will let them have their full force against you.",
+        "id": 34
+      }
+    ],
+    "id": 33
+  },
+  {
+    "t": "pi",
+    "v": [
+      {
+        "t": "v",
+        "n": 16,
+        "v": "He will curse you when you are in the cities",
+        "id": 36
+      }
+    ],
+    "id": 35
+  },
+  {
+    "t": "pi",
+    "v": [
+      {
+        "t": "t",
+        "v": "and he will curse you when you are working in the fields.",
+        "id": 38
+      }
+    ],
+    "id": 37
+  },
+  {
+    "t": "pi",
+    "v": [
+      {
+        "t": "v",
+        "n": 17,
+        "v": "He will curse you by not giving you much grain to make bread.",
+        "id": 40
+      }
+    ],
+    "id": 39
+  },
+  {
+    "t": "pi",
+    "v": [
+      {
+        "t": "v",
+        "n": 18,
+        "v": "He will curse you by giving you only a few children, by giving you poor crops, and by not giving you many cattle and sheep.",
+        "id": 42
+      }
+    ],
+    "id": 41
+  },
+  {
+    "t": "pi",
+    "v": [
+      {
+        "t": "v",
+        "n": 19,
+        "v": "He will curse you everywhere—when you go out of your houses and when you come into your houses.",
+        "id": 44
+      }
+    ],
+    "id": 43
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 20,
+        "v": "If you do evil things and reject Yahweh,",
+        "id": 46
+      }
+    ],
+    "id": 45
+  },
+  {
+    "t": "pi",
+    "v": [
+      {
+        "t": "t",
+        "v": "he will curse you by causing you to be confused, and to be frustrated in all that you do,",
+        "id": 48
+      }
+    ],
+    "id": 47
+  },
+  {
+    "t": "pi",
+    "v": [
+      {
+        "t": "t",
+        "v": "until your enemies quickly and completely destroy you .",
+        "id": 50
+      }
+    ],
+    "id": 49
+  },
+  {
+    "t": "pi",
+    "v": [
+      {
+        "t": "v",
+        "n": 21,
+        "v": "Yahweh will send terrible diseases on you,",
+        "id": 52
+      }
+    ],
+    "id": 51
+  },
+  {
+    "t": "pi",
+    "v": [
+      {
+        "t": "t",
+        "v": "until not one of you remains alive in the land that you are about to enter and occupy.",
+        "id": 54
+      }
+    ],
+    "id": 53
+  },
+  {
+    "t": "pi",
+    "v": [
+      {
+        "t": "v",
+        "n": 22,
+        "v": "Yahweh will afflict you with diseases that shrivel your bodies, with fever, with inflammation.",
+        "id": 56
+      }
+    ],
+    "id": 55
+  },
+  {
+    "t": "pi",
+    "v": [
+      {
+        "t": "t",
+        "v": "It will be extremely hot, and it will not rain.",
+        "id": 58
+      }
+    ],
+    "id": 57
+  },
+  {
+    "t": "pi",
+    "v": [
+      {
+        "t": "t",
+        "v": "There will be scorching winds, and he will cause your crops to rot.",
+        "id": 60
+      }
+    ],
+    "id": 59
+  },
+  {
+    "t": "pi",
+    "v": [
+      {
+        "t": "t",
+        "v": "All these things will strike you until you die.",
+        "id": 62
+      }
+    ],
+    "id": 61
+  },
+  {
+    "t": "pi",
+    "v": [
+      {
+        "t": "v",
+        "n": 23,
+        "v": "No rain will fall from the sky, with the result that the ground will be as hard as iron.",
+        "id": 64
+      }
+    ],
+    "id": 63
+  },
+  {
+    "t": "pi",
+    "v": [
+      {
+        "t": "v",
+        "n": 24,
+        "v": "Instead of sending rain, Yahweh will send strong winds to blow sand and dust over your land, until your land is ruined.",
+        "id": 66
+      }
+    ],
+    "id": 65
+  },
+  {
+    "t": "pi",
+    "v": [
+      {
+        "t": "v",
+        "n": 25,
+        "v": "Yahweh will enable your enemies to defeat you;",
+        "id": 68
+      }
+    ],
+    "id": 67
+  },
+  {
+    "t": "pi",
+    "v": [
+      {
+        "t": "t",
+        "v": "your soldiers will attack them from one direction, but will run away from them in seven directions,",
+        "id": 70
+      }
+    ],
+    "id": 69
+  },
+  {
+    "t": "pi",
+    "v": [
+      {
+        "t": "t",
+        "v": "and when the people of other nations see what is happening to you, they will say that it is horrible.",
+        "id": 72
+      }
+    ],
+    "id": 71
+  },
+  {
+    "t": "pi",
+    "v": [
+      {
+        "t": "v",
+        "n": 26,
+        "v": "You will die, and birds and wild animals will come and eat your corpses,",
+        "id": 74
+      }
+    ],
+    "id": 73
+  },
+  {
+    "t": "pi",
+    "v": [
+      {
+        "t": "t",
+        "v": "and there will not be anyone to scare them away.",
+        "id": 76
+      }
+    ],
+    "id": 75
+  },
+  {
+    "t": "pi",
+    "v": [
+      {
+        "t": "v",
+        "n": 27,
+        "v": "Yahweh will cause you to have boils on your skin, like he caused the people of Egypt to have many years ago.",
+        "id": 78
+      }
+    ],
+    "id": 77
+  },
+  {
+    "t": "pi",
+    "v": [
+      {
+        "t": "t",
+        "v": "He will cause you to have tumors, open sores, and your skin will itch, but there will be nothing that will cure those diseases.",
+        "id": 80
+      }
+    ],
+    "id": 79
+  },
+  {
+    "t": "pi",
+    "v": [
+      {
+        "t": "v",
+        "n": 28,
+        "v": "Yahweh will cause some of you to become insane; he will cause some of you to become blind, and he will cause some of your minds to become confused.",
+        "id": 82
+      }
+    ],
+    "id": 81
+  },
+  {
+    "t": "pi",
+    "v": [
+      {
+        "t": "v",
+        "n": 29,
+        "v": "Because you will not be able to see where you are going, at midday you will grope around with your hands, like people do in the darkness.",
+        "id": 84
+      }
+    ],
+    "id": 83
+  },
+  {
+    "t": "pi",
+    "v": [
+      {
+        "t": "t",
+        "v": "You will not prosper in anything that you do.",
+        "id": 86
+      }
+    ],
+    "id": 85
+  },
+  {
+    "t": "pi",
+    "v": [
+      {
+        "t": "t",
+        "v": "You will continually be oppressed and robbed, and there will not be anyone to help you.",
+        "id": 88
+      }
+    ],
+    "id": 87
+  },
+  {
+    "t": "pi",
+    "v": [
+      {
+        "t": "v",
+        "n": 30,
+        "v": "Some of you men will be engaged to marry a young woman, but someone else will forcibly sleep with her.",
+        "id": 90
+      }
+    ],
+    "id": 89
+  },
+  {
+    "t": "pi",
+    "v": [
+      {
+        "t": "t",
+        "v": "You will build houses, but you will never live in them.",
+        "id": 92
+      }
+    ],
+    "id": 91
+  },
+  {
+    "t": "pi",
+    "v": [
+      {
+        "t": "t",
+        "v": "You will plant grapevines, but you will not eat the grapes; someone else will eat them.",
+        "id": 94
+      }
+    ],
+    "id": 93
+  },
+  {
+    "t": "pi",
+    "v": [
+      {
+        "t": "v",
+        "n": 31,
+        "v": "Your enemies will butcher your cattle while you watch them, and you will not get any of the meat to eat.",
+        "id": 96
+      }
+    ],
+    "id": 95
+  },
+  {
+    "t": "pi",
+    "v": [
+      {
+        "t": "t",
+        "v": "They will drag away your donkeys while you watch them do it, and they will not give them back to you.",
+        "id": 98
+      }
+    ],
+    "id": 97
+  },
+  {
+    "t": "pi",
+    "v": [
+      {
+        "t": "t",
+        "v": "They will take away your sheep; and there will not be anyone to help you rescue them.",
+        "id": 100
+      }
+    ],
+    "id": 99
+  },
+  {
+    "t": "pi",
+    "v": [
+      {
+        "t": "v",
+        "n": 32,
+        "v": "While you watch, your sons and daughters will be given to foreigners to become their slaves. Every day you will watch for your children to return, but you will watch in vain.",
+        "id": 102
+      }
+    ],
+    "id": 101
+  },
+  {
+    "t": "pi",
+    "v": [
+      {
+        "t": "v",
+        "n": 33,
+        "v": "People from a foreign nation will take all the crops that you worked hard to produce,",
+        "id": 104
+      }
+    ],
+    "id": 103
+  },
+  {
+    "t": "pi",
+    "v": [
+      {
+        "t": "t",
+        "v": "and they will constantly treat you harshly and cruelly.",
+        "id": 106
+      }
+    ],
+    "id": 105
+  },
+  {
+    "t": "pi",
+    "v": [
+      {
+        "t": "v",
+        "n": 34,
+        "v": "The result will be that all these terrible things that you see will cause you to become insane.",
+        "id": 108
+      }
+    ],
+    "id": 107
+  },
+  {
+    "t": "pi",
+    "v": [
+      {
+        "t": "v",
+        "n": 35,
+        "v": "Yahweh will cause your legs to be covered with painful boils that cannot be healed,",
+        "id": 110
+      }
+    ],
+    "id": 109
+  },
+  {
+    "t": "pi",
+    "v": [
+      {
+        "t": "t",
+        "v": "and you will have boils from the bottom of your feet to the top of your head.",
+        "id": 112
+      }
+    ],
+    "id": 111
+  },
+  {
+    "t": "pi",
+    "v": [
+      {
+        "t": "v",
+        "n": 36,
+        "v": "Yahweh will cause your king and the rest of you to be taken to another country, to a place in which you and your ancestors have never lived,",
+        "id": 114
+      }
+    ],
+    "id": 113
+  },
+  {
+    "t": "pi",
+    "v": [
+      {
+        "t": "t",
+        "v": "and there you will worship and serve gods that are made of wood or stone.",
+        "id": 116
+      }
+    ],
+    "id": 115
+  },
+  {
+    "t": "pi",
+    "v": [
+      {
+        "t": "v",
+        "n": 37,
+        "v": "When the people groups in nearby countries see what has happened to you, they will be shocked;",
+        "id": 118
+      }
+    ],
+    "id": 117
+  },
+  {
+    "t": "pi",
+    "v": [
+      {
+        "t": "t",
+        "v": "they will taunt you and make fun of you in every place where Yahweh drives you.",
+        "id": 120
+      }
+    ],
+    "id": 119
+  },
+  {
+    "t": "pi",
+    "v": [
+      {
+        "t": "v",
+        "n": 38,
+        "v": "You will plant plenty of seeds in your fields, but you will reap only a small harvest, because locusts will eat the crops.",
+        "id": 122
+      }
+    ],
+    "id": 121
+  },
+  {
+    "t": "pi",
+    "v": [
+      {
+        "t": "v",
+        "n": 39,
+        "v": "You will plant grapevines and take care of them, but you will not pick any grapes to make wine, because worms will eat the vines.",
+        "id": 124
+      }
+    ],
+    "id": 123
+  },
+  {
+    "t": "pi",
+    "v": [
+      {
+        "t": "v",
+        "n": 40,
+        "v": "Olive trees will grow everywhere in your land, but you will not get any olive oil to rub on your skin because the olives will drop on the ground before they are ripe.",
+        "id": 126
+      }
+    ],
+    "id": 125
+  },
+  {
+    "t": "pi",
+    "v": [
+      {
+        "t": "v",
+        "n": 41,
+        "v": "You will have sons and daughters, but they will not stay with you, because they will be captured and taken away.",
+        "id": 128
+      }
+    ],
+    "id": 127
+  },
+  {
+    "t": "pi",
+    "v": [
+      {
+        "t": "v",
+        "n": 42,
+        "v": "Swarms of locusts will eat your crops and the leaves of all your trees.",
+        "id": 130
+      }
+    ],
+    "id": 129
+  },
+  {
+    "t": "pi",
+    "v": [
+      {
+        "t": "v",
+        "n": 43,
+        "v": "Foreigners who live in your land will become more and more powerful, and you will become less and less powerful.",
+        "id": 132
+      }
+    ],
+    "id": 131
+  },
+  {
+    "t": "pi",
+    "v": [
+      {
+        "t": "v",
+        "n": 44,
+        "v": "They will have money to lend to you, but you will not have any money to lend to them.",
+        "id": 134
+      }
+    ],
+    "id": 133
+  },
+  {
+    "t": "pi",
+    "v": [
+      {
+        "t": "t",
+        "v": "They will be superior to you, and you will be inferior to them.",
+        "id": 136
+      }
+    ],
+    "id": 135
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 45,
+        "v": "All these disasters will happen to you and continue to happen to you until you are destroyed, if you do not do what Yahweh your God told you to do, and do not obey all the rules and regulations that he gave to you.",
+        "id": 138
+      }
+    ],
+    "id": 137
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 46,
+        "v": "These disasters will solemnly warn you and your descendants forever what happens to groups who disobey Yahweh.",
+        "id": 140
+      }
+    ],
+    "id": 139
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 47,
+        "v": "Because Yahweh blessed you abundantly in many ways, you should have served him very joyfully, but you did not do that.",
+        "id": 142
+      }
+    ],
+    "id": 141
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 48,
+        "v": "Therefore, you will work for the enemies whom Yahweh will send to attack you. You will be hungry and thirsty; you will not have clothes to wear; and you will lack everything else that you need. And Yahweh will cause you to become slaves and work hard until he destroys you.",
+        "id": 144
+      }
+    ],
+    "id": 143
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 49,
+        "v": "Yahweh will bring against you an army from very far away, soldiers who speak a language that you do not understand. They will swoop down on you quickly like an eagle.",
+        "id": 146
+      },
+      {
+        "t": "v",
+        "n": 50,
+        "v": "They will be fierce looking. They will not act mercifully toward anyone, not even young children and old people.",
+        "id": 147
+      },
+      {
+        "t": "v",
+        "n": 51,
+        "v": "They will kill and eat your livestock, and they will eat your crops, and you will starve. They will not leave for you any grain or wine or olive oil or cattle or sheep; and you will all die from hunger.",
+        "id": 148
+      },
+      {
+        "t": "v",
+        "n": 52,
+        "v": "Your enemies will surround your towns throughout the land that Yahweh your God is about to give to you, and they will break down the high and strong walls around your towns, walls which you trusted would protect you.",
+        "id": 149
+      }
+    ],
+    "id": 145
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 53,
+        "v": "When your enemies are surrounding your towns, you will be extremely hungry, with the result that you will eat the flesh of your own sons and daughters that Yahweh your God has given to you.",
+        "id": 151
+      },
+      {
+        "t": "v",
+        "n": 54,
+        "v": "When your enemies have surrounded your towns, even the most gentle and sensitive men among you will want food very desperately, with the result that they will kill their own children and eat their flesh, because they will not have anything else to eat. They will not even share any of it with their brothers or wives whom they love very much or with any of their other children who are still alive.",
+        "id": 152
+      },
+      {
+        "t": "v",
+        "n": 56,
+        "v": "Even the most gentle and kind women among you, who are very rich with the result that they have never been forced to walk anywhere, will do the same thing. When your enemies have surrounded your towns, those women will be extremely hungry, with the result that after they give birth to a child, they will secretly kill the baby and eat its flesh and also eat the afterbirth. And they will not share any of it with their husbands whom they love very much or with any of their other children.",
+        "id": 153
+      }
+    ],
+    "id": 150
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 58,
+        "v": "If you do not faithfully obey all of the laws that I am writing, and if you do not have the utmost respect for Yahweh our glorious God,",
+        "id": 155
+      },
+      {
+        "t": "v",
+        "n": 59,
+        "v": "he will punish you by sending on you and on your descendants great afflictions and plagues which will last for many years.",
+        "id": 156
+      },
+      {
+        "t": "v",
+        "n": 60,
+        "v": "He will bring on you the plagues that he sent on the people of Egypt, and you will never be healed.",
+        "id": 157
+      },
+      {
+        "t": "v",
+        "n": 61,
+        "v": "He will also send on you many other sicknesses and diseases that I have not talked about in these laws, until you all will die.",
+        "id": 158
+      },
+      {
+        "t": "v",
+        "n": 62,
+        "v": "You became as numerous as the stars in the sky, but only a few of you will remain alive, if you do not obey Yahweh your God.",
+        "id": 159
+      },
+      {
+        "t": "v",
+        "n": 63,
+        "v": "Yahweh was very happy to do good things for you and to cause you to become very numerous, but now he will be happy to ruin you and get rid of you. Those of you who do not die from these plagues will be snatched away from the land that you will soon be entering to possess.",
+        "id": 160
+      }
+    ],
+    "id": 154
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 64,
+        "v": "Yahweh will scatter you among many people groups, all over the earth, and in those places you will worship other gods that are made of wood or stone, gods which you and your ancestors have never known.",
+        "id": 162
+      },
+      {
+        "t": "v",
+        "n": 65,
+        "v": "In those areas you will not have any peace. You will feel hopeless and be discouraged.",
+        "id": 163
+      },
+      {
+        "t": "v",
+        "n": 66,
+        "v": "You will always be afraid that your enemies will kill you. You will be very fearful, all day and all night.",
+        "id": 164
+      },
+      {
+        "t": "v",
+        "n": 67,
+        "v": "Because you will be very fearful and because you will very distressed because of the terrible things that you see, each morning you will say ‘I wish it were evening already!’ and each evening you will say ‘I wish it were morning already!’",
+        "id": 165
+      },
+      {
+        "t": "v",
+        "n": 68,
+        "v": "Yahweh will send some of you back to Egypt in ships, even though he promised that you would never be forced to go there again. There in Egypt you will try to sell yourselves to become slaves of your enemies in order to have food to eat, but no one will buy you.”",
+        "id": 166
+      }
+    ],
+    "id": 161
+  }
+]

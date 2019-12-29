@@ -1,0 +1,588 @@
+[
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 1,
+        "v": "David went to the city of Ziklag to escape from King Saul. While he was there, many warriors came and joined him, and they helped him when he fought battles.",
+        "id": 1
+      },
+      {
+        "t": "v",
+        "n": 2,
+        "v": "They carried bows and arrows. They were able to shoot arrows and to sling stones. They could use either their right arms or their left arms to do that. They were relatives of Saul from the tribe of Benjamin.",
+        "id": 2
+      }
+    ],
+    "id": 0
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 3,
+        "v": "Their leader was Ahiezer. Next in command was Joash. They were both sons of Shemaah from the city of Gibeah. These are the names of some of those warriors:",
+        "id": 4
+      }
+    ],
+    "id": 3
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Jeziel and Pelet, sons of Azmaveth;",
+        "id": 6
+      }
+    ],
+    "id": 5
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Berakah;",
+        "id": 8
+      }
+    ],
+    "id": 7
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Jehu from the city of Anathoth;",
+        "id": 10
+      }
+    ],
+    "id": 9
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 4,
+        "v": "Ishmaiah from the city of Gibeon, who was the leader of the thirty greatest warriors;",
+        "id": 12
+      }
+    ],
+    "id": 11
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Jeremiah, Jahaziel, Johanan, and Jozabad from the city of Gederah;",
+        "id": 14
+      }
+    ],
+    "id": 13
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 5,
+        "v": "Eluzai, Jerimoth, Bealiah, Shemariah, and Shephatiah from the city of Haruph;",
+        "id": 16
+      }
+    ],
+    "id": 15
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 6,
+        "v": "Elkanah, Isshiah, Azarel, Joezer and Jashobeam, who were descendants of Korah;",
+        "id": 18
+      }
+    ],
+    "id": 17
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 7,
+        "v": "Joelah and Zebadiah, sons of Jeroham, from the city of Gedor.",
+        "id": 20
+      }
+    ],
+    "id": 19
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 8,
+        "v": "Some men from the tribe of Gad east of the Jordan River joined David when he was at his fortress in the caves in the desert. They were brave warriors who were trained for fighting battles and able to use shields and spears well. They were as fierce as lions, and they could run as fast as deer on the hills.",
+        "id": 22
+      }
+    ],
+    "id": 21
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 9,
+        "v": "Ezer was their leader.",
+        "id": 24
+      }
+    ],
+    "id": 23
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Next in command was Obadiah.",
+        "id": 26
+      }
+    ],
+    "id": 25
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Next was Eliab.",
+        "id": 28
+      }
+    ],
+    "id": 27
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 10,
+        "v": "Next was Mishmannah.",
+        "id": 30
+      }
+    ],
+    "id": 29
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Next was Jeremiah.",
+        "id": 32
+      }
+    ],
+    "id": 31
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 11,
+        "v": "Next was Attai.",
+        "id": 34
+      }
+    ],
+    "id": 33
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Next was Eliel.",
+        "id": 36
+      }
+    ],
+    "id": 35
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 12,
+        "v": "Next was Johanan.",
+        "id": 38
+      }
+    ],
+    "id": 37
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Next was Elzabad.",
+        "id": 40
+      }
+    ],
+    "id": 39
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 13,
+        "v": "Next was another man whose name was Jeremiah.",
+        "id": 42
+      }
+    ],
+    "id": 41
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "The last was Macbannai.",
+        "id": 44
+      }
+    ],
+    "id": 43
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 14,
+        "v": "Those men from the tribe of Gad were all army officers. Some of them commanded one thousand soldiers, and some of them commanded one hundred soldiers.",
+        "id": 46
+      },
+      {
+        "t": "v",
+        "n": 15,
+        "v": "They crossed to the west side of the Jordan River during March, at the time of the year when the river was flooded. They chased from there all the people who lived in the valleys on both sides of the river.",
+        "id": 47
+      }
+    ],
+    "id": 45
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 16,
+        "v": "Some other men from the tribe of Benjamin and from Judah also came to David in his fortress.",
+        "id": 49
+      },
+      {
+        "t": "v",
+        "n": 17,
+        "v": "David went out of the cave to meet them and said to them, “If you have come peacefully to help me, I am eager to have to join with me. But if you have come to enable my enemies to capture me, even though I have not done anything to harm you, I hope that the God whom our ancestors worshiped will see it and condemn you.”",
+        "id": 50
+      }
+    ],
+    "id": 48
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 18,
+        "v": "Then God’s Spirit came on Amasai, who was the leader of the thirty greatest warriors, and he said,",
+        "id": 52
+      }
+    ],
+    "id": 51
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "“David, we want to be with you;",
+        "id": 54
+      }
+    ],
+    "id": 53
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "you who are the son of Jesse, we will join you.",
+        "id": 56
+      }
+    ],
+    "id": 55
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "We know that things will go very well for you and for those who are with you,",
+        "id": 58
+      }
+    ],
+    "id": 57
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "because your God is helping you.” So David welcomed those men, and he appointed them to be leaders of his soldiers.",
+        "id": 60
+      }
+    ],
+    "id": 59
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 19,
+        "v": "Some men from the tribe of Manasseh also joined David when he went with the soldiers of Philistia to fight against Saul’s army. But David and his men did not really help the army of Philistia. After the leaders of Philistia talked about David and his soldiers, they sent David away. They said, “If David joins his master Saul again, we will all be killed.”",
+        "id": 62
+      },
+      {
+        "t": "v",
+        "n": 20,
+        "v": "When David went to Ziklag, these were the men from the tribe of Manasseh who went with him: Adnah, Jozabad, Jediael, Michael, another man whose name was Jozabad, Elihu, and Zillethai. Each of them had been a commander of one thousand men in Saul’s army.",
+        "id": 63
+      },
+      {
+        "t": "v",
+        "n": 21,
+        "v": "They were all brave soldiers, and they helped David to fight against the groups of men who roamed throughout the country, robbing people. So those men became commanders in David’s army.",
+        "id": 64
+      },
+      {
+        "t": "v",
+        "n": 22,
+        "v": "Every day more men joined David’s men, and his army became large, like the army of God.",
+        "id": 65
+      }
+    ],
+    "id": 61
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 23,
+        "v": "These are the numbers of soldiers who were ready for battle who joined David at the city of Hebron. They came to help him to become the king of Israel instead of Saul, as Yahweh had promised would happen.",
+        "id": 67
+      }
+    ],
+    "id": 66
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 24,
+        "v": "There were 6,800 men from Judah, who carried shields and spears.",
+        "id": 69
+      }
+    ],
+    "id": 68
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 25,
+        "v": "There were 7,100 men from the tribe of Simeon. They were all strong warriors trained to fight battles.",
+        "id": 71
+      }
+    ],
+    "id": 70
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 26,
+        "v": "There were 4,600 men from the tribe of Levi.",
+        "id": 73
+      }
+    ],
+    "id": 72
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 27,
+        "v": "Jehoiada, who was a leader descended from Aaron, was in that group of descendants of Levi, and there were 3,700 men with him.",
+        "id": 75
+      }
+    ],
+    "id": 74
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 28,
+        "v": "Zadok, a strong young soldier, was also in that group, and there were 22 other leaders from his clan who came with him.",
+        "id": 77
+      }
+    ],
+    "id": 76
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 29,
+        "v": "There were three thousand men from the tribe of Benjamin who were Saul’s relatives. Most of them had previously wanted one of Saul’s descendants to be the king.",
+        "id": 79
+      }
+    ],
+    "id": 78
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 30,
+        "v": "There were 20,800 men from the tribe of Ephraim who were all brave warriors and trained for fighting battles and famous in their own clans.",
+        "id": 81
+      }
+    ],
+    "id": 80
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 31,
+        "v": "There were eighteen thousand men from the half of the tribe of Manasseh that lived west of the Jordan River. They were all chosen to go and help David become the king.",
+        "id": 83
+      }
+    ],
+    "id": 82
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 32,
+        "v": "There were two hundred men who were leaders from the tribe of Issachar along with their relatives. They always knew what the Israelites should do, and they knew the right time to do it. Their relatives were with them, commanded by their leaders.",
+        "id": 85
+      }
+    ],
+    "id": 84
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 33,
+        "v": "There were fifty-five thousand men from the tribe of Zebulun. They were all experienced warriors and knew how to use all kinds of weapons well. They were completely loyal to David.",
+        "id": 87
+      }
+    ],
+    "id": 86
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 34,
+        "v": "There were one thousand officers from the tribe of Naphtali. With them were thirty-seven thousand soldiers, each carrying shields and spears.",
+        "id": 89
+      }
+    ],
+    "id": 88
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 35,
+        "v": "There were 28,600 soldiers from the tribe of Dan, all trained to fight battles.",
+        "id": 91
+      }
+    ],
+    "id": 90
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 36,
+        "v": "There were forty-seven thousand experienced soldiers from the tribe of Asher, all trained to fight battles.",
+        "id": 93
+      }
+    ],
+    "id": 92
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 37,
+        "v": "There were also 120,000 soldiers from the area east of the Jordan River who joined David. They were from the tribes of Reuben, Gad, and the eastern half of the tribe of Manasseh. They had all kinds of weapons.",
+        "id": 95
+      }
+    ],
+    "id": 94
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 38,
+        "v": "All those men were soldiers who volunteered to be in David’s army. They came to Hebron wanting very much to enable David to be the king of all of the Israelite people.",
+        "id": 97
+      },
+      {
+        "t": "v",
+        "n": 39,
+        "v": "The men spent three days there with David, eating and drinking, because their families had given them food to take with them.",
+        "id": 98
+      },
+      {
+        "t": "v",
+        "n": 40,
+        "v": "Also, their fellow Israelites came from as far away as the area where the tribes of Issachar, Zebulun, and Naphtali lived, bringing food on donkeys, camels, mules, and oxen. They brought a lot of flour, fig cakes, raisins, wine, olive oil, cattle and sheep. And throughout Israel, the people were very joyful.",
+        "id": 99
+      }
+    ],
+    "id": 96
+  }
+]

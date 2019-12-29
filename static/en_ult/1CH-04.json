@@ -1,0 +1,321 @@
+[
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 1,
+        "v": "Judah’s descendants were Perez, Hezron, Karmi, Hur, and Shobal.",
+        "id": 1
+      },
+      {
+        "t": "v",
+        "n": 2,
+        "v": "Shobal was the father of Reaiah. Reaiah was the father of Jahath. Jahath was the father of Ahumai and Lahad. These were of the clans of the Zorathites.",
+        "id": 2
+      },
+      {
+        "t": "v",
+        "n": 3,
+        "v": "These were the ancestors of the clans in the city of Etam: Jezreel, Ishma, and Idbash. Their sister’s name was Hazzelelponi.",
+        "id": 3
+      },
+      {
+        "t": "v",
+        "n": 4,
+        "v": "Peniel was the ancestor of the clans in the city of Gedor. Ezer was the originator of the clans in Hushah. These were descendants of Hur, the firstborn of Ephrathah and the originator of Bethlehem.",
+        "id": 4
+      },
+      {
+        "t": "v",
+        "n": 5,
+        "v": "Ashhur the father of Tekoa had two wives, Helah and Naarah.",
+        "id": 5
+      },
+      {
+        "t": "v",
+        "n": 6,
+        "v": "Naarah bore him Ahuzzam, Hepher, Temeni, and Haahashtari. These were Naarah’s sons.",
+        "id": 6
+      },
+      {
+        "t": "v",
+        "n": 7,
+        "v": "Helah’s sons were Zereth, Zohar, Ethnan,",
+        "id": 7
+      },
+      {
+        "t": "v",
+        "n": 8,
+        "v": "and Koz, who became the father of Anub and Hazzobebah, and of the clans descended from Aharhel son of Harum.",
+        "id": 8
+      },
+      {
+        "t": "v",
+        "n": 9,
+        "v": "Jabez was more respected than his brothers. His mother called him Jabez. She said, “Because I bore him in pain.”",
+        "id": 9
+      },
+      {
+        "t": "v",
+        "n": 10,
+        "v": "Jabez called out to the God of Israel and said, “If only you would truly bless me, expand my territory, and your hand will be with me. When you do this you will keep me from harm, so that I may be free from pain!” So God granted him his prayer.",
+        "id": 10
+      },
+      {
+        "t": "v",
+        "n": 11,
+        "v": "Kelub brother of Shuhah became the father of Mehir, who was the father of Eshton.",
+        "id": 11
+      },
+      {
+        "t": "v",
+        "n": 12,
+        "v": "Eshton became the father of Beth Rapha, Paseah, and Tehinnah, the father of Ir Nahash.",
+        "id": 12
+      },
+      {
+        "t": "t",
+        "v": "These were men who lived in Rekah.",
+        "id": 17
+      },
+      {
+        "t": "v",
+        "n": 13,
+        "v": "Kenaz’s sons were Othniel and Seraiah. Othniel’s sons were Hathath and Meonothai.",
+        "id": 18
+      },
+      {
+        "t": "v",
+        "n": 14,
+        "v": "Meonothai became the father of Ophrah, and Seraiah became the father of Joab, the originator of Ge-Harashim, whose people were craftsmen.",
+        "id": 23
+      },
+      {
+        "t": "v",
+        "n": 15,
+        "v": "The sons of Caleb son of Jephunneh were Iru, Elah and Naam. Elah’s son was Kenaz.",
+        "id": 24
+      },
+      {
+        "t": "v",
+        "n": 16,
+        "v": "Jehallelel’s sons were Ziph, Ziphah, Tiria, and Asarel.",
+        "id": 25
+      },
+      {
+        "t": "v",
+        "n": 17,
+        "v": "Ezrah’s sons were Jether, Mered, Epher, and Jalon. Mered’s Egyptian wife bore Miriam, Shammai, and Ishbah, who became the father of Eshtemoa. These were the sons of Bithiah, daughter of Pharaoh, whom Mered married.",
+        "id": 26
+      },
+      {
+        "t": "v",
+        "n": 18,
+        "v": "Mered’s Judahite wife bore Jered, who became the father of Gedor; Heber, who became the father of Soko; and Jekuthiel, who became the father of Zanoah.",
+        "id": 27
+      },
+      {
+        "t": "v",
+        "n": 19,
+        "v": "Of the two sons of Hodiah’s wife, sister of Naham, one became the father of Keilah the Garmite. The other was Eshtemoa the Maakathite.",
+        "id": 28
+      },
+      {
+        "t": "v",
+        "n": 20,
+        "v": "The sons of Shimon were Amnon, Rinnah, Ben-Hanan, and Tilon. The sons of Ishi were Zoheth and Ben-Zoheth.",
+        "id": 29
+      },
+      {
+        "t": "v",
+        "n": 21,
+        "v": "The descendants of Shelah son of Judah, were Er father of Lekah, Laadah father of Mareshah and the clans of the linen workers at Beth Ashbea,",
+        "id": 30
+      },
+      {
+        "t": "v",
+        "n": 22,
+        "v": "Jokim, the men of Kozeba, and Joash and Saraph, who ruled in Moab and Jashubi Lehem. (This information is from ancient records.)",
+        "id": 31
+      },
+      {
+        "t": "v",
+        "n": 23,
+        "v": "These were the potters who lived in Netaim and Gederah and worked for the king.",
+        "id": 32
+      }
+    ],
+    "id": 0
+  },
+  {
+    "t": "f",
+    "c": "+",
+    "v": [
+      {
+        "t": "ft",
+        "v": "Some translations have",
+        "id": 14
+      },
+      {
+        "t": "fqa",
+        "v": "who settled in the town of Nahash",
+        "id": 15
+      },
+      {
+        "t": "t",
+        "v": ".",
+        "id": 16
+      }
+    ],
+    "id": 13
+  },
+  {
+    "t": "f",
+    "c": "+",
+    "v": [
+      {
+        "t": "ft",
+        "v": "Most versions insert",
+        "id": 20
+      },
+      {
+        "t": "fqa",
+        "v": "Meonothai",
+        "id": 21
+      },
+      {
+        "t": "t",
+        "v": "into this verse, believing that it dropped out by a copyist’s mistake.",
+        "id": 22
+      }
+    ],
+    "id": 19
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 24,
+        "v": "Simeon’s descendants were Nemuel, Jamin, Jarib, Zerah, and Shaul.",
+        "id": 34
+      },
+      {
+        "t": "v",
+        "n": 25,
+        "v": "Shallum was Shaul’s son, Mibsam was Shallum’s son, and Mishma was Mibsam’s son.",
+        "id": 35
+      },
+      {
+        "t": "v",
+        "n": 26,
+        "v": "Mishma’s descendants were Hammuel his son, Zakkur his grandson, and Shimei his great-grandson.",
+        "id": 36
+      },
+      {
+        "t": "v",
+        "n": 27,
+        "v": "Shimei had sixteen sons and six daughters. His brothers did not have many children, so their clans did not increase greatly in numbers as the people of Judah did.",
+        "id": 37
+      },
+      {
+        "t": "v",
+        "n": 28,
+        "v": "They lived at Beersheba, Moladah, and at Hazar Shual.",
+        "id": 38
+      },
+      {
+        "t": "v",
+        "n": 29,
+        "v": "They also live at Bilhah, Ezem, Tolad,",
+        "id": 39
+      },
+      {
+        "t": "v",
+        "n": 30,
+        "v": "Bethuel, Hormah, Ziklag,",
+        "id": 40
+      },
+      {
+        "t": "v",
+        "n": 31,
+        "v": "Beth Markaboth, Hazar Susim, Beth Biri, and Shaaraim. These were their cities until the reign of David.",
+        "id": 41
+      },
+      {
+        "t": "v",
+        "n": 32,
+        "v": "Their five villages were Etam, Ain, Rimmon, Token, and Ashan,",
+        "id": 42
+      },
+      {
+        "t": "v",
+        "n": 33,
+        "v": "together with the outlying villages as far as Baalath. These were their settlements, and they kept the genealogical records.",
+        "id": 43
+      },
+      {
+        "t": "v",
+        "n": 34,
+        "v": "Clan leaders were Meshobab, Jamlech, Joshah son of Amaziah,",
+        "id": 44
+      },
+      {
+        "t": "v",
+        "n": 35,
+        "v": "Joel, Jehu son of Joshibiah son of Seraiah son of Asiel,",
+        "id": 45
+      },
+      {
+        "t": "v",
+        "n": 36,
+        "v": "Elioenai, Jaakobah, Jeshohaiah, Asaiah, Adiel, Jesimiel, Benaiah,",
+        "id": 46
+      },
+      {
+        "t": "v",
+        "n": 37,
+        "v": "and Ziza son of Shiphi son of Allon son of Jedaiah son of Shimri son of Shemaiah.",
+        "id": 47
+      },
+      {
+        "t": "v",
+        "n": 38,
+        "v": "These mentioned by name were leaders in their clans, and their clans increased greatly.",
+        "id": 48
+      },
+      {
+        "t": "v",
+        "n": 39,
+        "v": "They went near Gedor, on the east side of the valley, to seek pasture for their flocks.",
+        "id": 49
+      },
+      {
+        "t": "v",
+        "n": 40,
+        "v": "They found abundant and good pasture. The land was broad, quiet, and peaceable. The Hamites had formerly lived there.",
+        "id": 50
+      },
+      {
+        "t": "v",
+        "n": 41,
+        "v": "These just listed by name came in the days of Hezekiah king of Judah, and attacked the Hamite settlements and the Meunites, who were there also. They destroyed them completely and lived there because they found pasture for their flocks.",
+        "id": 51
+      },
+      {
+        "t": "v",
+        "n": 42,
+        "v": "From them, from the sons of Simeon, five hundred men went to Mount Seir with Pelatiah, Neariah, Rephaiah, and Uzziel, the sons of Ishi, as their leader.",
+        "id": 52
+      },
+      {
+        "t": "v",
+        "n": 43,
+        "v": "They defeated the rest of the Amalekite refugees, and have lived there to this day.",
+        "id": 53
+      }
+    ],
+    "id": 33
+  }
+]

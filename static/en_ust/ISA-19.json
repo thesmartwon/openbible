@@ -1,0 +1,574 @@
+[
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 1,
+        "v": "Isaiah received this message from Yahweh about Egypt:",
+        "id": 1
+      }
+    ],
+    "id": 0
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Listen to this! I, Yahweh, am coming toward Egypt,",
+        "id": 3
+      }
+    ],
+    "id": 2
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "riding on a fast-moving cloud.",
+        "id": 5
+      }
+    ],
+    "id": 4
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "The idols in Egypt will tremble when I appear,",
+        "id": 7
+      }
+    ],
+    "id": 6
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and the people of Egypt will be extremely afraid.",
+        "id": 9
+      }
+    ],
+    "id": 8
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 2,
+        "v": "I will cause the people of Egypt to fight against each other:",
+        "id": 11
+      }
+    ],
+    "id": 10
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "men will fight against their brothers,",
+        "id": 13
+      }
+    ],
+    "id": 12
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "neighbors will fight against each other,",
+        "id": 15
+      }
+    ],
+    "id": 14
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "people of one city will fight against the people of another city,",
+        "id": 17
+      }
+    ],
+    "id": 16
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "people of one province will fight against the people of another province.",
+        "id": 19
+      }
+    ],
+    "id": 18
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 3,
+        "v": "The people of Egypt will become very discouraged,",
+        "id": 21
+      }
+    ],
+    "id": 20
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and I will cause their plans to not be successful.",
+        "id": 23
+      }
+    ],
+    "id": 22
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "They will plead with idols and sorcerers and those who talk with spirits of dead people",
+        "id": 25
+      }
+    ],
+    "id": 24
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "to tell them what they should do.",
+        "id": 27
+      }
+    ],
+    "id": 26
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 4,
+        "v": "Then I will enable someone who will treat them very cruelly to become their king.",
+        "id": 29
+      }
+    ],
+    "id": 28
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "That is what I, Yahweh, commander of the angel armies, say.",
+        "id": 31
+      }
+    ],
+    "id": 30
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 5,
+        "v": "Some day the water in the Nile River will dry up,",
+        "id": 33
+      }
+    ],
+    "id": 32
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and the riverbed will become very dry.",
+        "id": 35
+      }
+    ],
+    "id": 34
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 6,
+        "v": "The branches of the river will all dry up.",
+        "id": 37
+      }
+    ],
+    "id": 36
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "The canals along the river will stink",
+        "id": 39
+      }
+    ],
+    "id": 38
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "because of the withering and rotting reeds and bulrushes.",
+        "id": 41
+      }
+    ],
+    "id": 40
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 7,
+        "v": "All the plants along the river and all the crops in the fields bordering the river will dry up;",
+        "id": 43
+      }
+    ],
+    "id": 42
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "then they will blow away and disappear.",
+        "id": 45
+      }
+    ],
+    "id": 44
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 8,
+        "v": "The fishermen will throw into the river lines with hooks on them and nets,",
+        "id": 47
+      }
+    ],
+    "id": 46
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and then they will groan and be very discouraged;",
+        "id": 49
+      }
+    ],
+    "id": 48
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "they will be sad because there will be no fish in the river.",
+        "id": 51
+      }
+    ],
+    "id": 50
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 9,
+        "v": "Those who weave cloth from flax will not know what to do",
+        "id": 53
+      }
+    ],
+    "id": 52
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "because there will be no thread for them to weave.",
+        "id": 55
+      }
+    ],
+    "id": 54
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 10,
+        "v": "They will all despair",
+        "id": 57
+      }
+    ],
+    "id": 56
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and be very discouraged.",
+        "id": 59
+      }
+    ],
+    "id": 58
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 11,
+        "v": "The officials in the city of Zoan in northern Egypt are foolish.",
+        "id": 61
+      }
+    ],
+    "id": 60
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "The advice that they gave to the king was worthless.",
+        "id": 63
+      }
+    ],
+    "id": 62
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Why do they continue to tell the king that they are wise,",
+        "id": 65
+      }
+    ],
+    "id": 64
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "that they are descendants of wise kings who lived long ago ?",
+        "id": 67
+      }
+    ],
+    "id": 66
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 12,
+        "v": "King, where are your wise advisors now?",
+        "id": 69
+      }
+    ],
+    "id": 68
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "If you had any wise advisors, they could tell you what Yahweh, commander of the angel armies, has planned to do to Egypt!",
+        "id": 71
+      }
+    ],
+    "id": 70
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 13,
+        "v": "Yes, the officials of Zoan have become foolish,",
+        "id": 73
+      }
+    ],
+    "id": 72
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and the leaders in the city of Memphis in northern Egypt have deceived themselves.",
+        "id": 75
+      }
+    ],
+    "id": 74
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "All the leaders of the people have caused their people to do wrong things.",
+        "id": 77
+      }
+    ],
+    "id": 76
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 14,
+        "v": "Yahweh has caused them to be very foolish,",
+        "id": 79
+      }
+    ],
+    "id": 78
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "with the result that in everything that they do, it is as though the people of Egypt stagger",
+        "id": 81
+      }
+    ],
+    "id": 80
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "like a drunken person staggers and slips in his own vomit.",
+        "id": 83
+      }
+    ],
+    "id": 82
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 15,
+        "v": "There is no one in Egypt, rich or poor, important or unimportant, who will be able to help them.",
+        "id": 85
+      }
+    ],
+    "id": 84
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 16,
+        "v": "At that time, the people of Egypt will be as helpless as women. They will tremble, being terrified because they know that Yahweh, commander of the angel armies, has raised his fist, intending to strike them.",
+        "id": 87
+      },
+      {
+        "t": "v",
+        "n": 17,
+        "v": "The people of Egypt will be afraid of the people of Judah, and anyone who mentions Judah to them will cause them to be terrified, because that will remind them of what Yahweh, commander of the angel armies, is planning to do to them.",
+        "id": 88
+      }
+    ],
+    "id": 86
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 18,
+        "v": "At that time, people in five cities in Egypt will solemnly declare that they will serve Yahweh. They will learn to speak the Hebrew language. One of those cities will be called “City of the Sun.”",
+        "id": 90
+      }
+    ],
+    "id": 89
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 19,
+        "v": "At that time, there will be an altar for worshiping Yahweh in the center of Egypt, and there will be a pillar to honor Yahweh at the border between Egypt and Israel.",
+        "id": 92
+      },
+      {
+        "t": "v",
+        "n": 20,
+        "v": "That will be a sign to indicate that Yahweh, commander of the angel armies, is worshiped in the land of Egypt. And when the people cry out to Yahweh to help them because others are oppressing them, he will send to them someone who will defend and rescue them.",
+        "id": 93
+      },
+      {
+        "t": "v",
+        "n": 21,
+        "v": "Yahweh will enable the people of Egypt to know who he is. At that time they will admit that he is God. They will worship him and bring to him offerings of grain and other sacrifices. They will solemnly promise to do things for Yahweh, and they will do what they promise.",
+        "id": 94
+      },
+      {
+        "t": "v",
+        "n": 22,
+        "v": "After Yahweh has punished Egypt, he will cause their troubles to end. The people of Egypt will turn to Yahweh, and he will listen when they plead to him for help, and he will cause their troubles to cease.",
+        "id": 95
+      }
+    ],
+    "id": 91
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 23,
+        "v": "At that time, there will be a highway between Egypt and Assyria. As a result, the people of Egypt will be able to travel easily to Assyria, and the people of Assyria will be able to travel easily to Egypt. And the people of both countries will worship Yahweh.",
+        "id": 97
+      },
+      {
+        "t": "v",
+        "n": 24,
+        "v": "And Israel will be their ally. All three nations will be friendly to each other, and the people of Israel will be a blessing to the people of the entire world.",
+        "id": 98
+      },
+      {
+        "t": "v",
+        "n": 25,
+        "v": "Yahweh, commander of the angel armies, will bless them; he will say, “You people of Egypt are now my people. You people of Assyria, I have established your country. You people of Israel are the people whom I have chosen to belong to me.”",
+        "id": 99
+      }
+    ],
+    "id": 96
+  }
+]

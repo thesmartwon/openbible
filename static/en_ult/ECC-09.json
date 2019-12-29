@@ -1,0 +1,488 @@
+[
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 1,
+        "v": "For I thought about all this in my mind to understand about the righteous and wise people and their deeds. They are all in God’s hands. No one knows whether love or hate will come to someone.",
+        "id": 1
+      }
+    ],
+    "id": 0
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 2,
+        "v": "Everyone has the same fate. The same fate awaits",
+        "id": 3
+      }
+    ],
+    "id": 2
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "righteous people and wicked,",
+        "id": 5
+      }
+    ],
+    "id": 4
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "the good,",
+        "id": 7
+      }
+    ],
+    "id": 6
+  },
+  {
+    "t": "f",
+    "c": "+",
+    "v": [
+      {
+        "t": "ft",
+        "v": "Some modern versions copy ancient versions which have",
+        "id": 9
+      },
+      {
+        "t": "fqa",
+        "v": "the good and the bad",
+        "id": 10
+      },
+      {
+        "t": "t",
+        "v": ". In this way, they make the phrase complete. Translators may decide to imitate them.",
+        "id": 11
+      }
+    ],
+    "id": 8
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "the clean and the unclean,",
+        "id": 13
+      }
+    ],
+    "id": 12
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "and the one who sacrifices and the one who does not sacrifice.",
+        "id": 15
+      }
+    ],
+    "id": 14
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "As good people will die,",
+        "id": 17
+      }
+    ],
+    "id": 16
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "so also will the sinner.",
+        "id": 19
+      }
+    ],
+    "id": 18
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "As the one who swears will die,",
+        "id": 21
+      }
+    ],
+    "id": 20
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "so also will the man who fears to make an oath.",
+        "id": 23
+      },
+      {
+        "t": "v",
+        "n": 3,
+        "v": "There is an evil fate for everything that is done under the sun, the same event happens to them all. The hearts of human beings are full of evil, and madness is in their hearts while they live. So after that they go to the dead.",
+        "id": 24
+      },
+      {
+        "t": "v",
+        "n": 4,
+        "v": "For anyone who is united to all the living, there is hope, just as a living dog is better than a dead lion.",
+        "id": 25
+      }
+    ],
+    "id": 22
+  },
+  {
+    "t": "f",
+    "c": "+",
+    "v": [
+      {
+        "t": "ft",
+        "v": "Some modern versions have",
+        "id": 27
+      },
+      {
+        "t": "fqa",
+        "v": "For what is preferable? For all the living, this is sure: A living dog is better than a dead lion",
+        "id": 28
+      },
+      {
+        "t": "t",
+        "v": ".",
+        "id": 29
+      }
+    ],
+    "id": 26
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 5,
+        "v": "For living people know they will die,",
+        "id": 31
+      }
+    ],
+    "id": 30
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "but the dead do not know anything.",
+        "id": 33
+      }
+    ],
+    "id": 32
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "They no longer have any reward",
+        "id": 35
+      }
+    ],
+    "id": 34
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "because their memory is forgotten.",
+        "id": 37
+      }
+    ],
+    "id": 36
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 6,
+        "v": "Their love, hatred, and envy",
+        "id": 39
+      }
+    ],
+    "id": 38
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "have vanished long ago.",
+        "id": 41
+      }
+    ],
+    "id": 40
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "They will never have a place again",
+        "id": 43
+      }
+    ],
+    "id": 42
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "in anything done under the sun.",
+        "id": 45
+      },
+      {
+        "t": "v",
+        "n": 7,
+        "v": "Go your way, eat your bread with joy, and drink your wine with a happy heart, for God approves of celebrating good works.",
+        "id": 46
+      },
+      {
+        "t": "v",
+        "n": 8,
+        "v": "Let your clothes be always white and your head anointed with oil.",
+        "id": 47
+      },
+      {
+        "t": "v",
+        "n": 9,
+        "v": "Live happily with the wife whom you love all the days of your life of uselessness, the days that God has given you under the sun during your days of uselessness. That is your reward in life for your work under the sun.",
+        "id": 48
+      },
+      {
+        "t": "v",
+        "n": 10,
+        "v": "Whatever your hand finds to do, work at it with your strength, because there is no work or explanation or knowledge or wisdom in Sheol, where you are going.",
+        "id": 49
+      }
+    ],
+    "id": 44
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 11,
+        "v": "I have seen some interesting things under the sun:",
+        "id": 51
+      }
+    ],
+    "id": 50
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "The race does not belong to swift people.",
+        "id": 53
+      }
+    ],
+    "id": 52
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "The battle does not belong to strong people.",
+        "id": 55
+      }
+    ],
+    "id": 54
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Bread does not belong to wise people.",
+        "id": 57
+      }
+    ],
+    "id": 56
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Riches do not belong to people of understanding.",
+        "id": 59
+      }
+    ],
+    "id": 58
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Favor does not belong to people of knowledge.",
+        "id": 61
+      }
+    ],
+    "id": 60
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Instead, time and chance affect them all.",
+        "id": 63
+      }
+    ],
+    "id": 62
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 12,
+        "v": "Surely, no one knows when his time will come.",
+        "id": 65
+      }
+    ],
+    "id": 64
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "As fish are caught in a deadly net,",
+        "id": 67
+      }
+    ],
+    "id": 66
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "or birds are caught in a snare,",
+        "id": 69
+      }
+    ],
+    "id": 68
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "the children of human beings are ensnared by evil times",
+        "id": 71
+      }
+    ],
+    "id": 70
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "that suddenly fall upon them.",
+        "id": 73
+      },
+      {
+        "t": "v",
+        "n": 13,
+        "v": "I have also seen wisdom under the sun in a way that seemed great to me.",
+        "id": 74
+      },
+      {
+        "t": "v",
+        "n": 14,
+        "v": "There was a small city with only a few men in it, and a great king came against it and besieged it and built great siege ramps against it.",
+        "id": 75
+      },
+      {
+        "t": "v",
+        "n": 15,
+        "v": "Now in the city was found a poor, wise man, who by his wisdom saved the city. Yet later, no one remembered that same poor man.",
+        "id": 76
+      },
+      {
+        "t": "v",
+        "n": 16,
+        "v": "So I concluded, “Wisdom is better than strength, but the poor man’s wisdom is despised, and his words are not heard.”",
+        "id": 77
+      }
+    ],
+    "id": 72
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 17,
+        "v": "The words of wise people spoken quietly are heard better",
+        "id": 79
+      }
+    ],
+    "id": 78
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "than the shouts of any ruler among fools.",
+        "id": 81
+      }
+    ],
+    "id": 80
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 18,
+        "v": "Wisdom is better than weapons of war,",
+        "id": 83
+      }
+    ],
+    "id": 82
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "but one sinner can ruin much good.",
+        "id": 85
+      }
+    ],
+    "id": 84
+  }
+]

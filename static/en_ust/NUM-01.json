@@ -1,0 +1,3040 @@
+[
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 1,
+        "id": 1
+      },
+      {
+        "t": "w",
+        "v": "In",
+        "id": 2
+      },
+      {
+        "t": "w",
+        "v": "the",
+        "id": 3
+      },
+      {
+        "t": "w",
+        "v": "second",
+        "id": 4
+      },
+      {
+        "t": "w",
+        "v": "month",
+        "id": 5
+      },
+      {
+        "t": "w",
+        "v": "of",
+        "id": 6
+      },
+      {
+        "t": "w",
+        "v": "the",
+        "id": 7
+      },
+      {
+        "t": "w",
+        "v": "year",
+        "id": 8
+      },
+      {
+        "t": "w",
+        "v": "after",
+        "id": 9
+      },
+      {
+        "t": "w",
+        "v": "the",
+        "id": 10
+      },
+      {
+        "t": "w",
+        "v": "Israelite",
+        "id": 11
+      },
+      {
+        "t": "w",
+        "v": "people",
+        "id": 12
+      },
+      {
+        "t": "w",
+        "v": "had",
+        "id": 13
+      },
+      {
+        "t": "w",
+        "v": "left",
+        "id": 14
+      },
+      {
+        "t": "w",
+        "v": "Egypt",
+        "id": 15
+      },
+      {
+        "t": "t",
+        "v": ",",
+        "id": 16
+      },
+      {
+        "t": "w",
+        "v": "Yahweh",
+        "id": 17
+      },
+      {
+        "t": "w",
+        "v": "spoke",
+        "id": 18
+      },
+      {
+        "t": "w",
+        "v": "to",
+        "id": 19
+      },
+      {
+        "t": "w",
+        "v": "Moses",
+        "id": 20
+      },
+      {
+        "t": "w",
+        "v": "while",
+        "id": 21
+      },
+      {
+        "t": "w",
+        "v": "he",
+        "id": 22
+      },
+      {
+        "t": "w",
+        "v": "was",
+        "id": 23
+      },
+      {
+        "t": "w",
+        "v": "in",
+        "id": 24
+      },
+      {
+        "t": "w",
+        "v": "the",
+        "id": 25
+      },
+      {
+        "t": "w",
+        "v": "sacred",
+        "id": 26
+      },
+      {
+        "t": "w",
+        "v": "tent",
+        "id": 27
+      },
+      {
+        "t": "t",
+        "v": ",",
+        "id": 28
+      },
+      {
+        "t": "w",
+        "v": "in",
+        "id": 29
+      },
+      {
+        "t": "w",
+        "v": "the",
+        "id": 30
+      },
+      {
+        "t": "w",
+        "v": "wilderness",
+        "id": 31
+      },
+      {
+        "t": "w",
+        "v": "of",
+        "id": 32
+      },
+      {
+        "t": "w",
+        "v": "Sinai",
+        "id": 33
+      },
+      {
+        "t": "t",
+        "v": ".",
+        "id": 34
+      },
+      {
+        "t": "w",
+        "v": "Yahweh",
+        "id": 35
+      },
+      {
+        "t": "w",
+        "v": "said",
+        "id": 36
+      },
+      {
+        "t": "w",
+        "v": "to",
+        "id": 37
+      },
+      {
+        "t": "w",
+        "v": "him",
+        "id": 38
+      },
+      {
+        "t": "t",
+        "v": ",",
+        "id": 39
+      },
+      {
+        "t": "v",
+        "n": 2,
+        "v": "“",
+        "id": 40
+      },
+      {
+        "t": "w",
+        "v": "Count",
+        "id": 41
+      },
+      {
+        "t": "w",
+        "v": "how",
+        "id": 42
+      },
+      {
+        "t": "w",
+        "v": "many",
+        "id": 43
+      },
+      {
+        "t": "w",
+        "v": "Israelite",
+        "id": 44
+      },
+      {
+        "t": "w",
+        "v": "men",
+        "id": 45
+      },
+      {
+        "t": "t",
+        "v": ",",
+        "id": 46
+      },
+      {
+        "t": "w",
+        "v": "from",
+        "id": 47
+      },
+      {
+        "t": "w",
+        "v": "each",
+        "id": 48
+      },
+      {
+        "t": "w",
+        "v": "family",
+        "id": 49
+      },
+      {
+        "t": "w",
+        "v": "in",
+        "id": 50
+      },
+      {
+        "t": "w",
+        "v": "Israel",
+        "id": 51
+      },
+      {
+        "t": "t",
+        "v": ",",
+        "id": 52
+      },
+      {
+        "t": "w",
+        "v": "and",
+        "id": 53
+      },
+      {
+        "t": "w",
+        "v": "count",
+        "id": 54
+      },
+      {
+        "t": "w",
+        "v": "them",
+        "id": 55
+      },
+      {
+        "t": "w",
+        "v": "by",
+        "id": 56
+      },
+      {
+        "t": "w",
+        "v": "name",
+        "id": 57
+      },
+      {
+        "t": "t",
+        "v": ".",
+        "id": 58
+      },
+      {
+        "t": "v",
+        "n": 3,
+        "id": 59
+      },
+      {
+        "t": "w",
+        "v": "You",
+        "id": 60
+      },
+      {
+        "t": "w",
+        "v": "and",
+        "id": 61
+      },
+      {
+        "t": "w",
+        "v": "Aaron",
+        "id": 62
+      },
+      {
+        "t": "w",
+        "v": "must",
+        "id": 63
+      },
+      {
+        "t": "w",
+        "v": "count",
+        "id": 64
+      },
+      {
+        "t": "w",
+        "v": "the",
+        "id": 65
+      },
+      {
+        "t": "w",
+        "v": "men",
+        "id": 66
+      },
+      {
+        "t": "w",
+        "v": "who",
+        "id": 67
+      },
+      {
+        "t": "w",
+        "v": "are",
+        "id": 68
+      },
+      {
+        "t": "w",
+        "v": "at",
+        "id": 69
+      },
+      {
+        "t": "w",
+        "v": "least",
+        "id": 70
+      },
+      {
+        "t": "w",
+        "v": "twenty",
+        "id": 71
+      },
+      {
+        "t": "w",
+        "v": "years",
+        "id": 72
+      },
+      {
+        "t": "w",
+        "v": "old",
+        "id": 73
+      },
+      {
+        "t": "t",
+        "v": ",",
+        "id": 74
+      },
+      {
+        "t": "w",
+        "v": "those",
+        "id": 75
+      },
+      {
+        "t": "w",
+        "v": "who",
+        "id": 76
+      },
+      {
+        "t": "w",
+        "v": "can",
+        "id": 77
+      },
+      {
+        "t": "w",
+        "v": "serve",
+        "id": 78
+      },
+      {
+        "t": "w",
+        "v": "as",
+        "id": 79
+      },
+      {
+        "t": "w",
+        "v": "soldiers",
+        "id": 80
+      },
+      {
+        "t": "w",
+        "v": "in",
+        "id": 81
+      },
+      {
+        "t": "w",
+        "v": "the",
+        "id": 82
+      },
+      {
+        "t": "w",
+        "v": "army",
+        "id": 83
+      },
+      {
+        "t": "t",
+        "v": ".",
+        "id": 84
+      },
+      {
+        "t": "w",
+        "v": "Write",
+        "id": 85
+      },
+      {
+        "t": "w",
+        "v": "down",
+        "id": 86
+      },
+      {
+        "t": "w",
+        "v": "the",
+        "id": 87
+      },
+      {
+        "t": "w",
+        "v": "number",
+        "id": 88
+      },
+      {
+        "t": "w",
+        "v": "of",
+        "id": 89
+      },
+      {
+        "t": "w",
+        "v": "the",
+        "id": 90
+      },
+      {
+        "t": "w",
+        "v": "men",
+        "id": 91
+      },
+      {
+        "t": "t",
+        "v": ",",
+        "id": 92
+      },
+      {
+        "t": "w",
+        "v": "along",
+        "id": 93
+      },
+      {
+        "t": "w",
+        "v": "with",
+        "id": 94
+      },
+      {
+        "t": "w",
+        "v": "the",
+        "id": 95
+      },
+      {
+        "t": "w",
+        "v": "names",
+        "id": 96
+      },
+      {
+        "t": "w",
+        "v": "of",
+        "id": 97
+      },
+      {
+        "t": "w",
+        "v": "their",
+        "id": 98
+      },
+      {
+        "t": "w",
+        "v": "clans",
+        "id": 99
+      },
+      {
+        "t": "w",
+        "v": "and",
+        "id": 100
+      },
+      {
+        "t": "w",
+        "v": "families",
+        "id": 101
+      },
+      {
+        "t": "t",
+        "v": ".",
+        "id": 102
+      },
+      {
+        "t": "v",
+        "n": 4,
+        "id": 103
+      },
+      {
+        "t": "w",
+        "v": "I",
+        "id": 104
+      },
+      {
+        "t": "w",
+        "v": "have",
+        "id": 105
+      },
+      {
+        "t": "w",
+        "v": "chosen",
+        "id": 106
+      },
+      {
+        "t": "w",
+        "v": "one",
+        "id": 107
+      },
+      {
+        "t": "w",
+        "v": "man",
+        "id": 108
+      },
+      {
+        "t": "w",
+        "v": "from",
+        "id": 109
+      },
+      {
+        "t": "w",
+        "v": "each",
+        "id": 110
+      },
+      {
+        "t": "w",
+        "v": "of",
+        "id": 111
+      },
+      {
+        "t": "w",
+        "v": "the",
+        "id": 112
+      },
+      {
+        "t": "w",
+        "v": "tribes",
+        "id": 113
+      },
+      {
+        "t": "w",
+        "v": "to",
+        "id": 114
+      },
+      {
+        "t": "w",
+        "v": "help",
+        "id": 115
+      },
+      {
+        "t": "w",
+        "v": "you",
+        "id": 116
+      },
+      {
+        "t": "w",
+        "v": "to",
+        "id": 117
+      },
+      {
+        "t": "w",
+        "v": "do",
+        "id": 118
+      },
+      {
+        "t": "w",
+        "v": "this",
+        "id": 119
+      },
+      {
+        "t": "t",
+        "v": ".",
+        "id": 120
+      },
+      {
+        "t": "w",
+        "v": "Each",
+        "id": 121
+      },
+      {
+        "t": "w",
+        "v": "one",
+        "id": 122
+      },
+      {
+        "t": "w",
+        "v": "must",
+        "id": 123
+      },
+      {
+        "t": "w",
+        "v": "be",
+        "id": 124
+      },
+      {
+        "t": "w",
+        "v": "a",
+        "id": 125
+      },
+      {
+        "t": "w",
+        "v": "leader",
+        "id": 126
+      },
+      {
+        "t": "w",
+        "v": "of",
+        "id": 127
+      },
+      {
+        "t": "w",
+        "v": "his",
+        "id": 128
+      },
+      {
+        "t": "w",
+        "v": "clan",
+        "id": 129
+      },
+      {
+        "t": "t",
+        "v": ".",
+        "id": 130
+      }
+    ],
+    "id": 0
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 5,
+        "v": "Their names are:",
+        "id": 132
+      }
+    ],
+    "id": 131
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Elizur son of Shedeur, from the tribe of Reuben;",
+        "id": 134
+      }
+    ],
+    "id": 133
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Shelumiel son of Zurishaddai, from the tribe of Simeon;",
+        "id": 136
+      },
+      {
+        "t": "v",
+        "n": 7,
+        "v": "Nahshon son of Amminadab, from the tribe of Judah;",
+        "id": 137
+      }
+    ],
+    "id": 135
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Nethanel son of Zuar, from the tribe of Issachar;",
+        "id": 139
+      }
+    ],
+    "id": 138
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Eliab son of Helon, from the tribe of Zebulun;",
+        "id": 141
+      },
+      {
+        "t": "v",
+        "n": 10,
+        "v": "Elishama son of Ammihud, from the tribe of Joseph’s son Ephraim;",
+        "id": 142
+      }
+    ],
+    "id": 140
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Gamaliel son of Pedahzur, from the tribe of Joseph’s son Manasseh;",
+        "id": 144
+      }
+    ],
+    "id": 143
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Abidan son of Gideoni, from the tribe of Benjamin;",
+        "id": 146
+      }
+    ],
+    "id": 145
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 12,
+        "v": "Ahiezer son of Ammishaddai, from the tribe of Dan;",
+        "id": 148
+      }
+    ],
+    "id": 147
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Pagiel son of Ocran, from the tribe of Asher;",
+        "id": 150
+      }
+    ],
+    "id": 149
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Eliasaph son of Deuel, from the tribe of Gad;",
+        "id": 152
+      }
+    ],
+    "id": 151
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "t",
+        "v": "Ahira son of Enan, from the tribe of Naphtali.”",
+        "id": 154
+      }
+    ],
+    "id": 153
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 16,
+        "id": 156
+      },
+      {
+        "t": "w",
+        "v": "These",
+        "id": 157
+      },
+      {
+        "t": "w",
+        "v": "were",
+        "id": 158
+      },
+      {
+        "t": "w",
+        "v": "the",
+        "id": 159
+      },
+      {
+        "t": "w",
+        "v": "men",
+        "id": 160
+      },
+      {
+        "t": "w",
+        "v": "whom",
+        "id": 161
+      },
+      {
+        "t": "w",
+        "v": "Yahweh",
+        "id": 162
+      },
+      {
+        "t": "w",
+        "v": "chose",
+        "id": 163
+      },
+      {
+        "t": "w",
+        "v": "from",
+        "id": 164
+      },
+      {
+        "t": "w",
+        "v": "the",
+        "id": 165
+      },
+      {
+        "t": "w",
+        "v": "people",
+        "id": 166
+      },
+      {
+        "t": "t",
+        "v": ".",
+        "id": 167
+      },
+      {
+        "t": "w",
+        "v": "They",
+        "id": 168
+      },
+      {
+        "t": "w",
+        "v": "were",
+        "id": 169
+      },
+      {
+        "t": "w",
+        "v": "leaders",
+        "id": 170
+      },
+      {
+        "t": "w",
+        "v": "of",
+        "id": 171
+      },
+      {
+        "t": "w",
+        "v": "their",
+        "id": 172
+      },
+      {
+        "t": "w",
+        "v": "tribes",
+        "id": 173
+      },
+      {
+        "t": "t",
+        "v": ".",
+        "id": 174
+      },
+      {
+        "t": "w",
+        "v": "They",
+        "id": 175
+      },
+      {
+        "t": "w",
+        "v": "were",
+        "id": 176
+      },
+      {
+        "t": "w",
+        "v": "the",
+        "id": 177
+      },
+      {
+        "t": "w",
+        "v": "chief",
+        "id": 178
+      },
+      {
+        "t": "w",
+        "v": "men",
+        "id": 179
+      },
+      {
+        "t": "w",
+        "v": "of",
+        "id": 180
+      },
+      {
+        "t": "w",
+        "v": "the",
+        "id": 181
+      },
+      {
+        "t": "w",
+        "v": "clans",
+        "id": 182
+      },
+      {
+        "t": "w",
+        "v": "of",
+        "id": 183
+      },
+      {
+        "t": "w",
+        "v": "the",
+        "id": 184
+      },
+      {
+        "t": "w",
+        "v": "Israelite",
+        "id": 185
+      },
+      {
+        "t": "w",
+        "v": "people",
+        "id": 186
+      },
+      {
+        "t": "t",
+        "v": ".",
+        "id": 187
+      }
+    ],
+    "id": 155
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 17,
+        "id": 189
+      },
+      {
+        "t": "w",
+        "v": "Aaron",
+        "id": 190
+      },
+      {
+        "t": "w",
+        "v": "and",
+        "id": 191
+      },
+      {
+        "t": "w",
+        "v": "Moses",
+        "id": 192
+      },
+      {
+        "t": "w",
+        "v": "summoned",
+        "id": 193
+      },
+      {
+        "t": "w",
+        "v": "all",
+        "id": 194
+      },
+      {
+        "t": "w",
+        "v": "these",
+        "id": 195
+      },
+      {
+        "t": "w",
+        "v": "leaders",
+        "id": 196
+      },
+      {
+        "t": "t",
+        "v": ",",
+        "id": 197
+      },
+      {
+        "t": "v",
+        "n": 18,
+        "id": 198
+      },
+      {
+        "t": "w",
+        "v": "and",
+        "id": 199
+      },
+      {
+        "t": "w",
+        "v": "they",
+        "id": 200
+      },
+      {
+        "t": "w",
+        "v": "gathered",
+        "id": 201
+      },
+      {
+        "t": "w",
+        "v": "all",
+        "id": 202
+      },
+      {
+        "t": "w",
+        "v": "of",
+        "id": 203
+      },
+      {
+        "t": "w",
+        "v": "the",
+        "id": 204
+      },
+      {
+        "t": "w",
+        "v": "people",
+        "id": 205
+      },
+      {
+        "t": "w",
+        "v": "on",
+        "id": 206
+      },
+      {
+        "t": "w",
+        "v": "that",
+        "id": 207
+      },
+      {
+        "t": "w",
+        "v": "same",
+        "id": 208
+      },
+      {
+        "t": "w",
+        "v": "day",
+        "id": 209
+      },
+      {
+        "t": "t",
+        "v": ".",
+        "id": 210
+      },
+      {
+        "t": "w",
+        "v": "They",
+        "id": 211
+      },
+      {
+        "t": "w",
+        "v": "listed",
+        "id": 212
+      },
+      {
+        "t": "w",
+        "v": "the",
+        "id": 213
+      },
+      {
+        "t": "w",
+        "v": "names",
+        "id": 214
+      },
+      {
+        "t": "w",
+        "v": "of",
+        "id": 215
+      },
+      {
+        "t": "w",
+        "v": "all",
+        "id": 216
+      },
+      {
+        "t": "w",
+        "v": "the",
+        "id": 217
+      },
+      {
+        "t": "w",
+        "v": "men",
+        "id": 218
+      },
+      {
+        "t": "w",
+        "v": "who",
+        "id": 219
+      },
+      {
+        "t": "w",
+        "v": "were",
+        "id": 220
+      },
+      {
+        "t": "w",
+        "v": "at",
+        "id": 221
+      },
+      {
+        "t": "w",
+        "v": "least",
+        "id": 222
+      },
+      {
+        "t": "w",
+        "v": "20",
+        "id": 223
+      },
+      {
+        "t": "w",
+        "v": "years",
+        "id": 224
+      },
+      {
+        "t": "w",
+        "v": "old",
+        "id": 225
+      },
+      {
+        "t": "t",
+        "v": ",",
+        "id": 226
+      },
+      {
+        "t": "w",
+        "v": "and",
+        "id": 227
+      },
+      {
+        "t": "w",
+        "v": "with",
+        "id": 228
+      },
+      {
+        "t": "w",
+        "v": "their",
+        "id": 229
+      },
+      {
+        "t": "w",
+        "v": "names",
+        "id": 230
+      },
+      {
+        "t": "w",
+        "v": "they",
+        "id": 231
+      },
+      {
+        "t": "w",
+        "v": "wrote",
+        "id": 232
+      },
+      {
+        "t": "w",
+        "v": "the",
+        "id": 233
+      },
+      {
+        "t": "w",
+        "v": "names",
+        "id": 234
+      },
+      {
+        "t": "w",
+        "v": "of",
+        "id": 235
+      },
+      {
+        "t": "w",
+        "v": "their",
+        "id": 236
+      },
+      {
+        "t": "w",
+        "v": "clans",
+        "id": 237
+      },
+      {
+        "t": "w",
+        "v": "and",
+        "id": 238
+      },
+      {
+        "t": "w",
+        "v": "their",
+        "id": 239
+      },
+      {
+        "t": "w",
+        "v": "family",
+        "id": 240
+      },
+      {
+        "t": "w",
+        "v": "groups",
+        "id": 241
+      },
+      {
+        "t": "v",
+        "n": 19,
+        "id": 242
+      },
+      {
+        "t": "w",
+        "v": "just",
+        "id": 243
+      },
+      {
+        "t": "w",
+        "v": "as",
+        "id": 244
+      },
+      {
+        "t": "w",
+        "v": "Moses",
+        "id": 245
+      },
+      {
+        "t": "w",
+        "v": "had",
+        "id": 246
+      },
+      {
+        "t": "w",
+        "v": "commanded",
+        "id": 247
+      },
+      {
+        "t": "t",
+        "v": ".",
+        "id": 248
+      },
+      {
+        "t": "w",
+        "v": "They",
+        "id": 249
+      },
+      {
+        "t": "w",
+        "v": "wrote",
+        "id": 250
+      },
+      {
+        "t": "w",
+        "v": "the",
+        "id": 251
+      },
+      {
+        "t": "w",
+        "v": "names",
+        "id": 252
+      },
+      {
+        "t": "w",
+        "v": "while",
+        "id": 253
+      },
+      {
+        "t": "w",
+        "v": "the",
+        "id": 254
+      },
+      {
+        "t": "w",
+        "v": "Israelites",
+        "id": 255
+      },
+      {
+        "t": "w",
+        "v": "were",
+        "id": 256
+      },
+      {
+        "t": "w",
+        "v": "there",
+        "id": 257
+      },
+      {
+        "t": "w",
+        "v": "in",
+        "id": 258
+      },
+      {
+        "t": "w",
+        "v": "the",
+        "id": 259
+      },
+      {
+        "t": "w",
+        "v": "wilderness",
+        "id": 260
+      },
+      {
+        "t": "w",
+        "v": "of",
+        "id": 261
+      },
+      {
+        "t": "w",
+        "v": "Sinai",
+        "id": 262
+      },
+      {
+        "t": "t",
+        "v": ".",
+        "id": 263
+      }
+    ],
+    "id": 188
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 20,
+        "v": "There were 46,500 men from the tribe of Reuben (who was Jacob’s oldest son) who were at least twenty years old and were able to fight in battles. They were listed by their names, their clans, and their family groups.",
+        "id": 265
+      }
+    ],
+    "id": 264
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 22,
+        "v": "There were 59,300 men from the tribe of Simeon who were at least twenty years old and were able to fight in battles. They were listed by their names, their clans, and their family groups.",
+        "id": 267
+      }
+    ],
+    "id": 266
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 24,
+        "v": "There were 45,650 men from the tribe of Gad who were at least twenty years old and were able to fight in battles. They were listed by their names, their clans, and their family groups.",
+        "id": 269
+      }
+    ],
+    "id": 268
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 26,
+        "v": "There were 74,600 men from the tribe of Judah who were at least twenty years old and were able to fight in battles. They were listed by their names, their clans, and their family groups.",
+        "id": 271
+      }
+    ],
+    "id": 270
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 28,
+        "v": "There were 54,400 men from the tribe of Issachar who were at least twenty years old and were able to fight in battles. They were listed by their names, their clans, and their family groups.",
+        "id": 273
+      }
+    ],
+    "id": 272
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 30,
+        "v": "There were 57,400 men from the tribe of Zebulun who were at least twenty years old and were able to fight in battles. They were listed by their names, their clans, and their family groups.",
+        "id": 275
+      }
+    ],
+    "id": 274
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 32,
+        "v": "There were 40,500 men from the tribe of Ephraim who were at least twenty years old and were able to fight in battles. They were listed by their names, their clans, and their family groups.",
+        "id": 277
+      }
+    ],
+    "id": 276
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 34,
+        "v": "There were 32,200 men from the tribe of Manasseh who were at least twenty years old and were able to fight in battles. They were listed by their names, their clans, and their family groups.",
+        "id": 279
+      }
+    ],
+    "id": 278
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 36,
+        "v": "There were 35,400 men from the tribe of Benjamin who were at least twenty years old and were able to fight in battles. They were listed by their names, their clans, and their family groups.",
+        "id": 281
+      }
+    ],
+    "id": 280
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 38,
+        "v": "There were 62,700 men from the tribe of Dan who were at least twenty years old and were able to fight in battles. They were listed by their names, their clans, and their family groups.",
+        "id": 283
+      }
+    ],
+    "id": 282
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 40,
+        "v": "There were 41,500 men from the tribe of Asher who were at least twenty years old and were able to fight in battles. They were listed by their names, their clans, and their family groups.",
+        "id": 285
+      }
+    ],
+    "id": 284
+  },
+  {
+    "t": "q",
+    "v": [
+      {
+        "t": "v",
+        "n": 42,
+        "v": "There were 53,400 men from the tribe of Naphtali who were at least twenty years old and were able to fight in battles. They were listed by their names, their clans, and their family groups.",
+        "id": 287
+      }
+    ],
+    "id": 286
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 44,
+        "v": "That was the number of men from each tribe that Aaron and Moses and the twelve leaders of the tribes of Israel listed, along with the names of their clans.",
+        "id": 289
+      },
+      {
+        "t": "v",
+        "n": 46,
+        "id": 290
+      },
+      {
+        "t": "w",
+        "v": "The",
+        "id": 291
+      },
+      {
+        "t": "w",
+        "v": "total",
+        "id": 292
+      },
+      {
+        "t": "w",
+        "v": "was",
+        "id": 293
+      },
+      {
+        "t": "w",
+        "v": "603",
+        "id": 294
+      },
+      {
+        "t": "t",
+        "v": ",",
+        "id": 295
+      },
+      {
+        "t": "w",
+        "v": "550",
+        "id": 296
+      },
+      {
+        "t": "w",
+        "v": "men",
+        "id": 297
+      },
+      {
+        "t": "t",
+        "v": ".",
+        "id": 298
+      }
+    ],
+    "id": 288
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 47,
+        "id": 300
+      },
+      {
+        "t": "w",
+        "v": "But",
+        "id": 301
+      },
+      {
+        "t": "w",
+        "v": "this",
+        "id": 302
+      },
+      {
+        "t": "w",
+        "v": "number",
+        "id": 303
+      },
+      {
+        "t": "w",
+        "v": "did",
+        "id": 304
+      },
+      {
+        "t": "w",
+        "v": "not",
+        "id": 305
+      },
+      {
+        "t": "w",
+        "v": "include",
+        "id": 306
+      },
+      {
+        "t": "w",
+        "v": "the",
+        "id": 307
+      },
+      {
+        "t": "w",
+        "v": "names",
+        "id": 308
+      },
+      {
+        "t": "w",
+        "v": "of",
+        "id": 309
+      },
+      {
+        "t": "w",
+        "v": "the",
+        "id": 310
+      },
+      {
+        "t": "w",
+        "v": "men",
+        "id": 311
+      },
+      {
+        "t": "w",
+        "v": "of",
+        "id": 312
+      },
+      {
+        "t": "w",
+        "v": "the",
+        "id": 313
+      },
+      {
+        "t": "w",
+        "v": "tribe",
+        "id": 314
+      },
+      {
+        "t": "w",
+        "v": "of",
+        "id": 315
+      },
+      {
+        "t": "w",
+        "v": "Levi",
+        "id": 316
+      },
+      {
+        "t": "t",
+        "v": ",",
+        "id": 317
+      },
+      {
+        "t": "v",
+        "n": 48,
+        "id": 318
+      },
+      {
+        "t": "w",
+        "v": "because",
+        "id": 319
+      },
+      {
+        "t": "w",
+        "v": "Yahweh",
+        "id": 320
+      },
+      {
+        "t": "w",
+        "v": "had",
+        "id": 321
+      },
+      {
+        "t": "w",
+        "v": "said",
+        "id": 322
+      },
+      {
+        "t": "w",
+        "v": "to",
+        "id": 323
+      },
+      {
+        "t": "w",
+        "v": "Moses",
+        "id": 324
+      },
+      {
+        "t": "t",
+        "v": ",",
+        "id": 325
+      },
+      {
+        "t": "v",
+        "n": 49,
+        "v": "“",
+        "id": 326
+      },
+      {
+        "t": "w",
+        "v": "When",
+        "id": 327
+      },
+      {
+        "t": "w",
+        "v": "you",
+        "id": 328
+      },
+      {
+        "t": "w",
+        "v": "count",
+        "id": 329
+      },
+      {
+        "t": "w",
+        "v": "the",
+        "id": 330
+      },
+      {
+        "t": "w",
+        "v": "men",
+        "id": 331
+      },
+      {
+        "t": "w",
+        "v": "of",
+        "id": 332
+      },
+      {
+        "t": "w",
+        "v": "the",
+        "id": 333
+      },
+      {
+        "t": "w",
+        "v": "tribes",
+        "id": 334
+      },
+      {
+        "t": "w",
+        "v": "of",
+        "id": 335
+      },
+      {
+        "t": "w",
+        "v": "Israel",
+        "id": 336
+      },
+      {
+        "t": "t",
+        "v": ",",
+        "id": 337
+      },
+      {
+        "t": "w",
+        "v": "do",
+        "id": 338
+      },
+      {
+        "t": "w",
+        "v": "not",
+        "id": 339
+      },
+      {
+        "t": "w",
+        "v": "count",
+        "id": 340
+      },
+      {
+        "t": "w",
+        "v": "the",
+        "id": 341
+      },
+      {
+        "t": "w",
+        "v": "men",
+        "id": 342
+      },
+      {
+        "t": "w",
+        "v": "in",
+        "id": 343
+      },
+      {
+        "t": "w",
+        "v": "the",
+        "id": 344
+      },
+      {
+        "t": "w",
+        "v": "tribe",
+        "id": 345
+      },
+      {
+        "t": "w",
+        "v": "of",
+        "id": 346
+      },
+      {
+        "t": "w",
+        "v": "Levi",
+        "id": 347
+      },
+      {
+        "t": "t",
+        "v": ".",
+        "id": 348
+      },
+      {
+        "t": "v",
+        "n": 50,
+        "id": 349
+      },
+      {
+        "t": "w",
+        "v": "Appoint",
+        "id": 350
+      },
+      {
+        "t": "w",
+        "v": "the",
+        "id": 351
+      },
+      {
+        "t": "w",
+        "v": "male",
+        "id": 352
+      },
+      {
+        "t": "w",
+        "v": "descendants",
+        "id": 353
+      },
+      {
+        "t": "w",
+        "v": "of",
+        "id": 354
+      },
+      {
+        "t": "w",
+        "v": "Levi",
+        "id": 355
+      },
+      {
+        "t": "w",
+        "v": "to",
+        "id": 356
+      },
+      {
+        "t": "w",
+        "v": "take",
+        "id": 357
+      },
+      {
+        "t": "w",
+        "v": "care",
+        "id": 358
+      },
+      {
+        "t": "w",
+        "v": "of",
+        "id": 359
+      },
+      {
+        "t": "w",
+        "v": "the",
+        "id": 360
+      },
+      {
+        "t": "w",
+        "v": "sacred",
+        "id": 361
+      },
+      {
+        "t": "w",
+        "v": "tent",
+        "id": 362
+      },
+      {
+        "t": "w",
+        "v": "and",
+        "id": 363
+      },
+      {
+        "t": "w",
+        "v": "the",
+        "id": 364
+      },
+      {
+        "t": "w",
+        "v": "chest",
+        "id": 365
+      },
+      {
+        "t": "w",
+        "v": "inside",
+        "id": 366
+      },
+      {
+        "t": "w",
+        "v": "it",
+        "id": 367
+      },
+      {
+        "t": "w",
+        "v": "that",
+        "id": 368
+      },
+      {
+        "t": "w",
+        "v": "contains",
+        "id": 369
+      },
+      {
+        "t": "w",
+        "v": "the",
+        "id": 370
+      },
+      {
+        "t": "w",
+        "v": "tablets",
+        "id": 371
+      },
+      {
+        "t": "w",
+        "v": "on",
+        "id": 372
+      },
+      {
+        "t": "w",
+        "v": "which",
+        "id": 373
+      },
+      {
+        "t": "w",
+        "v": "are",
+        "id": 374
+      },
+      {
+        "t": "w",
+        "v": "written",
+        "id": 375
+      },
+      {
+        "t": "w",
+        "v": "the",
+        "id": 376
+      },
+      {
+        "t": "w",
+        "v": "Ten",
+        "id": 377
+      },
+      {
+        "t": "w",
+        "v": "Commandments",
+        "id": 378
+      },
+      {
+        "t": "t",
+        "v": ".",
+        "id": 379
+      },
+      {
+        "t": "w",
+        "v": "They",
+        "id": 380
+      },
+      {
+        "t": "w",
+        "v": "must",
+        "id": 381
+      },
+      {
+        "t": "w",
+        "v": "also",
+        "id": 382
+      },
+      {
+        "t": "w",
+        "v": "take",
+        "id": 383
+      },
+      {
+        "t": "w",
+        "v": "care",
+        "id": 384
+      },
+      {
+        "t": "w",
+        "v": "of",
+        "id": 385
+      },
+      {
+        "t": "w",
+        "v": "the",
+        "id": 386
+      },
+      {
+        "t": "w",
+        "v": "other",
+        "id": 387
+      },
+      {
+        "t": "w",
+        "v": "things",
+        "id": 388
+      },
+      {
+        "t": "w",
+        "v": "that",
+        "id": 389
+      },
+      {
+        "t": "w",
+        "v": "are",
+        "id": 390
+      },
+      {
+        "t": "w",
+        "v": "inside",
+        "id": 391
+      },
+      {
+        "t": "w",
+        "v": "the",
+        "id": 392
+      },
+      {
+        "t": "w",
+        "v": "tent",
+        "id": 393
+      },
+      {
+        "t": "t",
+        "v": ".",
+        "id": 394
+      },
+      {
+        "t": "w",
+        "v": "When",
+        "id": 395
+      },
+      {
+        "t": "w",
+        "v": "you",
+        "id": 396
+      },
+      {
+        "t": "w",
+        "v": "travel",
+        "id": 397
+      },
+      {
+        "t": "t",
+        "v": ",",
+        "id": 398
+      },
+      {
+        "t": "w",
+        "v": "they",
+        "id": 399
+      },
+      {
+        "t": "w",
+        "v": "are",
+        "id": 400
+      },
+      {
+        "t": "w",
+        "v": "the",
+        "id": 401
+      },
+      {
+        "t": "w",
+        "v": "ones",
+        "id": 402
+      },
+      {
+        "t": "w",
+        "v": "who",
+        "id": 403
+      },
+      {
+        "t": "w",
+        "v": "must",
+        "id": 404
+      },
+      {
+        "t": "w",
+        "v": "carry",
+        "id": 405
+      },
+      {
+        "t": "w",
+        "v": "the",
+        "id": 406
+      },
+      {
+        "t": "w",
+        "v": "sacred",
+        "id": 407
+      },
+      {
+        "t": "w",
+        "v": "tent",
+        "id": 408
+      },
+      {
+        "t": "w",
+        "v": "and",
+        "id": 409
+      },
+      {
+        "t": "w",
+        "v": "all",
+        "id": 410
+      },
+      {
+        "t": "w",
+        "v": "the",
+        "id": 411
+      },
+      {
+        "t": "w",
+        "v": "things",
+        "id": 412
+      },
+      {
+        "t": "w",
+        "v": "that",
+        "id": 413
+      },
+      {
+        "t": "w",
+        "v": "are",
+        "id": 414
+      },
+      {
+        "t": "w",
+        "v": "inside",
+        "id": 415
+      },
+      {
+        "t": "w",
+        "v": "it",
+        "id": 416
+      },
+      {
+        "t": "t",
+        "v": ",",
+        "id": 417
+      },
+      {
+        "t": "w",
+        "v": "and",
+        "id": 418
+      },
+      {
+        "t": "w",
+        "v": "they",
+        "id": 419
+      },
+      {
+        "t": "w",
+        "v": "must",
+        "id": 420
+      },
+      {
+        "t": "w",
+        "v": "take",
+        "id": 421
+      },
+      {
+        "t": "w",
+        "v": "care",
+        "id": 422
+      },
+      {
+        "t": "w",
+        "v": "of",
+        "id": 423
+      },
+      {
+        "t": "w",
+        "v": "it",
+        "id": 424
+      },
+      {
+        "t": "w",
+        "v": "and",
+        "id": 425
+      },
+      {
+        "t": "w",
+        "v": "set",
+        "id": 426
+      },
+      {
+        "t": "w",
+        "v": "up",
+        "id": 427
+      },
+      {
+        "t": "w",
+        "v": "their",
+        "id": 428
+      },
+      {
+        "t": "w",
+        "v": "tents",
+        "id": 429
+      },
+      {
+        "t": "w",
+        "v": "around",
+        "id": 430
+      },
+      {
+        "t": "w",
+        "v": "it",
+        "id": 431
+      },
+      {
+        "t": "t",
+        "v": ".",
+        "id": 432
+      },
+      {
+        "t": "v",
+        "n": 51,
+        "id": 433
+      },
+      {
+        "t": "w",
+        "v": "Whenever",
+        "id": 434
+      },
+      {
+        "t": "w",
+        "v": "it",
+        "id": 435
+      },
+      {
+        "t": "w",
+        "v": "is",
+        "id": 436
+      },
+      {
+        "t": "w",
+        "v": "time",
+        "id": 437
+      },
+      {
+        "t": "w",
+        "v": "for",
+        "id": 438
+      },
+      {
+        "t": "w",
+        "v": "all",
+        "id": 439
+      },
+      {
+        "t": "w",
+        "v": "of",
+        "id": 440
+      },
+      {
+        "t": "w",
+        "v": "you",
+        "id": 441
+      },
+      {
+        "t": "w",
+        "v": "to",
+        "id": 442
+      },
+      {
+        "t": "w",
+        "v": "move",
+        "id": 443
+      },
+      {
+        "t": "w",
+        "v": "to",
+        "id": 444
+      },
+      {
+        "t": "w",
+        "v": "another",
+        "id": 445
+      },
+      {
+        "t": "w",
+        "v": "location",
+        "id": 446
+      },
+      {
+        "t": "t",
+        "v": ",",
+        "id": 447
+      },
+      {
+        "t": "w",
+        "v": "the",
+        "id": 448
+      },
+      {
+        "t": "w",
+        "v": "descendants",
+        "id": 449
+      },
+      {
+        "t": "w",
+        "v": "of",
+        "id": 450
+      },
+      {
+        "t": "w",
+        "v": "Levi",
+        "id": 451
+      },
+      {
+        "t": "w",
+        "v": "are",
+        "id": 452
+      },
+      {
+        "t": "w",
+        "v": "the",
+        "id": 453
+      },
+      {
+        "t": "w",
+        "v": "ones",
+        "id": 454
+      },
+      {
+        "t": "w",
+        "v": "who",
+        "id": 455
+      },
+      {
+        "t": "w",
+        "v": "must",
+        "id": 456
+      },
+      {
+        "t": "w",
+        "v": "dismantle",
+        "id": 457
+      },
+      {
+        "t": "w",
+        "v": "the",
+        "id": 458
+      },
+      {
+        "t": "w",
+        "v": "sacred",
+        "id": 459
+      },
+      {
+        "t": "w",
+        "v": "tent",
+        "id": 460
+      },
+      {
+        "t": "t",
+        "v": ".",
+        "id": 461
+      },
+      {
+        "t": "w",
+        "v": "And",
+        "id": 462
+      },
+      {
+        "t": "w",
+        "v": "when",
+        "id": 463
+      },
+      {
+        "t": "w",
+        "v": "it",
+        "id": 464
+      },
+      {
+        "t": "w",
+        "v": "is",
+        "id": 465
+      },
+      {
+        "t": "w",
+        "v": "time",
+        "id": 466
+      },
+      {
+        "t": "w",
+        "v": "to",
+        "id": 467
+      },
+      {
+        "t": "w",
+        "v": "stop",
+        "id": 468
+      },
+      {
+        "t": "w",
+        "v": "traveling",
+        "id": 469
+      },
+      {
+        "t": "t",
+        "v": ",",
+        "id": 470
+      },
+      {
+        "t": "w",
+        "v": "they",
+        "id": 471
+      },
+      {
+        "t": "w",
+        "v": "are",
+        "id": 472
+      },
+      {
+        "t": "w",
+        "v": "the",
+        "id": 473
+      },
+      {
+        "t": "w",
+        "v": "ones",
+        "id": 474
+      },
+      {
+        "t": "w",
+        "v": "who",
+        "id": 475
+      },
+      {
+        "t": "w",
+        "v": "must",
+        "id": 476
+      },
+      {
+        "t": "w",
+        "v": "set",
+        "id": 477
+      },
+      {
+        "t": "w",
+        "v": "it",
+        "id": 478
+      },
+      {
+        "t": "w",
+        "v": "up",
+        "id": 479
+      },
+      {
+        "t": "w",
+        "v": "again",
+        "id": 480
+      },
+      {
+        "t": "t",
+        "v": ".",
+        "id": 481
+      },
+      {
+        "t": "w",
+        "v": "Any",
+        "id": 482
+      },
+      {
+        "t": "w",
+        "v": "other",
+        "id": 483
+      },
+      {
+        "t": "w",
+        "v": "person",
+        "id": 484
+      },
+      {
+        "t": "w",
+        "v": "who",
+        "id": 485
+      },
+      {
+        "t": "w",
+        "v": "goes",
+        "id": 486
+      },
+      {
+        "t": "w",
+        "v": "near",
+        "id": 487
+      },
+      {
+        "t": "w",
+        "v": "the",
+        "id": 488
+      },
+      {
+        "t": "w",
+        "v": "sacred",
+        "id": 489
+      },
+      {
+        "t": "w",
+        "v": "tent",
+        "id": 490
+      },
+      {
+        "t": "w",
+        "v": "to",
+        "id": 491
+      },
+      {
+        "t": "w",
+        "v": "do",
+        "id": 492
+      },
+      {
+        "t": "w",
+        "v": "this",
+        "id": 493
+      },
+      {
+        "t": "w",
+        "v": "work",
+        "id": 494
+      },
+      {
+        "t": "w",
+        "v": "must",
+        "id": 495
+      },
+      {
+        "t": "w",
+        "v": "be",
+        "id": 496
+      },
+      {
+        "t": "w",
+        "v": "executed",
+        "id": 497
+      },
+      {
+        "t": "t",
+        "v": ".",
+        "id": 498
+      },
+      {
+        "t": "v",
+        "n": 52,
+        "id": 499
+      },
+      {
+        "t": "w",
+        "v": "The",
+        "id": 500
+      },
+      {
+        "t": "w",
+        "v": "people",
+        "id": 501
+      },
+      {
+        "t": "w",
+        "v": "of",
+        "id": 502
+      },
+      {
+        "t": "w",
+        "v": "each",
+        "id": 503
+      },
+      {
+        "t": "w",
+        "v": "Israelite",
+        "id": 504
+      },
+      {
+        "t": "w",
+        "v": "tribe",
+        "id": 505
+      },
+      {
+        "t": "w",
+        "v": "must",
+        "id": 506
+      },
+      {
+        "t": "w",
+        "v": "set",
+        "id": 507
+      },
+      {
+        "t": "w",
+        "v": "up",
+        "id": 508
+      },
+      {
+        "t": "w",
+        "v": "their",
+        "id": 509
+      },
+      {
+        "t": "w",
+        "v": "tents",
+        "id": 510
+      },
+      {
+        "t": "w",
+        "v": "in",
+        "id": 511
+      },
+      {
+        "t": "w",
+        "v": "their",
+        "id": 512
+      },
+      {
+        "t": "w",
+        "v": "own",
+        "id": 513
+      },
+      {
+        "t": "w",
+        "v": "area",
+        "id": 514
+      },
+      {
+        "t": "t",
+        "v": ",",
+        "id": 515
+      },
+      {
+        "t": "w",
+        "v": "and",
+        "id": 516
+      },
+      {
+        "t": "w",
+        "v": "they",
+        "id": 517
+      },
+      {
+        "t": "w",
+        "v": "must",
+        "id": 518
+      },
+      {
+        "t": "w",
+        "v": "set",
+        "id": 519
+      },
+      {
+        "t": "w",
+        "v": "up",
+        "id": 520
+      },
+      {
+        "t": "w",
+        "v": "a",
+        "id": 521
+      },
+      {
+        "t": "w",
+        "v": "flag",
+        "id": 522
+      },
+      {
+        "t": "w",
+        "v": "that",
+        "id": 523
+      },
+      {
+        "t": "w",
+        "v": "represents",
+        "id": 524
+      },
+      {
+        "t": "w",
+        "v": "their",
+        "id": 525
+      },
+      {
+        "t": "w",
+        "v": "tribe",
+        "id": 526
+      },
+      {
+        "t": "t",
+        "v": ".",
+        "id": 527
+      },
+      {
+        "t": "v",
+        "n": 53,
+        "id": 528
+      },
+      {
+        "t": "w",
+        "v": "But",
+        "id": 529
+      },
+      {
+        "t": "w",
+        "v": "the",
+        "id": 530
+      },
+      {
+        "t": "w",
+        "v": "male",
+        "id": 531
+      },
+      {
+        "t": "w",
+        "v": "descendants",
+        "id": 532
+      },
+      {
+        "t": "w",
+        "v": "of",
+        "id": 533
+      },
+      {
+        "t": "w",
+        "v": "Levi",
+        "id": 534
+      },
+      {
+        "t": "w",
+        "v": "must",
+        "id": 535
+      },
+      {
+        "t": "w",
+        "v": "set",
+        "id": 536
+      },
+      {
+        "t": "w",
+        "v": "up",
+        "id": 537
+      },
+      {
+        "t": "w",
+        "v": "their",
+        "id": 538
+      },
+      {
+        "t": "w",
+        "v": "tents",
+        "id": 539
+      },
+      {
+        "t": "w",
+        "v": "around",
+        "id": 540
+      },
+      {
+        "t": "w",
+        "v": "the",
+        "id": 541
+      },
+      {
+        "t": "w",
+        "v": "sacred",
+        "id": 542
+      },
+      {
+        "t": "w",
+        "v": "tent",
+        "id": 543
+      },
+      {
+        "t": "w",
+        "v": "in",
+        "id": 544
+      },
+      {
+        "t": "w",
+        "v": "order",
+        "id": 545
+      },
+      {
+        "t": "w",
+        "v": "to",
+        "id": 546
+      },
+      {
+        "t": "w",
+        "v": "protect",
+        "id": 547
+      },
+      {
+        "t": "w",
+        "v": "the",
+        "id": 548
+      },
+      {
+        "t": "w",
+        "v": "other",
+        "id": 549
+      },
+      {
+        "t": "w",
+        "v": "Israelite",
+        "id": 550
+      },
+      {
+        "t": "w",
+        "v": "people",
+        "id": 551
+      },
+      {
+        "t": "w",
+        "v": "from",
+        "id": 552
+      },
+      {
+        "t": "w",
+        "v": "being",
+        "id": 553
+      },
+      {
+        "t": "w",
+        "v": "punished",
+        "id": 554
+      },
+      {
+        "t": "w",
+        "v": "by",
+        "id": 555
+      },
+      {
+        "t": "w",
+        "v": "Yahweh",
+        "id": 556
+      },
+      {
+        "t": "w",
+        "v": "for",
+        "id": 557
+      },
+      {
+        "t": "w",
+        "v": "coming",
+        "id": 558
+      },
+      {
+        "t": "w",
+        "v": "close",
+        "id": 559
+      },
+      {
+        "t": "w",
+        "v": "to",
+        "id": 560
+      },
+      {
+        "t": "w",
+        "v": "the",
+        "id": 561
+      },
+      {
+        "t": "w",
+        "v": "sacred",
+        "id": 562
+      },
+      {
+        "t": "w",
+        "v": "tent",
+        "id": 563
+      },
+      {
+        "t": "t",
+        "v": ".",
+        "id": 564
+      },
+      {
+        "t": "w",
+        "v": "The",
+        "id": 565
+      },
+      {
+        "t": "w",
+        "v": "descendants",
+        "id": 566
+      },
+      {
+        "t": "w",
+        "v": "of",
+        "id": 567
+      },
+      {
+        "t": "w",
+        "v": "Levi",
+        "id": 568
+      },
+      {
+        "t": "w",
+        "v": "are",
+        "id": 569
+      },
+      {
+        "t": "w",
+        "v": "the",
+        "id": 570
+      },
+      {
+        "t": "w",
+        "v": "ones",
+        "id": 571
+      },
+      {
+        "t": "w",
+        "v": "who",
+        "id": 572
+      },
+      {
+        "t": "w",
+        "v": "must",
+        "id": 573
+      },
+      {
+        "t": "w",
+        "v": "stand",
+        "id": 574
+      },
+      {
+        "t": "w",
+        "v": "around",
+        "id": 575
+      },
+      {
+        "t": "w",
+        "v": "the",
+        "id": 576
+      },
+      {
+        "t": "w",
+        "v": "sacred",
+        "id": 577
+      },
+      {
+        "t": "w",
+        "v": "tent",
+        "id": 578
+      },
+      {
+        "t": "w",
+        "v": "to",
+        "id": 579
+      },
+      {
+        "t": "w",
+        "v": "guard",
+        "id": 580
+      },
+      {
+        "t": "w",
+        "v": "it",
+        "id": 581
+      },
+      {
+        "t": "t",
+        "v": ".”",
+        "id": 582
+      }
+    ],
+    "id": 299
+  },
+  {
+    "t": "p",
+    "v": [
+      {
+        "t": "v",
+        "n": 54,
+        "id": 584
+      },
+      {
+        "t": "w",
+        "v": "So",
+        "id": 585
+      },
+      {
+        "t": "w",
+        "v": "the",
+        "id": 586
+      },
+      {
+        "t": "w",
+        "v": "Israelite",
+        "id": 587
+      },
+      {
+        "t": "w",
+        "v": "people",
+        "id": 588
+      },
+      {
+        "t": "w",
+        "v": "did",
+        "id": 589
+      },
+      {
+        "t": "w",
+        "v": "everything",
+        "id": 590
+      },
+      {
+        "t": "w",
+        "v": "just",
+        "id": 591
+      },
+      {
+        "t": "w",
+        "v": "like",
+        "id": 592
+      },
+      {
+        "t": "w",
+        "v": "Yahweh",
+        "id": 593
+      },
+      {
+        "t": "w",
+        "v": "had",
+        "id": 594
+      },
+      {
+        "t": "w",
+        "v": "commanded",
+        "id": 595
+      },
+      {
+        "t": "w",
+        "v": "Moses",
+        "id": 596
+      },
+      {
+        "t": "t",
+        "v": ".",
+        "id": 597
+      }
+    ],
+    "id": 583
+  }
+]
