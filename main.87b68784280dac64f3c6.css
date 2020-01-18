@@ -1,0 +1,297 @@
+.css-G-H7T {
+	padding-left: .5rem;
+	padding-right: .5rem;
+	display: -webkit-box;
+	display: flex;
+	-webkit-box-align: baseline;
+	        align-items: baseline;
+	flex-wrap: wrap;
+	/* Safari */
+	flex-shrink: 0;
+}
+.css-2cu9j {
+	display: -webkit-box;
+	display: flex;
+	-webkit-box-align: baseline;
+	        align-items: baseline;
+	flex-wrap: wrap;
+}
+.css-2cu9j > li {
+	margin-left: 3px;
+	margin-right: 3px;
+}
+.css-2cu9j > li > a {
+	color: var(--primary-theme-color);
+}
+.css-sOHx1 {
+	display: -webkit-box;
+	display: flex;
+	-webkit-box-flex: 1;
+	        flex-grow: 1;
+}
+.css-3__Qk {
+	font-size: 2rem;
+	color: var(--primary-theme-color);
+	font-weight: 700;
+	margin-right: .5rem;
+}
+.css-2Cez1 {
+	margin-left: 3px;
+}
+.css-3Jtiz {
+  padding-left: 0.25rem;
+  padding-right: 0.0625rem;
+  font-size: 0.75rem;
+}
+.css-1o5Cy {
+  font-style: italic;
+}
+.css-Nyajp {
+  text-decoration: underline;
+}
+.css-1Kifr {
+  cursor: pointer;
+}
+.css-aYW0c {
+  display: block;
+  width: 100%;
+}
+.css-YTfSd {
+  margin: .2rem .2rem 0 .2rem;
+}
+.css-1IwTc {
+  text-indent: 0;
+}
+.css-3GW0v {
+  margin-left: -6rem;
+}
+.css-k-P1n {
+  text-indent: var(--primary-text-indent);
+}
+/* Q for poetry */
+.css-2KJWD {
+  /* How far word-wrapped lines are indented */
+  padding-left: 6rem;
+  text-indent: -4rem;
+}
+.css-1HONz {
+  /* How far word-wrapped lines are indented */
+  padding-left: 6rem;
+  text-indent: -6rem;
+}
+/* Long enough for 3-digit verse number (PSA 117) */
+/* .qcol > sup {
+  width: 1.75rem;
+  display: inline-block;
+  margin-left: 1.75rem;
+} */
+
+.css-3ph2U {
+	display: -webkit-box;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	        flex-direction: column;
+}
+/* libre-baskerville-regular - latin */
+@font-face {
+  font-family: 'Libre Baskerville';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/libre-baskerville-v7-latin-regular.woff2) format('woff2'), 
+       url(fonts/libre-baskerville-v7-latin-regular.woff) format('woff'), 
+       url(fonts/libre-baskerville-v7-latin-regular.ttf) format('truetype'); /* Safari, Android, iOS */
+}
+
+.css-JUyX7 {
+	overflow-y: auto;
+	min-height: 0;
+	font-family: "Libre Baskerville" "Sentinel A", "Sentinel B", "Gentium Plus", "Ezra", Georgia, Times, serif;
+	padding: var(--reader-padding);
+}
+.css-1FFzU {
+	display: -webkit-box;
+	display: flex;
+	flex-wrap: wrap;
+	/* Safari */
+	flex-shrink: 0;
+	padding-left: var(--reader-padding);
+}
+.css-HDosR {
+	padding: 0 .3rem;
+}
+.css-1qs_t {
+	cursor: col-resize;
+	border-left: 4px solid gray;
+	margin-right: 2px;
+	margin-left: 2px;
+}
+.css-Hw5M8 {
+	border-top: 1px solid #dadce0;
+	border-bottom: 1px solid #dadce0;
+	padding-left: 24px;
+	display: -webkit-box;
+	display: flex;
+	flex-wrap: wrap;
+	line-height: 1;
+}
+.css-XxCF7 {
+	width: 24px;
+	height: 24px;
+	margin: 6px 1px 6px 1px;
+	background: transparent;
+	border: none;
+	padding: 0;
+}
+.css-XxCF7:hover {
+	background: #f1f3f4;
+}
+.css-XxCF7:hover > .css-39Fw0 {
+	top: 1.5rem;
+}
+/* https://www.w3.org/TR/wai-aria-practices/examples/toolbar/toolbar.html */
+.css-39Fw0 {
+	background: #6d6d6d;
+	color: #f1f3f4;
+	border: .4rem solid #6d6d6d;
+	border-radius: .2rem;
+	display: block;
+	position: absolute;
+	top: -30000em;
+}
+.css-bWeIp {
+	position: absolute;
+}
+.css-18NVn {
+	cursor: pointer;
+	height: 20px;
+	width: 20px;
+}
+.css-3qFxd {
+  -webkit-box-flex: 1;
+          flex: 1;
+  display: 'flex';
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+          flex-direction: 'column';
+}
+.css-QY6n6 {
+  -webkit-box-flex: 1;
+          flex: 1;
+}
+/*! minireset.css v0.0.6 | MIT License | github.com/jgthms/minireset.css */
+html,
+body,
+p,
+ol,
+ul,
+li,
+dl,
+dt,
+dd,
+blockquote,
+figure,
+fieldset,
+legend,
+textarea,
+pre,
+iframe,
+hr,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0;
+  padding: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-size: 100%;
+  font-weight: normal;
+}
+
+ul {
+  list-style: none;
+}
+
+button,
+input,
+select,
+textarea {
+  margin: 0;
+}
+
+html,
+textarea {
+  box-sizing: border-box;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+img,
+video {
+  height: auto;
+  max-width: 100%;
+}
+
+iframe {
+  border: 0;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+td,
+th {
+  padding: 0;
+}
+
+td:not([align]),
+th:not([align]) {
+  text-align: left;
+}
+
+/* Site styles */
+:root {
+  --primary-text-color: #3b4351;
+  /* Subtracted from 6rem */
+  --primary-text-indent: 1rem;
+  --primary-theme-color: #0b8dc4;
+  --primary-font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", sans-serif;
+  --secondary-font-family: "Sentinel A", "Sentinel B", "Gentium Plus", "Ezra", Georgia, Times, serif;
+  --reader-padding: 1rem;
+}
+html,
+body {
+  font-family: var(--primary-font-stack);
+  color: var(--primary-text-color);
+  line-height: 1.5;
+  text-rendering: optimizeLegibility;
+  height: 100%;
+}
+#root {
+  display: -webkit-box;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+          flex-direction: column;
+  height: 100%;
+}
+main {
+  display: -webkit-box;
+  display: flex;
+  min-height: 0;
+}
+
+/*# sourceMappingURL=main.87b68784280dac64f3c6.css.map*/
